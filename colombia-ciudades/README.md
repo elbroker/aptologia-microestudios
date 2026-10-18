@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/colombia-ciudades
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-colombia-ciudades-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-colombia-ciudades-2026
+- OSF: https://osf.io/czj3k/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, COP/m², DOI).
 
