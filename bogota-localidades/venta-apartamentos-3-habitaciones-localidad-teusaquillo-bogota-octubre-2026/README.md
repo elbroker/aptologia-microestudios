@@ -1,0 +1,22 @@
+# Precio de venta de apartamentos de 3 habitaciones en la localidad de Teusaquillo, Bogotá — octubre 2026
+
+COP 750 millones es la mediana de venta de apartamentos de 3 habitaciones en la localidad de Teusaquillo, Bogotá, según 580 avisos únicos.
+
+Frente a apartamentos en la localidad de Teusaquillo, Bogotá (COP 680 millones), la diferencia es de 10 % por encima.
+
+Por metro cuadrado, la mediana es COP 7.580.488/m² (−6 % frente a COP 8.070.175/m²), puesto 3 de 18 localidades comparables.
+
+Cruzando con la oferta de arriendo equivalente, la rentabilidad bruta implícita es 7,1 % anual.
+
+En todo Bogotá, la misma combinación tiene mediana COP 890 millones (−16 %).
+
+En el mismo grupo: 1 habitación, COP 340 millones; 2 habitaciones, COP 530 millones; 4 o más habitaciones, COP 980 millones.
+
+El área mediana es 103 m² (referencia: 90 m²).
+
+- n = 580 avisos únicos · datos al 18 de octubre de 2026
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Fuente: https://www.aptologia.com/venta/bogota/teusaquillo
+
+Archivos: `venta-apartamentos-3-habitaciones-localidad-teusaquillo-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-localidad-teusaquillo-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-localidad-teusaquillo-bogota-octubre-2026.png`.
