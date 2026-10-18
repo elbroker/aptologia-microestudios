@@ -62,11 +62,11 @@
 | [Precio de venta de casas en Cedritos, Bogotá — octubre 2026](venta-casas-cedritos-bogota-octubre-2026/) | 378 | COP 900.000.000 | [10.5281/zenodo.23454639](https://doi.org/10.5281/zenodo.23454639) |
 | [Precio de venta de apartamentos de 3 habitaciones en La Cabrera, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-la-cabrera-bogota-octubre-2026/) | 377 | COP 2.950.000.000 | [10.5281/zenodo.23455614](https://doi.org/10.5281/zenodo.23455614) |
 | [Precio de arriendo de apartamentos en Santa Barbara, Bogotá — octubre 2026](arriendo-apartamentos-santa-barbara-bogota-octubre-2026/) | 374 | COP 4.840.000 | [10.5281/zenodo.23455625](https://doi.org/10.5281/zenodo.23455625) |
-| [Precio de venta de vivienda en Niza, Bogotá — octubre 2026](venta-niza-bogota-octubre-2026/) | 362 | COP 1.300.000.000 |  |
-| [Precio de arriendo de apartamentos en Cedritos, Bogotá — octubre 2026](arriendo-apartamentos-cedritos-bogota-octubre-2026/) | 358 | COP 2.719.500 |  |
-| [Precio de venta de apartamentos en La Carolina, Bogotá — octubre 2026](venta-apartamentos-la-carolina-bogota-octubre-2026/) | 353 | COP 1.450.000.000 |  |
-| [Precio de venta de apartamentos en Santa Barbara Occidental, Bogotá — octubre 2026](venta-apartamentos-santa-barbara-occidental-bogota-octubre-2026/) | 353 | COP 1.050.000.000 |  |
-| [Precio de venta de vivienda en Santa Barbara Alta, Bogotá — octubre 2026](venta-santa-barbara-alta-bogota-octubre-2026/) | 351 | COP 3.500.000.000 |  |
+| [Precio de venta de vivienda en Niza, Bogotá — octubre 2026](venta-niza-bogota-octubre-2026/) | 362 | COP 1.300.000.000 | [10.5281/zenodo.23455639](https://doi.org/10.5281/zenodo.23455639) |
+| [Precio de arriendo de apartamentos en Cedritos, Bogotá — octubre 2026](arriendo-apartamentos-cedritos-bogota-octubre-2026/) | 358 | COP 2.719.500 | [10.5281/zenodo.23455645](https://doi.org/10.5281/zenodo.23455645) |
+| [Precio de venta de apartamentos en La Carolina, Bogotá — octubre 2026](venta-apartamentos-la-carolina-bogota-octubre-2026/) | 353 | COP 1.450.000.000 | [10.5281/zenodo.23455647](https://doi.org/10.5281/zenodo.23455647) |
+| [Precio de venta de apartamentos en Santa Barbara Occidental, Bogotá — octubre 2026](venta-apartamentos-santa-barbara-occidental-bogota-octubre-2026/) | 353 | COP 1.050.000.000 | [10.5281/zenodo.23455652](https://doi.org/10.5281/zenodo.23455652) |
+| [Precio de venta de vivienda en Santa Barbara Alta, Bogotá — octubre 2026](venta-santa-barbara-alta-bogota-octubre-2026/) | 351 | COP 3.500.000.000 | [10.5281/zenodo.23455672](https://doi.org/10.5281/zenodo.23455672) |
 | [Precio de venta de apartamentos en Fontibon, Bogotá — octubre 2026](venta-apartamentos-fontibon-bogota-octubre-2026/) | 349 | COP 266.000.000 |  |
 | [Precio de venta de vivienda en Pasadena, Bogotá — octubre 2026](venta-pasadena-bogota-octubre-2026/) | 340 | COP 916.000.000 |  |
 | [Precio de arriendo de apartamentos en Chapinero, Bogotá — octubre 2026](arriendo-apartamentos-chapinero-bogota-octubre-2026/) | 337 | COP 2.880.000 |  |
