@@ -1,6 +1,6 @@
 # Microestudios de vivienda por barrio — Madrid (octubre 2026)
 
-1 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Madrid, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+5 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Madrid, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
 
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
@@ -17,3 +17,7 @@
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
 | [Precio de venta de apartamentos en Madrid la Prosperidad, Madrid — octubre 2026](venta-apartamentos-madrid-la-prosperidad-madrid-octubre-2026/) | 61 | COP 205.000.000 |  |
+| [Precio de venta de apartamentos en La Prosperidad, Madrid — octubre 2026](venta-apartamentos-la-prosperidad-madrid-octubre-2026/) | 251 | COP 207.000.000 |  |
+| [Precio de arriendo de apartamentos en La Prosperidad, Madrid — octubre 2026](arriendo-apartamentos-la-prosperidad-madrid-octubre-2026/) | 178 | COP 1.100.000 |  |
+| [Precio de venta de apartamentos en San Pedro, Madrid — octubre 2026](venta-apartamentos-san-pedro-madrid-octubre-2026/) | 43 | COP 195.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San Pedro, Madrid — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-pedro-madrid-octubre-2026/) | 30 | COP 190.000.000 |  |

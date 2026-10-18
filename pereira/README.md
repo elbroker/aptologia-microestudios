@@ -1,0 +1,137 @@
+# Microestudios de vivienda por barrio — Pereira (octubre 2026)
+
+119 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Pereira, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
+- Licencia: CC BY 4.0
+- Datos al 18 de octubre de 2026
+- Sitio: https://www.aptologia.com/
+- Comunidad Zenodo: https://zenodo.org/communities/aptologia/
+- GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/pereira
+- Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-barrios-pereira-2026
+- Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-barrios-pereira-2026
+- OSF: https://osf.io/k26ev/
+
+`indice.csv` resume todos los microestudios (mediana, percentiles, COP/m², DOI).
+
+| Microestudio | n | Mediana | DOI |
+|---|---|---|---|
+| [Precio de venta de apartamentos en Pinares, Pereira — octubre 2026](venta-apartamentos-pinares-pereira-octubre-2026/) | 1013 | COP 620.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Pinares, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-pinares-pereira-octubre-2026/) | 661 | COP 750.000.000 |  |
+| [Precio de venta de apartamentos en Cerritos, Pereira — octubre 2026](venta-apartamentos-cerritos-pereira-octubre-2026/) | 628 | COP 662.747.000 |  |
+| [Precio de arriendo de apartamentos en Pinares, Pereira — octubre 2026](arriendo-apartamentos-pinares-pereira-octubre-2026/) | 505 | COP 3.200.000 |  |
+| [Precio de venta de apartamentos en Álamos, Pereira — octubre 2026](venta-apartamentos-alamos-pereira-octubre-2026/) | 318 | COP 480.000.000 |  |
+| [Precio de venta de apartamentos en Condina, Pereira — octubre 2026](venta-apartamentos-condina-pereira-octubre-2026/) | 307 | COP 289.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Cerritos, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cerritos-pereira-octubre-2026/) | 301 | COP 774.600.000 |  |
+| [Precio de venta de apartamentos en Centro, Pereira — octubre 2026](venta-apartamentos-centro-pereira-octubre-2026/) | 255 | COP 360.000.000 |  |
+| [Precio de venta de apartamentos en Galicia, Pereira — octubre 2026](venta-apartamentos-galicia-pereira-octubre-2026/) | 247 | COP 400.000.000 |  |
+| [Precio de venta de casas en Combia, Pereira — octubre 2026](venta-casas-combia-pereira-octubre-2026/) | 246 | COP 1.500.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Condina, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-condina-pereira-octubre-2026/) | 245 | COP 282.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Pinares, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-pinares-pereira-octubre-2026/) | 244 | COP 3.850.000 |  |
+| [Precio de arriendo de apartamentos en Cerritos, Pereira — octubre 2026](arriendo-apartamentos-cerritos-pereira-octubre-2026/) | 228 | COP 4.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Pinares, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-pinares-pereira-octubre-2026/) | 227 | COP 510.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Cerritos, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-cerritos-pereira-octubre-2026/) | 219 | COP 680.000.000 |  |
+| [Precio de arriendo de apartamentos en Álamos, Pereira — octubre 2026](arriendo-apartamentos-alamos-pereira-octubre-2026/) | 218 | COP 2.650.000 |  |
+| [Precio de venta de casas en Pinares, Pereira — octubre 2026](venta-casas-pinares-pereira-octubre-2026/) | 211 | COP 1.200.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Centro, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-centro-pereira-octubre-2026/) | 203 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Álamos, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-alamos-pereira-octubre-2026/) | 201 | COP 525.000.000 |  |
+| [Precio de venta de apartamentos en Los Alpes, Pereira — octubre 2026](venta-apartamentos-los-alpes-pereira-octubre-2026/) | 193 | COP 525.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Galicia, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-galicia-pereira-octubre-2026/) | 184 | COP 410.000.000 |  |
+| [Precio de venta de apartamentos en Los Álamos, Pereira — octubre 2026](venta-apartamentos-los-alamos-pereira-octubre-2026/) | 176 | COP 570.000.000 |  |
+| [Precio de venta de casas en Condina, Pereira — octubre 2026](venta-casas-condina-pereira-octubre-2026/) | 154 | COP 1.450.000.000 |  |
+| [Precio de arriendo de apartamentos en Los Alpes, Pereira — octubre 2026](arriendo-apartamentos-los-alpes-pereira-octubre-2026/) | 134 | COP 3.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Pinares, Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-pinares-pereira-octubre-2026/) | 132 | COP 3.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Pinares, Pereira — octubre 2026](arriendo-apartamentos-1-habitaciones-pinares-pereira-octubre-2026/) | 128 | COP 2.100.000 |  |
+| [Precio de arriendo de apartamentos en Galicia, Pereira — octubre 2026](arriendo-apartamentos-galicia-pereira-octubre-2026/) | 123 | COP 2.200.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Pinares, Pereira — octubre 2026](venta-apartamentos-1-habitaciones-pinares-pereira-octubre-2026/) | 123 | COP 350.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Álamos, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-alamos-pereira-octubre-2026/) | 117 | COP 2.950.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cerritos, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cerritos-pereira-octubre-2026/) | 115 | COP 4.580.000 |  |
+| [Precio de venta de casas en Centro, Pereira — octubre 2026](venta-casas-centro-pereira-octubre-2026/) | 113 | COP 600.000.000 |  |
+| [Precio de venta de apartamentos en Circunvalar, Pereira — octubre 2026](venta-apartamentos-circunvalar-pereira-octubre-2026/) | 112 | COP 450.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Los Álamos, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-los-alamos-pereira-octubre-2026/) | 109 | COP 700.000.000 |  |
+| [Precio de venta de apartamentos en Avenida 30 de Agosto, Pereira — octubre 2026](venta-apartamentos-avenida-30-de-agosto-pereira-octubre-2026/) | 106 | COP 415.000.000 |  |
+| [Precio de venta de apartamentos en Avenida Sur, Pereira — octubre 2026](venta-apartamentos-avenida-sur-pereira-octubre-2026/) | 105 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Cerritos, Pereira — octubre 2026](venta-apartamentos-1-habitaciones-cerritos-pereira-octubre-2026/) | 105 | COP 520.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Los Alpes, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-los-alpes-pereira-octubre-2026/) | 101 | COP 600.000.000 |  |
+| [Precio de venta de apartamentos en Maraya, Pereira — octubre 2026](venta-apartamentos-maraya-pereira-octubre-2026/) | 100 | COP 400.000.000 |  |
+| [Precio de venta de casas en Tribunas Corcega, Pereira — octubre 2026](venta-casas-tribunas-corcega-pereira-octubre-2026/) | 98 | COP 1.500.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Cerritos, Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-cerritos-pereira-octubre-2026/) | 97 | COP 3.700.000 |  |
+| [Precio de venta de apartaestudios en Pinares, Pereira — octubre 2026](venta-apartaestudios-pinares-pereira-octubre-2026/) | 97 | COP 349.100.000 |  |
+| [Precio de arriendo de casas en Pueblito Cafetero, Pereira — octubre 2026](arriendo-casas-pueblito-cafetero-pereira-octubre-2026/) | 94 | COP 7.000.000 |  |
+| [Precio de arriendo de apartamentos en Condina, Pereira — octubre 2026](arriendo-apartamentos-condina-pereira-octubre-2026/) | 92 | COP 1.625.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Galicia, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-galicia-pereira-octubre-2026/) | 91 | COP 2.200.000 |  |
+| [Precio de venta de casas en Vía Armenia, Pereira — octubre 2026](venta-casas-via-armenia-pereira-octubre-2026/) | 91 | COP 1.500.000.000 |  |
+| [Precio de arriendo de apartaestudios en Pinares, Pereira — octubre 2026](arriendo-apartaestudios-pinares-pereira-octubre-2026/) | 89 | COP 2.100.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Circunvalar, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-circunvalar-pereira-octubre-2026/) | 87 | COP 450.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Álamos, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-alamos-pereira-octubre-2026/) | 85 | COP 450.000.000 |  |
+| [Precio de venta de casas en Álamos, Pereira — octubre 2026](venta-casas-alamos-pereira-octubre-2026/) | 85 | COP 800.000.000 |  |
+| [Precio de arriendo de apartamentos en Los Álamos, Pereira — octubre 2026](arriendo-apartamentos-los-alamos-pereira-octubre-2026/) | 83 | COP 3.200.000 |  |
+| [Precio de venta de apartamentos en Pinares Alto, Pereira — octubre 2026](venta-apartamentos-pinares-alto-pereira-octubre-2026/) | 80 | COP 980.000.000 |  |
+| [Precio de venta de apartaestudios en Cerritos, Pereira — octubre 2026](venta-apartaestudios-cerritos-pereira-octubre-2026/) | 74 | COP 490.000.000 |  |
+| [Precio de arriendo de apartamentos en Pinares Alto, Pereira — octubre 2026](arriendo-apartamentos-pinares-alto-pereira-octubre-2026/) | 71 | COP 4.450.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Avenida 30 de Agosto, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-avenida-30-de-agosto-pereira-octubre-2026/) | 70 | COP 490.000.000 |  |
+| [Precio de venta de apartamentos en El Dorado, Pereira — octubre 2026](venta-apartamentos-el-dorado-pereira-octubre-2026/) | 66 | COP 372.500.000 |  |
+| [Precio de venta de casas en El Tigre, Pereira — octubre 2026](venta-casas-el-tigre-pereira-octubre-2026/) | 64 | COP 1.700.000.000 |  |
+| [Precio de arriendo de casas en Pinares, Pereira — octubre 2026](arriendo-casas-pinares-pereira-octubre-2026/) | 64 | COP 4.900.000 |  |
+| [Precio de venta de apartamentos en Sector Plaza de Bolívar, Pereira — octubre 2026](venta-apartamentos-sector-plaza-de-bolivar-pereira-octubre-2026/) | 64 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos en Belmonte, Pereira — octubre 2026](venta-apartamentos-belmonte-pereira-octubre-2026/) | 62 | COP 420.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Los Alpes, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-los-alpes-pereira-octubre-2026/) | 62 | COP 465.000.000 |  |
+| [Precio de arriendo de casas en Galicia, Pereira — octubre 2026](arriendo-casas-galicia-pereira-octubre-2026/) | 61 | COP 2.300.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Avenida Sur, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-avenida-sur-pereira-octubre-2026/) | 60 | COP 430.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Álamos, Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-alamos-pereira-octubre-2026/) | 59 | COP 2.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Condina, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-condina-pereira-octubre-2026/) | 59 | COP 310.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Los Alpes, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-los-alpes-pereira-octubre-2026/) | 59 | COP 3.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Maraya, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-maraya-pereira-octubre-2026/) | 59 | COP 410.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Condina, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-condina-pereira-octubre-2026/) | 58 | COP 1.600.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Pinares Alto, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-pinares-alto-pereira-octubre-2026/) | 58 | COP 1.175.000.000 |  |
+| [Precio de venta de apartamentos en Los Corales, Pereira — octubre 2026](venta-apartamentos-los-corales-pereira-octubre-2026/) | 57 | COP 355.000.000 |  |
+| [Precio de arriendo de casas en Álamos, Pereira — octubre 2026](arriendo-casas-alamos-pereira-octubre-2026/) | 55 | COP 4.750.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Los Álamos, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-los-alamos-pereira-octubre-2026/) | 53 | COP 3.700.000 |  |
+| [Precio de venta de apartamentos en San José Sur, Pereira — octubre 2026](venta-apartamentos-san-jose-sur-pereira-octubre-2026/) | 53 | COP 390.000.000 |  |
+| [Precio de venta de apartamentos en La Villa, Pereira — octubre 2026](venta-apartamentos-la-villa-pereira-octubre-2026/) | 52 | COP 340.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Sector Plaza de Bolívar, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-sector-plaza-de-bolivar-pereira-octubre-2026/) | 52 | COP 450.000.000 |  |
+| [Precio de arriendo de casas en Combia, Pereira — octubre 2026](arriendo-casas-combia-pereira-octubre-2026/) | 51 | COP 7.800.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Los Alpes, Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-los-alpes-pereira-octubre-2026/) | 51 | COP 3.000.000 |  |
+| [Precio de venta de casas en Los Álamos, Pereira — octubre 2026](venta-casas-los-alamos-pereira-octubre-2026/) | 49 | COP 880.000.000 |  |
+| [Precio de venta de casas en Belmonte, Pereira — octubre 2026](venta-casas-belmonte-pereira-octubre-2026/) | 48 | COP 530.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Pinares Alto, Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-pinares-alto-pereira-octubre-2026/) | 48 | COP 5.150.000 |  |
+| [Precio de venta de casas en Avenida Sur, Pereira — octubre 2026](venta-casas-avenida-sur-pereira-octubre-2026/) | 46 | COP 625.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Galicia, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-galicia-pereira-octubre-2026/) | 46 | COP 385.000.000 |  |
+| [Precio de arriendo de apartamentos en San José Sur, Pereira — octubre 2026](arriendo-apartamentos-san-jose-sur-pereira-octubre-2026/) | 43 | COP 3.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Álamos, Pereira — octubre 2026](arriendo-apartamentos-1-habitaciones-alamos-pereira-octubre-2026/) | 42 | COP 1.925.000 |  |
+| [Precio de venta de casas en Avenida 30 de Agosto, Pereira — octubre 2026](venta-casas-avenida-30-de-agosto-pereira-octubre-2026/) | 41 | COP 750.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San José Sur, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-jose-sur-pereira-octubre-2026/) | 41 | COP 460.000.000 |  |
+| [Precio de venta de apartamentos en Alpes, Pereira — octubre 2026](venta-apartamentos-alpes-pereira-octubre-2026/) | 40 | COP 527.500.000 |  |
+| [Precio de venta de apartamentos en Unicentro, Pereira — octubre 2026](venta-apartamentos-unicentro-pereira-octubre-2026/) | 39 | COP 335.000.000 |  |
+| [Precio de venta de apartamentos en Av 30 de Agosto, Pereira — octubre 2026](venta-apartamentos-av-30-de-agosto-pereira-octubre-2026/) | 38 | COP 450.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Los Álamos, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-los-alamos-pereira-octubre-2026/) | 38 | COP 530.000.000 |  |
+| [Precio de venta de casas en San José Sur, Pereira — octubre 2026](venta-casas-san-jose-sur-pereira-octubre-2026/) | 38 | COP 865.000.000 |  |
+| [Precio de arriendo de apartamentos en Circunvalar, Pereira — octubre 2026](arriendo-apartamentos-circunvalar-pereira-octubre-2026/) | 37 | COP 2.600.000 |  |
+| [Precio de venta de apartamentos en Ciudad Jardín, Pereira — octubre 2026](venta-apartamentos-ciudad-jardin-pereira-octubre-2026/) | 37 | COP 390.000.000 |  |
+| [Precio de venta de casas en Paraje Combia, Pereira — octubre 2026](venta-casas-paraje-combia-pereira-octubre-2026/) | 37 | COP 1.350.000.000 |  |
+| [Precio de venta de apartamentos en Circunvalar Álamos, Pereira — octubre 2026](venta-apartamentos-circunvalar-alamos-pereira-octubre-2026/) | 36 | COP 506.250.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Avenida Sur, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-avenida-sur-pereira-octubre-2026/) | 35 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos en Cambulos, Pereira — octubre 2026](venta-apartamentos-cambulos-pereira-octubre-2026/) | 35 | COP 510.000.000 |  |
+| [Precio de arriendo de apartamentos en Los Corales, Pereira — octubre 2026](arriendo-apartamentos-los-corales-pereira-octubre-2026/) | 35 | COP 1.700.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Los Corales, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-los-corales-pereira-octubre-2026/) | 35 | COP 355.000.000 |  |
+| [Precio de arriendo de apartamentos en Centro, Pereira — octubre 2026](arriendo-apartamentos-centro-pereira-octubre-2026/) | 34 | COP 1.675.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Dorado, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-dorado-pereira-octubre-2026/) | 34 | COP 412.500.000 |  |
+| [Precio de venta de apartamentos en Sector Lago Uribe, Pereira — octubre 2026](venta-apartamentos-sector-lago-uribe-pereira-octubre-2026/) | 34 | COP 350.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Centro, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-centro-pereira-octubre-2026/) | 33 | COP 260.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Condina, Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-condina-pereira-octubre-2026/) | 33 | COP 1.750.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Unicentro, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-unicentro-pereira-octubre-2026/) | 33 | COP 330.000.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Álamos, Pereira — octubre 2026](venta-apartamentos-1-habitaciones-alamos-pereira-octubre-2026/) | 32 | COP 322.500.000 |  |
+| [Precio de venta de apartamentos en Cuba, Pereira — octubre 2026](venta-apartamentos-cuba-pereira-octubre-2026/) | 32 | COP 210.000.000 |  |
+| [Precio de venta de apartamentos en Aeropuerto, Pereira — octubre 2026](venta-apartamentos-aeropuerto-pereira-octubre-2026/) | 31 | COP 390.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Belmonte, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-belmonte-pereira-octubre-2026/) | 31 | COP 450.000.000 |  |
+| [Precio de arriendo de apartaestudios en Álamos, Pereira — octubre 2026](arriendo-apartaestudios-alamos-pereira-octubre-2026/) | 30 | COP 2.125.000 |  |
+| [Precio de arriendo de apartamentos en Belmonte, Pereira — octubre 2026](arriendo-apartamentos-belmonte-pereira-octubre-2026/) | 30 | COP 2.200.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Belmonte, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-belmonte-pereira-octubre-2026/) | 30 | COP 407.500.000 |  |
+| [Precio de venta de apartamentos en Centenario, Pereira — octubre 2026](venta-apartamentos-centenario-pereira-octubre-2026/) | 30 | COP 307.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Ciudad Jardín, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ciudad-jardin-pereira-octubre-2026/) | 30 | COP 390.000.000 |  |
+| [Precio de venta de apartamentos en El Jardín, Pereira — octubre 2026](venta-apartamentos-el-jardin-pereira-octubre-2026/) | 30 | COP 369.000.000 |  |
+| [Precio de venta de apartamentos en El Poblado Ii Etapa, Pereira — octubre 2026](venta-apartamentos-el-poblado-ii-etapa-pereira-octubre-2026/) | 30 | COP 267.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Villa, Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-villa-pereira-octubre-2026/) | 30 | COP 340.000.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Los Alpes, Pereira — octubre 2026](venta-apartamentos-1-habitaciones-los-alpes-pereira-octubre-2026/) | 30 | COP 342.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Maraya, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-maraya-pereira-octubre-2026/) | 30 | COP 375.000.000 |  |
+| [Precio de venta de apartamentos en Providencia, Pereira — octubre 2026](venta-apartamentos-providencia-pereira-octubre-2026/) | 30 | COP 312.500.000 |  |

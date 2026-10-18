@@ -1,6 +1,6 @@
 # Microestudios de vivienda por barrio — Tocancipa (octubre 2026)
 
-2 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Tocancipa, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+10 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Tocancipa, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
 
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
@@ -18,3 +18,11 @@
 |---|---|---|---|
 | [Precio de venta de apartamentos en Tocancipa Occidente, Tocancipa — octubre 2026](venta-apartamentos-tocancipa-occidente-tocancipa-octubre-2026/) | 49 | COP 205.000.000 |  |
 | [Precio de venta de apartamentos de 3 habitaciones en Tocancipa Occidente, Tocancipa — octubre 2026](venta-apartamentos-3-habitaciones-tocancipa-occidente-tocancipa-octubre-2026/) | 33 | COP 213.000.000 |  |
+| [Precio de venta de apartamentos en Verganzo, Tocancipá — octubre 2026](venta-apartamentos-verganzo-tocancipa-octubre-2026/) | 165 | COP 215.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Verganzo, Tocancipá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-verganzo-tocancipa-octubre-2026/) | 120 | COP 220.000.000 |  |
+| [Precio de arriendo de apartamentos en Verganzo, Tocancipá — octubre 2026](arriendo-apartamentos-verganzo-tocancipa-octubre-2026/) | 62 | COP 1.062.500 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Verganzo, Tocancipá — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-verganzo-tocancipa-octubre-2026/) | 46 | COP 1.073.000 |  |
+| [Precio de venta de apartamentos en Verganza, Tocancipá — octubre 2026](venta-apartamentos-verganza-tocancipa-octubre-2026/) | 45 | COP 210.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Verganzo, Tocancipá — octubre 2026](venta-apartamentos-2-habitaciones-verganzo-tocancipa-octubre-2026/) | 43 | COP 200.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Verganza, Tocancipá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-verganza-tocancipa-octubre-2026/) | 37 | COP 210.000.000 |  |
+| [Precio de venta de apartamentos en Centro Tocancipá, Tocancipá — octubre 2026](venta-apartamentos-centro-tocancipa-tocancipa-octubre-2026/) | 36 | COP 220.000.000 |  |
