@@ -4,6 +4,11 @@ Microestudios abiertos generados con los avisos inmobiliarios recolectados por A
 
 | Ciudad | Microestudios |
 |---|---|
-| [Bogotá](bogota/) | 20 |
+| [Bogotá](bogota/) | 1083 |
+| [Cúcuta](cucuta/) | 3 |
+| [Los Patios](los-patios/) | 1 |
+| [Madrid](madrid/) | 1 |
+| [Soacha](soacha/) | 3 |
+| [Tocancipa](tocancipa/) | 2 |
 
 Comunidad Zenodo: https://zenodo.org/communities/aptologia/

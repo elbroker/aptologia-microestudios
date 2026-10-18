@@ -1,0 +1,22 @@
+# Precio de arriendo de apartamentos en Pasadena, Bogotá — octubre 2026
+
+Con 62 avisos únicos analizados, el canon mediano de apartamentos en arriendo en Pasadena (localidad de Suba), Bogotá es COP 3.103.100 al mes.
+
+Eso la ubica 11 % por debajo de la mediana de Bogotá para apartamentos (COP 3.500.000).
+
+Por metro cuadrado, la mediana es COP 58.776/m² (+18 % frente a COP 50.000/m² en Bogotá), puesto 21 de 76 barrios con muestra suficiente.
+
+Cruzando con la oferta de venta del mismo barrio, la rentabilidad bruta implícita es de 9,0 % anual (canon por m² × 12 / precio por m²).
+
+El segmento con más oferta es el de 1 habitación (29 avisos, mediana COP 2.500.000); pasar de 1 habitación a 2 habitaciones sube la mediana 46 %.
+
+El área mediana anunciada es 62 m² (en Bogotá: 70 m²).
+
+El estrato más frecuente en los avisos es 5.
+
+- n = 62 avisos únicos · datos al 18 de octubre de 2026
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Fuente: https://www.aptologia.com/arriendo/bogota/pasadena
+
+Archivos: `arriendo-apartamentos-pasadena-bogota-octubre-2026.pdf`, `arriendo-apartamentos-pasadena-bogota-octubre-2026.csv`, `arriendo-apartamentos-pasadena-bogota-octubre-2026.png`.

@@ -1,0 +1,22 @@
+# Precio de venta de vivienda en Las Americas, Bogotá — octubre 2026
+
+COP 830 millones es el precio mediano de vivienda en venta en Las Americas (localidad de Teusaquillo), Bogotá (n = 68 avisos únicos).
+
+La mediana prácticamente coincide con la de Bogotá (COP 865 millones; diferencia de -4,0 %).
+
+Por metro cuadrado, la mediana es COP 5.172.400/m² (−21 % frente a COP 6.557.377/m² en Bogotá), puesto 205 de 280 barrios con muestra suficiente.
+
+El área mediana anunciada es 194 m² (en Bogotá: 146 m²).
+
+El segmento con más oferta es el de 4 o más habitaciones (41 avisos, mediana COP 980 millones); pasar de 3 habitaciones a 4 o más habitaciones sube la mediana 72 %.
+
+La dispersión es alta: el cuartil superior (COP 1,20 mil millones) es 2,2 veces el inferior (COP 558 millones).
+
+El estrato más frecuente en los avisos es 3.
+
+- n = 68 avisos únicos · datos al 18 de octubre de 2026
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Fuente: https://www.aptologia.com/venta/bogota/las-americas
+
+Archivos: `venta-las-americas-bogota-octubre-2026.pdf`, `venta-las-americas-bogota-octubre-2026.csv`, `venta-las-americas-bogota-octubre-2026.png`.
