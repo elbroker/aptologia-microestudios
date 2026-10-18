@@ -1,6 +1,6 @@
 # Precio de arriendo de apartamentos en Salitre, Bogotá — octubre 2026
 
-Con 40 avisos únicos analizados, el canon mediano de apartamentos en arriendo en Salitre (localidad de Teusaquillo), Bogotá es COP 3.277.950 al mes.
+En Salitre (localidad de Teusaquillo), Bogotá, la mediana de canon mensual de apartamentos es COP 3.277.950, según 40 avisos únicos vigentes.
 
 Eso la ubica 6 % por debajo de la mediana de Bogotá para apartamentos (COP 3.500.000).
 

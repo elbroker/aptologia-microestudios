@@ -2,7 +2,7 @@
 
 COP 1.800.000 al mes es el canon mediano de apartaestudios en arriendo en Chapinero, Bogotá (n = 175 avisos únicos).
 
-Frente al total de Bogotá (COP 1.900.000), el barrio está 5 % por debajo.
+Eso la ubica 5 % por debajo de la mediana de Bogotá para apartaestudios (COP 1.900.000).
 
 Cruzando con la oferta de venta del mismo barrio, la rentabilidad bruta implícita es de 7,6 % anual (canon por m² × 12 / precio por m²).
 

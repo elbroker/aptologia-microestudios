@@ -2,7 +2,7 @@
 
 Con 47 avisos únicos analizados, el canon mediano de apartamentos en arriendo en Rincon del Chico, Bogotá es COP 5.000.000 al mes.
 
-Comparado con la mediana de la ciudad, COP 3.500.000, la diferencia es de 43 % por encima.
+Frente al total de Bogotá (COP 3.500.000), el barrio está 43 % por encima.
 
 El área mediana anunciada es 87 m² (en Bogotá: 70 m²).
 
@@ -10,7 +10,7 @@ Cruzando con la oferta de venta del mismo barrio, la rentabilidad bruta implíci
 
 El segmento con más oferta es el de 3 habitaciones (19 avisos, mediana COP 6.000.000); pasar de 2 habitaciones a 3 habitaciones sube la mediana 56 %.
 
-El rango intercuartílico va de COP 3.200.000 a COP 6.200.000 (razón 1,9), una dispersión moderada.
+La dispersión es moderada: el cuartil superior (COP 6.200.000) es 1,9 veces el inferior (COP 3.200.000).
 
 96 % de los avisos incluye al menos un parqueadero.
 

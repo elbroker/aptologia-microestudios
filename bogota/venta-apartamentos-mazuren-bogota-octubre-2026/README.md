@@ -1,8 +1,8 @@
 # Precio de venta de apartamentos en Mazuren, Bogotá — octubre 2026
 
-En Mazuren (localidad de Suba), Bogotá, la mediana de precio de venta de apartamentos es COP 578 millones, según 120 avisos únicos vigentes.
+Con 120 avisos únicos analizados, el precio mediano de apartamentos en venta en Mazuren (localidad de Suba), Bogotá es COP 578 millones.
 
-Frente al total de Bogotá (COP 765 millones), el barrio está 25 % por debajo.
+Comparado con la mediana de la ciudad, COP 765 millones, la diferencia es de 25 % por debajo.
 
 Cruzando con la oferta de arriendo del mismo barrio, la rentabilidad bruta implícita es de 7,7 % anual (canon por m² × 12 / precio por m²).
 

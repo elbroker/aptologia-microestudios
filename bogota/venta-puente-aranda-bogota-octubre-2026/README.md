@@ -1,12 +1,12 @@
 # Precio de venta de vivienda en Puente Aranda, Bogotá — octubre 2026
 
-En Puente Aranda, Bogotá, la mediana de precio de venta de vivienda es COP 375 millones, según 61 avisos únicos vigentes.
+COP 375 millones es el precio mediano de vivienda en venta en Puente Aranda, Bogotá (n = 61 avisos únicos).
 
-Eso la ubica 57 % por debajo de la mediana de Bogotá para vivienda (COP 865 millones).
+Frente al total de Bogotá (COP 865 millones), el barrio está 57 % por debajo.
 
 El área mediana anunciada es 54 m² (en Bogotá: 146 m²).
 
-La dispersión es alta: el cuartil superior (COP 680 millones) es 2,4 veces el inferior (COP 280 millones).
+El rango intercuartílico va de COP 280 millones a COP 680 millones (razón 2,4), una dispersión alta.
 
 El segmento con más oferta es el de 4 o más habitaciones (21 avisos, mediana COP 759 millones); pasar de 3 habitaciones a 4 o más habitaciones sube la mediana 73 %.
 

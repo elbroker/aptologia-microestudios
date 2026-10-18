@@ -1,6 +1,6 @@
 # Precio de venta de casas en Los Andes, Bogotá — octubre 2026
 
-En Los Andes (localidad de Barrios Unidos), Bogotá, la mediana de precio de venta de casas es COP 990 millones, según 75 avisos únicos vigentes.
+Con 75 avisos únicos analizados, el precio mediano de casas en venta en Los Andes (localidad de Barrios Unidos), Bogotá es COP 990 millones.
 
 Frente al total de Bogotá (COP 1,20 mil millones), el barrio está 18 % por debajo.
 

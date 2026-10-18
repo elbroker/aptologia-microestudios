@@ -2,7 +2,7 @@
 
 En Cedritos (localidad de Usaquén), Bogotá, la mediana de precio de venta de casas es COP 900 millones, según 378 avisos únicos vigentes.
 
-Comparado con la mediana de la ciudad, COP 1,20 mil millones, la diferencia es de 25 % por debajo.
+Eso la ubica 25 % por debajo de la mediana de Bogotá para casas (COP 1,20 mil millones).
 
 El área mediana anunciada es 185 m² (en Bogotá: 270 m²).
 

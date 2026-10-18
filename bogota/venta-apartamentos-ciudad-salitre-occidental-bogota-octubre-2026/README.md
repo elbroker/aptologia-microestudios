@@ -1,12 +1,12 @@
 # Precio de venta de apartamentos en Ciudad Salitre Occidental, Bogotá — octubre 2026
 
-COP 1,10 mil millones es el precio mediano de apartamentos en venta en Ciudad Salitre Occidental (localidad de Fontibón), Bogotá (n = 87 avisos únicos).
+En Ciudad Salitre Occidental (localidad de Fontibón), Bogotá, la mediana de precio de venta de apartamentos es COP 1,10 mil millones, según 87 avisos únicos vigentes.
 
-Frente al total de Bogotá (COP 765 millones), el barrio está 44 % por encima.
+Eso la ubica 44 % por encima de la mediana de Bogotá para apartamentos (COP 765 millones).
 
 Por metro cuadrado, la mediana es COP 9.874.924/m² (+33 % frente a COP 7.407.407/m² en Bogotá), puesto 17 de 166 barrios con muestra suficiente.
 
-El rango intercuartílico va de COP 700 millones a COP 1,73 mil millones (razón 2,5), una dispersión alta.
+La dispersión es alta: el cuartil superior (COP 1,73 mil millones) es 2,5 veces el inferior (COP 700 millones).
 
 El segmento con más oferta es el de 3 habitaciones (62 avisos, mediana COP 1,10 mil millones); pasar de 3 habitaciones a 4 o más habitaciones sube la mediana 50 %.
 

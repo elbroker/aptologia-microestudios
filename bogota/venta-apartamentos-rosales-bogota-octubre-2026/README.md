@@ -2,7 +2,7 @@
 
 En Rosales, Bogotá, la mediana de precio de venta de apartamentos es COP 1,85 mil millones, según 1583 avisos únicos vigentes.
 
-Frente al total de Bogotá (COP 765 millones), el barrio está 142 % por encima.
+Eso la ubica 142 % por encima de la mediana de Bogotá para apartamentos (COP 765 millones).
 
 El área mediana anunciada es 224 m² (en Bogotá: 102 m²).
 

@@ -1,8 +1,8 @@
 # Precio de venta de casas en Niza Norte, Bogotá — octubre 2026
 
-Con 50 avisos únicos analizados, el precio mediano de casas en venta en Niza Norte (localidad de Suba), Bogotá es COP 1,37 mil millones.
+COP 1,37 mil millones es el precio mediano de casas en venta en Niza Norte (localidad de Suba), Bogotá (n = 50 avisos únicos).
 
-Frente al total de Bogotá (COP 1,20 mil millones), el barrio está 14 % por encima.
+Eso la ubica 14 % por encima de la mediana de Bogotá para casas (COP 1,20 mil millones).
 
 Por metro cuadrado, la mediana es COP 4.219.577/m² (−11 % frente a COP 4.725.000/m² en Bogotá), puesto 83 de 110 barrios con muestra suficiente.
 

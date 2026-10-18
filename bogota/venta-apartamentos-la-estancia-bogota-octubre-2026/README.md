@@ -2,7 +2,7 @@
 
 COP 226 millones es el precio mediano de apartamentos en venta en La Estancia (localidad de Ciudad Bolívar), Bogotá (n = 31 avisos únicos).
 
-Frente al total de Bogotá (COP 765 millones), el barrio está 70 % por debajo.
+Eso la ubica 70 % por debajo de la mediana de Bogotá para apartamentos (COP 765 millones).
 
 Por metro cuadrado, la mediana es COP 5.000.000/m² (−33 % frente a COP 7.407.407/m² en Bogotá), puesto 160 de 166 barrios con muestra suficiente.
 

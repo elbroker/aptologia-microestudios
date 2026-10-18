@@ -10,7 +10,7 @@ El área mediana anunciada es 216 m² (en Bogotá: 146 m²).
 
 El segmento con más oferta es el de 4 o más habitaciones (26 avisos, mediana COP 520 millones); pasar de 3 habitaciones a 4 o más habitaciones sube la mediana 167 %.
 
-La dispersión es moderada: el cuartil superior (COP 614 millones) es 1,9 veces el inferior (COP 318 millones).
+El rango intercuartílico va de COP 318 millones a COP 614 millones (razón 1,9), una dispersión moderada.
 
 El estrato más frecuente en los avisos es 2.
 

@@ -1,6 +1,6 @@
 # Precio de venta de vivienda en Bonanza, Bogotá — octubre 2026
 
-COP 750 millones es el precio mediano de vivienda en venta en Bonanza (localidad de Engativá), Bogotá (n = 67 avisos únicos).
+En Bonanza (localidad de Engativá), Bogotá, la mediana de precio de venta de vivienda es COP 750 millones, según 67 avisos únicos vigentes.
 
 Comparado con la mediana de la ciudad, COP 865 millones, la diferencia es de 13 % por debajo.
 

@@ -2,7 +2,7 @@
 
 Con 56 avisos únicos analizados, el precio mediano de apartamentos en venta en Victoria Norte (localidad de Suba), Bogotá es COP 430 millones.
 
-Frente al total de Bogotá (COP 765 millones), el barrio está 44 % por debajo.
+Comparado con la mediana de la ciudad, COP 765 millones, la diferencia es de 44 % por debajo.
 
 Por metro cuadrado, la mediana es COP 6.003.801/m² (−19 % frente a COP 7.407.407/m² en Bogotá), puesto 137 de 166 barrios con muestra suficiente.
 

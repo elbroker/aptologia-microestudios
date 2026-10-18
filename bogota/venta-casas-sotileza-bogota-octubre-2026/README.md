@@ -1,6 +1,6 @@
 # Precio de venta de casas en Sotileza, Bogotá — octubre 2026
 
-Con 143 avisos únicos analizados, el precio mediano de casas en venta en Sotileza (localidad de Suba), Bogotá es COP 1,90 mil millones.
+En Sotileza (localidad de Suba), Bogotá, la mediana de precio de venta de casas es COP 1,90 mil millones, según 143 avisos únicos vigentes.
 
 Eso la ubica 58 % por encima de la mediana de Bogotá para casas (COP 1,20 mil millones).
 
