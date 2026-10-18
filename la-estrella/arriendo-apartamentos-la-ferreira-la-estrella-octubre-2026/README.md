@@ -1,23 +1,23 @@
 # Precio de arriendo de apartamentos en La Ferreira, La Estrella — octubre 2026
 
-En La Ferreira, La Estrella, la mediana de canon mensual de apartamentos es COP 2.600.000, según 39 avisos vigentes.
+COP 2,52 millones al mes es el canon mediano de apartamentos en arriendo en La Ferreira, La Estrella (n = 32 avisos).
 
-La mediana prácticamente coincide con la de La Estrella para apartamentos (COP 2.600.000; diferencia de 0,0 %).
+Prácticamente coincide con la mediana de La Estrella para apartamentos (COP 2,60 millones).
 
-Por mediana, es el puesto 4 de 5 barrios de La Estrella con al menos 30 avisos de apartamentos en arriendo: entre los más económicos.
+Por metro cuadrado, la mediana es COP 38.427/m² al mes (n = 32 avisos con área), 0 % por encima de La Estrella (COP 38.333/m²).
 
-El segmento con más oferta es el de 2 habitaciones (22 avisos, mediana COP 2.525.000); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 7 %.
+El área mediana anunciada es 66 m².
 
-85 % de los avisos incluye parqueadero, y su mediana (COP 2.600.000) es prácticamente igual a la general.
+El segmento con más oferta es el de 2 habitaciones (16 avisos, mediana COP 2,50 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +6 %.
 
-El aviso más barato pide COP 1.650.000 y el más caro COP 3.200.000.
+El estrato más frecuente es 4 (78 % de los avisos con estrato).
 
-0 % de los anunciantes publica un teléfono de contacto.
+La mitad central de los avisos va de COP 2,38 millones a COP 2,70 millones (razón 1,1), una dispersión baja.
 
-- n = 39 avisos vigentes · foto del 2026-10-17
+- n = 32 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/la-estrella/la-ferreira
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/la-estrella/la-ferreira
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-la-ferreira-la-estrella-octubre-2026.pdf`, `arriendo-apartamentos-la-ferreira-la-estrella-octubre-2026.csv`, `arriendo-apartamentos-la-ferreira-la-estrella-octubre-2026.png`.

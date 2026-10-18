@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,285500000,96
-habitaciones,1,260000000,9
-habitaciones,2,285500000,96
-habitaciones,3+,360000000,140
-barrio,mediana_barrio_todos_los_tamanos,320000000,245
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/paraiso,
+seccion,metrica,valor,moneda,n
+precio,p25,270000000.0,COP,70
+precio,mediana,285000000.0,COP,70
+precio,p75,300000000.0,COP,70
+precio,minimo,210000000.0,COP,70
+precio,maximo,630000000.0,COP,70
+m2,mediana_precio_m2,4818181.82,COP,69
+m2,area_mediana_m2,58.0,m2,69
+admin,mediana_admin_mes,289000.0,COP,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.3,%,60
+estrato,estrato_mas_frecuente,4,,69
+habitaciones,2,285000000.0,COP,70
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/paraiso,,
+fuente,licencia,CC BY 4.0,,

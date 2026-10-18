@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Valle del Lili, Cali — octubre 2026
 
-En Valle del Lili, Cali, la mediana de precio de venta de apartamentos es COP 350 millones, según 1.224 avisos vigentes.
+Con 801 avisos vigentes, el precio mediano de apartamentos en venta en Valle del Lili, Cali es COP 350 millones.
 
-Eso la ubica 12 % por debajo de la mediana de Cali para apartamentos (COP 400 millones).
+Frente a la mediana de Cali para apartamentos (COP 430 millones), queda 19 % por debajo.
 
-Con la mediana de arriendo del mismo barrio (COP 1.700.000 al mes), el arriendo anual equivale a 5,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 4,66 millones/m² (n = 797 avisos con área), 0 % por encima de Cali (COP 4,65 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (838 avisos, mediana COP 370 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 48 %.
+Con el precio por m² de arriendo del mismo segmento (COP 27.434/m² al mes), la rentabilidad bruta implícita es 7,1 % anual (aproximación con medianas de ofertas distintas).
 
-Por mediana, es el puesto 44 de 74 barrios de Cali con al menos 30 avisos de apartamentos en venta: en la franja media.
+El área mediana anunciada es 75 m².
 
-79 % de los avisos incluye parqueadero, y su mediana (COP 385 millones) está 10 % por encima de la general.
+El segmento con más oferta es el de 3 o más habitaciones (530 avisos, mediana COP 390 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +60 %.
 
-La dispersión es moderada: el cuartil superior (COP 470 millones) es 1,8 veces el inferior (COP 255 millones).
+La administración mediana declarada es COP 340.000 al mes (n = 615).
 
-- n = 1224 avisos vigentes · foto del 2026-10-17
+Por precio mediano es el puesto 42 de 66 barrios de Cali con al menos 30 avisos de apartamentos en venta (COP): en la franja media.
+
+- n = 801 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/cali/valle-del-lili
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/cali/valle-del-lili
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-valle-del-lili-cali-octubre-2026.pdf`, `venta-apartamentos-valle-del-lili-cali-octubre-2026.csv`, `venta-apartamentos-valle-del-lili-cali-octubre-2026.png`.

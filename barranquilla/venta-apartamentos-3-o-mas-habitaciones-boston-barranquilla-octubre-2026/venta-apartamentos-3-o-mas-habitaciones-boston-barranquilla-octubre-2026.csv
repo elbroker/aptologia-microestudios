@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,350000000,160
-habitaciones,2,264000000,42
-habitaciones,3+,350000000,160
-barrio,mediana_barrio_todos_los_tamanos,345000000,209
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/boston,
+seccion,metrica,valor,moneda,n
+precio,p25,320000000.0,COP,117
+precio,mediana,360000000.0,COP,117
+precio,p75,415000000.0,COP,117
+precio,minimo,178000000.0,COP,117
+precio,maximo,970000000.0,COP,117
+m2,mediana_precio_m2,4318181.82,COP,105
+m2,area_mediana_m2,90.0,m2,105
+admin,mediana_admin_mes,365000.0,COP,79
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,103
+estrato,estrato_mas_frecuente,4,,114
+habitaciones,3+,360000000.0,COP,117
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/boston,,
+fuente,licencia,CC BY 4.0,,

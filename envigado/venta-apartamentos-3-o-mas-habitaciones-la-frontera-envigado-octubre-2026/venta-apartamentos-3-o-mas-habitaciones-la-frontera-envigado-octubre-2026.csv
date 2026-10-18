@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1140000000,41
-habitaciones,2,895000000,9
-habitaciones,3+,1140000000,41
-barrio,mediana_barrio_todos_los_tamanos,1060000000,52
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/la-frontera,
+seccion,metrica,valor,moneda,n
+precio,p25,780000000.0,COP,40
+precio,mediana,1125000000.0,COP,40
+precio,p75,1262500000.0,COP,40
+precio,minimo,465000000.0,COP,40
+precio,maximo,2700000000.0,COP,40
+m2,mediana_precio_m2,7637094.46,COP,40
+m2,area_mediana_m2,140.0,m2,40
+admin,mediana_admin_mes,763500.0,COP,28
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.5,%,40
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,3+,1125000000.0,COP,40
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-frontera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en La Linde, Medellín — octubre 2026
 
-En La Linde, Medellín, la mediana de canon mensual de apartamentos es COP 6.500.000, según 74 avisos vigentes.
+Con 55 avisos vigentes, el canon mediano de apartamentos en arriendo en La Linde, Medellín es COP 7,00 millones al mes.
 
-Frente al total de Medellín (COP 4.600.000), el barrio está 41 % por encima.
+Frente a la mediana de Medellín para apartamentos (COP 4,80 millones), queda 46 % por encima.
 
-Por mediana, es el puesto 16 de 97 barrios de Medellín con al menos 30 avisos de apartamentos en arriendo: entre los más caros.
+Por metro cuadrado, la mediana es COP 59.474/m² al mes (n = 54 avisos con área), 21 % por encima de Medellín (COP 49.206/m²).
 
-Con la mediana de venta del mismo barrio (COP 1,33 mil millones), el arriendo anual equivale a 5,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 13 de 78 barrios de Medellín con al menos 30 avisos de apartamentos en arriendo (COP): entre las más caras.
 
-El segmento con más oferta es el de 3 o más habitaciones (36 avisos, mediana COP 8.750.000); pasar de 1 habitación a 3 o más habitaciones sube la mediana 150 %.
+El área mediana anunciada es 111 m².
 
-99 % de los avisos incluye parqueadero.
+El segmento con más oferta es el de 3 o más habitaciones (31 avisos, mediana COP 8,50 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +35 %.
 
-La dispersión es moderada: el cuartil superior (COP 8.875.000) es 1,9 veces el inferior (COP 4.575.000).
+El estrato más frecuente es 6 (82 % de los avisos con estrato).
 
-- n = 74 avisos vigentes · foto del 2026-10-18
+La mitad central de los avisos va de COP 5,55 millones a COP 9,00 millones (razón 1,6), una dispersión moderada.
+
+- n = 55 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/la-linde
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/la-linde
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-la-linde-medellin-octubre-2026.pdf`, `arriendo-apartamentos-la-linde-medellin-octubre-2026.csv`, `arriendo-apartamentos-la-linde-medellin-octubre-2026.png`.

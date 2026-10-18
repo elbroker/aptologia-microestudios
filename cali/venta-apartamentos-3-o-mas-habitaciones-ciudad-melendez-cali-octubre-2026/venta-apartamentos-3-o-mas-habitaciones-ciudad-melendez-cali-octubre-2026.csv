@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,266000000,202
-habitaciones,2,260000000,219
-habitaciones,3+,266000000,202
-barrio,mediana_barrio_todos_los_tamanos,262000000,426
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-melendez,
+seccion,metrica,valor,moneda,n
+precio,p25,248250000.0,COP,126
+precio,mediana,265000000.0,COP,126
+precio,p75,333750000.0,COP,126
+precio,minimo,165000000.0,COP,126
+precio,maximo,620000000.0,COP,126
+m2,mediana_precio_m2,4335784.31,COP,126
+m2,area_mediana_m2,65.0,m2,126
+admin,mediana_admin_mes,295000.0,COP,105
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,83.1,%,89
+estrato,estrato_mas_frecuente,4,,126
+habitaciones,3+,265000000.0,COP,126
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-melendez,,
+fuente,licencia,CC BY 4.0,,

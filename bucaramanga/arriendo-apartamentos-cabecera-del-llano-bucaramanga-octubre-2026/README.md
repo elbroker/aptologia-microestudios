@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en Cabecera del Llano, Bucaramanga — octubre 2026
 
-Con 84 avisos vigentes, el canon mediano de apartamentos en arriendo en Cabecera del Llano, Bucaramanga es COP 3.200.000 al mes.
+En Cabecera del Llano, Bucaramanga, la mediana de canon mensual de apartamentos es COP 3,58 millones, según 66 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 2.000.000, la diferencia es de 60 % por encima.
+Eso es 52 % por encima de la mediana de Bucaramanga para apartamentos (COP 2,35 millones).
 
-Con la mediana de venta del mismo barrio (COP 740 millones), el arriendo anual equivale a 5,2 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 32.507/m² al mes (n = 66 avisos con área), 10 % por encima de Bucaramanga (COP 29.588/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (56 avisos, mediana COP 3.750.000); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 25 %.
+Con el precio por m² de venta del mismo segmento (COP 5,28 millones/m²), la rentabilidad bruta implícita es 7,4 % anual (aproximación con medianas de ofertas distintas).
 
-83 % de los avisos incluye parqueadero, y su mediana (COP 3.200.000) es prácticamente igual a la general.
+El área mediana anunciada es 102 m².
 
-La mitad central de los avisos va de COP 2.597.500 a COP 4.287.500 (razón 1,7), una dispersión moderada.
+El segmento con más oferta es el de 3 o más habitaciones (48 avisos, mediana COP 3,90 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +30 %.
 
-El aviso más barato pide COP 1.500.000 y el más caro COP 10 millones.
+La administración mediana declarada es COP 701.000 al mes (n = 55), aparte del canon.
 
-- n = 84 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 6 (83 % de los avisos con estrato).
+
+- n = 66 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/bucaramanga/cabecera-del-llano
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/bucaramanga/cabecera-del-llano
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-cabecera-del-llano-bucaramanga-octubre-2026.pdf`, `arriendo-apartamentos-cabecera-del-llano-bucaramanga-octubre-2026.csv`, `arriendo-apartamentos-cabecera-del-llano-bucaramanga-octubre-2026.png`.

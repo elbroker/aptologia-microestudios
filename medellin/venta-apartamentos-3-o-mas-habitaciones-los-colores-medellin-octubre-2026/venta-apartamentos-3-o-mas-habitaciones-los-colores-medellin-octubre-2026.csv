@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,660000000,255
-habitaciones,1,330000000,10
-habitaciones,2,550000000,52
-habitaciones,3+,660000000,255
-barrio,mediana_barrio_todos_los_tamanos,645000000,318
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/los-colores,
+seccion,metrica,valor,moneda,n
+precio,p25,530000000.0,COP,167
+precio,mediana,660000000.0,COP,167
+precio,p75,780000000.0,COP,167
+precio,minimo,281190000.0,COP,167
+precio,maximo,1150000000.0,COP,167
+m2,mediana_precio_m2,7500000.0,COP,167
+m2,area_mediana_m2,83.0,m2,167
+admin,mediana_admin_mes,378000.0,COP,105
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,83.5,%,158
+estrato,estrato_mas_frecuente,4,,167
+habitaciones,3+,660000000.0,COP,167
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/los-colores,,
+fuente,licencia,CC BY 4.0,,

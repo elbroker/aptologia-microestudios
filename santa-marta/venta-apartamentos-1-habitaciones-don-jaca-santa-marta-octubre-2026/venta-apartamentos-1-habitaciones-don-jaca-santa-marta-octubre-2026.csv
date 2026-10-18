@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,380000000,75
-habitaciones,1,380000000,75
-habitaciones,2,650000000,31
-habitaciones,3+,900000000,29
-barrio,mediana_barrio_todos_los_tamanos,450000000,137
-ciudad,mediana_ciudad,425000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/don-jaca,
+seccion,metrica,valor,moneda,n
+precio,p25,293750000.0,COP,42
+precio,mediana,365000000.0,COP,42
+precio,p75,427500000.0,COP,42
+precio,minimo,160000000.0,COP,42
+precio,maximo,790000000.0,COP,42
+m2,mediana_precio_m2,9811939.27,COP,42
+m2,area_mediana_m2,40.0,m2,42
+admin,mediana_admin_mes,319000.0,COP,32
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,42
+habitaciones,1,365000000.0,COP,42
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,10958904.11,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/don-jaca,,
+fuente,licencia,CC BY 4.0,,

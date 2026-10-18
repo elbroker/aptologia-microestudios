@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,14600000,49
-habitaciones,2,11000000,11
-habitaciones,3+,14600000,49
-barrio,mediana_barrio_todos_los_tamanos,12000000,63
-ciudad,mediana_ciudad,11500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/sajonia,
+seccion,metrica,valor,moneda,n
+precio,p25,8500000.0,COP,41
+precio,mediana,14600000.0,COP,41
+precio,p75,16500000.0,COP,41
+precio,minimo,4200000.0,COP,41
+precio,maximo,26000000.0,COP,41
+m2,mediana_precio_m2,45782.52,COP,36
+m2,area_mediana_m2,328.0,m2,36
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,3+,14600000.0,COP,41
+ciudad,mediana_ciudad_referencia,11000000.0,COP,
+ciudad,mediana_m2_ciudad,36363.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/sajonia,,
+fuente,licencia,CC BY 4.0,,

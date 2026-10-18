@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,880000000,35
-habitaciones,2,600000000,8
-habitaciones,3+,880000000,35
-barrio,mediana_barrio_todos_los_tamanos,750000000,50
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/los-cristales,
+seccion,metrica,valor,moneda,n
+precio,p25,700000000.0,COP,155
+precio,mediana,850000000.0,COP,155
+precio,p75,1337500000.0,COP,155
+precio,minimo,420000000.0,COP,155
+precio,maximo,3490000000.0,COP,155
+m2,mediana_precio_m2,6000000.0,COP,155
+m2,area_mediana_m2,142.0,m2,155
+admin,mediana_admin_mes,900000.0,COP,135
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,154
+estrato,estrato_mas_frecuente,6,,155
+habitaciones,3+,850000000.0,COP,155
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/los-cristales,,
+fuente,licencia,CC BY 4.0,,

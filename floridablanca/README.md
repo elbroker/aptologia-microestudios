@@ -16,13 +16,13 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Cañaveral, Floridablanca — octubre 2026](venta-apartamentos-canaveral-floridablanca-octubre-2026/) | 431 | COP 480.000.000 |  |
-| [Precio de venta de casas en Cañaveral, Floridablanca — octubre 2026](venta-casas-canaveral-floridablanca-octubre-2026/) | 170 | COP 950.000.000 |  |
-| [Precio de arriendo de apartamentos en Cañaveral, Floridablanca — octubre 2026](arriendo-apartamentos-canaveral-floridablanca-octubre-2026/) | 161 | COP 2.600.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cañaveral, Floridablanca — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-canaveral-floridablanca-octubre-2026/) | 134 | COP 2.700.000 |  |
-| [Precio de venta de apartamentos en Anillo Vial, Floridablanca — octubre 2026](venta-apartamentos-anillo-vial-floridablanca-octubre-2026/) | 81 | COP 465.000.000 |  |
-| [Precio de venta de apartamentos en El Bosque, Floridablanca — octubre 2026](venta-apartamentos-el-bosque-floridablanca-octubre-2026/) | 45 | COP 450.000.000 |  |
-| [Precio de venta de casas en Ruitoque Condominio, Floridablanca — octubre 2026](venta-casas-ruitoque-condominio-floridablanca-octubre-2026/) | 41 | COP 3.500.000.000 |  |
+| [Precio de venta de apartamentos en Cañaveral, Floridablanca — octubre 2026](venta-apartamentos-canaveral-floridablanca-octubre-2026/) | 321 | COP 490.000.000 |  |
+| [Precio de venta de casas en Cañaveral, Floridablanca — octubre 2026](venta-casas-canaveral-floridablanca-octubre-2026/) | 136 | COP 950.000.000 |  |
+| [Precio de arriendo de apartamentos en Cañaveral, Floridablanca — octubre 2026](arriendo-apartamentos-canaveral-floridablanca-octubre-2026/) | 138 | COP 2.600.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cañaveral, Floridablanca — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-canaveral-floridablanca-octubre-2026/) | 115 | COP 2.600.000 |  |
+| [Precio de venta de apartamentos en Anillo Vial, Floridablanca — octubre 2026](venta-apartamentos-anillo-vial-floridablanca-octubre-2026/) | 62 | COP 455.000.000 |  |
+| [Precio de venta de apartamentos en El Bosque, Floridablanca — octubre 2026](venta-apartamentos-el-bosque-floridablanca-octubre-2026/) | 34 | COP 417.500.000 |  |
+| [Precio de venta de casas en Ruitoque Condominio, Floridablanca — octubre 2026](venta-casas-ruitoque-condominio-floridablanca-octubre-2026/) | 49 | COP 3.500.000.000 |  |
 | [Precio de venta de apartamentos en Versalles, Floridablanca — octubre 2026](venta-apartamentos-versalles-floridablanca-octubre-2026/) | 38 | COP 470.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en El Bosque, Floridablanca — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-bosque-floridablanca-octubre-2026/) | 37 | COP 470.000.000 |  |
 | [Precio de venta de casas en Ruitoque, Floridablanca — octubre 2026](venta-casas-ruitoque-floridablanca-octubre-2026/) | 35 | COP 1.750.000.000 |  |

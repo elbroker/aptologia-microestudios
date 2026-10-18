@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,390000000,89
-habitaciones,1,242500000,8
-habitaciones,2,280000000,23
-habitaciones,3+,390000000,89
-barrio,mediana_barrio_todos_los_tamanos,363500000,120
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/prados-del-norte,
+seccion,metrica,valor,moneda,n
+precio,p25,320000000.0,COP,65
+precio,mediana,390000000.0,COP,65
+precio,p75,450000000.0,COP,65
+precio,minimo,220000000.0,COP,65
+precio,maximo,2400000000.0,COP,65
+m2,mediana_precio_m2,4000000.0,COP,64
+m2,area_mediana_m2,93.0,m2,64
+admin,mediana_admin_mes,590000.0,COP,57
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.2,%,62
+estrato,estrato_mas_frecuente,5,,65
+habitaciones,3+,390000000.0,COP,65
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/prados-del-norte,,
+fuente,licencia,CC BY 4.0,,

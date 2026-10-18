@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,48
-habitaciones,1,400000000,9
-habitaciones,2,550000000,48
-habitaciones,3+,1100000000,198
-barrio,mediana_barrio_todos_los_tamanos,920000000,255
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/buenavista,
+seccion,metrica,valor,moneda,n
+precio,p25,459750000.0,COP,40
+precio,mediana,550000000.0,COP,40
+precio,p75,650000000.0,COP,40
+precio,minimo,170000000.0,COP,40
+precio,maximo,980000000.0,COP,40
+m2,mediana_precio_m2,6899038.46,COP,40
+m2,area_mediana_m2,79.0,m2,40
+admin,mediana_admin_mes,470000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,2,550000000.0,COP,40
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/buenavista,,
+fuente,licencia,CC BY 4.0,,

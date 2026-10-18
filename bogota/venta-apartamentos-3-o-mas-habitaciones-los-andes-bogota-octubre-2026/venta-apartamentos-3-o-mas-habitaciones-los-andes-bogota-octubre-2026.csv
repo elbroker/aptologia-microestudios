@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,655000000,46
-habitaciones,1,380000000,13
-habitaciones,2,614500000,14
-habitaciones,3+,655000000,46
-barrio,mediana_barrio_todos_los_tamanos,595000000,73
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/los-andes,
+seccion,metrica,valor,moneda,n
+precio,p25,536000000.0,COP,32
+precio,mediana,650000000.0,COP,32
+precio,p75,912500000.0,COP,32
+precio,minimo,395000000.0,COP,32
+precio,maximo,1850000000.0,COP,32
+m2,mediana_precio_m2,7116883.12,COP,31
+m2,area_mediana_m2,83.0,m2,31
+admin,mediana_admin_mes,709500.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,650000000.0,COP,32
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/los-andes,,
+fuente,licencia,CC BY 4.0,,

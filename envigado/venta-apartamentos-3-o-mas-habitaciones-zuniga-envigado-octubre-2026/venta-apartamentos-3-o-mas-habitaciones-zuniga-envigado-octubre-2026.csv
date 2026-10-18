@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,952500000,222
-habitaciones,2,850000000,55
-habitaciones,3+,952500000,222
-barrio,mediana_barrio_todos_los_tamanos,900000000,283
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/zuniga,
+seccion,metrica,valor,moneda,n
+precio,p25,810000000.0,COP,157
+precio,mediana,960000000.0,COP,157
+precio,p75,1295000000.0,COP,157
+precio,minimo,300000000.0,COP,157
+precio,maximo,2750000000.0,COP,157
+m2,mediana_precio_m2,7376070.99,COP,156
+m2,area_mediana_m2,134.0,m2,156
+admin,mediana_admin_mes,707000.0,COP,101
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.4,%,156
+estrato,estrato_mas_frecuente,5,,149
+habitaciones,3+,960000000.0,COP,157
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/zuniga,,
+fuente,licencia,CC BY 4.0,,

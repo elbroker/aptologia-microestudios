@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,470000000,73
-habitaciones,2,470000000,73
-habitaciones,3+,480000000,30
-barrio,mediana_barrio_todos_los_tamanos,470000000,103
-ciudad,mediana_ciudad,470000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/itagui/fatima,
+seccion,metrica,valor,moneda,n
+precio,p25,435000000.0,COP,59
+precio,mediana,465000000.0,COP,59
+precio,p75,495000000.0,COP,59
+precio,minimo,259809688.0,COP,59
+precio,maximo,625000000.0,COP,59
+m2,mediana_precio_m2,7619047.62,COP,59
+m2,area_mediana_m2,62.0,m2,59
+admin,mediana_admin_mes,300000.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.0,%,57
+estrato,estrato_mas_frecuente,3,,56
+habitaciones,2,465000000.0,COP,59
+ciudad,mediana_ciudad_referencia,465000000.0,COP,
+ciudad,mediana_m2_ciudad,7357142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/fatima,,
+fuente,licencia,CC BY 4.0,,

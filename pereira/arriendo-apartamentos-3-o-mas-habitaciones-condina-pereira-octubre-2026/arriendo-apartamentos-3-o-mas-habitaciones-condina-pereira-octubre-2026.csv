@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1600000,58
-habitaciones,2,1750000,33
-habitaciones,3+,1600000,58
-barrio,mediana_barrio_todos_los_tamanos,1625000,92
-ciudad,mediana_ciudad,3200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/pereira/condina,
+seccion,metrica,valor,moneda,n
+precio,p25,1500000.0,COP,37
+precio,mediana,1600000.0,COP,37
+precio,p75,1900000.0,COP,37
+precio,minimo,1450000.0,COP,37
+precio,maximo,4000000.0,COP,37
+m2,mediana_precio_m2,27678.57,COP,37
+m2,area_mediana_m2,58.0,m2,37
+admin,mediana_admin_mes,192000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,35
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,3+,1600000.0,COP,37
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,31460.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/condina,,
+fuente,licencia,CC BY 4.0,,

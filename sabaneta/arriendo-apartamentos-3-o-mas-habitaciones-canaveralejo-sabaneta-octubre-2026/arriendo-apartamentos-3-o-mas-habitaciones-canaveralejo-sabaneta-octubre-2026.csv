@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3100000,101
-habitaciones,2,2825000,44
-habitaciones,3+,3100000,101
-barrio,mediana_barrio_todos_los_tamanos,2900000,147
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/canaveralejo,
+seccion,metrica,valor,moneda,n
+precio,p25,2700000.0,COP,62
+precio,mediana,3100000.0,COP,62
+precio,p75,3500000.0,COP,62
+precio,minimo,1800000.0,COP,62
+precio,maximo,5500000.0,COP,62
+m2,mediana_precio_m2,40909.09,COP,62
+m2,area_mediana_m2,75.0,m2,62
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.4,%,61
+estrato,estrato_mas_frecuente,4,,62
+habitaciones,3+,3100000.0,COP,62
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/canaveralejo,,
+fuente,licencia,CC BY 4.0,,

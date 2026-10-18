@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,8750000,36
-habitaciones,1,3500000,9
-habitaciones,2,6100000,26
-habitaciones,3+,8750000,36
-barrio,mediana_barrio_todos_los_tamanos,6500000,74
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-linde,
+seccion,metrica,valor,moneda,n
+precio,p25,6600000.0,COP,31
+precio,mediana,8500000.0,COP,31
+precio,p75,12000000.0,COP,31
+precio,minimo,4390000.0,COP,31
+precio,maximo,20000000.0,COP,31
+m2,mediana_precio_m2,56074.77,COP,31
+m2,area_mediana_m2,145.0,m2,31
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,8500000.0,COP,31
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-linde,,
+fuente,licencia,CC BY 4.0,,

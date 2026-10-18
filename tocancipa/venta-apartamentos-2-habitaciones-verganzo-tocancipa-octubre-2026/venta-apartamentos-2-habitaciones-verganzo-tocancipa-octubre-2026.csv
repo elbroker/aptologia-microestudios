@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,200000000,43
-habitaciones,2,200000000,43
-habitaciones,3+,220000000,120
-barrio,mediana_barrio_todos_los_tamanos,215000000,165
-ciudad,mediana_ciudad,200000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/tocancipa/verganzo,
+seccion,metrica,valor,moneda,n
+precio,p25,185000000.0,COP,40
+precio,mediana,200000000.0,COP,40
+precio,p75,226250000.0,COP,40
+precio,minimo,165000000.0,COP,40
+precio,maximo,290000000.0,COP,40
+m2,mediana_precio_m2,3617021.28,COP,39
+m2,area_mediana_m2,57.0,m2,39
+admin,mediana_admin_mes,150000.0,COP,31
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,2,200000000.0,COP,40
+ciudad,mediana_ciudad_referencia,200000000.0,COP,
+ciudad,mediana_m2_ciudad,3700000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/tocancipa/verganzo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,900000000,49
-habitaciones,2,600000000,12
-habitaciones,3+,900000000,49
-barrio,mediana_barrio_todos_los_tamanos,795000000,68
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/santa-teresita,
+seccion,metrica,valor,moneda,n
+precio,p25,720000000.0,COP,40
+precio,mediana,892500000.0,COP,40
+precio,p75,1112500000.0,COP,40
+precio,minimo,498000000.0,COP,40
+precio,maximo,1650000000.0,COP,40
+m2,mediana_precio_m2,6130952.38,COP,40
+m2,area_mediana_m2,146.5,m2,40
+admin,mediana_admin_mes,586000.0,COP,21
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.4,%,38
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,3+,892500000.0,COP,40
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/santa-teresita,,
+fuente,licencia,CC BY 4.0,,

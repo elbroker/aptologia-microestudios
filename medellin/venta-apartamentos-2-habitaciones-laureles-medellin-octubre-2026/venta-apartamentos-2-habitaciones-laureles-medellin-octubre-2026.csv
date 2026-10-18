@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,640000000,407
-habitaciones,1,449540000,382
-habitaciones,2,640000000,407
-habitaciones,3+,880000000,2735
-barrio,mediana_barrio_todos_los_tamanos,820000000,3529
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,
+seccion,metrica,valor,moneda,n
+precio,p25,487500000.0,COP,287
+precio,mediana,610000000.0,COP,287
+precio,p75,757500000.0,COP,287
+precio,minimo,215000000.0,COP,287
+precio,maximo,1530000000.0,COP,287
+m2,mediana_precio_m2,7769230.77,COP,287
+m2,area_mediana_m2,79.0,m2,287
+admin,mediana_admin_mes,396000.0,COP,189
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.5,%,258
+estrato,estrato_mas_frecuente,5,,261
+habitaciones,2,610000000.0,COP,287
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

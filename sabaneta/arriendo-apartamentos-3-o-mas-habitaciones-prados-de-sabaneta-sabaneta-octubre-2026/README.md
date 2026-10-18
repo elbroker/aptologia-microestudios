@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 3 o más habitaciones en Prados de Sabaneta, Sabaneta — octubre 2026
 
-En Prados de Sabaneta, Sabaneta, la mediana de canon mensual de apartamentos de 3 o más habitaciones es COP 3.200.000, según 137 avisos vigentes.
+Con 70 avisos vigentes, el canon mediano de apartamentos de 3 o más habitaciones en arriendo en Prados de Sabaneta, Sabaneta es COP 3,30 millones al mes.
 
-La mediana prácticamente coincide con la de Sabaneta para apartamentos de 3 o más habitaciones (COP 3.300.000; diferencia de -3,0 %).
+Prácticamente coincide con la mediana de Sabaneta para apartamentos de 3 o más habitaciones (COP 3,30 millones).
 
-Son 57 % de los 240 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 3.000.000 (+7 %).
+Por metro cuadrado, la mediana es COP 41.176/m² al mes (n = 69 avisos con área), 2 % por encima de Sabaneta (COP 40.244/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 540 millones), el arriendo anual equivale a 7,1 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 54 % de los 130 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 3,10 millones (+6 %).
 
-En el mismo barrio, la mediana es COP 2.771.000 con 1 habitación (n = 28), COP 2.950.000 con 2 habitaciones (n = 73).
+Con el precio por m² de venta del mismo segmento (COP 6,99 millones/m²), la rentabilidad bruta implícita es 7,1 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 137 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 76 m².
+
+El estrato más frecuente es 4 (91 % de los avisos con estrato).
+
+La mitad central de los avisos va de COP 3,00 millones a COP 3,50 millones (razón 1,2), una dispersión baja.
+
+- n = 70 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/sabaneta/prados-de-sabaneta
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/sabaneta/prados-de-sabaneta
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-3-o-mas-habitaciones-prados-de-sabaneta-sabaneta-octubre-2026.pdf`, `arriendo-apartamentos-3-o-mas-habitaciones-prados-de-sabaneta-sabaneta-octubre-2026.csv`, `arriendo-apartamentos-3-o-mas-habitaciones-prados-de-sabaneta-sabaneta-octubre-2026.png`.

@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en La Gabriela, Bello — octubre 2026
 
-Con 60 avisos vigentes, el canon mediano de apartamentos en arriendo en La Gabriela, Bello es COP 1.975.000 al mes.
+En La Gabriela, Bello, la mediana de canon mensual de apartamentos es COP 1,90 millones, según 41 avisos vigentes.
 
-La mediana prácticamente coincide con la de Bello para apartamentos (COP 2.000.000; diferencia de -1,2 %).
+Eso es 5 % por debajo de la mediana de Bello para apartamentos (COP 2,00 millones).
 
-Con la mediana de venta del mismo barrio (COP 296 millones), el arriendo anual equivale a 8,0 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 34.545/m² al mes (n = 41 avisos con área), 4 % por encima de Bello (COP 33.333/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (46 avisos, mediana COP 2.000.000); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 11 %.
+Por precio mediano es el puesto 7 de 8 barrios de Bello con al menos 30 avisos de apartamentos en arriendo (COP): entre las más económicas.
 
-Por mediana, es el puesto 8 de 12 barrios de Bello con al menos 30 avisos de apartamentos en arriendo: en la franja media.
+Con el precio por m² de venta del mismo segmento (COP 5,00 millones/m²), la rentabilidad bruta implícita es 8,3 % anual (aproximación con medianas de ofertas distintas).
 
-El aviso más barato pide COP 1.100.000 y el más caro COP 2.600.000.
+El área mediana anunciada es 55 m².
 
-38 % de los anunciantes publica un teléfono de contacto.
+El segmento con más oferta es el de 3 o más habitaciones (33 avisos, mediana COP 2,00 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +16 %.
 
-- n = 60 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 3 (83 % de los avisos con estrato).
+
+- n = 41 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/bello/la-gabriela
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/bello/la-gabriela
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-la-gabriela-bello-octubre-2026.pdf`, `arriendo-apartamentos-la-gabriela-bello-octubre-2026.csv`, `arriendo-apartamentos-la-gabriela-bello-octubre-2026.png`.

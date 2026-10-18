@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,9500000,373
-habitaciones,1,4050000,106
-habitaciones,2,6600000,120
-habitaciones,3+,9500000,373
-barrio,mediana_barrio_todos_los_tamanos,7800000,601
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,
+seccion,metrica,valor,moneda,n
+precio,p25,7000000.0,COP,296
+precio,mediana,9850000.0,COP,296
+precio,p75,13300000.0,COP,296
+precio,minimo,3200000.0,COP,296
+precio,maximo,20000000.0,COP,296
+m2,mediana_precio_m2,52631.58,COP,295
+m2,area_mediana_m2,178.0,m2,295
+admin,mediana_admin_mes,1250000.0,COP,19
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.6,%,296
+estrato,estrato_mas_frecuente,6,,296
+habitaciones,3+,9850000.0,COP,296
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

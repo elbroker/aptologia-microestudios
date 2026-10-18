@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,720000000,190
-habitaciones,1,330000000,20
-habitaciones,2,530000000,43
-habitaciones,3+,720000000,190
-barrio,mediana_barrio_todos_los_tamanos,655000000,254
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/milan,
+seccion,metrica,valor,moneda,n
+precio,p25,550000000.0,COP,115
+precio,mediana,695000000.0,COP,115
+precio,p75,777500000.0,COP,115
+precio,minimo,220000000.0,COP,115
+precio,maximo,1200000000.0,COP,115
+m2,mediana_precio_m2,5670103.09,COP,115
+m2,area_mediana_m2,105.0,m2,115
+admin,mediana_admin_mes,482000.0,COP,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.3,%,106
+estrato,estrato_mas_frecuente,6,,115
+habitaciones,3+,695000000.0,COP,115
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/milan,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,230000000,234
-habitaciones,2,230000000,234
-habitaciones,3+,290000000,104
-barrio,mediana_barrio_todos_los_tamanos,238000000,339
-ciudad,mediana_ciudad,280000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-pacifica,
+seccion,metrica,valor,moneda,n
+precio,p25,210000000.0,COP,153
+precio,mediana,230000000.0,COP,153
+precio,p75,270000000.0,COP,153
+precio,minimo,155000000.0,COP,153
+precio,maximo,495000000.0,COP,153
+m2,mediana_precio_m2,3962264.15,COP,153
+m2,area_mediana_m2,59.0,m2,153
+admin,mediana_admin_mes,240000.0,COP,117
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,59.3,%,86
+estrato,estrato_mas_frecuente,4,,153
+habitaciones,2,230000000.0,COP,153
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,4545454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-pacifica,,
+fuente,licencia,CC BY 4.0,,

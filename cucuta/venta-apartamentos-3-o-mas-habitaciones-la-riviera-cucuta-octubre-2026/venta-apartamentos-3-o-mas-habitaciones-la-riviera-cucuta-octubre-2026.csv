@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,420000000,45
-habitaciones,2,370000000,8
-habitaciones,3+,420000000,45
-barrio,mediana_barrio_todos_los_tamanos,400000000,55
-ciudad,mediana_ciudad,290000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cucuta/la-riviera,
+seccion,metrica,valor,moneda,n
+precio,p25,370000000.0,COP,45
+precio,mediana,420000000.0,COP,45
+precio,p75,520000000.0,COP,45
+precio,minimo,210000000.0,COP,45
+precio,maximo,1300000000.0,COP,45
+m2,mediana_precio_m2,3281250.0,COP,41
+m2,area_mediana_m2,140.0,m2,41
+admin,mediana_admin_mes,425000.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.8,%,45
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,3+,420000000.0,COP,45
+ciudad,mediana_ciudad_referencia,295000000.0,COP,
+ciudad,mediana_m2_ciudad,3478260.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cucuta/la-riviera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1165000000,118
-habitaciones,1,800000000,33
-habitaciones,2,1165000000,118
-habitaciones,3+,1470000000,137
-barrio,mediana_barrio_todos_los_tamanos,1200000000,288
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/altos-del-poblado,
+seccion,metrica,valor,moneda,n
+precio,p25,870000000.0,COP,88
+precio,mediana,1157674500.0,COP,88
+precio,p75,1300000000.0,COP,88
+precio,minimo,220000000.0,COP,88
+precio,maximo,2500000000.0,COP,88
+m2,mediana_precio_m2,11320754.72,COP,85
+m2,area_mediana_m2,90.5,m2,85
+admin,mediana_admin_mes,700000.0,COP,65
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,88
+estrato,estrato_mas_frecuente,6,,87
+habitaciones,2,1157674500.0,COP,88
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/altos-del-poblado,,
+fuente,licencia,CC BY 4.0,,

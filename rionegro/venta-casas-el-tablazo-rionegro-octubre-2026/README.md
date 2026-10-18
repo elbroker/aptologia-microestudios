@@ -1,23 +1,25 @@
 # Precio de venta de casas en El Tablazo, Rionegro — octubre 2026
 
-En El Tablazo, Rionegro, la mediana de precio de venta de casas es COP 3,40 mil millones, según 63 avisos vigentes.
+Con 63 avisos vigentes, el precio mediano de casas en venta en El Tablazo, Rionegro es COP 3,60 mil millones.
 
-Comparado con la mediana de la ciudad, COP 1,80 mil millones, la diferencia es de 89 % por encima.
+Frente a la mediana de Rionegro para casas (COP 2,20 mil millones), queda 64 % por encima.
 
-Por mediana, es el puesto 1 de 13 barrios de Rionegro con al menos 30 avisos de casas en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 8,45 millones/m² (n = 45 avisos con área), 26 % por encima de Rionegro (COP 6,69 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 14 millones al mes), el arriendo anual equivale a 4,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 1 de 12 barrios de Rionegro con al menos 30 avisos de casas en venta (COP): entre las más caras.
 
-El segmento con más oferta es el de 3 o más habitaciones (61 avisos, mediana COP 3,40 mil millones).
+Con el precio por m² de arriendo del mismo segmento (COP 41.566/m² al mes), la rentabilidad bruta implícita es 5,9 % anual (aproximación con medianas de ofertas distintas).
 
-94 % de los avisos incluye parqueadero, y su mediana (COP 3,40 mil millones) es prácticamente igual a la general.
+El área mediana anunciada es 450 m².
 
-El aviso más barato pide COP 1,17 mil millones y el más caro COP 4,99 mil millones.
+El segmento con más oferta es el de 3 o más habitaciones (62 avisos, mediana COP 3,60 mil millones).
 
-- n = 63 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 1,11 millones al mes (n = 25).
+
+- n = 63 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/rionegro/el-tablazo
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/rionegro/el-tablazo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-el-tablazo-rionegro-octubre-2026.pdf`, `venta-casas-el-tablazo-rionegro-octubre-2026.csv`, `venta-casas-el-tablazo-rionegro-octubre-2026.png`.

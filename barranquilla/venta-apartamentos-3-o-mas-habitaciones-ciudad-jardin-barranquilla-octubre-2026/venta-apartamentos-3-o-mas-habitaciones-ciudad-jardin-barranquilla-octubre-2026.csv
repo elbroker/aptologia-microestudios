@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,420500000,332
-habitaciones,1,260000000,49
-habitaciones,2,350000000,58
-habitaciones,3+,420500000,332
-barrio,mediana_barrio_todos_los_tamanos,400000000,440
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-jardin,
+seccion,metrica,valor,moneda,n
+precio,p25,361601600.0,COP,239
+precio,mediana,426000000.0,COP,239
+precio,p75,550000000.0,COP,239
+precio,minimo,250000000.0,COP,239
+precio,maximo,980000000.0,COP,239
+m2,mediana_precio_m2,4294478.53,COP,231
+m2,area_mediana_m2,100.0,m2,231
+admin,mediana_admin_mes,500000.0,COP,185
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.2,%,226
+estrato,estrato_mas_frecuente,4,,235
+habitaciones,3+,426000000.0,COP,239
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Salgar, Puerto Colombia — octubre 2026
 
-Con 57 avisos vigentes, el precio mediano de apartamentos en venta en Salgar, Puerto Colombia es COP 500 millones.
+Con 53 avisos vigentes, el precio mediano de apartamentos en venta en Salgar, Puerto Colombia es COP 500 millones.
 
-La mediana prácticamente coincide con la de Puerto Colombia para apartamentos (COP 505 millones; diferencia de -1,0 %).
+Prácticamente coincide con la mediana de Puerto Colombia para apartamentos (COP 520 millones).
 
-Con la mediana de arriendo del mismo barrio (COP 2.800.000 al mes), el arriendo anual equivale a 6,7 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 6,07 millones/m² (n = 52 avisos con área), 3 % por encima de Puerto Colombia (COP 5,87 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (33 avisos, mediana COP 550 millones); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 20 %.
+Con el precio por m² de arriendo del mismo segmento (COP 31.853/m² al mes), la rentabilidad bruta implícita es 6,3 % anual (aproximación con medianas de ofertas distintas).
 
-89 % de los avisos incluye parqueadero, y su mediana (COP 520 millones) está 4 % por encima de la general.
+El área mediana anunciada es 86 m².
 
-El aviso más barato pide COP 160 millones y el más caro COP 2,60 mil millones.
+El segmento con más oferta es el de 3 o más habitaciones (31 avisos, mediana COP 567 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +24 %.
 
-La mitad central de los avisos va de COP 420 millones a COP 600 millones (razón 1,4), una dispersión moderada.
+La administración mediana declarada es COP 450.000 al mes (n = 44).
 
-- n = 57 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 4 (45 % de los avisos con estrato).
+
+- n = 53 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/puerto-colombia/salgar
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/puerto-colombia/salgar
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-salgar-puerto-colombia-octubre-2026.pdf`, `venta-apartamentos-salgar-puerto-colombia-octubre-2026.csv`, `venta-apartamentos-salgar-puerto-colombia-octubre-2026.png`.

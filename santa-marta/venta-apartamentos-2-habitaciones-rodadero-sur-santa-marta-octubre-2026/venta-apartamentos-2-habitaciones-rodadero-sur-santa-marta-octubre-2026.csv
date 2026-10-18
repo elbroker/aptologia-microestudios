@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,522500000,150
-habitaciones,1,390000000,105
-habitaciones,2,522500000,150
-habitaciones,3+,950000000,111
-barrio,mediana_barrio_todos_los_tamanos,522500000,366
-ciudad,mediana_ciudad,690000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero-sur,
+seccion,metrica,valor,moneda,n
+precio,p25,405000000.0,COP,114
+precio,mediana,550000000.0,COP,114
+precio,p75,787500000.0,COP,114
+precio,minimo,190000000.0,COP,114
+precio,maximo,1630000000.0,COP,114
+m2,mediana_precio_m2,7543859.65,COP,113
+m2,area_mediana_m2,70.0,m2,113
+admin,mediana_admin_mes,480000.0,COP,98
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.9,%,99
+estrato,estrato_mas_frecuente,6,,111
+habitaciones,2,550000000.0,COP,114
+ciudad,mediana_ciudad_referencia,700000000.0,COP,
+ciudad,mediana_m2_ciudad,8730158.73,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero-sur,,
+fuente,licencia,CC BY 4.0,,

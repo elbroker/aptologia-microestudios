@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 1 habitación en Laureles, Medellín — octubre 2026
 
-En Laureles, Medellín, la mediana de precio de venta de apartamentos de 1 habitación es COP 450 millones, según 382 avisos vigentes.
+En Laureles, Medellín, la mediana de precio de venta de apartamentos de 1 habitación es COP 475 millones, según 132 avisos vigentes.
 
-Eso la ubica 22 % por debajo de la mediana de Medellín para apartamentos de 1 habitación (COP 575 millones).
+Frente a la mediana de Medellín para apartamentos de 1 habitación (COP 630 millones), queda 25 % por debajo.
 
-Son 11 % de los 3.529 avisos de apartamentos en venta del barrio, cuya mediana general es COP 820 millones (−45 %).
+Por metro cuadrado, la mediana es COP 11,16 millones/m² (n = 123 avisos con área), 3 % por encima de Medellín (COP 10,83 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 2.500.000 al mes), el arriendo anual equivale a 6,7 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 6 % de los 2.268 avisos de apartamentos en venta de la zona, cuya mediana general es COP 830 millones (−43 %).
 
-En el mismo barrio, la mediana es COP 640 millones con 2 habitaciones (n = 407), COP 880 millones con 3 o más habitaciones (n = 2735).
+Con el precio por m² de arriendo del mismo segmento (COP 61.765/m² al mes), la rentabilidad bruta implícita es 6,6 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 382 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 44 m².
+
+La administración mediana declarada es COP 380.000 al mes (n = 75).
+
+El estrato más frecuente es 5 (80 % de los avisos con estrato).
+
+- n = 132 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/medellin/laureles
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/medellin/laureles
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-1-habitaciones-laureles-medellin-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-laureles-medellin-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-laureles-medellin-octubre-2026.png`.

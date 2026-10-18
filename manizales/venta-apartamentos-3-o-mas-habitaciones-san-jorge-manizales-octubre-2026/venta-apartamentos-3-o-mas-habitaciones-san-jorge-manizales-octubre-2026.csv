@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,330000000,44
-habitaciones,2,295000000,17
-habitaciones,3+,330000000,44
-barrio,mediana_barrio_todos_los_tamanos,320000000,67
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/san-jorge,
+seccion,metrica,valor,moneda,n
+precio,p25,295000000.0,COP,33
+precio,mediana,341000000.0,COP,33
+precio,p75,430000000.0,COP,33
+precio,minimo,195000000.0,COP,33
+precio,maximo,1150000000.0,COP,33
+m2,mediana_precio_m2,5125757.58,COP,32
+m2,area_mediana_m2,64.5,m2,32
+admin,mediana_admin_mes,220000.0,COP,21
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,341000000.0,COP,33
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/san-jorge,,
+fuente,licencia,CC BY 4.0,,

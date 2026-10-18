@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,174
-habitaciones,2,410000000,57
-habitaciones,3+,550000000,174
-barrio,mediana_barrio_todos_los_tamanos,500000000,233
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-country,
+seccion,metrica,valor,moneda,n
+precio,p25,450000000.0,COP,125
+precio,mediana,599000000.0,COP,125
+precio,p75,1200000000.0,COP,125
+precio,minimo,320000000.0,COP,125
+precio,maximo,3188069280.0,COP,125
+m2,mediana_precio_m2,3976744.19,COP,120
+m2,area_mediana_m2,159.0,m2,120
+admin,mediana_admin_mes,965500.0,COP,98
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,125
+estrato,estrato_mas_frecuente,6,,125
+habitaciones,3+,599000000.0,COP,125
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-country,,
+fuente,licencia,CC BY 4.0,,

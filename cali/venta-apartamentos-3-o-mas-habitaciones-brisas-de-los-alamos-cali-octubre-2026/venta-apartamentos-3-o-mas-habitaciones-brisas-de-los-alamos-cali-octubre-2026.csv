@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,188500000,54
-habitaciones,2,252890000,34
-habitaciones,3+,188500000,54
-barrio,mediana_barrio_todos_los_tamanos,220000000,89
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/brisas-de-los-alamos,
+seccion,metrica,valor,moneda,n
+precio,p25,165000000.0,COP,32
+precio,mediana,188500000.0,COP,32
+precio,p75,251250000.0,COP,32
+precio,minimo,150000000.0,COP,32
+precio,maximo,290000000.0,COP,32
+m2,mediana_precio_m2,3236363.64,COP,32
+m2,area_mediana_m2,57.0,m2,32
+admin,mediana_admin_mes,239000.0,COP,22
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,3+,188500000.0,COP,32
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/brisas-de-los-alamos,,
+fuente,licencia,CC BY 4.0,,

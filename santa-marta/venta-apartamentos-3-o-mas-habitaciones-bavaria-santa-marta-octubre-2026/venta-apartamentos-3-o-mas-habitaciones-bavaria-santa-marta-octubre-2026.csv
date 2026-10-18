@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,177
-habitaciones,1,220000000,13
-habitaciones,2,530000000,29
-habitaciones,3+,550000000,177
-barrio,mediana_barrio_todos_los_tamanos,530000000,219
-ciudad,mediana_ciudad,790000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bavaria,
+seccion,metrica,valor,moneda,n
+precio,p25,420000000.0,COP,123
+precio,mediana,550000000.0,COP,123
+precio,p75,775000000.0,COP,123
+precio,minimo,220000000.0,COP,123
+precio,maximo,2330000000.0,COP,123
+m2,mediana_precio_m2,4333023.83,COP,113
+m2,area_mediana_m2,143.0,m2,113
+admin,mediana_admin_mes,737500.0,COP,106
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.5,%,122
+estrato,estrato_mas_frecuente,6,,122
+habitaciones,3+,550000000.0,COP,123
+ciudad,mediana_ciudad_referencia,760000000.0,COP,
+ciudad,mediana_m2_ciudad,5729166.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bavaria,,
+fuente,licencia,CC BY 4.0,,

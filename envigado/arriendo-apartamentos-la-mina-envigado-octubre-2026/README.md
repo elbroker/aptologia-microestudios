@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en La Mina, Envigado — octubre 2026
 
-Con 77 avisos vigentes, el canon mediano de apartamentos en arriendo en La Mina, Envigado es COP 2.400.000 al mes.
+Con 56 avisos vigentes, el canon mediano de apartamentos en arriendo en La Mina, Envigado es COP 2,58 millones al mes.
 
-Eso la ubica 44 % por debajo de la mediana de Envigado para apartamentos (COP 4.300.000).
+Frente a la mediana de Envigado para apartamentos (COP 4,40 millones), queda 41 % por debajo.
 
-Por mediana, es el puesto 44 de 45 barrios de Envigado con al menos 30 avisos de apartamentos en arriendo: entre los más económicos.
+Por metro cuadrado, la mediana es COP 40.000/m² al mes (n = 55 avisos con área), 18 % por debajo de Envigado (COP 48.864/m²).
 
-Con la mediana de venta del mismo barrio (COP 370 millones), el arriendo anual equivale a 7,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 39 de 39 barrios de Envigado con al menos 30 avisos de apartamentos en arriendo (COP): entre las más económicas.
 
-El segmento con más oferta es el de 3 o más habitaciones (48 avisos, mediana COP 2.200.000); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana -26 %.
+Con el precio por m² de venta del mismo segmento (COP 5,74 millones/m²), la rentabilidad bruta implícita es 8,4 % anual (aproximación con medianas de ofertas distintas).
 
-El aviso más barato pide COP 1.800.000 y el más caro COP 9.500.000.
+El área mediana anunciada es 67 m².
 
-60 % de los avisos incluye parqueadero, y su mediana (COP 2.900.000) está 21 % por encima de la general.
+El segmento con más oferta es el de 3 o más habitaciones (32 avisos, mediana COP 2,33 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana −21 %.
 
-- n = 77 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 4 (48 % de los avisos con estrato).
+
+- n = 56 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/envigado/la-mina
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/envigado/la-mina
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-la-mina-envigado-octubre-2026.pdf`, `arriendo-apartamentos-la-mina-envigado-octubre-2026.csv`, `arriendo-apartamentos-la-mina-envigado-octubre-2026.png`.

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,665000000,44
-habitaciones,2,550000000,20
-habitaciones,3+,665000000,44
-barrio,mediana_barrio_todos_los_tamanos,600000000,65
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/el-carmelo,
+seccion,metrica,valor,moneda,n
+precio,p25,547500000.0,COP,34
+precio,mediana,682500000.0,COP,34
+precio,p75,736750000.0,COP,34
+precio,minimo,440000000.0,COP,34
+precio,maximo,850000000.0,COP,34
+m2,mediana_precio_m2,7478070.18,COP,34
+m2,area_mediana_m2,88.0,m2,34
+admin,mediana_admin_mes,429000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,3+,682500000.0,COP,34
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/el-carmelo,,
+fuente,licencia,CC BY 4.0,,

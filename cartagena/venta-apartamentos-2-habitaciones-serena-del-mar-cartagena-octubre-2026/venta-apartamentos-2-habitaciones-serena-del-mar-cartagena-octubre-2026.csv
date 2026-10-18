@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,600000000,410
-habitaciones,1,440000000,145
-habitaciones,2,600000000,410
-habitaciones,3+,945000000,108
-barrio,mediana_barrio_todos_los_tamanos,620000000,666
-ciudad,mediana_ciudad,750000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cartagena/serena-del-mar,
+seccion,metrica,valor,moneda,n
+precio,p25,500000000.0,COP,339
+precio,mediana,600000000.0,COP,339
+precio,p75,750000000.0,COP,339
+precio,minimo,280000000.0,COP,339
+precio,maximo,3500000000.0,COP,339
+m2,mediana_precio_m2,7925920.99,COP,330
+m2,area_mediana_m2,76.0,m2,330
+admin,mediana_admin_mes,532000.0,COP,234
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.8,%,334
+estrato,estrato_mas_frecuente,5,,324
+habitaciones,2,600000000.0,COP,339
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,8409090.91,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/serena-del-mar,,
+fuente,licencia,CC BY 4.0,,

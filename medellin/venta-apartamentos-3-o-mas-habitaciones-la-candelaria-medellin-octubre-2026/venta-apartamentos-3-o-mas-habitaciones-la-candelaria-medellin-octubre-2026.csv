@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,577000000,149
-habitaciones,1,277500000,28
-habitaciones,2,442000000,38
-habitaciones,3+,577000000,149
-barrio,mediana_barrio_todos_los_tamanos,517000000,218
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/la-candelaria,
+seccion,metrica,valor,moneda,n
+precio,p25,430000000.0,COP,144
+precio,mediana,578500000.0,COP,144
+precio,p75,714750000.0,COP,144
+precio,minimo,245000000.0,COP,144
+precio,maximo,2500000000.0,COP,144
+m2,mediana_precio_m2,4000000.0,COP,129
+m2,area_mediana_m2,139.3,m2,129
+admin,mediana_admin_mes,685000.0,COP,80
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,85.8,%,113
+estrato,estrato_mas_frecuente,4,,128
+habitaciones,3+,578500000.0,COP,144
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-candelaria,,
+fuente,licencia,CC BY 4.0,,

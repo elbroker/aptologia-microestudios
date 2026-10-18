@@ -1,23 +1,25 @@
 # Precio de arriendo de casas en Manga, Cartagena — octubre 2026
 
-En Manga, Cartagena, la mediana de canon mensual de casas es COP 8.750.000, según 70 avisos vigentes.
+Con 60 avisos vigentes, el canon mediano de casas en arriendo en Manga, Cartagena es COP 12 millones al mes.
 
-Frente al total de Cartagena (COP 7.000.000), el barrio está 25 % por encima.
+Frente a la mediana de Cartagena para casas (COP 7,19 millones), queda 67 % por encima.
 
-La dispersión es alta: el cuartil superior (COP 17.750.000) es 3,0 veces el inferior (COP 6.000.000).
+Por metro cuadrado, la mediana es COP 35.500/m² al mes (n = 58 avisos con área), 25 % por encima de Cartagena (COP 28.342/m²).
 
-Con la mediana de venta del mismo barrio (COP 1,20 mil millones), el arriendo anual equivale a 8,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Con el precio por m² de venta del mismo segmento (COP 5,43 millones/m²), la rentabilidad bruta implícita es 7,8 % anual (aproximación con medianas de ofertas distintas).
 
-El segmento con más oferta es el de 3 o más habitaciones (60 avisos, mediana COP 8.750.000).
+La mitad central de los avisos va de COP 7,00 millones a COP 18 millones (razón 2,6), una dispersión alta.
 
-El aviso más barato pide COP 3.580.000 y el más caro COP 25 millones.
+El área mediana anunciada es 263 m².
 
-54 % de los avisos incluye parqueadero, y su mediana (COP 10.500.000) está 20 % por encima de la general.
+El segmento con más oferta es el de 3 o más habitaciones (51 avisos, mediana COP 12 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +71 %.
 
-- n = 70 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 5 (71 % de los avisos con estrato).
+
+- n = 60 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/cartagena/manga
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/cartagena/manga
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-casas-manga-cartagena-octubre-2026.pdf`, `arriendo-casas-manga-cartagena-octubre-2026.csv`, `arriendo-casas-manga-cartagena-octubre-2026.png`.

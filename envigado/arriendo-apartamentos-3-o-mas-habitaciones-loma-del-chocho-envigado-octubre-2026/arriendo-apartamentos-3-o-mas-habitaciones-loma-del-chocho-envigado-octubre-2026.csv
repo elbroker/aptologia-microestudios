@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5250000,100
-habitaciones,1,4500000,21
-habitaciones,2,4350000,147
-habitaciones,3+,5250000,100
-barrio,mediana_barrio_todos_los_tamanos,4600000,269
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-chocho,
+seccion,metrica,valor,moneda,n
+precio,p25,4700000.0,COP,86
+precio,mediana,5250000.0,COP,86
+precio,p75,6000000.0,COP,86
+precio,minimo,2900000.0,COP,86
+precio,maximo,12000000.0,COP,86
+m2,mediana_precio_m2,50000.0,COP,86
+m2,area_mediana_m2,100.0,m2,86
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,86
+estrato,estrato_mas_frecuente,5,,85
+habitaciones,3+,5250000.0,COP,86
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

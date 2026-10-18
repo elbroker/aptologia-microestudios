@@ -1,17 +1,25 @@
 # Precio de venta de apartamentos de 3 o más habitaciones en Provenza, Bucaramanga — octubre 2026
 
-COP 360 millones es el precio mediano de apartamentos de 3 o más habitaciones en venta en Provenza, Bucaramanga (n = 59 avisos).
+En Provenza, Bucaramanga, la mediana de precio de venta de apartamentos de 3 o más habitaciones es COP 367 millones, según 49 avisos vigentes.
 
-Frente al total de Bucaramanga (COP 470 millones), el barrio está 23 % por debajo.
+Eso es 20 % por debajo de la mediana de Bucaramanga para apartamentos de 3 o más habitaciones (COP 457 millones).
 
-Son 81 % de los 73 avisos de apartamentos en venta del barrio, cuya mediana general es COP 350 millones (+3 %).
+Por metro cuadrado, la mediana es COP 3,80 millones/m² (n = 49 avisos con área), 16 % por debajo de Bucaramanga (COP 4,54 millones/m²).
 
-En el mismo barrio, la mediana es COP 275 millones con 2 habitaciones (n = 10).
+Son 84 % de los 58 avisos de apartamentos en venta de la zona, cuya mediana general es COP 352 millones (+4 %).
 
-- n = 59 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 85 m².
+
+La administración mediana declarada es COP 254.000 al mes (n = 36).
+
+El estrato más frecuente es 4 (90 % de los avisos con estrato).
+
+87 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 49 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/bucaramanga/provenza
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/bucaramanga/provenza
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-3-o-mas-habitaciones-provenza-bucaramanga-octubre-2026.pdf`, `venta-apartamentos-3-o-mas-habitaciones-provenza-bucaramanga-octubre-2026.csv`, `venta-apartamentos-3-o-mas-habitaciones-provenza-bucaramanga-octubre-2026.png`.

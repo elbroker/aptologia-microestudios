@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,460000000,37
-habitaciones,1,300000000,8
-habitaciones,2,460000000,37
-habitaciones,3+,665000000,76
-barrio,mediana_barrio_todos_los_tamanos,532500000,122
-ciudad,mediana_ciudad,330000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/calahorra,
+seccion,metrica,valor,moneda,n
+precio,p25,380000000.0,COP,33
+precio,mediana,460000000.0,COP,33
+precio,p75,530000000.0,COP,33
+precio,minimo,212000000.0,COP,33
+precio,maximo,1530000000.0,COP,33
+m2,mediana_precio_m2,6883116.88,COP,33
+m2,area_mediana_m2,75.0,m2,33
+admin,mediana_admin_mes,350000.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,2,460000000.0,COP,33
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,5749907.51,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/calahorra,,
+fuente,licencia,CC BY 4.0,,

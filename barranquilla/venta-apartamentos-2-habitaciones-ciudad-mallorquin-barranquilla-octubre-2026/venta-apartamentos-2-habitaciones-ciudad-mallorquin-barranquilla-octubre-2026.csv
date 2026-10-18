@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,275000000,149
-habitaciones,2,275000000,149
-habitaciones,3+,460000000,27
-barrio,mediana_barrio_todos_los_tamanos,279000000,178
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-mallorquin,
+seccion,metrica,valor,moneda,n
+precio,p25,257500000.0,COP,100
+precio,mediana,274000000.0,COP,100
+precio,p75,300000000.0,COP,100
+precio,minimo,205000000.0,COP,100
+precio,maximo,700000000.0,COP,100
+m2,mediana_precio_m2,4867647.06,COP,100
+m2,area_mediana_m2,57.0,m2,100
+admin,mediana_admin_mes,187000.0,COP,67
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.5,%,58
+estrato,estrato_mas_frecuente,3,,94
+habitaciones,2,274000000.0,COP,100
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-mallorquin,,
+fuente,licencia,CC BY 4.0,,

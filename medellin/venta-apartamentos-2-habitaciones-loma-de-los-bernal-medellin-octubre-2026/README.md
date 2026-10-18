@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 2 habitaciones en Loma de los Bernal, Medellín — octubre 2026
 
-Con 81 avisos vigentes, el precio mediano de apartamentos de 2 habitaciones en venta en Loma de los Bernal, Medellín es COP 590 millones.
+En Loma de los Bernal, Medellín, la mediana de precio de venta de apartamentos de 2 habitaciones es COP 560 millones, según 52 avisos vigentes.
 
-Frente al total de Medellín (COP 740 millones), el barrio está 20 % por debajo.
+Eso es 22 % por debajo de la mediana de Medellín para apartamentos de 2 habitaciones (COP 720 millones).
 
-Son 17 % de los 486 avisos de apartamentos en venta del barrio, cuya mediana general es COP 660 millones (−11 %).
+Por metro cuadrado, la mediana es COP 8,02 millones/m² (n = 52 avisos con área), 6 % por debajo de Medellín (COP 8,51 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 2.875.000 al mes), el arriendo anual equivale a 5,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 16 % de los 316 avisos de apartamentos en venta de la zona, cuya mediana general es COP 650 millones (−14 %).
 
-En el mismo barrio, la mediana es COP 442 millones con 1 habitación (n = 16), COP 681 millones con 3 o más habitaciones (n = 388).
+Con el precio por m² de arriendo del mismo segmento (COP 45.161/m² al mes), la rentabilidad bruta implícita es 6,8 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 81 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 70 m².
+
+La administración mediana declarada es COP 402.000 al mes (n = 34).
+
+El estrato más frecuente es 5 (75 % de los avisos con estrato).
+
+- n = 52 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/medellin/loma-de-los-bernal
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/medellin/loma-de-los-bernal
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-2-habitaciones-loma-de-los-bernal-medellin-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-loma-de-los-bernal-medellin-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-loma-de-los-bernal-medellin-octubre-2026.png`.

@@ -1,9 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2525000,46
-habitaciones,1,1600000,52
-habitaciones,2,1850000,74
-habitaciones,3+,2525000,46
-barrio,mediana_barrio_todos_los_tamanos,1850000,179
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/boston,
+seccion,metrica,valor,moneda,n
+precio,p25,2200000.0,COP,37
+precio,mediana,2500000.0,COP,37
+precio,p75,3500000.0,COP,37
+precio,minimo,1400000.0,COP,37
+precio,maximo,11111111.0,COP,37
+m2,mediana_precio_m2,32857.14,COP,35
+m2,area_mediana_m2,77.0,m2,35
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,3+,2500000.0,COP,37
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/boston,,
+fuente,licencia,CC BY 4.0,,

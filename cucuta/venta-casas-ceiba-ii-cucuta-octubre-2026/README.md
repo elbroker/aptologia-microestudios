@@ -1,23 +1,25 @@
 # Precio de venta de casas en Ceiba Ii, Cúcuta — octubre 2026
 
-En Ceiba Ii, Cúcuta, la mediana de precio de venta de casas es COP 480 millones, según 43 avisos vigentes.
+COP 490 millones es el precio mediano de casas en venta en Ceiba Ii, Cúcuta (n = 42 avisos).
 
-La mediana prácticamente coincide con la de Cúcuta para casas (COP 485 millones; diferencia de -1,0 %).
+Prácticamente coincide con la mediana de Cúcuta para casas (COP 500 millones).
 
-El segmento con más oferta es el de 3 o más habitaciones (43 avisos, mediana COP 480 millones).
+Por metro cuadrado, la mediana es COP 3,48 millones/m² (n = 42 avisos con área), 19 % por encima de Cúcuta (COP 2,92 millones/m²).
 
-98 % de los avisos incluye parqueadero.
+El área mediana anunciada es 145 m².
 
-Por mediana, es el puesto 8 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta: en la franja media.
+El segmento con más oferta es el de 3 o más habitaciones (42 avisos, mediana COP 490 millones).
 
-El aviso más barato pide COP 320 millones y el más caro COP 1,00 mil millones.
+Por precio mediano es el puesto 8 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta (COP): en la franja media.
 
-La mitad central de los avisos va de COP 450 millones a COP 650 millones (razón 1,4), una dispersión moderada.
+El estrato más frecuente es 4 (95 % de los avisos con estrato).
 
-- n = 43 avisos vigentes · foto del 2026-10-17
+La mitad central de los avisos va de COP 450 millones a COP 665 millones (razón 1,5), una dispersión moderada.
+
+- n = 42 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/ceiba-ii
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/ceiba-ii
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-ceiba-ii-cucuta-octubre-2026.pdf`, `venta-casas-ceiba-ii-cucuta-octubre-2026.csv`, `venta-casas-ceiba-ii-cucuta-octubre-2026.png`.

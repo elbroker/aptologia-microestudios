@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,417000000,177
-habitaciones,2,382000000,102
-habitaciones,3+,417000000,177
-barrio,mediana_barrio_todos_los_tamanos,390000000,285
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/santa-ana,
+seccion,metrica,valor,moneda,n
+precio,p25,323000000.0,COP,131
+precio,mediana,410000000.0,COP,131
+precio,p75,515000000.0,COP,131
+precio,minimo,250000000.0,COP,131
+precio,maximo,830000000.0,COP,131
+m2,mediana_precio_m2,6323529.41,COP,131
+m2,area_mediana_m2,68.0,m2,131
+admin,mediana_admin_mes,280000.0,COP,87
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,79.2,%,125
+estrato,estrato_mas_frecuente,4,,122
+habitaciones,3+,410000000.0,COP,131
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/santa-ana,,
+fuente,licencia,CC BY 4.0,,

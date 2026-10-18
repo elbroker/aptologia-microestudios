@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en Pozos Colorados, Santa Marta — octubre 2026
 
-En Pozos Colorados, Santa Marta, la mediana de canon mensual de apartamentos es COP 2.900.000, según 119 avisos vigentes.
+En Pozos Colorados, Santa Marta, la mediana de canon mensual de apartamentos es COP 3,00 millones, según 89 avisos vigentes.
 
-La mediana prácticamente coincide con la de Santa Marta para apartamentos (COP 2.958.500; diferencia de -2,0 %).
+Prácticamente coincide con la mediana de Santa Marta para apartamentos (COP 3,00 millones).
 
-Por mediana, es el puesto 5 de 6 barrios de Santa Marta con al menos 30 avisos de apartamentos en arriendo: entre los más económicos.
+Por metro cuadrado, la mediana es COP 52.273/m² al mes (n = 89 avisos con área), 16 % por encima de Santa Marta (COP 45.000/m²).
 
-Con la mediana de venta del mismo barrio (COP 680 millones), el arriendo anual equivale a 5,1 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 5 de 6 barrios de Santa Marta con al menos 30 avisos de apartamentos en arriendo (COP): entre las más económicas.
 
-El segmento con más oferta es el de 1 habitación (63 avisos, mediana COP 2.600.000); pasar de 1 habitación a 3 o más habitaciones sube la mediana 188 %.
+Con el precio por m² de venta del mismo segmento (COP 10,50 millones/m²), la rentabilidad bruta implícita es 6,0 % anual (aproximación con medianas de ofertas distintas).
 
-La mitad central de los avisos va de COP 2.350.000 a COP 4.500.000 (razón 1,9), una dispersión moderada.
+El área mediana anunciada es 59 m².
 
-64 % de los avisos incluye parqueadero, y su mediana (COP 3.100.000) está 7 % por encima de la general.
+El segmento con más oferta es el de 1 habitación (46 avisos, mediana COP 2,62 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +195 %.
 
-- n = 119 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 434.000 al mes (n = 35), aparte del canon.
+
+- n = 89 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/santa-marta/pozos-colorados
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/santa-marta/pozos-colorados
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-pozos-colorados-santa-marta-octubre-2026.pdf`, `arriendo-apartamentos-pozos-colorados-santa-marta-octubre-2026.csv`, `arriendo-apartamentos-pozos-colorados-santa-marta-octubre-2026.png`.

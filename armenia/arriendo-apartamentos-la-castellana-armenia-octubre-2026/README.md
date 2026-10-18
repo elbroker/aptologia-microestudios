@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en La Castellana, Armenia — octubre 2026
 
-En La Castellana, Armenia, la mediana de canon mensual de apartamentos es COP 2.500.000, según 48 avisos vigentes.
+En La Castellana, Armenia, la mediana de canon mensual de apartamentos es COP 2,56 millones, según 33 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 2.100.000, la diferencia es de 19 % por encima.
+Prácticamente coincide con la mediana de Armenia para apartamentos (COP 2,50 millones).
 
-Con la mediana de venta del mismo barrio (COP 650 millones), el arriendo anual equivale a 4,6 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 34.762/m² al mes (n = 33 avisos con área), 8 % por encima de Armenia (COP 32.222/m²).
 
-El segmento con más oferta es el de 2 habitaciones (20 avisos, mediana COP 2.090.485); pasar de 1 habitación a 3 o más habitaciones sube la mediana 131 %.
+Con el precio por m² de venta del mismo segmento (COP 6,51 millones/m²), la rentabilidad bruta implícita es 6,4 % anual (aproximación con medianas de ofertas distintas).
 
-96 % de los avisos incluye parqueadero.
+El área mediana anunciada es 81 m².
 
-El aviso más barato pide COP 1.200.000 y el más caro COP 10.500.000.
+El segmento con más oferta es el de 2 habitaciones (15 avisos, mediana COP 2,49 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +59 %.
 
-La mitad central de los avisos va de COP 2.000.000 a COP 2.885.592 (razón 1,4), una dispersión moderada.
+La administración mediana declarada es COP 569.122 al mes (n = 15), aparte del canon.
 
-- n = 48 avisos vigentes · foto del 2026-10-17
+La mitad central de los avisos va de COP 2,09 millones a COP 3,95 millones (razón 1,9), una dispersión moderada.
+
+- n = 33 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/armenia/la-castellana
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/armenia/la-castellana
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-la-castellana-armenia-octubre-2026.pdf`, `arriendo-apartamentos-la-castellana-armenia-octubre-2026.csv`, `arriendo-apartamentos-la-castellana-armenia-octubre-2026.png`.

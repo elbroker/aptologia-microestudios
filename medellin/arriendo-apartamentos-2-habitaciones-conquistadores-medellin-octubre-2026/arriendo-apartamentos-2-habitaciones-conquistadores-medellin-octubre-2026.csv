@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3500000,62
-habitaciones,1,3000000,46
-habitaciones,2,3500000,62
-habitaciones,3+,4500000,157
-barrio,mediana_barrio_todos_los_tamanos,4000000,269
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/conquistadores,
+seccion,metrica,valor,moneda,n
+precio,p25,2775000.0,COP,44
+precio,mediana,3400000.0,COP,44
+precio,p75,4000000.0,COP,44
+precio,minimo,1111111.0,COP,44
+precio,maximo,13000000.0,COP,44
+m2,mediana_precio_m2,42555.75,COP,44
+m2,area_mediana_m2,73.0,m2,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.7,%,42
+estrato,estrato_mas_frecuente,5,,44
+habitaciones,2,3400000.0,COP,44
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/conquistadores,,
+fuente,licencia,CC BY 4.0,,

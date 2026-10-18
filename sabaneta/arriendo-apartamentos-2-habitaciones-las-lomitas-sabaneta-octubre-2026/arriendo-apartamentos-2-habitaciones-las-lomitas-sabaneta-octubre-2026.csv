@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3000000,149
-habitaciones,1,2300000,13
-habitaciones,2,3000000,149
-habitaciones,3+,3500000,360
-barrio,mediana_barrio_todos_los_tamanos,3300000,524
-ciudad,mediana_ciudad,2850000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/las-lomitas,
+seccion,metrica,valor,moneda,n
+precio,p25,2500000.0,COP,102
+precio,mediana,3100000.0,COP,102
+precio,p75,3500000.0,COP,102
+precio,minimo,1900000.0,COP,102
+precio,maximo,5500000.0,COP,102
+m2,mediana_precio_m2,40849.28,COP,102
+m2,area_mediana_m2,70.0,m2,102
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.8,%,95
+estrato,estrato_mas_frecuente,4,,102
+habitaciones,2,3100000.0,COP,102
+ciudad,mediana_ciudad_referencia,2900000.0,COP,
+ciudad,mediana_m2_ciudad,41818.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/las-lomitas,,
+fuente,licencia,CC BY 4.0,,

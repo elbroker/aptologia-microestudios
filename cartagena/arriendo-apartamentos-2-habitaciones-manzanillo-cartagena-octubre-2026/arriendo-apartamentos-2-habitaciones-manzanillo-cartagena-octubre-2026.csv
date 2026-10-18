@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2500000,58
-habitaciones,1,4000000,19
-habitaciones,2,2500000,58
-barrio,mediana_barrio_todos_los_tamanos,2700000,83
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/manzanillo,
+seccion,metrica,valor,moneda,n
+precio,p25,2200000.0,COP,45
+precio,mediana,2540000.0,COP,45
+precio,p75,3400000.0,COP,45
+precio,minimo,1760000.0,COP,45
+precio,maximo,12000000.0,COP,45
+m2,mediana_precio_m2,42397.66,COP,45
+m2,area_mediana_m2,60.0,m2,45
+admin,mediana_admin_mes,335000.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.5,%,40
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,2,2540000.0,COP,45
+ciudad,mediana_ciudad_referencia,3400000.0,COP,
+ciudad,mediana_m2_ciudad,44285.71,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/manzanillo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5100000,54
-habitaciones,2,2950000,11
-habitaciones,3+,5100000,54
-barrio,mediana_barrio_todos_los_tamanos,4600000,71
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/el-golf,
+seccion,metrica,valor,moneda,n
+precio,p25,4537500.0,COP,36
+precio,mediana,5714800.0,COP,36
+precio,p75,10000000.0,COP,36
+precio,minimo,2500000.0,COP,36
+precio,maximo,15000000.0,COP,36
+m2,mediana_precio_m2,34562.5,COP,32
+m2,area_mediana_m2,214.0,m2,32
+admin,mediana_admin_mes,1211000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,5714800.0,COP,36
+ciudad,mediana_ciudad_referencia,3426700.0,COP,
+ciudad,mediana_m2_ciudad,32296.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/el-golf,,
+fuente,licencia,CC BY 4.0,,

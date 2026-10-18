@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en Álamos, Pereira — octubre 2026
 
-COP 2.500.000 al mes es el canon mediano de apartamentos de 2 habitaciones en arriendo en Álamos, Pereira (n = 59 avisos).
+En Álamos, Pereira, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 2,50 millones, según 56 avisos vigentes.
 
-Frente al total de Pereira (COP 2.700.000), el barrio está 7 % por debajo.
+Prácticamente coincide con la mediana de Pereira para apartamentos de 2 habitaciones (COP 2,60 millones).
 
-Son 27 % de los 218 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 2.650.000 (−6 %).
+Por metro cuadrado, la mediana es COP 35.774/m² al mes (n = 56 avisos con área), 0 % por encima de Pereira (COP 35.625/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 450 millones), el arriendo anual equivale a 6,7 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 31 % de los 183 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 2,75 millones (−9 %).
 
-En el mismo barrio, la mediana es COP 1.925.000 con 1 habitación (n = 42), COP 2.950.000 con 3 o más habitaciones (n = 117).
+Con el precio por m² de venta del mismo segmento (COP 6,17 millones/m²), la rentabilidad bruta implícita es 7,0 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 59 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 69 m².
+
+La administración mediana declarada es COP 345.000 al mes (n = 52), aparte del canon.
+
+El estrato más frecuente es 6 (89 % de los avisos con estrato).
+
+- n = 56 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/pereira/alamos
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/pereira/alamos
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-alamos-pereira-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-alamos-pereira-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-alamos-pereira-octubre-2026.png`.

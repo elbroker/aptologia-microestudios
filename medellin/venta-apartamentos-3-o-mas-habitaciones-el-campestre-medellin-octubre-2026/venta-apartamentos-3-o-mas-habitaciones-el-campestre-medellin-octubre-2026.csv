@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1450000000,122
-habitaciones,1,690000000,14
-habitaciones,2,1072640354,50
-habitaciones,3+,1450000000,122
-barrio,mediana_barrio_todos_los_tamanos,1390000000,186
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/el-campestre,
+seccion,metrica,valor,moneda,n
+precio,p25,1190000000.0,COP,93
+precio,mediana,1450000000.0,COP,93
+precio,p75,2170000000.0,COP,93
+precio,minimo,680000000.0,COP,93
+precio,maximo,3980000000.0,COP,93
+m2,mediana_precio_m2,8144839.07,COP,92
+m2,area_mediana_m2,183.0,m2,92
+admin,mediana_admin_mes,1150000.0,COP,63
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.9,%,93
+estrato,estrato_mas_frecuente,6,,92
+habitaciones,3+,1450000000.0,COP,93
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-campestre,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3200000,56
-habitaciones,2,2750000,29
-habitaciones,3+,3200000,56
-barrio,mediana_barrio_todos_los_tamanos,3100000,85
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/loma-de-san-jose,
+seccion,metrica,valor,moneda,n
+precio,p25,3000000.0,COP,47
+precio,mediana,3200000.0,COP,47
+precio,p75,3775000.0,COP,47
+precio,minimo,1900000.0,COP,47
+precio,maximo,5000000.0,COP,47
+m2,mediana_precio_m2,40264.2,COP,46
+m2,area_mediana_m2,80.0,m2,46
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.9,%,47
+estrato,estrato_mas_frecuente,4,,47
+habitaciones,3+,3200000.0,COP,47
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/loma-de-san-jose,,
+fuente,licencia,CC BY 4.0,,

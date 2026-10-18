@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3200000,138
-habitaciones,1,1825000,52
-habitaciones,2,2300000,81
-habitaciones,3+,3200000,138
-barrio,mediana_barrio_todos_los_tamanos,2700000,271
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-america,
+seccion,metrica,valor,moneda,n
+precio,p25,2712500.0,COP,106
+precio,mediana,3200000.0,COP,106
+precio,p75,3600000.0,COP,106
+precio,minimo,1500000.0,COP,106
+precio,maximo,11111111.0,COP,106
+m2,mediana_precio_m2,36785.71,COP,104
+m2,area_mediana_m2,85.0,m2,104
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,67.8,%,90
+estrato,estrato_mas_frecuente,4,,106
+habitaciones,3+,3200000.0,COP,106
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3100000,47
-habitaciones,1,3100000,47
-habitaciones,2,4500000,45
-habitaciones,3+,4600000,44
-barrio,mediana_barrio_todos_los_tamanos,3950000,136
-ciudad,mediana_ciudad,3000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/crespo,
+seccion,metrica,valor,moneda,n
+precio,p25,2641000.0,COP,36
+precio,mediana,3160500.0,COP,36
+precio,p75,3500000.0,COP,36
+precio,minimo,1500000.0,COP,36
+precio,maximo,4800000.0,COP,36
+m2,mediana_precio_m2,50793.65,COP,35
+m2,area_mediana_m2,64.0,m2,35
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,1,3160500.0,COP,36
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,51612.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

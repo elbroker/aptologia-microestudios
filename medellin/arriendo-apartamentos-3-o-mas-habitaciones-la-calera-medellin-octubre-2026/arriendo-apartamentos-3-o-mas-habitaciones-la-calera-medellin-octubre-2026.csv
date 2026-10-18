@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,12450000,124
-habitaciones,2,7500000,25
-habitaciones,3+,12450000,124
-barrio,mediana_barrio_todos_los_tamanos,10300000,151
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-calera,
+seccion,metrica,valor,moneda,n
+precio,p25,8000000.0,COP,96
+precio,mediana,11750000.0,COP,96
+precio,p75,14500000.0,COP,96
+precio,minimo,4800000.0,COP,96
+precio,maximo,20000000.0,COP,96
+m2,mediana_precio_m2,58463.54,COP,94
+m2,area_mediana_m2,200.0,m2,94
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.9,%,95
+estrato,estrato_mas_frecuente,6,,96
+habitaciones,3+,11750000.0,COP,96
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-calera,,
+fuente,licencia,CC BY 4.0,,

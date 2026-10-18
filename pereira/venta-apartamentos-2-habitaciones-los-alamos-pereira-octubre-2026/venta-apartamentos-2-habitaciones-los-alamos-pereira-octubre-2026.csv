@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,530000000,38
-habitaciones,1,330000000,29
-habitaciones,2,530000000,38
-habitaciones,3+,700000000,109
-barrio,mediana_barrio_todos_los_tamanos,570000000,176
-ciudad,mediana_ciudad,420000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alamos,
+seccion,metrica,valor,moneda,n
+precio,p25,385000000.0,COP,79
+precio,mediana,445000000.0,COP,79
+precio,p75,545000000.0,COP,79
+precio,minimo,250000000.0,COP,79
+precio,maximo,1200000000.0,COP,79
+m2,mediana_precio_m2,6167938.93,COP,79
+m2,area_mediana_m2,75.0,m2,79
+admin,mediana_admin_mes,353000.0,COP,72
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+estrato,estrato_mas_frecuente,6,,79
+habitaciones,2,445000000.0,COP,79
+ciudad,mediana_ciudad_referencia,400000000.0,COP,
+ciudad,mediana_m2_ciudad,6061538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alamos,,
+fuente,licencia,CC BY 4.0,,

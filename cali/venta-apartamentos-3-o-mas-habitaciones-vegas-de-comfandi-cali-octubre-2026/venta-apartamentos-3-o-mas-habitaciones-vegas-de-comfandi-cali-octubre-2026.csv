@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,240000000,35
-habitaciones,2,264000000,21
-habitaciones,3+,240000000,35
-barrio,mediana_barrio_todos_los_tamanos,245000000,56
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/vegas-de-comfandi,
+seccion,metrica,valor,moneda,n
+precio,p25,179250000.0,COP,30
+precio,mediana,220000000.0,COP,30
+precio,p75,269500000.0,COP,30
+precio,minimo,150000000.0,COP,30
+precio,maximo,585000000.0,COP,30
+m2,mediana_precio_m2,3925752.51,COP,30
+m2,area_mediana_m2,55.0,m2,30
+admin,mediana_admin_mes,204500.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,2,,30
+habitaciones,3+,220000000.0,COP,30
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/vegas-de-comfandi,,
+fuente,licencia,CC BY 4.0,,

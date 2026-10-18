@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1550000000,71
-habitaciones,2,1225000000,22
-habitaciones,3+,1550000000,71
-barrio,mediana_barrio_todos_los_tamanos,1350000000,99
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/alejandria,
+seccion,metrica,valor,moneda,n
+precio,p25,1100000000.0,COP,61
+precio,mediana,1450000000.0,COP,61
+precio,p75,1795000000.0,COP,61
+precio,minimo,540000000.0,COP,61
+precio,maximo,3500000000.0,COP,61
+m2,mediana_precio_m2,7047008.55,COP,60
+m2,area_mediana_m2,193.0,m2,60
+admin,mediana_admin_mes,1212000.0,COP,42
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,61
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,3+,1450000000.0,COP,61
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/alejandria,,
+fuente,licencia,CC BY 4.0,,

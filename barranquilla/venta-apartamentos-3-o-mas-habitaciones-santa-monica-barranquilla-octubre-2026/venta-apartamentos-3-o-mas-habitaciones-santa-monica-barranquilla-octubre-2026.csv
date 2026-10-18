@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,600000000,39
-habitaciones,2,400000000,14
-habitaciones,3+,600000000,39
-barrio,mediana_barrio_todos_los_tamanos,490000000,57
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/santa-monica,
+seccion,metrica,valor,moneda,n
+precio,p25,430000000.0,COP,30
+precio,mediana,590000000.0,COP,30
+precio,p75,742500000.0,COP,30
+precio,minimo,320000000.0,COP,30
+precio,maximo,950000000.0,COP,30
+m2,mediana_precio_m2,4300832.93,COP,30
+m2,area_mediana_m2,120.5,m2,30
+admin,mediana_admin_mes,679000.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,590000000.0,COP,30
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/santa-monica,,
+fuente,licencia,CC BY 4.0,,

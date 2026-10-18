@@ -1,0 +1,21 @@
+# Precio de renta de departamentos de 2 habitaciones en Ladrillera, Monterrey (México) — octubre 2026
+
+Con 89 avisos vigentes, el canon mediano de departamentos de 2 habitaciones en renta en Ladrillera, Monterrey (México) es MXN 36.500 al mes.
+
+Frente a la mediana de Monterrey para departamentos de 2 habitaciones (MXN 29.000), queda 26 % por encima.
+
+Por metro cuadrado, la mediana es MXN 381/m² al mes (n = 83 avisos con área), 12 % por encima de Monterrey (MXN 339/m²).
+
+Son 61 % de los 147 avisos de departamentos en renta de la zona, cuya mediana general es MXN 35.000 (+4 %).
+
+El área mediana anunciada es 96 m².
+
+La mitad central de los avisos va de MXN 34.600 a MXN 39.300 (razón 1,1), una dispersión baja.
+
+- n = 89 avisos vigentes · datos del 2026-10-18 · moneda MXN
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de México, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en MXN, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `renta-departamentos-2-habitaciones-ladrillera-monterrey-mexico-octubre-2026.pdf`, `renta-departamentos-2-habitaciones-ladrillera-monterrey-mexico-octubre-2026.csv`, `renta-departamentos-2-habitaciones-ladrillera-monterrey-mexico-octubre-2026.png`.

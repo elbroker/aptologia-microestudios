@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1275000,54
-habitaciones,2,1200000,21
-habitaciones,3+,1275000,54
-barrio,mediana_barrio_todos_los_tamanos,1200000,76
-ciudad,mediana_ciudad,1500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/cucuta/prados-del-este,
+seccion,metrica,valor,moneda,n
+precio,p25,1125000.0,COP,47
+precio,mediana,1300000.0,COP,47
+precio,p75,1500000.0,COP,47
+precio,minimo,900000.0,COP,47
+precio,maximo,2900000.0,COP,47
+m2,mediana_precio_m2,22654.09,COP,46
+m2,area_mediana_m2,56.0,m2,46
+admin,mediana_admin_mes,220000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.3,%,35
+estrato,estrato_mas_frecuente,3,,47
+habitaciones,3+,1300000.0,COP,47
+ciudad,mediana_ciudad_referencia,1600000.0,COP,
+ciudad,mediana_m2_ciudad,21952.17,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cucuta/prados-del-este,,
+fuente,licencia,CC BY 4.0,,

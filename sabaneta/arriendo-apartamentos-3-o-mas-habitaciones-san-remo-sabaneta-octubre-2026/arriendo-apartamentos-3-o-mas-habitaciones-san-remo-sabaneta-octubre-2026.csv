@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3300000,52
-habitaciones,2,2900000,9
-habitaciones,3+,3300000,52
-barrio,mediana_barrio_todos_los_tamanos,3300000,62
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/san-remo,
+seccion,metrica,valor,moneda,n
+precio,p25,3150000.0,COP,32
+precio,mediana,3450000.0,COP,32
+precio,p75,3612500.0,COP,32
+precio,minimo,2600000.0,COP,32
+precio,maximo,5000000.0,COP,32
+m2,mediana_precio_m2,42220.93,COP,32
+m2,area_mediana_m2,77.0,m2,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,3450000.0,COP,32
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/san-remo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5700000,243
-habitaciones,1,4200000,191
-habitaciones,2,5700000,243
-habitaciones,3+,7050000,552
-barrio,mediana_barrio_todos_los_tamanos,6000000,986
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/poblado,
+seccion,metrica,valor,moneda,n
+precio,p25,4200000.0,COP,1879
+precio,mediana,5500000.0,COP,1879
+precio,p75,7200000.0,COP,1879
+precio,minimo,1111111.0,COP,1879
+precio,maximo,20000000.0,COP,1879
+m2,mediana_precio_m2,59195.4,COP,1815
+m2,area_mediana_m2,90.0,m2,1815
+admin,mediana_admin_mes,700000.0,COP,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.9,%,1836
+estrato,estrato_mas_frecuente,6,,1873
+habitaciones,2,5500000.0,COP,1879
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

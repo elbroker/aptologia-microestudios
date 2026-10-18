@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2600000,68
-habitaciones,1,2300000,46
-habitaciones,2,2600000,68
-habitaciones,3+,4000000,145
-barrio,mediana_barrio_todos_los_tamanos,3400000,260
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-castellana,
+seccion,metrica,valor,moneda,n
+precio,p25,2100000.0,COP,54
+precio,mediana,2699000.0,COP,54
+precio,p75,3300000.0,COP,54
+precio,minimo,1700000.0,COP,54
+precio,maximo,6500000.0,COP,54
+m2,mediana_precio_m2,40000.0,COP,53
+m2,area_mediana_m2,68.0,m2,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,67.6,%,37
+estrato,estrato_mas_frecuente,5,,54
+habitaciones,2,2699000.0,COP,54
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2400000,65
-habitaciones,1,1500000,8
-habitaciones,2,1800000,57
-habitaciones,3+,2400000,65
-barrio,mediana_barrio_todos_los_tamanos,2200000,132
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/paraiso,
+seccion,metrica,valor,moneda,n
+precio,p25,1900000.0,COP,52
+precio,mediana,2500000.0,COP,52
+precio,p75,3500000.0,COP,52
+precio,minimo,1491900.0,COP,52
+precio,maximo,7000000.0,COP,52
+m2,mediana_precio_m2,31168.13,COP,50
+m2,area_mediana_m2,90.0,m2,50
+admin,mediana_admin_mes,276000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.5,%,40
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,3+,2500000.0,COP,52
+ciudad,mediana_ciudad_referencia,3426700.0,COP,
+ciudad,mediana_m2_ciudad,32296.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/paraiso,,
+fuente,licencia,CC BY 4.0,,

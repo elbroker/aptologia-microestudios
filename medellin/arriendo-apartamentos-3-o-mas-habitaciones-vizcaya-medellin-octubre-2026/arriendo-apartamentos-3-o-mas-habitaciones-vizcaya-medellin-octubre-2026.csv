@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,6800000,53
-habitaciones,2,5800000,11
-habitaciones,3+,6800000,53
-barrio,mediana_barrio_todos_los_tamanos,6400000,68
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/vizcaya,
+seccion,metrica,valor,moneda,n
+precio,p25,4500000.0,COP,42
+precio,mediana,6650000.0,COP,42
+precio,p75,10125000.0,COP,42
+precio,minimo,3900000.0,COP,42
+precio,maximo,20000000.0,COP,42
+m2,mediana_precio_m2,47247.47,COP,42
+m2,area_mediana_m2,150.0,m2,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,6650000.0,COP,42
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/vizcaya,,
+fuente,licencia,CC BY 4.0,,

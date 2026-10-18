@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,355000000,82
-habitaciones,2,262500000,18
-habitaciones,3+,355000000,82
-barrio,mediana_barrio_todos_los_tamanos,330000000,100
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/las-delicias,
+seccion,metrica,valor,moneda,n
+precio,p25,320000000.0,COP,61
+precio,mediana,360000000.0,COP,61
+precio,p75,450000000.0,COP,61
+precio,minimo,220000000.0,COP,61
+precio,maximo,690370000.0,COP,61
+m2,mediana_precio_m2,4008620.69,COP,57
+m2,area_mediana_m2,97.0,m2,57
+admin,mediana_admin_mes,382000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.0,%,50
+estrato,estrato_mas_frecuente,4,,59
+habitaciones,3+,360000000.0,COP,61
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/las-delicias,,
+fuente,licencia,CC BY 4.0,,

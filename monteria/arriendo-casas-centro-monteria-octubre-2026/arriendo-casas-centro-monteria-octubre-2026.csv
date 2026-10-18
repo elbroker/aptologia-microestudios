@@ -1,11 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,p25,3000000,35
-precio,mediana,5000000,35
-precio,p75,7000000,35
-precio,minimo,1200000,35
-precio,maximo,20000000,35
-parqueadero,avisos_con_parqueadero,5,35
-habitaciones,3+,5000000,32
-ciudad,mediana_ciudad,4000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/monteria/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,3000000.0,COP,35
+precio,mediana,5000000.0,COP,35
+precio,p75,7000000.0,COP,35
+precio,minimo,1200000.0,COP,35
+precio,maximo,20000000.0,COP,35
+m2,mediana_precio_m2,14670.01,COP,32
+m2,area_mediana_m2,400.0,m2,32
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,3+,5000000.0,COP,32
+ciudad,mediana_ciudad_referencia,4500000.0,COP,
+ciudad,mediana_m2_ciudad,14634.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/monteria/centro,,
+fuente,licencia,CC BY 4.0,,

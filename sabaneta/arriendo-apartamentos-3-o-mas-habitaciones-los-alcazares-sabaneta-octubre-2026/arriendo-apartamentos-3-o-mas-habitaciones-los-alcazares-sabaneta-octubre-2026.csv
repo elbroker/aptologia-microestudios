@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2850000,44
-habitaciones,2,3275000,14
-habitaciones,3+,2850000,44
-barrio,mediana_barrio_todos_los_tamanos,2900000,61
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/los-alcazares,
+seccion,metrica,valor,moneda,n
+precio,p25,2700000.0,COP,32
+precio,mediana,2900000.0,COP,32
+precio,p75,3850000.0,COP,32
+precio,minimo,2300000.0,COP,32
+precio,maximo,6000000.0,COP,32
+m2,mediana_precio_m2,41588.24,COP,32
+m2,area_mediana_m2,75.5,m2,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,2900000.0,COP,32
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/los-alcazares,,
+fuente,licencia,CC BY 4.0,,

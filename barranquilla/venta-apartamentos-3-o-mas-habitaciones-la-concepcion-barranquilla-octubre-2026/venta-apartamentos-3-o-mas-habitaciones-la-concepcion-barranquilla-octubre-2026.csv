@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,370000000,58
-habitaciones,2,287500000,30
-habitaciones,3+,370000000,58
-barrio,mediana_barrio_todos_los_tamanos,320000000,91
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/la-concepcion,
+seccion,metrica,valor,moneda,n
+precio,p25,285000000.0,COP,41
+precio,mediana,368000000.0,COP,41
+precio,p75,420000000.0,COP,41
+precio,minimo,180000000.0,COP,41
+precio,maximo,2200000000.0,COP,41
+m2,mediana_precio_m2,3766233.77,COP,39
+m2,area_mediana_m2,97.0,m2,39
+admin,mediana_admin_mes,372000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.1,%,38
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,3+,368000000.0,COP,41
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/la-concepcion,,
+fuente,licencia,CC BY 4.0,,

@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Milán, Manizales — octubre 2026
 
-En Milán, Manizales, la mediana de precio de venta de apartamentos es COP 655 millones, según 254 avisos vigentes.
+COP 630 millones es el precio mediano de apartamentos en venta en Milán, Manizales (n = 150 avisos).
 
-Frente al total de Manizales (COP 440 millones), el barrio está 49 % por encima.
+Frente a la mediana de Manizales para apartamentos (COP 450 millones), queda 40 % por encima.
 
-Por mediana, es el puesto 3 de 35 barrios de Manizales con al menos 30 avisos de apartamentos en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 5,89 millones/m² (n = 150 avisos con área), 4 % por encima de Manizales (COP 5,65 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (190 avisos, mediana COP 720 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 118 %.
+El área mediana anunciada es 100 m².
 
-91 % de los avisos incluye parqueadero, y su mediana (COP 692 millones) está 6 % por encima de la general.
+El segmento con más oferta es el de 3 o más habitaciones (115 avisos, mediana COP 695 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +31 %.
 
-El aviso más barato pide COP 220 millones y el más caro COP 1,30 mil millones.
+La administración mediana declarada es COP 442.000 al mes (n = 121).
 
-La mitad central de los avisos va de COP 521 millones a COP 760 millones (razón 1,5), una dispersión moderada.
+Por precio mediano es el puesto 6 de 22 barrios de Manizales con al menos 30 avisos de apartamentos en venta (COP): en la franja media.
 
-- n = 254 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 6 (77 % de los avisos con estrato).
+
+- n = 150 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/manizales/milan
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/manizales/milan
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-milan-manizales-octubre-2026.pdf`, `venta-apartamentos-milan-manizales-octubre-2026.csv`, `venta-apartamentos-milan-manizales-octubre-2026.png`.

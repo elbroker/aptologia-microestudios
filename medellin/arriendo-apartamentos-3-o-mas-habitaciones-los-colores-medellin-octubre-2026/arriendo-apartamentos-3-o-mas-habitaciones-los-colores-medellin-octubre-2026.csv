@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3600000,124
-habitaciones,1,2600000,18
-habitaciones,2,3700000,37
-habitaciones,3+,3600000,124
-barrio,mediana_barrio_todos_los_tamanos,3500000,179
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-colores,
+seccion,metrica,valor,moneda,n
+precio,p25,3050000.0,COP,87
+precio,mediana,3600000.0,COP,87
+precio,p75,4275000.0,COP,87
+precio,minimo,2000000.0,COP,87
+precio,maximo,11111111.0,COP,87
+m2,mediana_precio_m2,42705.17,COP,84
+m2,area_mediana_m2,85.0,m2,84
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.7,%,84
+estrato,estrato_mas_frecuente,4,,86
+habitaciones,3+,3600000.0,COP,87
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-colores,,
+fuente,licencia,CC BY 4.0,,

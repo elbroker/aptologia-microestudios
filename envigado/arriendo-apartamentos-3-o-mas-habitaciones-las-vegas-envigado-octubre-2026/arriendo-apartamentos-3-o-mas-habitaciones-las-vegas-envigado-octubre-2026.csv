@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4500000,224
-habitaciones,2,3600000,99
-habitaciones,3+,4500000,224
-barrio,mediana_barrio_todos_los_tamanos,4300000,326
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/las-vegas,
+seccion,metrica,valor,moneda,n
+precio,p25,4025000.0,COP,102
+precio,mediana,4500000.0,COP,102
+precio,p75,5000000.0,COP,102
+precio,minimo,2450000.0,COP,102
+precio,maximo,9000000.0,COP,102
+m2,mediana_precio_m2,51807.23,COP,101
+m2,area_mediana_m2,88.0,m2,101
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,92
+estrato,estrato_mas_frecuente,5,,101
+habitaciones,3+,4500000.0,COP,102
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/las-vegas,,
+fuente,licencia,CC BY 4.0,,

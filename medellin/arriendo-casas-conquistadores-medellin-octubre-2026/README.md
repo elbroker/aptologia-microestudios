@@ -1,23 +1,25 @@
 # Precio de arriendo de casas en Conquistadores, Medellín — octubre 2026
 
-Con 67 avisos vigentes, el canon mediano de casas en arriendo en Conquistadores, Medellín es COP 11 millones al mes.
+En Conquistadores, Medellín, la mediana de canon mensual de casas es COP 11 millones, según 52 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 8.500.000, la diferencia es de 29 % por encima.
+Frente a la mediana de Medellín para casas (COP 8,50 millones), queda 29 % por encima.
 
-La dispersión es alta: el cuartil superior (COP 13 millones) es 2,6 veces el inferior (COP 5.000.000).
+Por metro cuadrado, la mediana es COP 34.086/m² al mes (n = 52 avisos con área), 1 % por encima de Medellín (COP 33.613/m²).
 
-Con la mediana de venta del mismo barrio (COP 1,84 mil millones), el arriendo anual equivale a 7,2 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Con el precio por m² de venta del mismo segmento (COP 5,79 millones/m²), la rentabilidad bruta implícita es 7,1 % anual (aproximación con medianas de ofertas distintas).
 
-El segmento con más oferta es el de 3 o más habitaciones (62 avisos, mediana COP 11 millones).
+La mitad central de los avisos va de COP 4,72 millones a COP 13 millones (razón 2,8), una dispersión alta.
 
-Por mediana, es el puesto 10 de 26 barrios de Medellín con al menos 30 avisos de casas en arriendo: en la franja media.
+El área mediana anunciada es 304 m².
 
-79 % de los avisos incluye parqueadero, y su mediana (COP 11 millones) es prácticamente igual a la general.
+El segmento con más oferta es el de 3 o más habitaciones (48 avisos, mediana COP 11 millones).
 
-- n = 67 avisos vigentes · foto del 2026-10-18
+Por precio mediano es el puesto 9 de 23 barrios de Medellín con al menos 30 avisos de casas en arriendo (COP): en la franja media.
+
+- n = 52 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/medellin/conquistadores
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/medellin/conquistadores
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-casas-conquistadores-medellin-octubre-2026.pdf`, `arriendo-casas-conquistadores-medellin-octubre-2026.csv`, `arriendo-casas-conquistadores-medellin-octubre-2026.png`.

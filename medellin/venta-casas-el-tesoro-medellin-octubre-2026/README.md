@@ -1,23 +1,25 @@
 # Precio de venta de casas en El Tesoro, Medellín — octubre 2026
 
-En El Tesoro, Medellín, la mediana de precio de venta de casas es COP 1,93 mil millones, según 106 avisos vigentes.
+En El Tesoro, Medellín, la mediana de precio de venta de casas es COP 2,15 mil millones, según 94 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 1,30 mil millones, la diferencia es de 48 % por encima.
+Frente a la mediana de Medellín para casas (COP 1,39 mil millones), queda 55 % por encima.
 
-Por mediana, es el puesto 9 de 46 barrios de Medellín con al menos 30 avisos de casas en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 6,27 millones/m² (n = 92 avisos con área), 13 % por encima de Medellín (COP 5,53 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 13.500.000 al mes), el arriendo anual equivale a 8,4 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Con el precio por m² de arriendo del mismo segmento (COP 42.222/m² al mes), la rentabilidad bruta implícita es 8,1 % anual (aproximación con medianas de ofertas distintas).
 
-El segmento con más oferta es el de 3 o más habitaciones (104 avisos, mediana COP 1,95 mil millones).
+El área mediana anunciada es 345 m².
 
-98 % de los avisos incluye parqueadero.
+El segmento con más oferta es el de 3 o más habitaciones (92 avisos, mediana COP 2,17 mil millones).
 
-La dispersión es alta: el cuartil superior (COP 3,18 mil millones) es 2,0 veces el inferior (COP 1,56 mil millones).
+La administración mediana declarada es COP 1,31 millones al mes (n = 64).
 
-- n = 106 avisos vigentes · foto del 2026-10-18
+La mitad central de los avisos va de COP 1,70 mil millones a COP 3,58 mil millones (razón 2,1), una dispersión alta.
+
+- n = 94 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/el-tesoro
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/el-tesoro
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-el-tesoro-medellin-octubre-2026.pdf`, `venta-casas-el-tesoro-medellin-octubre-2026.csv`, `venta-casas-el-tesoro-medellin-octubre-2026.png`.

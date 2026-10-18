@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4975000,104
-habitaciones,1,3500000,16
-habitaciones,2,4150000,60
-habitaciones,3+,4975000,104
-barrio,mediana_barrio_todos_los_tamanos,4550000,182
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/via-las-palmas,
+seccion,metrica,valor,moneda,n
+precio,p25,4200000.0,COP,100
+precio,mediana,5000000.0,COP,100
+precio,p75,6500000.0,COP,100
+precio,minimo,2800000.0,COP,100
+precio,maximo,12000000.0,COP,100
+m2,mediana_precio_m2,54101.34,COP,100
+m2,area_mediana_m2,90.0,m2,100
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,90
+estrato,estrato_mas_frecuente,6,,100
+habitaciones,3+,5000000.0,COP,100
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/via-las-palmas,,
+fuente,licencia,CC BY 4.0,,

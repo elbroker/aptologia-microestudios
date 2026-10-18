@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en Santa Ana, Rionegro — octubre 2026
 
-En Santa Ana, Rionegro, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 2.500.000, según 103 avisos vigentes.
+COP 2,50 millones al mes es el canon mediano de apartamentos de 2 habitaciones en arriendo en Santa Ana, Rionegro (n = 75 avisos).
 
-La mediana prácticamente coincide con la de Rionegro para apartamentos de 2 habitaciones (COP 2.500.000; diferencia de 0,0 %).
+Prácticamente coincide con la mediana de Rionegro para apartamentos de 2 habitaciones (COP 2,60 millones).
 
-Son 51 % de los 201 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 2.500.000 (+0 %).
+Por metro cuadrado, la mediana es COP 36.923/m² al mes (n = 75 avisos con área), 2 % por debajo de Rionegro (COP 37.838/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 470 millones), el arriendo anual equivale a 6,4 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 53 % de los 141 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 2,60 millones (−4 %).
 
-En el mismo barrio, la mediana es COP 2.350.000 con 1 habitación (n = 8), COP 2.675.000 con 3 o más habitaciones (n = 90).
+Con el precio por m² de venta del mismo segmento (COP 7,76 millones/m²), la rentabilidad bruta implícita es 5,7 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 103 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 66 m².
+
+El estrato más frecuente es 5 (56 % de los avisos con estrato).
+
+93 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 75 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/rionegro/santa-ana
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/rionegro/santa-ana
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-santa-ana-rionegro-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-santa-ana-rionegro-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-santa-ana-rionegro-octubre-2026.png`.

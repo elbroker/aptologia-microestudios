@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Villa Hermosa, Medellín — octubre 2026
 
-En Villa Hermosa, Medellín, la mediana de precio de venta de apartamentos es COP 328 millones, según 56 avisos vigentes.
+Con 51 avisos vigentes, el precio mediano de apartamentos en venta en Villa Hermosa, Medellín es COP 330 millones.
 
-Comparado con la mediana de la ciudad, COP 840 millones, la diferencia es de 61 % por debajo.
+Eso es 61 % por debajo de la mediana de Medellín para apartamentos (COP 840 millones).
 
-Por mediana, es el puesto 90 de 94 barrios de Medellín con al menos 30 avisos de apartamentos en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 4,02 millones/m² (n = 50 avisos con área), 46 % por debajo de Medellín (COP 7,50 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 1.625.000 al mes), el arriendo anual equivale a 6,0 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 77 de 80 barrios de Medellín con al menos 30 avisos de apartamentos en venta (COP): entre las más económicas.
 
-El segmento con más oferta es el de 3 o más habitaciones (37 avisos, mediana COP 340 millones); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 26 %.
+El área mediana anunciada es 79 m².
 
-5 % de los avisos incluye parqueadero.
+El segmento con más oferta es el de 3 o más habitaciones (33 avisos, mediana COP 340 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +26 %.
 
-El aviso más barato pide COP 180 millones y el más caro COP 550 millones.
+El estrato más frecuente es 3 (59 % de los avisos con estrato).
 
-- n = 56 avisos vigentes · foto del 2026-10-18
+8 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 51 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/medellin/villa-hermosa
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/medellin/villa-hermosa
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-villa-hermosa-medellin-octubre-2026.pdf`, `venta-apartamentos-villa-hermosa-medellin-octubre-2026.csv`, `venta-apartamentos-villa-hermosa-medellin-octubre-2026.png`.

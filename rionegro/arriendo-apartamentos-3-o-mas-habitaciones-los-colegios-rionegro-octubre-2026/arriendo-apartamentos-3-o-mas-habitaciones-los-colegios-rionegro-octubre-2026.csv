@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2700000,188
-habitaciones,2,2400000,152
-habitaciones,3+,2700000,188
-barrio,mediana_barrio_todos_los_tamanos,2600000,345
-ciudad,mediana_ciudad,2700000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/los-colegios,
+seccion,metrica,valor,moneda,n
+precio,p25,2500000.0,COP,110
+precio,mediana,2700000.0,COP,110
+precio,p75,3000000.0,COP,110
+precio,minimo,1800000.0,COP,110
+precio,maximo,4480000.0,COP,110
+m2,mediana_precio_m2,35540.94,COP,110
+m2,area_mediana_m2,78.0,m2,110
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.0,%,105
+estrato,estrato_mas_frecuente,5,,110
+habitaciones,3+,2700000.0,COP,110
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,36363.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/los-colegios,,
+fuente,licencia,CC BY 4.0,,

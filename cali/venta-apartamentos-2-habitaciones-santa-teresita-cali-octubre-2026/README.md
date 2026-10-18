@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 2 habitaciones en Santa Teresita, Cali — octubre 2026
 
-Con 80 avisos vigentes, el precio mediano de apartamentos de 2 habitaciones en venta en Santa Teresita, Cali es COP 845 millones.
+En Santa Teresita, Cali, la mediana de precio de venta de apartamentos de 2 habitaciones es COP 815 millones, según 60 avisos vigentes.
 
-Eso la ubica 202 % por encima de la mediana de Cali para apartamentos de 2 habitaciones (COP 280 millones).
+Frente a la mediana de Cali para apartamentos de 2 habitaciones (COP 280 millones), queda 191 % por encima.
 
-Son 15 % de los 520 avisos de apartamentos en venta del barrio, cuya mediana general es COP 920 millones (−8 %).
+Por metro cuadrado, la mediana es COP 6,22 millones/m² (n = 60 avisos con área), 37 % por encima de Cali (COP 4,55 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 5.500.000 al mes), el arriendo anual equivale a 7,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 16 % de los 365 avisos de apartamentos en venta de la zona, cuya mediana general es COP 950 millones (−14 %).
 
-En el mismo barrio, la mediana es COP 595 millones con 1 habitación (n = 41), COP 1,00 mil millones con 3 o más habitaciones (n = 399).
+El área mediana anunciada es 102 m².
 
-- n = 80 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 760.000 al mes (n = 52).
+
+La mitad central de los avisos va de COP 538 millones a COP 1,06 mil millones (razón 2,0), una dispersión moderada.
+
+El estrato más frecuente es 6 (59 % de los avisos con estrato).
+
+- n = 60 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/cali/santa-teresita
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/cali/santa-teresita
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-2-habitaciones-santa-teresita-cali-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-santa-teresita-cali-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-santa-teresita-cali-octubre-2026.png`.

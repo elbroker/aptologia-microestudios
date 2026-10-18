@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 3 o más habitaciones en El Porvenir, Barranquilla — octubre 2026
 
-En El Porvenir, Barranquilla, la mediana de precio de venta de apartamentos de 3 o más habitaciones es COP 390 millones, según 72 avisos vigentes.
+En El Porvenir, Barranquilla, la mediana de precio de venta de apartamentos de 3 o más habitaciones es COP 390 millones, según 61 avisos vigentes.
 
-Frente al total de Barranquilla (COP 490 millones), el barrio está 20 % por debajo.
+Eso es 24 % por debajo de la mediana de Barranquilla para apartamentos de 3 o más habitaciones (COP 510 millones).
 
-Son 67 % de los 107 avisos de apartamentos en venta del barrio, cuya mediana general es COP 360 millones (+8 %).
+Por metro cuadrado, la mediana es COP 3,56 millones/m² (n = 56 avisos con área), 19 % por debajo de Barranquilla (COP 4,38 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 2.488.000 al mes), el arriendo anual equivale a 7,7 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 75 % de los 81 avisos de apartamentos en venta de la zona, cuya mediana general es COP 370 millones (+5 %).
 
-En el mismo barrio, la mediana es COP 178 millones con 1 habitación (n = 10), COP 270 millones con 2 habitaciones (n = 25).
+El área mediana anunciada es 108 m².
 
-- n = 72 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 490.000 al mes (n = 45).
+
+El estrato más frecuente es 4 (82 % de los avisos con estrato).
+
+95 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 61 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/barranquilla/el-porvenir
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/barranquilla/el-porvenir
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-3-o-mas-habitaciones-el-porvenir-barranquilla-octubre-2026.pdf`, `venta-apartamentos-3-o-mas-habitaciones-el-porvenir-barranquilla-octubre-2026.csv`, `venta-apartamentos-3-o-mas-habitaciones-el-porvenir-barranquilla-octubre-2026.png`.

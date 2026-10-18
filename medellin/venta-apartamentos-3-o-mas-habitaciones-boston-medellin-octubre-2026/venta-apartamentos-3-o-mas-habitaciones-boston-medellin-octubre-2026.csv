@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,385000000,103
-habitaciones,1,235000000,28
-habitaciones,2,320000000,77
-habitaciones,3+,385000000,103
-barrio,mediana_barrio_todos_los_tamanos,345000000,210
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/boston,
+seccion,metrica,valor,moneda,n
+precio,p25,310000000.0,COP,86
+precio,mediana,382500000.0,COP,86
+precio,p75,450000000.0,COP,86
+precio,minimo,245000000.0,COP,86
+precio,maximo,1580000000.0,COP,86
+m2,mediana_precio_m2,4625000.0,COP,83
+m2,area_mediana_m2,80.0,m2,83
+admin,mediana_admin_mes,363900.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,53.7,%,54
+estrato,estrato_mas_frecuente,4,,84
+habitaciones,3+,382500000.0,COP,86
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/boston,,
+fuente,licencia,CC BY 4.0,,

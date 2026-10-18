@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3750000,56
-habitaciones,2,3000000,22
-habitaciones,3+,3750000,56
-barrio,mediana_barrio_todos_los_tamanos,3200000,84
-ciudad,mediana_ciudad,2600000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/bucaramanga/cabecera-del-llano,
+seccion,metrica,valor,moneda,n
+precio,p25,3000000.0,COP,48
+precio,mediana,3900000.0,COP,48
+precio,p75,5000000.0,COP,48
+precio,minimo,2000000.0,COP,48
+precio,maximo,10000000.0,COP,48
+m2,mediana_precio_m2,32390.87,COP,48
+m2,area_mediana_m2,118.0,m2,48
+admin,mediana_admin_mes,701000.0,COP,38
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.1,%,41
+estrato,estrato_mas_frecuente,6,,48
+habitaciones,3+,3900000.0,COP,48
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,28571.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bucaramanga/cabecera-del-llano,,
+fuente,licencia,CC BY 4.0,,

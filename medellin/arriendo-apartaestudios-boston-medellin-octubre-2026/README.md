@@ -1,23 +1,23 @@
 # Precio de arriendo de apartaestudios en Boston, Medellín — octubre 2026
 
-En Boston, Medellín, la mediana de canon mensual de apartaestudios es COP 1.600.000, según 39 avisos vigentes.
+COP 1,70 millones al mes es el canon mediano de apartaestudios en arriendo en Boston, Medellín (n = 31 avisos).
 
-Frente al total de Medellín (COP 2.750.000), el barrio está 42 % por debajo.
+Frente a la mediana de Medellín para apartaestudios (COP 2,80 millones), queda 39 % por debajo.
 
-Por mediana, es el puesto 19 de 20 barrios de Medellín con al menos 30 avisos de apartaestudios en arriendo: entre los más económicos.
+Por metro cuadrado, la mediana es COP 40.000/m² al mes (n = 31 avisos con área), 33 % por debajo de Medellín (COP 60.000/m²).
 
-El segmento con más oferta es el de 1 habitación (33 avisos, mediana COP 1.600.000).
+Por precio mediano es el puesto 9 de 9 barrios de Medellín con al menos 30 avisos de apartaestudios en arriendo (COP): entre las más económicas.
 
-3 % de los avisos incluye parqueadero.
+El área mediana anunciada es 40 m².
 
-El aviso más barato pide COP 800.000 y el más caro COP 3.000.000.
+El estrato más frecuente es 4 (68 % de los avisos con estrato).
 
-La dispersión es baja: el cuartil superior (COP 1.875.000) es 1,4 veces el inferior (COP 1.365.000).
+La mitad central de los avisos va de COP 1,36 millones a COP 1,95 millones (razón 1,4), una dispersión moderada.
 
-- n = 39 avisos vigentes · foto del 2026-10-18
+- n = 31 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/apartaestudios/medellin/boston
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/apartaestudios/medellin/boston
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartaestudios-boston-medellin-octubre-2026.pdf`, `arriendo-apartaestudios-boston-medellin-octubre-2026.csv`, `arriendo-apartaestudios-boston-medellin-octubre-2026.png`.

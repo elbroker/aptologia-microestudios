@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,205000000,53
-habitaciones,2,205000000,53
-habitaciones,3+,300000000,127
-barrio,mediana_barrio_todos_los_tamanos,260000000,183
-ciudad,mediana_ciudad,280000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/caney,
+seccion,metrica,valor,moneda,n
+precio,p25,190000000.0,COP,37
+precio,mediana,215000000.0,COP,37
+precio,p75,235000000.0,COP,37
+precio,minimo,175000000.0,COP,37
+precio,maximo,430000000.0,COP,37
+m2,mediana_precio_m2,3965517.24,COP,37
+m2,area_mediana_m2,53.3,m2,37
+admin,mediana_admin_mes,318000.0,COP,26
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,2,215000000.0,COP,37
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,4545454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

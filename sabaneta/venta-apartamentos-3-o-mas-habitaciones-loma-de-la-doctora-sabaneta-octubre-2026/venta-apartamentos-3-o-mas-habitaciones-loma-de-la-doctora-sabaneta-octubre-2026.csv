@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,560000000,69
-habitaciones,2,520000000,35
-habitaciones,3+,560000000,69
-barrio,mediana_barrio_todos_los_tamanos,550000000,110
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-la-doctora,
+seccion,metrica,valor,moneda,n
+precio,p25,490000000.0,COP,63
+precio,mediana,558000000.0,COP,63
+precio,p75,638685000.0,COP,63
+precio,minimo,285000000.0,COP,63
+precio,maximo,1200000000.0,COP,63
+m2,mediana_precio_m2,7031444.73,COP,62
+m2,area_mediana_m2,78.5,m2,62
+admin,mediana_admin_mes,391681.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,3+,558000000.0,COP,63
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-la-doctora,,
+fuente,licencia,CC BY 4.0,,

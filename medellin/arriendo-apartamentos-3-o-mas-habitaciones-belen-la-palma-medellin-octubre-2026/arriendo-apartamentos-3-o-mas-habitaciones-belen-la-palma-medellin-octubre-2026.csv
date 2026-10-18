@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3600000,50
-habitaciones,1,1800000,24
-habitaciones,2,2900000,52
-habitaciones,3+,3600000,50
-barrio,mediana_barrio_todos_los_tamanos,3100000,127
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/belen-la-palma,
+seccion,metrica,valor,moneda,n
+precio,p25,3425000.0,COP,36
+precio,mediana,3650000.0,COP,36
+precio,p75,4500000.0,COP,36
+precio,minimo,2200000.0,COP,36
+precio,maximo,6500000.0,COP,36
+m2,mediana_precio_m2,39333.33,COP,35
+m2,area_mediana_m2,95.5,m2,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.8,%,33
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,3+,3650000.0,COP,36
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/belen-la-palma,,
+fuente,licencia,CC BY 4.0,,

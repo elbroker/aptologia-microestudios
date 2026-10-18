@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,430000000,60
-habitaciones,1,267500000,10
-habitaciones,2,400000000,35
-habitaciones,3+,430000000,60
-barrio,mediana_barrio_todos_los_tamanos,400000000,105
-ciudad,mediana_ciudad,470000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/pereira/avenida-sur,
+seccion,metrica,valor,moneda,n
+precio,p25,332500000.0,COP,50
+precio,mediana,430000000.0,COP,50
+precio,p75,602500000.0,COP,50
+precio,minimo,240000000.0,COP,50
+precio,maximo,900000000.0,COP,50
+m2,mediana_precio_m2,5977659.75,COP,50
+m2,area_mediana_m2,80.0,m2,50
+admin,mediana_admin_mes,375000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,5,,49
+habitaciones,3+,430000000.0,COP,50
+ciudad,mediana_ciudad_referencia,460000000.0,COP,
+ciudad,mediana_m2_ciudad,5142857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/avenida-sur,,
+fuente,licencia,CC BY 4.0,,

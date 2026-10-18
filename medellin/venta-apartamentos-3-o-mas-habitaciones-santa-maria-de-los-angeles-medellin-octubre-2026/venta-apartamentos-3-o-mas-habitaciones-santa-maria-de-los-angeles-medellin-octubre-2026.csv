@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1250000000,208
-habitaciones,1,699000000,14
-habitaciones,2,762500000,40
-habitaciones,3+,1250000000,208
-barrio,mediana_barrio_todos_los_tamanos,1050000000,263
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/santa-maria-de-los-angeles,
+seccion,metrica,valor,moneda,n
+precio,p25,900000000.0,COP,153
+precio,mediana,1250000000.0,COP,153
+precio,p75,1520000000.0,COP,153
+precio,minimo,330000000.0,COP,153
+precio,maximo,3200000000.0,COP,153
+m2,mediana_precio_m2,8425675.42,COP,152
+m2,area_mediana_m2,150.0,m2,152
+admin,mediana_admin_mes,946000.0,COP,105
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,152
+estrato,estrato_mas_frecuente,6,,148
+habitaciones,3+,1250000000.0,COP,153
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/santa-maria-de-los-angeles,,
+fuente,licencia,CC BY 4.0,,

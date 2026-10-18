@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en Loma de las Brujas, Envigado — octubre 2026
 
-En Loma de las Brujas, Envigado, la mediana de canon mensual de apartamentos es COP 5.300.000, según 505 avisos vigentes.
+COP 5,50 millones al mes es el canon mediano de apartamentos en arriendo en Loma de las Brujas, Envigado (n = 342 avisos).
 
-Eso la ubica 23 % por encima de la mediana de Envigado para apartamentos (COP 4.300.000).
+Frente a la mediana de Envigado para apartamentos (COP 4,40 millones), queda 25 % por encima.
 
-Por mediana, es el puesto 4 de 45 barrios de Envigado con al menos 30 avisos de apartamentos en arriendo: entre los más caros.
+Por metro cuadrado, la mediana es COP 51.351/m² al mes (n = 339 avisos con área), 5 % por encima de Envigado (COP 48.864/m²).
 
-Con la mediana de venta del mismo barrio (COP 1,15 mil millones), el arriendo anual equivale a 5,5 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 3 de 39 barrios de Envigado con al menos 30 avisos de apartamentos en arriendo (COP): entre las más caras.
 
-El segmento con más oferta es el de 3 o más habitaciones (307 avisos, mediana COP 6.300.000); pasar de 1 habitación a 3 o más habitaciones sube la mediana 75 %.
+Con el precio por m² de venta del mismo segmento (COP 8,92 millones/m²), la rentabilidad bruta implícita es 6,9 % anual (aproximación con medianas de ofertas distintas).
 
-96 % de los avisos incluye parqueadero.
+El área mediana anunciada es 106 m².
 
-La mitad central de los avisos va de COP 4.100.000 a COP 6.750.000 (razón 1,6), una dispersión moderada.
+El segmento con más oferta es el de 3 o más habitaciones (219 avisos, mediana COP 6,30 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +68 %.
 
-- n = 505 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 5 (76 % de los avisos con estrato).
+
+- n = 342 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/envigado/loma-de-las-brujas
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/envigado/loma-de-las-brujas
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-loma-de-las-brujas-envigado-octubre-2026.pdf`, `arriendo-apartamentos-loma-de-las-brujas-envigado-octubre-2026.csv`, `arriendo-apartamentos-loma-de-las-brujas-envigado-octubre-2026.png`.

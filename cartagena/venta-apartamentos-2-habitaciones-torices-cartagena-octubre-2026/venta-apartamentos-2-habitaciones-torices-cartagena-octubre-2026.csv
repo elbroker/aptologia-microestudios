@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,309000000,82
-habitaciones,2,309000000,82
-habitaciones,3+,355000000,73
-barrio,mediana_barrio_todos_los_tamanos,330000000,157
-ciudad,mediana_ciudad,750000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cartagena/torices,
+seccion,metrica,valor,moneda,n
+precio,p25,297000000.0,COP,54
+precio,mediana,320000000.0,COP,54
+precio,p75,350000000.0,COP,54
+precio,minimo,240000000.0,COP,54
+precio,maximo,450000000.0,COP,54
+m2,mediana_precio_m2,6491108.07,COP,54
+m2,area_mediana_m2,52.0,m2,54
+admin,mediana_admin_mes,297500.0,COP,36
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,52
+habitaciones,2,320000000.0,COP,54
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,8409090.91,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/torices,,
+fuente,licencia,CC BY 4.0,,

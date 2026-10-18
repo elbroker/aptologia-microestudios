@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,410000000,59
-habitaciones,1,285000000,11
-habitaciones,2,375000000,30
-habitaciones,3+,410000000,59
-barrio,mediana_barrio_todos_los_tamanos,400000000,100
-ciudad,mediana_ciudad,470000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/pereira/maraya,
+seccion,metrica,valor,moneda,n
+precio,p25,362000000.0,COP,43
+precio,mediana,410000000.0,COP,43
+precio,p75,470000000.0,COP,43
+precio,minimo,300000000.0,COP,43
+precio,maximo,1307145000.0,COP,43
+m2,mediana_precio_m2,5555555.56,COP,43
+m2,area_mediana_m2,76.0,m2,43
+admin,mediana_admin_mes,408500.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.7,%,43
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,3+,410000000.0,COP,43
+ciudad,mediana_ciudad_referencia,460000000.0,COP,
+ciudad,mediana_m2_ciudad,5142857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/maraya,,
+fuente,licencia,CC BY 4.0,,

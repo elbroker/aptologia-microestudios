@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1900000,122
-habitaciones,2,2000000,54
-habitaciones,3+,1900000,122
-barrio,mediana_barrio_todos_los_tamanos,1900000,181
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/maria-auxiliadora,
+seccion,metrica,valor,moneda,n
+precio,p25,1800000.0,COP,64
+precio,mediana,1925000.0,COP,64
+precio,p75,2950000.0,COP,64
+precio,minimo,1600000.0,COP,64
+precio,maximo,11111111.0,COP,64
+m2,mediana_precio_m2,35000.0,COP,63
+m2,area_mediana_m2,56.5,m2,63
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,50.0,%,46
+estrato,estrato_mas_frecuente,4,,64
+habitaciones,3+,1925000.0,COP,64
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/maria-auxiliadora,,
+fuente,licencia,CC BY 4.0,,

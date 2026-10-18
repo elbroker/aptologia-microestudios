@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,560000000,436
-habitaciones,1,480000000,19
-habitaciones,2,580000000,200
-habitaciones,3+,560000000,436
-barrio,mediana_barrio_todos_los_tamanos,567500000,656
-ciudad,mediana_ciudad,476500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/itagui/suramerica,
+seccion,metrica,valor,moneda,n
+precio,p25,480000000.0,COP,310
+precio,mediana,560000000.0,COP,310
+precio,p75,697750000.0,COP,310
+precio,minimo,308000000.0,COP,310
+precio,maximo,1100000000.0,COP,310
+m2,mediana_precio_m2,6889136.08,COP,310
+m2,area_mediana_m2,86.0,m2,310
+admin,mediana_admin_mes,450000.0,COP,234
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.7,%,300
+estrato,estrato_mas_frecuente,4,,297
+habitaciones,3+,560000000.0,COP,310
+ciudad,mediana_ciudad_referencia,479000000.0,COP,
+ciudad,mediana_m2_ciudad,6571428.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/suramerica,,
+fuente,licencia,CC BY 4.0,,

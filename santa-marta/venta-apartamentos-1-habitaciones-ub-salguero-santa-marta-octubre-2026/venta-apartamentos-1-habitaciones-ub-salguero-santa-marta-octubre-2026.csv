@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,43
-habitaciones,1,550000000,43
-habitaciones,2,790000000,53
-habitaciones,3+,980000000,25
-barrio,mediana_barrio_todos_los_tamanos,715000000,122
-ciudad,mediana_ciudad,425000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/ub-salguero,
+seccion,metrica,valor,moneda,n
+precio,p25,385000000.0,COP,33
+precio,mediana,529990000.0,COP,33
+precio,p75,609752000.0,COP,33
+precio,minimo,300000000.0,COP,33
+precio,maximo,850000000.0,COP,33
+m2,mediana_precio_m2,10833333.33,COP,33
+m2,area_mediana_m2,48.0,m2,33
+admin,mediana_admin_mes,400000.0,COP,30
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,1,529990000.0,COP,33
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,10958904.11,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/ub-salguero,,
+fuente,licencia,CC BY 4.0,,

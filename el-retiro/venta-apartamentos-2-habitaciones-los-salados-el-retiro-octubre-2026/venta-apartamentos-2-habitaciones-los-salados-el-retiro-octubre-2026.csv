@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1040000000,72
-habitaciones,1,685000000,44
-habitaciones,2,1040000000,72
-habitaciones,3+,1380000000,23
-barrio,mediana_barrio_todos_los_tamanos,920000000,139
-ciudad,mediana_ciudad,760000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/el-retiro/los-salados,
+seccion,metrica,valor,moneda,n
+precio,p25,850000000.0,COP,57
+precio,mediana,990000000.0,COP,57
+precio,p75,1200000000.0,COP,57
+precio,minimo,520000000.0,COP,57
+precio,maximo,1550000000.0,COP,57
+m2,mediana_precio_m2,10232558.14,COP,57
+m2,area_mediana_m2,95.0,m2,57
+admin,mediana_admin_mes,675000.0,COP,22
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,53
+habitaciones,2,990000000.0,COP,57
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,9397227.05,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro/los-salados,,
+fuente,licencia,CC BY 4.0,,

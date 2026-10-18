@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 2 habitaciones en Zona Norte, Cartagena — octubre 2026
 
-Con 59 avisos vigentes, el precio mediano de apartamentos de 2 habitaciones en venta en Zona Norte, Cartagena es COP 850 millones.
+En Zona Norte, Cartagena, la mediana de precio de venta de apartamentos de 2 habitaciones es COP 850 millones, según 56 avisos vigentes.
 
-Eso la ubica 13 % por encima de la mediana de Cartagena para apartamentos de 2 habitaciones (COP 750 millones).
+Frente a la mediana de Cartagena para apartamentos de 2 habitaciones (COP 750 millones), queda 13 % por encima.
 
-Son 45 % de los 131 avisos de apartamentos en venta del barrio, cuya mediana general es COP 820 millones (+4 %).
+Por metro cuadrado, la mediana es COP 8,95 millones/m² (n = 55 avisos con área), 6 % por encima de Cartagena (COP 8,41 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 4.128.360 al mes), el arriendo anual equivale a 5,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 46 % de los 123 avisos de apartamentos en venta de la zona, cuya mediana general es COP 830 millones (+2 %).
 
-En el mismo barrio, la mediana es COP 610 millones con 1 habitación (n = 33), COP 1,20 mil millones con 3 o más habitaciones (n = 39).
+El área mediana anunciada es 98 m².
 
-- n = 59 avisos vigentes · foto del 2026-10-15
+La administración mediana declarada es COP 800.000 al mes (n = 49).
+
+La mitad central de los avisos va de COP 638 millones a COP 1,30 mil millones (razón 2,0), una dispersión alta.
+
+El estrato más frecuente es 6 (61 % de los avisos con estrato).
+
+- n = 56 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/cartagena/zona-norte
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-15: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/cartagena/zona-norte
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-2-habitaciones-zona-norte-cartagena-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-zona-norte-cartagena-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-zona-norte-cartagena-octubre-2026.png`.

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,520000000,89
-habitaciones,2,454566320,36
-habitaciones,3+,520000000,89
-barrio,mediana_barrio_todos_los_tamanos,495000000,128
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/canaveralejo,
+seccion,metrica,valor,moneda,n
+precio,p25,467500000.0,COP,67
+precio,mediana,510000000.0,COP,67
+precio,p75,586500000.0,COP,67
+precio,minimo,234000000.0,COP,67
+precio,maximo,930000000.0,COP,67
+m2,mediana_precio_m2,6680412.37,COP,67
+m2,area_mediana_m2,74.0,m2,67
+admin,mediana_admin_mes,391681.0,COP,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.1,%,62
+estrato,estrato_mas_frecuente,4,,66
+habitaciones,3+,510000000.0,COP,67
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/canaveralejo,,
+fuente,licencia,CC BY 4.0,,

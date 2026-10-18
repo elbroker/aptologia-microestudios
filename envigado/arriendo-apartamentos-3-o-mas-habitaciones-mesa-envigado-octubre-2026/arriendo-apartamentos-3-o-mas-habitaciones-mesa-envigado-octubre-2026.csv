@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4375000,136
-habitaciones,2,4125000,46
-habitaciones,3+,4375000,136
-barrio,mediana_barrio_todos_los_tamanos,4300000,189
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/mesa,
+seccion,metrica,valor,moneda,n
+precio,p25,3262500.0,COP,110
+precio,mediana,4200000.0,COP,110
+precio,p75,5137500.0,COP,110
+precio,minimo,2000000.0,COP,110
+precio,maximo,14400000.0,COP,110
+m2,mediana_precio_m2,40909.09,COP,109
+m2,area_mediana_m2,109.5,m2,109
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,87.4,%,95
+estrato,estrato_mas_frecuente,5,,110
+habitaciones,3+,4200000.0,COP,110
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

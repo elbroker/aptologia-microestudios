@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,320000000,88
-habitaciones,2,239000000,19
-habitaciones,3+,320000000,88
-barrio,mediana_barrio_todos_los_tamanos,315000000,111
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/madera,
+seccion,metrica,valor,moneda,n
+precio,p25,295000000.0,COP,69
+precio,mediana,320000000.0,COP,69
+precio,p75,350000000.0,COP,69
+precio,minimo,250000000.0,COP,69
+precio,maximo,440000000.0,COP,69
+m2,mediana_precio_m2,5209418.63,COP,69
+m2,area_mediana_m2,61.4,m2,69
+admin,mediana_admin_mes,243500.0,COP,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,56.2,%,64
+estrato,estrato_mas_frecuente,3,,66
+habitaciones,3+,320000000.0,COP,69
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/madera,,
+fuente,licencia,CC BY 4.0,,

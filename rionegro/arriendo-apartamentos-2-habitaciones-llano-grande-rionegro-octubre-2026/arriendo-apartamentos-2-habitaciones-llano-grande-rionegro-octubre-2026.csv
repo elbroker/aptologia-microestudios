@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3610000,128
-habitaciones,1,3900000,69
-habitaciones,2,3610000,128
-habitaciones,3+,3300000,79
-barrio,mediana_barrio_todos_los_tamanos,3700000,276
-ciudad,mediana_ciudad,2500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/llano-grande,
+seccion,metrica,valor,moneda,n
+precio,p25,2525000.0,COP,111
+precio,mediana,3300000.0,COP,111
+precio,p75,7450000.0,COP,111
+precio,minimo,1450000.0,COP,111
+precio,maximo,17000000.0,COP,111
+m2,mediana_precio_m2,52631.58,COP,110
+m2,area_mediana_m2,80.0,m2,110
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.0,%,102
+estrato,estrato_mas_frecuente,5,,109
+habitaciones,2,3300000.0,COP,111
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,37837.84,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/llano-grande,,
+fuente,licencia,CC BY 4.0,,

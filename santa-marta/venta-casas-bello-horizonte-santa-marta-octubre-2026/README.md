@@ -1,23 +1,25 @@
 # Precio de venta de casas en Bello Horizonte, Santa Marta — octubre 2026
 
-Con 58 avisos vigentes, el precio mediano de casas en venta en Bello Horizonte, Santa Marta es COP 750 millones.
+Con 51 avisos vigentes, el precio mediano de casas en venta en Bello Horizonte, Santa Marta es COP 850 millones.
 
-Comparado con la mediana de la ciudad, COP 650 millones, la diferencia es de 15 % por encima.
+Eso es 27 % por encima de la mediana de Santa Marta para casas (COP 670 millones).
 
-El segmento con más oferta es el de 3 o más habitaciones (56 avisos, mediana COP 765 millones).
+Por metro cuadrado, la mediana es COP 4,42 millones/m² (n = 49 avisos con área), 27 % por encima de Santa Marta (COP 3,49 millones/m²).
 
-La mitad central de los avisos va de COP 500 millones a COP 1,10 mil millones (razón 2,2), una dispersión alta.
+El área mediana anunciada es 205 m².
 
-86 % de los avisos incluye parqueadero, y su mediana (COP 750 millones) es prácticamente igual a la general.
+El segmento con más oferta es el de 3 o más habitaciones (49 avisos, mediana COP 870 millones).
 
-Por mediana, es el puesto 4 de 10 barrios de Santa Marta con al menos 30 avisos de casas en venta: en la franja media.
+La mitad central de los avisos va de COP 615 millones a COP 1,45 mil millones (razón 2,4), una dispersión alta.
 
-El aviso más barato pide COP 350 millones y el más caro COP 4,30 mil millones.
+La administración mediana declarada es COP 400.000 al mes (n = 25).
 
-- n = 58 avisos vigentes · foto del 2026-10-17
+Por precio mediano es el puesto 4 de 9 barrios de Santa Marta con al menos 30 avisos de casas en venta (COP): en la franja media.
+
+- n = 51 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/santa-marta/bello-horizonte
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/santa-marta/bello-horizonte
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-bello-horizonte-santa-marta-octubre-2026.pdf`, `venta-casas-bello-horizonte-santa-marta-octubre-2026.csv`, `venta-casas-bello-horizonte-santa-marta-octubre-2026.png`.

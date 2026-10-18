@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,480000000,95
-habitaciones,1,300000000,9
-habitaciones,2,437500000,48
-habitaciones,3+,480000000,95
-barrio,mediana_barrio_todos_los_tamanos,460000000,153
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/baja-suiza,
+seccion,metrica,valor,moneda,n
+precio,p25,435000000.0,COP,59
+precio,mediana,480000000.0,COP,59
+precio,p75,537500000.0,COP,59
+precio,minimo,360000000.0,COP,59
+precio,maximo,650000000.0,COP,59
+m2,mediana_precio_m2,7000000.0,COP,59
+m2,area_mediana_m2,74.0,m2,59
+admin,mediana_admin_mes,310000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.1,%,58
+estrato,estrato_mas_frecuente,5,,59
+habitaciones,3+,480000000.0,COP,59
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/baja-suiza,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,315000000,66
-habitaciones,2,222500000,28
-habitaciones,3+,315000000,66
-barrio,mediana_barrio_todos_los_tamanos,290000000,97
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-recreo,
+seccion,metrica,valor,moneda,n
+precio,p25,280000000.0,COP,51
+precio,mediana,320000000.0,COP,51
+precio,p75,367500000.0,COP,51
+precio,minimo,190000000.0,COP,51
+precio,maximo,700000000.0,COP,51
+m2,mediana_precio_m2,3584644.52,COP,48
+m2,area_mediana_m2,93.0,m2,48
+admin,mediana_admin_mes,340000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.4,%,43
+estrato,estrato_mas_frecuente,4,,50
+habitaciones,3+,320000000.0,COP,51
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-recreo,,
+fuente,licencia,CC BY 4.0,,

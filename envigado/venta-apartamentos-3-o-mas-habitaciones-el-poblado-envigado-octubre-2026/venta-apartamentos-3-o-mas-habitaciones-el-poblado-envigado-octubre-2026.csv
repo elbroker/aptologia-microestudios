@@ -1,7 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1250000000,30
-habitaciones,3+,1250000000,30
-barrio,mediana_barrio_todos_los_tamanos,1070000000,40
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/el-poblado,
+seccion,metrica,valor,moneda,n
+precio,p25,892500000.0,COP,30
+precio,mediana,1250000000.0,COP,30
+precio,p75,1745000000.0,COP,30
+precio,minimo,381000000.0,COP,30
+precio,maximo,3390000000.0,COP,30
+m2,mediana_precio_m2,9129681.65,COP,30
+m2,area_mediana_m2,145.0,m2,30
+admin,mediana_admin_mes,736000.0,COP,17
+banos,mediana_banos,4.0,,
+habitaciones,3+,1250000000.0,COP,30
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-poblado,,
+fuente,licencia,CC BY 4.0,,

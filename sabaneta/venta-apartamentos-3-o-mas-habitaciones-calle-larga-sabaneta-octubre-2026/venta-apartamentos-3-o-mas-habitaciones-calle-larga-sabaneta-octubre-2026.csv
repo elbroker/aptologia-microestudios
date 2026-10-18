@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,492500000,98
-habitaciones,1,350000000,42
-habitaciones,2,429500000,58
-habitaciones,3+,492500000,98
-barrio,mediana_barrio_todos_los_tamanos,440000000,198
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/calle-larga,
+seccion,metrica,valor,moneda,n
+precio,p25,398750000.0,COP,76
+precio,mediana,495000000.0,COP,76
+precio,p75,670000000.0,COP,76
+precio,minimo,255000000.0,COP,76
+precio,maximo,985000000.0,COP,76
+m2,mediana_precio_m2,6041370.74,COP,76
+m2,area_mediana_m2,76.0,m2,76
+admin,mediana_admin_mes,310000.0,COP,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,72.1,%,61
+estrato,estrato_mas_frecuente,3,,75
+habitaciones,3+,495000000.0,COP,76
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/calle-larga,,
+fuente,licencia,CC BY 4.0,,

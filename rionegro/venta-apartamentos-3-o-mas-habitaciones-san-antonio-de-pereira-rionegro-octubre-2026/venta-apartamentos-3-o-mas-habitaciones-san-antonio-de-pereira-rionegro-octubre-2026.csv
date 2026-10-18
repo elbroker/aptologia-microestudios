@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,620000000,134
-habitaciones,1,494000000,18
-habitaciones,2,550000000,155
-habitaciones,3+,620000000,134
-barrio,mediana_barrio_todos_los_tamanos,575900000,308
-ciudad,mediana_ciudad,540000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/rionegro/san-antonio-de-pereira,
+seccion,metrica,valor,moneda,n
+precio,p25,506750000.0,COP,94
+precio,mediana,604538000.0,COP,94
+precio,p75,700000000.0,COP,94
+precio,minimo,310000000.0,COP,94
+precio,maximo,1080000000.0,COP,94
+m2,mediana_precio_m2,7594936.71,COP,93
+m2,area_mediana_m2,80.0,m2,93
+admin,mediana_admin_mes,372500.0,COP,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.4,%,88
+estrato,estrato_mas_frecuente,5,,93
+habitaciones,3+,604538000.0,COP,94
+ciudad,mediana_ciudad_referencia,540000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/san-antonio-de-pereira,,
+fuente,licencia,CC BY 4.0,,

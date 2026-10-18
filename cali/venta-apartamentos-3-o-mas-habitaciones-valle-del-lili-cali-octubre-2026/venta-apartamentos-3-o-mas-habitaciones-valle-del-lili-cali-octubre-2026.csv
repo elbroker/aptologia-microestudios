@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,370000000,838
-habitaciones,1,250000000,11
-habitaciones,2,280000000,372
-habitaciones,3+,370000000,838
-barrio,mediana_barrio_todos_los_tamanos,350000000,1224
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/valle-del-lili,
+seccion,metrica,valor,moneda,n
+precio,p25,290000000.0,COP,530
+precio,mediana,390000000.0,COP,530
+precio,p75,490000000.0,COP,530
+precio,minimo,172000000.0,COP,530
+precio,maximo,1450000000.0,COP,530
+m2,mediana_precio_m2,4677234.53,COP,528
+m2,area_mediana_m2,80.0,m2,528
+admin,mediana_admin_mes,370000.0,COP,397
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.2,%,477
+estrato,estrato_mas_frecuente,5,,530
+habitaciones,3+,390000000.0,COP,530
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/valle-del-lili,,
+fuente,licencia,CC BY 4.0,,

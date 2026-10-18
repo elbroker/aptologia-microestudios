@@ -1,23 +1,25 @@
 # Precio de arriendo de casas en Villa Campestre, Barranquilla — octubre 2026
 
-COP 10.350.000 al mes es el canon mediano de casas en arriendo en Villa Campestre, Barranquilla (n = 62 avisos).
+COP 10,20 millones al mes es el canon mediano de casas en arriendo en Villa Campestre, Barranquilla (n = 45 avisos).
 
-Comparado con la mediana de la ciudad, COP 8.000.000, la diferencia es de 29 % por encima.
+Eso es 24 % por encima de la mediana de Barranquilla para casas (COP 8,20 millones).
 
-Con la mediana de venta del mismo barrio (COP 1,60 mil millones), el arriendo anual equivale a 7,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 34.722/m² al mes (n = 45 avisos con área), 39 % por encima de Barranquilla (COP 25.000/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (62 avisos, mediana COP 10.350.000).
+Con el precio por m² de venta del mismo segmento (COP 4,95 millones/m²), la rentabilidad bruta implícita es 8,4 % anual (aproximación con medianas de ofertas distintas).
 
-98 % de los avisos incluye parqueadero.
+El área mediana anunciada es 336 m².
 
-Por mediana, es el puesto 2 de 9 barrios de Barranquilla con al menos 30 avisos de casas en arriendo: en la franja media.
+El segmento con más oferta es el de 3 o más habitaciones (45 avisos, mediana COP 10,20 millones).
 
-La dispersión es moderada: el cuartil superior (COP 14 millones) es 1,8 veces el inferior (COP 8.000.000).
+Por precio mediano es el puesto 2 de 5 barrios de Barranquilla con al menos 30 avisos de casas en arriendo (COP): en la franja media.
 
-- n = 62 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 6 (56 % de los avisos con estrato).
+
+- n = 45 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/barranquilla/villa-campestre
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-arriendo/barranquilla/villa-campestre
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-casas-villa-campestre-barranquilla-octubre-2026.pdf`, `arriendo-casas-villa-campestre-barranquilla-octubre-2026.csv`, `arriendo-casas-villa-campestre-barranquilla-octubre-2026.png`.

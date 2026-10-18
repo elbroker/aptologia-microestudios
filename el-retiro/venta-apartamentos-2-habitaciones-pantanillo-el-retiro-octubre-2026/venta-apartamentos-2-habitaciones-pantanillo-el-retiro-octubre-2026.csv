@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,637500000,38
-habitaciones,1,452000000,14
-habitaciones,2,637500000,38
-habitaciones,3+,795000000,25
-barrio,mediana_barrio_todos_los_tamanos,600000000,79
-ciudad,mediana_ciudad,760000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/el-retiro/pantanillo,
+seccion,metrica,valor,moneda,n
+precio,p25,542500000.0,COP,35
+precio,mediana,646000000.0,COP,35
+precio,p75,900000000.0,COP,35
+precio,minimo,283000000.0,COP,35
+precio,maximo,1480000000.0,COP,35
+m2,mediana_precio_m2,8914663.46,COP,34
+m2,area_mediana_m2,65.0,m2,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,5,,31
+habitaciones,2,646000000.0,COP,35
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,9397227.05,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro/pantanillo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,287500000,36
-habitaciones,2,275000000,8
-habitaciones,3+,287500000,36
-barrio,mediana_barrio_todos_los_tamanos,282500000,44
-ciudad,mediana_ciudad,332000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/mosquera/novaterra,
+seccion,metrica,valor,moneda,n
+precio,p25,226250000.0,COP,34
+precio,mediana,285000000.0,COP,34
+precio,p75,340000000.0,COP,34
+precio,minimo,167000000.0,COP,34
+precio,maximo,400000000.0,COP,34
+m2,mediana_precio_m2,5081679.89,COP,34
+m2,area_mediana_m2,56.0,m2,34
+admin,mediana_admin_mes,307200.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.7,%,30
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,285000000.0,COP,34
+ciudad,mediana_ciudad_referencia,332000000.0,COP,
+ciudad,mediana_m2_ciudad,4914285.71,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/mosquera/novaterra,,
+fuente,licencia,CC BY 4.0,,

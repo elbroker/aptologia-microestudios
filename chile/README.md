@@ -1,0 +1,121 @@
+# Microestudios de vivienda — Chile por comuna, tipo y habitaciones (octubre 2026)
+
+103 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Chile, por ciudad, comuna, tipo de inmueble y número de habitaciones (con precio por m²), cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
+- Licencia: CC BY 4.0
+- Datos al 18 de octubre de 2026
+- Sitio: https://www.aptologia.com/
+- Comunidad Zenodo: https://zenodo.org/communities/aptologia/
+- GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/chile
+- Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-chile-2026
+- Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-chile-2026
+- OSF: https://osf.io/jk6z9/
+
+`indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
+
+| Microestudio | n | Mediana | DOI |
+|---|---|---|---|
+| [Precio de arriendo de departamentos en Estación Central, Santiago (Chile) — octubre 2026](arriendo-departamentos-estacion-central-santiago-chile-octubre-2026/) | 381 | CLP 310.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Estación Central, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-estacion-central-santiago-chile-octubre-2026/) | 160 | CLP 260.500 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Estación Central, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-estacion-central-santiago-chile-octubre-2026/) | 193 | CLP 360.000 |  |
+| [Precio de arriendo de departamentos en Independencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-independencia-santiago-chile-octubre-2026/) | 344 | CLP 340.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Independencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-independencia-santiago-chile-octubre-2026/) | 153 | CLP 287.683 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Independencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-independencia-santiago-chile-octubre-2026/) | 160 | CLP 370.150 |  |
+| [Precio de arriendo de departamentos en La Florida, Santiago (Chile) — octubre 2026](arriendo-departamentos-la-florida-santiago-chile-octubre-2026/) | 493 | CLP 450.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en La Florida, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-la-florida-santiago-chile-octubre-2026/) | 149 | CLP 370.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en La Florida, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-la-florida-santiago-chile-octubre-2026/) | 256 | CLP 480.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en La Florida, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-la-florida-santiago-chile-octubre-2026/) | 82 | CLP 550.000 |  |
+| [Precio de arriendo de departamentos en Las Condes, Santiago (Chile) — octubre 2026](arriendo-departamentos-las-condes-santiago-chile-octubre-2026/) | 309 | CLP 1.215.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Las Condes, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-las-condes-santiago-chile-octubre-2026/) | 110 | CLP 785.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Las Condes, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-las-condes-santiago-chile-octubre-2026/) | 108 | CLP 1.365.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Las Condes, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-las-condes-santiago-chile-octubre-2026/) | 90 | CLP 1.800.000 |  |
+| [Precio de arriendo de departamentos en Macul, Santiago (Chile) — octubre 2026](arriendo-departamentos-macul-santiago-chile-octubre-2026/) | 314 | CLP 470.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Macul, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-macul-santiago-chile-octubre-2026/) | 110 | CLP 390.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Macul, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-macul-santiago-chile-octubre-2026/) | 168 | CLP 510.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Macul, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-macul-santiago-chile-octubre-2026/) | 32 | CLP 600.000 |  |
+| [Precio de arriendo de departamentos en Ñuñoa, Santiago (Chile) — octubre 2026](arriendo-departamentos-nunoa-santiago-chile-octubre-2026/) | 520 | CLP 560.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Ñuñoa, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-nunoa-santiago-chile-octubre-2026/) | 240 | CLP 480.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Ñuñoa, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-nunoa-santiago-chile-octubre-2026/) | 228 | CLP 630.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Ñuñoa, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-nunoa-santiago-chile-octubre-2026/) | 47 | CLP 870.000 |  |
+| [Precio de arriendo de departamentos en Providencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-providencia-santiago-chile-octubre-2026/) | 356 | CLP 850.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Providencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-providencia-santiago-chile-octubre-2026/) | 127 | CLP 650.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Providencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-providencia-santiago-chile-octubre-2026/) | 136 | CLP 950.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Providencia, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-providencia-santiago-chile-octubre-2026/) | 88 | CLP 1.200.000 |  |
+| [Precio de arriendo de departamentos en San Miguel, Santiago (Chile) — octubre 2026](arriendo-departamentos-san-miguel-santiago-chile-octubre-2026/) | 459 | CLP 405.000 |  |
+| [Precio de arriendo de departamentos de 1 habitación en San Miguel, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-san-miguel-santiago-chile-octubre-2026/) | 129 | CLP 330.001 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en San Miguel, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-san-miguel-santiago-chile-octubre-2026/) | 216 | CLP 450.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en San Miguel, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-san-miguel-santiago-chile-octubre-2026/) | 110 | CLP 425.000 |  |
+| [Precio de arriendo de departamentos en Santiago Centro, Santiago (Chile) — octubre 2026](arriendo-departamentos-santiago-centro-santiago-chile-octubre-2026/) | 1476 | CLP 403.207 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Santiago Centro, Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 449 | CLP 334.824 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Santiago Centro, Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 641 | CLP 440.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Santiago Centro, Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 224 | CLP 550.000 |  |
+| [Precio de arriendo de departamentos en Estación Central, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-estacion-central-santiago-chile-uf-octubre-2026/) | 261 | UF 7 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Estación Central, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-estacion-central-santiago-chile-uf-octubre-2026/) | 118 | UF 6 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Estación Central, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-estacion-central-santiago-chile-uf-octubre-2026/) | 129 | UF 9 |  |
+| [Precio de arriendo de departamentos en La Florida, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-la-florida-santiago-chile-uf-octubre-2026/) | 406 | UF 11 |  |
+| [Precio de arriendo de departamentos de 1 habitación en La Florida, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-la-florida-santiago-chile-uf-octubre-2026/) | 133 | UF 9 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en La Florida, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-la-florida-santiago-chile-uf-octubre-2026/) | 210 | UF 12 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en La Florida, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-la-florida-santiago-chile-uf-octubre-2026/) | 59 | UF 13 |  |
+| [Precio de arriendo de departamentos en Las Condes, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-las-condes-santiago-chile-uf-octubre-2026/) | 630 | UF 35 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Las Condes, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 155 | UF 20 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Las Condes, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 208 | UF 33 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Las Condes, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 260 | UF 50 |  |
+| [Precio de arriendo de departamentos en Lo Barnechea, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-lo-barnechea-santiago-chile-uf-octubre-2026/) | 141 | UF 48 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Lo Barnechea, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-lo-barnechea-santiago-chile-uf-octubre-2026/) | 40 | UF 34 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Lo Barnechea, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-lo-barnechea-santiago-chile-uf-octubre-2026/) | 74 | UF 65 |  |
+| [Precio de arriendo de departamentos en Macul, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-macul-santiago-chile-uf-octubre-2026/) | 279 | UF 11 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Macul, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-macul-santiago-chile-uf-octubre-2026/) | 109 | UF 9 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Macul, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-macul-santiago-chile-uf-octubre-2026/) | 140 | UF 13 |  |
+| [Precio de arriendo de departamentos en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-nunoa-santiago-chile-uf-octubre-2026/) | 526 | UF 14 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 231 | UF 12 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 217 | UF 16 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 72 | UF 23 |  |
+| [Precio de arriendo de departamentos en Providencia, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-providencia-santiago-chile-uf-octubre-2026/) | 401 | UF 23 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Providencia, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 126 | UF 16 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Providencia, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 155 | UF 25 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Providencia, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 107 | UF 33 |  |
+| [Precio de arriendo de departamentos en San Miguel, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-san-miguel-santiago-chile-uf-octubre-2026/) | 302 | UF 10 |  |
+| [Precio de arriendo de departamentos de 1 habitación en San Miguel, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-san-miguel-santiago-chile-uf-octubre-2026/) | 81 | UF 8 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en San Miguel, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-san-miguel-santiago-chile-uf-octubre-2026/) | 125 | UF 11 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en San Miguel, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-san-miguel-santiago-chile-uf-octubre-2026/) | 92 | UF 12 |  |
+| [Precio de arriendo de departamentos en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-santiago-centro-santiago-chile-uf-octubre-2026/) | 985 | UF 10 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 404 | UF 8 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 430 | UF 11 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 119 | UF 18 |  |
+| [Precio de arriendo de departamentos en Vitacura, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-vitacura-santiago-chile-uf-octubre-2026/) | 236 | UF 58 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Vitacura, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-vitacura-santiago-chile-uf-octubre-2026/) | 93 | UF 52 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Vitacura, Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-vitacura-santiago-chile-uf-octubre-2026/) | 130 | UF 71 |  |
+| [Precio de venta de departamentos en Providencia, Santiago (Chile) — octubre 2026](venta-departamentos-providencia-santiago-chile-octubre-2026/) | 36 | CLP 180.000.000 |  |
+| [Precio de venta de departamentos en Santiago Centro, Santiago (Chile) — octubre 2026](venta-departamentos-santiago-centro-santiago-chile-octubre-2026/) | 566 | CLP 88.945.000 |  |
+| [Precio de venta de departamentos de 1 habitación en Santiago Centro, Santiago (Chile) — octubre 2026](venta-departamentos-1-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 212 | CLP 73.000.000 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Santiago Centro, Santiago (Chile) — octubre 2026](venta-departamentos-2-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 251 | CLP 95.700.000 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Santiago Centro, Santiago (Chile) — octubre 2026](venta-departamentos-3-o-mas-habitaciones-santiago-centro-santiago-chile-octubre-2026/) | 89 | CLP 124.000.000 |  |
+| [Precio de venta de departamentos en Las Condes, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-las-condes-santiago-chile-uf-octubre-2026/) | 2773 | UF 10.700 |  |
+| [Precio de venta de departamentos de 1 habitación en Las Condes, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-1-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 264 | UF 5.400 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Las Condes, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-2-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 581 | UF 8.000 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Las Condes, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-3-o-mas-habitaciones-las-condes-santiago-chile-uf-octubre-2026/) | 1921 | UF 12.400 |  |
+| [Precio de venta de departamentos en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-nunoa-santiago-chile-uf-octubre-2026/) | 251 | UF 4.990 |  |
+| [Precio de venta de departamentos de 1 habitación en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-1-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 63 | UF 3.440 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-2-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 120 | UF 5.000 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Ñuñoa, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-3-o-mas-habitaciones-nunoa-santiago-chile-uf-octubre-2026/) | 68 | UF 6.900 |  |
+| [Precio de venta de departamentos en Providencia, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-providencia-santiago-chile-uf-octubre-2026/) | 2118 | UF 7.990 |  |
+| [Precio de venta de departamentos de 1 habitación en Providencia, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-1-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 318 | UF 4.750 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Providencia, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-2-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 695 | UF 7.430 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Providencia, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-3-o-mas-habitaciones-providencia-santiago-chile-uf-octubre-2026/) | 1068 | UF 9.764 |  |
+| [Precio de venta de departamentos en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-santiago-centro-santiago-chile-uf-octubre-2026/) | 2817 | UF 2.887 |  |
+| [Precio de venta de departamentos de 1 habitación en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-1-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 789 | UF 2.300 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-2-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 1145 | UF 2.860 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Santiago Centro, Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-3-o-mas-habitaciones-santiago-centro-santiago-chile-uf-octubre-2026/) | 753 | UF 4.200 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Santiago (Chile) — octubre 2026](arriendo-departamentos-1-habitaciones-santiago-chile-octubre-2026/) | 1644 | CLP 370.000 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Santiago (Chile) — octubre 2026](arriendo-departamentos-2-habitaciones-santiago-chile-octubre-2026/) | 2131 | CLP 480.000 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Santiago (Chile) — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-santiago-chile-octubre-2026/) | 730 | CLP 612.500 |  |
+| [Precio de arriendo de departamentos de 1 habitación en Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-1-habitaciones-santiago-chile-uf-octubre-2026/) | 1395 | UF 10 |  |
+| [Precio de arriendo de departamentos de 2 habitaciones en Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-2-habitaciones-santiago-chile-uf-octubre-2026/) | 1748 | UF 14 |  |
+| [Precio de arriendo de departamentos de 3 o más habitaciones en Santiago (Chile), precios en UF — octubre 2026](arriendo-departamentos-3-o-mas-habitaciones-santiago-chile-uf-octubre-2026/) | 944 | UF 39 |  |
+| [Precio de venta de departamentos de 1 habitación en Santiago (Chile) — octubre 2026](venta-departamentos-1-habitaciones-santiago-chile-octubre-2026/) | 225 | CLP 73.490.000 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Santiago (Chile) — octubre 2026](venta-departamentos-2-habitaciones-santiago-chile-octubre-2026/) | 268 | CLP 98.000.000 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Santiago (Chile) — octubre 2026](venta-departamentos-3-o-mas-habitaciones-santiago-chile-octubre-2026/) | 126 | CLP 135.000.000 |  |
+| [Precio de venta de departamentos de 1 habitación en Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-1-habitaciones-santiago-chile-uf-octubre-2026/) | 1434 | UF 3.234 |  |
+| [Precio de venta de departamentos de 2 habitaciones en Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-2-habitaciones-santiago-chile-uf-octubre-2026/) | 2541 | UF 5.400 |  |
+| [Precio de venta de departamentos de 3 o más habitaciones en Santiago (Chile), precios en UF — octubre 2026](venta-departamentos-3-o-mas-habitaciones-santiago-chile-uf-octubre-2026/) | 3810 | UF 10.490 |  |

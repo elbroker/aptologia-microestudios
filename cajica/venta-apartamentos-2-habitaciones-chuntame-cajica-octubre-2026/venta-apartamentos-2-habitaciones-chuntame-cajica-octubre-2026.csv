@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,310000000,64
-habitaciones,2,310000000,64
-habitaciones,3+,390000000,71
-barrio,mediana_barrio_todos_los_tamanos,335000000,138
-ciudad,mediana_ciudad,330000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/chuntame,
+seccion,metrica,valor,moneda,n
+precio,p25,267500000.0,COP,60
+precio,mediana,309950000.0,COP,60
+precio,p75,336247500.0,COP,60
+precio,minimo,192000000.0,COP,60
+precio,maximo,400000000.0,COP,60
+m2,mediana_precio_m2,5391395.15,COP,60
+m2,area_mediana_m2,56.0,m2,60
+admin,mediana_admin_mes,200000.0,COP,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,4,,53
+habitaciones,2,309950000.0,COP,60
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,5749907.51,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/chuntame,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,7900000,141
-habitaciones,1,6000000,68
-habitaciones,2,7900000,141
-habitaciones,3+,7500000,169
-barrio,mediana_barrio_todos_los_tamanos,7200000,381
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-lucas,
+seccion,metrica,valor,moneda,n
+precio,p25,6000000.0,COP,107
+precio,mediana,7900000.0,COP,107
+precio,p75,9900000.0,COP,107
+precio,minimo,3100000.0,COP,107
+precio,maximo,18000000.0,COP,107
+m2,mediana_precio_m2,63291.14,COP,101
+m2,area_mediana_m2,112.0,m2,101
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,105
+estrato,estrato_mas_frecuente,6,,107
+habitaciones,2,7900000.0,COP,107
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

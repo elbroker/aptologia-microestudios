@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en Los Alpes, Pereira — octubre 2026
 
-En Los Alpes, Pereira, la mediana de canon mensual de apartamentos es COP 3.000.000, según 134 avisos vigentes.
+Con 97 avisos vigentes, el canon mediano de apartamentos en arriendo en Los Alpes, Pereira es COP 3,10 millones al mes.
 
-Frente al total de Pereira (COP 2.700.000), el barrio está 11 % por encima.
+Frente a la mediana de Pereira para apartamentos (COP 2,80 millones), queda 11 % por encima.
 
-Con la mediana de venta del mismo barrio (COP 525 millones), el arriendo anual equivale a 6,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 32.817/m² al mes (n = 94 avisos con área), 2 % por debajo de Pereira (COP 33.333/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (59 avisos, mediana COP 3.500.000); pasar de 1 habitación a 3 o más habitaciones sube la mediana 77 %.
+Con el precio por m² de venta del mismo segmento (COP 5,52 millones/m²), la rentabilidad bruta implícita es 7,1 % anual (aproximación con medianas de ofertas distintas).
 
-100 % de los avisos incluye parqueadero.
+El área mediana anunciada es 90 m².
 
-Por mediana, es el puesto 5 de 13 barrios de Pereira con al menos 30 avisos de apartamentos en arriendo: en la franja media.
+El segmento con más oferta es el de 3 o más habitaciones (49 avisos, mediana COP 3,50 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +59 %.
 
-La dispersión es moderada: el cuartil superior (COP 3.650.000) es 1,5 veces el inferior (COP 2.400.000).
+La administración mediana declarada es COP 497.000 al mes (n = 64), aparte del canon.
 
-- n = 134 avisos vigentes · foto del 2026-10-17
+Por precio mediano es el puesto 6 de 11 barrios de Pereira con al menos 30 avisos de apartamentos en arriendo (COP): en la franja media.
+
+- n = 97 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/pereira/los-alpes
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/pereira/los-alpes
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-los-alpes-pereira-octubre-2026.pdf`, `arriendo-apartamentos-los-alpes-pereira-octubre-2026.csv`, `arriendo-apartamentos-los-alpes-pereira-octubre-2026.png`.

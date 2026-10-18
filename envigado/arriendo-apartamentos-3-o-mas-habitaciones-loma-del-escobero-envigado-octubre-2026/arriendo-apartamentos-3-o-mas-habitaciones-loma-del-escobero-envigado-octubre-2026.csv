@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5000000,261
-habitaciones,1,3800000,65
-habitaciones,2,4300000,200
-habitaciones,3+,5000000,261
-barrio,mediana_barrio_todos_los_tamanos,4500000,526
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-escobero,
+seccion,metrica,valor,moneda,n
+precio,p25,4500000.0,COP,189
+precio,mediana,5300000.0,COP,189
+precio,p75,6500000.0,COP,189
+precio,minimo,2100000.0,COP,189
+precio,maximo,16000000.0,COP,189
+m2,mediana_precio_m2,49043.37,COP,188
+m2,area_mediana_m2,108.0,m2,188
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,186
+estrato,estrato_mas_frecuente,5,,189
+habitaciones,3+,5300000.0,COP,189
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

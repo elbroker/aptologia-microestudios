@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,398000000,46
-habitaciones,1,310000000,21
-habitaciones,2,398000000,46
-habitaciones,3+,450000000,85
-barrio,mediana_barrio_todos_los_tamanos,400000000,152
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/andalucia,
+seccion,metrica,valor,moneda,n
+precio,p25,315000000.0,COP,37
+precio,mediana,395000000.0,COP,37
+precio,p75,485000000.0,COP,37
+precio,minimo,185000000.0,COP,37
+precio,maximo,680000000.0,COP,37
+m2,mediana_precio_m2,4900000.0,COP,37
+m2,area_mediana_m2,100.0,m2,37
+admin,mediana_admin_mes,560000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+estrato,estrato_mas_frecuente,5,,37
+habitaciones,2,395000000.0,COP,37
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/andalucia,,
+fuente,licencia,CC BY 4.0,,

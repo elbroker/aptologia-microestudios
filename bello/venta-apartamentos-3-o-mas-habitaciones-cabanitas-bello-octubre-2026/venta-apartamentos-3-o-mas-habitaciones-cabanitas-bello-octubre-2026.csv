@@ -1,8 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,398000000,35
-habitaciones,2,280000000,9
-habitaciones,3+,398000000,35
-barrio,mediana_barrio_todos_los_tamanos,390000000,45
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/cabanitas,
+seccion,metrica,valor,moneda,n
+precio,p25,330000000.0,COP,33
+precio,mediana,390000000.0,COP,33
+precio,p75,440000000.0,COP,33
+precio,minimo,260000000.0,COP,33
+precio,maximo,630000000.0,COP,33
+m2,mediana_precio_m2,4344515.24,COP,32
+m2,area_mediana_m2,88.0,m2,32
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,390000000.0,COP,33
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/cabanitas,,
+fuente,licencia,CC BY 4.0,,

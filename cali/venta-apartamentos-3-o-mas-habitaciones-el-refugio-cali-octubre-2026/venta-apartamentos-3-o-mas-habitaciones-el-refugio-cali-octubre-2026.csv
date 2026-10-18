@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,300000000,73
-habitaciones,1,305000000,40
-habitaciones,2,250000000,19
-habitaciones,3+,300000000,73
-barrio,mediana_barrio_todos_los_tamanos,290000000,132
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/el-refugio,
+seccion,metrica,valor,moneda,n
+precio,p25,245000000.0,COP,54
+precio,mediana,290000000.0,COP,54
+precio,p75,350000000.0,COP,54
+precio,minimo,175000000.0,COP,54
+precio,maximo,650000000.0,COP,54
+m2,mediana_precio_m2,3620689.66,COP,53
+m2,area_mediana_m2,74.0,m2,53
+admin,mediana_admin_mes,423000.0,COP,46
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,53
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,3+,290000000.0,COP,54
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/el-refugio,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,370000000,45
-habitaciones,1,310000000,25
-habitaciones,2,370000000,45
-habitaciones,3+,510000000,196
-barrio,mediana_barrio_todos_los_tamanos,450000000,266
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/la-america,
+seccion,metrica,valor,moneda,n
+precio,p25,300000000.0,COP,37
+precio,mediana,360000000.0,COP,37
+precio,p75,420000000.0,COP,37
+precio,minimo,239000000.0,COP,37
+precio,maximo,775000000.0,COP,37
+m2,mediana_precio_m2,6363636.36,COP,37
+m2,area_mediana_m2,63.0,m2,37
+admin,mediana_admin_mes,250000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,35
+habitaciones,2,360000000.0,COP,37
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

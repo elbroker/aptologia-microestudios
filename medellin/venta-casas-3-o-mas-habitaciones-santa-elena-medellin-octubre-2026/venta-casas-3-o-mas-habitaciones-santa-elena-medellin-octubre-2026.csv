@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1592000000,57
-habitaciones,2,980000000,11
-habitaciones,3+,1592000000,57
-barrio,mediana_barrio_todos_los_tamanos,1496000000,70
-ciudad,mediana_ciudad,1300000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/santa-elena,
+seccion,metrica,valor,moneda,n
+precio,p25,1175000000.0,COP,52
+precio,mediana,1546000000.0,COP,52
+precio,p75,2300000000.0,COP,52
+precio,minimo,650000000.0,COP,52
+precio,maximo,7000000000.0,COP,52
+m2,mediana_precio_m2,6332589.29,COP,32
+m2,area_mediana_m2,300.0,m2,32
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.9,%,48
+estrato,estrato_mas_frecuente,3,,44
+habitaciones,3+,1546000000.0,COP,52
+ciudad,mediana_ciudad_referencia,1400000000.0,COP,
+ciudad,mediana_m2_ciudad,5526315.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/santa-elena,,
+fuente,licencia,CC BY 4.0,,

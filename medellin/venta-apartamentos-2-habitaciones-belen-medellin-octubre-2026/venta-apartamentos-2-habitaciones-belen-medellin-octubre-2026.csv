@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,520000000,193
-habitaciones,1,345000000,66
-habitaciones,2,520000000,193
-habitaciones,3+,600000000,702
-barrio,mediana_barrio_todos_los_tamanos,565000000,964
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/belen,
+seccion,metrica,valor,moneda,n
+precio,p25,410000000.0,COP,163
+precio,mediana,480000000.0,COP,163
+precio,p75,637000000.0,COP,163
+precio,minimo,160000000.0,COP,163
+precio,maximo,989000000.0,COP,163
+m2,mediana_precio_m2,7409638.55,COP,163
+m2,area_mediana_m2,67.0,m2,163
+admin,mediana_admin_mes,373400.0,COP,117
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.4,%,139
+estrato,estrato_mas_frecuente,5,,153
+habitaciones,2,480000000.0,COP,163
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

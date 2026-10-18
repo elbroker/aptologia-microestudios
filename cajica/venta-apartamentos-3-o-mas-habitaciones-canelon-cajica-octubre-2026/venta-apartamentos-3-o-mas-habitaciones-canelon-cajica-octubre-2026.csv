@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,475000000,49
-habitaciones,1,280000000,13
-habitaciones,2,365000000,34
-habitaciones,3+,475000000,49
-barrio,mediana_barrio_todos_los_tamanos,400000000,96
-ciudad,mediana_ciudad,450000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/canelon,
+seccion,metrica,valor,moneda,n
+precio,p25,377500000.0,COP,36
+precio,mediana,467500000.0,COP,36
+precio,p75,512500000.0,COP,36
+precio,minimo,299000000.0,COP,36
+precio,maximo,595000000.0,COP,36
+m2,mediana_precio_m2,5446078.43,COP,36
+m2,area_mediana_m2,82.5,m2,36
+admin,mediana_admin_mes,460000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,3+,467500000.0,COP,36
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5606060.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/canelon,,
+fuente,licencia,CC BY 4.0,,

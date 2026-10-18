@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,78
-habitaciones,1,400000000,10
-habitaciones,2,550000000,78
-habitaciones,3+,670000000,327
-barrio,mediana_barrio_todos_los_tamanos,650000000,415
-ciudad,mediana_ciudad,510000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/aves-maria,
+seccion,metrica,valor,moneda,n
+precio,p25,450000000.0,COP,63
+precio,mediana,550000000.0,COP,63
+precio,p75,660000000.0,COP,63
+precio,minimo,270000000.0,COP,63
+precio,maximo,870000000.0,COP,63
+m2,mediana_precio_m2,6935483.87,COP,63
+m2,area_mediana_m2,84.0,m2,63
+admin,mediana_admin_mes,400000.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,82.0,%,61
+estrato,estrato_mas_frecuente,4,,63
+habitaciones,2,550000000.0,COP,63
+ciudad,mediana_ciudad_referencia,511000000.0,COP,
+ciudad,mediana_m2_ciudad,7457513.13,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/aves-maria,,
+fuente,licencia,CC BY 4.0,,

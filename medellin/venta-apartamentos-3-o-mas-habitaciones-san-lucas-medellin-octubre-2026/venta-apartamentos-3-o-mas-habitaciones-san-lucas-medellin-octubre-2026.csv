@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1450000000,202
-habitaciones,1,853000000,12
-habitaciones,2,1500000000,65
-habitaciones,3+,1450000000,202
-barrio,mediana_barrio_todos_los_tamanos,1450000000,279
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/san-lucas,
+seccion,metrica,valor,moneda,n
+precio,p25,950000000.0,COP,143
+precio,mediana,1390000000.0,COP,143
+precio,p75,2150000000.0,COP,143
+precio,minimo,320000000.0,COP,143
+precio,maximo,4200000000.0,COP,143
+m2,mediana_precio_m2,7681547.62,COP,142
+m2,area_mediana_m2,181.5,m2,142
+admin,mediana_admin_mes,1247500.0,COP,104
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.3,%,142
+estrato,estrato_mas_frecuente,6,,140
+habitaciones,3+,1390000000.0,COP,143
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

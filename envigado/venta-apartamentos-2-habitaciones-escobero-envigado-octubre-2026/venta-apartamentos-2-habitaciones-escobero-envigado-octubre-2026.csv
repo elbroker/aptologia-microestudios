@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,920000000,42
-habitaciones,1,675000000,12
-habitaciones,2,920000000,42
-habitaciones,3+,1050000000,103
-barrio,mediana_barrio_todos_los_tamanos,950000000,158
-ciudad,mediana_ciudad,740000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/escobero,
+seccion,metrica,valor,moneda,n
+precio,p25,830000000.0,COP,41
+precio,mediana,920000000.0,COP,41
+precio,p75,1250000000.0,COP,41
+precio,minimo,530000000.0,COP,41
+precio,maximo,2470000000.0,COP,41
+m2,mediana_precio_m2,10588235.29,COP,39
+m2,area_mediana_m2,84.0,m2,39
+admin,mediana_admin_mes,463500.0,COP,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,2,920000000.0,COP,41
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,9214285.71,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

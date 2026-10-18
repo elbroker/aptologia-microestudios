@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3900000,127
-habitaciones,1,3000000,27
-habitaciones,2,3600000,115
-habitaciones,3+,3900000,127
-barrio,mediana_barrio_todos_los_tamanos,3700000,270
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-del-indio,
+seccion,metrica,valor,moneda,n
+precio,p25,3300000.0,COP,107
+precio,mediana,3900000.0,COP,107
+precio,p75,4700000.0,COP,107
+precio,minimo,1111111.0,COP,107
+precio,maximo,8500000.0,COP,107
+m2,mediana_precio_m2,50000.0,COP,106
+m2,area_mediana_m2,81.5,m2,106
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.0,%,100
+estrato,estrato_mas_frecuente,4,,107
+habitaciones,3+,3900000.0,COP,107
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

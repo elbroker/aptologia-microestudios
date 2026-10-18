@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4500000,43
-habitaciones,1,4500000,43
-habitaciones,2,8000000,28
-habitaciones,3+,10350000,12
-barrio,mediana_barrio_todos_los_tamanos,5500000,83
-ciudad,mediana_ciudad,2532500,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/llanogrande,
+seccion,metrica,valor,moneda,n
+precio,p25,3975000.0,COP,36
+precio,mediana,4550000.0,COP,36
+precio,p75,5050000.0,COP,36
+precio,minimo,2500000.0,COP,36
+precio,maximo,6800000.0,COP,36
+m2,mediana_precio_m2,72472.15,COP,36
+m2,area_mediana_m2,60.5,m2,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,1,4550000.0,COP,36
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,52500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/llanogrande,,
+fuente,licencia,CC BY 4.0,,

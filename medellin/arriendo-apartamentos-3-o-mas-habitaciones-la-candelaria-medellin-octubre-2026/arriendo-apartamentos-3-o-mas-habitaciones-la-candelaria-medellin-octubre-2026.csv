@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4000000,51
-habitaciones,1,1850000,58
-habitaciones,2,2400000,40
-habitaciones,3+,4000000,51
-barrio,mediana_barrio_todos_los_tamanos,2300000,149
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-candelaria,
+seccion,metrica,valor,moneda,n
+precio,p25,2525000.0,COP,50
+precio,mediana,4000000.0,COP,50
+precio,p75,5500000.0,COP,50
+precio,minimo,1350000.0,COP,50
+precio,maximo,18000000.0,COP,50
+m2,mediana_precio_m2,31775.7,COP,47
+m2,area_mediana_m2,112.0,m2,47
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,84.6,%,39
+estrato,estrato_mas_frecuente,4,,50
+habitaciones,3+,4000000.0,COP,50
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-candelaria,,
+fuente,licencia,CC BY 4.0,,

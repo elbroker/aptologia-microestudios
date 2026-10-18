@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,295000000,69
-habitaciones,2,295000000,69
-habitaciones,3+,370000000,397
-barrio,mediana_barrio_todos_los_tamanos,350000000,467
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/miramar,
+seccion,metrica,valor,moneda,n
+precio,p25,243750000.0,COP,52
+precio,mediana,290000000.0,COP,52
+precio,p75,310000000.0,COP,52
+precio,minimo,209000000.0,COP,52
+precio,maximo,520780000.0,COP,52
+m2,mediana_precio_m2,4909598.96,COP,52
+m2,area_mediana_m2,55.0,m2,52
+admin,mediana_admin_mes,234500.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.3,%,46
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,2,290000000.0,COP,52
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

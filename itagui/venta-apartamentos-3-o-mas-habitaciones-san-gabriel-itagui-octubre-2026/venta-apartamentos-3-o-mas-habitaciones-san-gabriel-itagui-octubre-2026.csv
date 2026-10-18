@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,277500000,42
-habitaciones,2,282500000,8
-habitaciones,3+,277500000,42
-barrio,mediana_barrio_todos_los_tamanos,280000000,50
-ciudad,mediana_ciudad,476500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/itagui/san-gabriel,
+seccion,metrica,valor,moneda,n
+precio,p25,260000000.0,COP,32
+precio,mediana,298000000.0,COP,32
+precio,p75,350000000.0,COP,32
+precio,minimo,217000000.0,COP,32
+precio,maximo,560000000.0,COP,32
+m2,mediana_precio_m2,5000000.0,COP,32
+m2,area_mediana_m2,55.0,m2,32
+admin,mediana_admin_mes,214000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,30
+habitaciones,3+,298000000.0,COP,32
+ciudad,mediana_ciudad_referencia,479000000.0,COP,
+ciudad,mediana_m2_ciudad,6571428.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/san-gabriel,,
+fuente,licencia,CC BY 4.0,,

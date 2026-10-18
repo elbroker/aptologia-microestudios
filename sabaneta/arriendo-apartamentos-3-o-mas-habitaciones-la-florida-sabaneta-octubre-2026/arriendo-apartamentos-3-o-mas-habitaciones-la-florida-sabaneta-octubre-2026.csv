@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3000000,62
-habitaciones,1,1700000,25
-habitaciones,2,2200000,61
-habitaciones,3+,3000000,62
-barrio,mediana_barrio_todos_los_tamanos,2650000,148
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/la-florida,
+seccion,metrica,valor,moneda,n
+precio,p25,2800000.0,COP,52
+precio,mediana,3050000.0,COP,52
+precio,p75,3350000.0,COP,52
+precio,minimo,1500000.0,COP,52
+precio,maximo,5000000.0,COP,52
+m2,mediana_precio_m2,40819.44,COP,52
+m2,area_mediana_m2,75.0,m2,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.0,%,51
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,3+,3050000.0,COP,52
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/la-florida,,
+fuente,licencia,CC BY 4.0,,

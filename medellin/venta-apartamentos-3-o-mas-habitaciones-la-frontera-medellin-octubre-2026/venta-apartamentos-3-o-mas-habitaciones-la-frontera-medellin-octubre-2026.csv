@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,950000000,104
-habitaciones,1,425000000,16
-habitaciones,2,670000000,10
-habitaciones,3+,950000000,104
-barrio,mediana_barrio_todos_los_tamanos,900000000,131
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/la-frontera,
+seccion,metrica,valor,moneda,n
+precio,p25,880000000.0,COP,74
+precio,mediana,980000000.0,COP,74
+precio,p75,1181250000.0,COP,74
+precio,minimo,230000000.0,COP,74
+precio,maximo,2700000000.0,COP,74
+m2,mediana_precio_m2,7746478.87,COP,73
+m2,area_mediana_m2,125.4,m2,73
+admin,mediana_admin_mes,790000.0,COP,51
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+estrato,estrato_mas_frecuente,6,,72
+habitaciones,3+,980000000.0,COP,74
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-frontera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1600000,43
-habitaciones,1,1500000,39
-habitaciones,2,1600000,43
-habitaciones,3+,2200000,21
-barrio,mediana_barrio_todos_los_tamanos,1750000,103
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/buenos-aires,
+seccion,metrica,valor,moneda,n
+precio,p25,1500000.0,COP,38
+precio,mediana,1600000.0,COP,38
+precio,p75,1950000.0,COP,38
+precio,minimo,1100000.0,COP,38
+precio,maximo,4500000.0,COP,38
+m2,mediana_precio_m2,31818.18,COP,37
+m2,area_mediana_m2,55.0,m2,37
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,5.7,%,35
+estrato,estrato_mas_frecuente,3,,38
+habitaciones,2,1600000.0,COP,38
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/buenos-aires,,
+fuente,licencia,CC BY 4.0,,

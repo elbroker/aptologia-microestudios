@@ -1,6 +1,6 @@
 # Microestudios de vivienda — Colombia por ciudad (octubre 2026)
 
-457 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Colombia, por ciudad y por cortes de estrato, habitaciones, bandas de precio y de área, antigüedad, piso, parqueadero y amenidades, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+628 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Colombia, por ciudad y por cortes de estrato, habitaciones, bandas de precio y de área, antigüedad, piso, parqueadero y amenidades, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
 
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
@@ -473,3 +473,174 @@
 | [Precio de venta de casas de 2 habitaciones en estrato 5 en Bogotá — octubre 2026](venta-casas-2-habitaciones-estrato-5-bogota-octubre-2026/) | 35 | COP 1.400.000.000 |  |
 | [Precio de arriendo de casas de 4 o más habitaciones en estrato 2 en Bogotá — octubre 2026](arriendo-casas-4-o-mas-habitaciones-estrato-2-bogota-octubre-2026/) | 32 | COP 3.250.000 |  |
 | [Precio de venta de casas de 2 habitaciones en estrato 4 en Bogotá — octubre 2026](venta-casas-2-habitaciones-estrato-4-bogota-octubre-2026/) | 30 | COP 825.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Armenia — octubre 2026](arriendo-apartamentos-2-habitaciones-armenia-octubre-2026/) | 149 | COP 2.250.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Armenia — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-armenia-octubre-2026/) | 173 | COP 2.700.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Armenia — octubre 2026](venta-apartamentos-1-habitaciones-armenia-octubre-2026/) | 85 | COP 329.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Armenia — octubre 2026](venta-apartamentos-2-habitaciones-armenia-octubre-2026/) | 778 | COP 350.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Armenia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-armenia-octubre-2026/) | 1451 | COP 430.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Barranquilla — octubre 2026](arriendo-apartamentos-1-habitaciones-barranquilla-octubre-2026/) | 339 | COP 2.305.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Barranquilla — octubre 2026](arriendo-apartamentos-2-habitaciones-barranquilla-octubre-2026/) | 1442 | COP 2.300.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Barranquilla — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-barranquilla-octubre-2026/) | 2036 | COP 3.426.700 |  |
+| [Precio de venta de apartamentos de 1 habitación en Barranquilla — octubre 2026](venta-apartamentos-1-habitaciones-barranquilla-octubre-2026/) | 245 | COP 340.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Barranquilla — octubre 2026](venta-casas-2-habitaciones-barranquilla-octubre-2026/) | 60 | COP 480.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-bello-octubre-2026/) | 306 | COP 1.800.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-bello-octubre-2026/) | 768 | COP 2.200.000 |  |
+| [Precio de arriendo de casas de 3 o más habitaciones en Bello — octubre 2026](arriendo-casas-3-o-mas-habitaciones-bello-octubre-2026/) | 45 | COP 2.650.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Bello — octubre 2026](venta-apartamentos-2-habitaciones-bello-octubre-2026/) | 646 | COP 320.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bello-octubre-2026/) | 1668 | COP 350.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Bucaramanga — octubre 2026](arriendo-apartamentos-2-habitaciones-bucaramanga-octubre-2026/) | 113 | COP 2.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Bucaramanga — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-bucaramanga-octubre-2026/) | 314 | COP 2.600.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Bucaramanga — octubre 2026](venta-apartamentos-2-habitaciones-bucaramanga-octubre-2026/) | 367 | COP 319.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Bucaramanga — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bucaramanga-octubre-2026/) | 2116 | COP 457.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Cajicá — octubre 2026](arriendo-apartamentos-2-habitaciones-cajica-octubre-2026/) | 206 | COP 1.900.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cajicá — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cajica-octubre-2026/) | 154 | COP 2.800.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Cajicá — octubre 2026](venta-apartamentos-1-habitaciones-cajica-octubre-2026/) | 42 | COP 292.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-cajica-octubre-2026/) | 566 | COP 330.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cajica-octubre-2026/) | 917 | COP 450.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Cajicá — octubre 2026](venta-casas-2-habitaciones-cajica-octubre-2026/) | 35 | COP 1.100.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Cali — octubre 2026](arriendo-apartamentos-1-habitaciones-cali-octubre-2026/) | 179 | COP 2.200.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Cali — octubre 2026](arriendo-apartamentos-2-habitaciones-cali-octubre-2026/) | 633 | COP 1.550.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cali — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cali-octubre-2026/) | 800 | COP 3.600.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Cali — octubre 2026](venta-apartamentos-1-habitaciones-cali-octubre-2026/) | 307 | COP 350.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Cali — octubre 2026](venta-casas-2-habitaciones-cali-octubre-2026/) | 57 | COP 480.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Cartagena — octubre 2026](arriendo-apartamentos-1-habitaciones-cartagena-octubre-2026/) | 318 | COP 3.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Cartagena — octubre 2026](arriendo-apartamentos-2-habitaciones-cartagena-octubre-2026/) | 983 | COP 3.400.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cartagena — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cartagena-octubre-2026/) | 731 | COP 4.800.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Cartagena — octubre 2026](venta-apartamentos-1-habitaciones-cartagena-octubre-2026/) | 910 | COP 670.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-cartagena-octubre-2026/) | 2412 | COP 750.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cartagena-octubre-2026/) | 2786 | COP 897.500.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Cartagena — octubre 2026](venta-casas-2-habitaciones-cartagena-octubre-2026/) | 51 | COP 550.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Chía — octubre 2026](arriendo-apartamentos-1-habitaciones-chia-octubre-2026/) | 112 | COP 1.700.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Chía — octubre 2026](arriendo-apartamentos-2-habitaciones-chia-octubre-2026/) | 233 | COP 1.550.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Chía — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-chia-octubre-2026/) | 147 | COP 2.800.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Chía — octubre 2026](venta-apartamentos-1-habitaciones-chia-octubre-2026/) | 194 | COP 300.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Chía — octubre 2026](venta-apartamentos-2-habitaciones-chia-octubre-2026/) | 641 | COP 290.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Chía — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-chia-octubre-2026/) | 676 | COP 450.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Chía — octubre 2026](venta-casas-2-habitaciones-chia-octubre-2026/) | 55 | COP 820.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Dosquebradas — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-dosquebradas-octubre-2026/) | 44 | COP 1.600.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Dosquebradas — octubre 2026](venta-apartamentos-2-habitaciones-dosquebradas-octubre-2026/) | 155 | COP 265.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-dosquebradas-octubre-2026/) | 446 | COP 260.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en El Carmen de Viboral — octubre 2026](arriendo-apartamentos-2-habitaciones-el-carmen-de-viboral-octubre-2026/) | 51 | COP 1.400.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en El Carmen de Viboral — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-el-carmen-de-viboral-octubre-2026/) | 51 | COP 1.500.000 |  |
+| [Precio de arriendo de casas de 3 o más habitaciones en El Carmen de Viboral — octubre 2026](arriendo-casas-3-o-mas-habitaciones-el-carmen-de-viboral-octubre-2026/) | 76 | COP 10.750.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Carmen de Viboral — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-carmen-de-viboral-octubre-2026/) | 61 | COP 315.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en El Retiro — octubre 2026](arriendo-apartamentos-1-habitaciones-el-retiro-octubre-2026/) | 104 | COP 3.900.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en El Retiro — octubre 2026](arriendo-apartamentos-2-habitaciones-el-retiro-octubre-2026/) | 346 | COP 4.300.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en El Retiro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-el-retiro-octubre-2026/) | 92 | COP 4.200.000 |  |
+| [Precio de arriendo de casas de 2 habitaciones en El Retiro — octubre 2026](arriendo-casas-2-habitaciones-el-retiro-octubre-2026/) | 81 | COP 7.500.000 |  |
+| [Precio de arriendo de casas de 3 o más habitaciones en El Retiro — octubre 2026](arriendo-casas-3-o-mas-habitaciones-el-retiro-octubre-2026/) | 427 | COP 12.500.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en El Retiro — octubre 2026](venta-apartamentos-1-habitaciones-el-retiro-octubre-2026/) | 106 | COP 560.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en El Retiro — octubre 2026](venta-apartamentos-2-habitaciones-el-retiro-octubre-2026/) | 373 | COP 750.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Retiro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-retiro-octubre-2026/) | 135 | COP 790.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en El Retiro — octubre 2026](venta-casas-2-habitaciones-el-retiro-octubre-2026/) | 98 | COP 1.877.500.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Envigado — octubre 2026](arriendo-apartamentos-1-habitaciones-envigado-octubre-2026/) | 268 | COP 4.100.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Envigado — octubre 2026](arriendo-apartamentos-2-habitaciones-envigado-octubre-2026/) | 2529 | COP 4.200.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Envigado — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-envigado-octubre-2026/) | 4545 | COP 4.550.000 |  |
+| [Precio de arriendo de casas de 2 habitaciones en Envigado — octubre 2026](arriendo-casas-2-habitaciones-envigado-octubre-2026/) | 87 | COP 8.500.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Envigado — octubre 2026](venta-apartamentos-1-habitaciones-envigado-octubre-2026/) | 218 | COP 762.448.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Envigado — octubre 2026](venta-apartamentos-2-habitaciones-envigado-octubre-2026/) | 1413 | COP 750.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Envigado — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-envigado-octubre-2026/) | 4146 | COP 850.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Envigado — octubre 2026](venta-casas-2-habitaciones-envigado-octubre-2026/) | 98 | COP 2.100.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Floridablanca — octubre 2026](arriendo-apartamentos-2-habitaciones-floridablanca-octubre-2026/) | 62 | COP 1.900.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Floridablanca — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-floridablanca-octubre-2026/) | 305 | COP 2.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Floridablanca — octubre 2026](venta-apartamentos-2-habitaciones-floridablanca-octubre-2026/) | 99 | COP 370.000.000 |  |
+| [Precio de arriendo de casas de 3 o más habitaciones en Guarne — octubre 2026](arriendo-casas-3-o-mas-habitaciones-guarne-octubre-2026/) | 60 | COP 8.400.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Ibagué — octubre 2026](arriendo-apartamentos-2-habitaciones-ibague-octubre-2026/) | 68 | COP 1.349.350 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Ibagué — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-ibague-octubre-2026/) | 185 | COP 1.400.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Ibagué — octubre 2026](venta-apartamentos-2-habitaciones-ibague-octubre-2026/) | 192 | COP 245.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-itagui-octubre-2026/) | 295 | COP 2.500.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-itagui-octubre-2026/) | 589 | COP 2.850.000 |  |
+| [Precio de arriendo de casas de 3 o más habitaciones en Itagüí — octubre 2026](arriendo-casas-3-o-mas-habitaciones-itagui-octubre-2026/) | 68 | COP 2.825.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Itagüí — octubre 2026](venta-apartamentos-1-habitaciones-itagui-octubre-2026/) | 32 | COP 377.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-itagui-octubre-2026/) | 513 | COP 465.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-itagui-octubre-2026/) | 1470 | COP 479.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Jamundí — octubre 2026](arriendo-apartamentos-2-habitaciones-jamundi-octubre-2026/) | 96 | COP 1.220.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Jamundí — octubre 2026](venta-apartamentos-2-habitaciones-jamundi-octubre-2026/) | 283 | COP 205.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Jamundí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-jamundi-octubre-2026/) | 189 | COP 230.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Jamundí — octubre 2026](venta-casas-2-habitaciones-jamundi-octubre-2026/) | 41 | COP 390.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en La Calera — octubre 2026](venta-apartamentos-2-habitaciones-la-calera-octubre-2026/) | 48 | COP 350.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Calera — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-calera-octubre-2026/) | 82 | COP 500.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en La Ceja — octubre 2026](arriendo-apartamentos-2-habitaciones-la-ceja-octubre-2026/) | 159 | COP 2.500.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en La Ceja — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-ceja-octubre-2026/) | 183 | COP 2.800.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en La Ceja — octubre 2026](venta-apartamentos-2-habitaciones-la-ceja-octubre-2026/) | 133 | COP 385.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Ceja — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-ceja-octubre-2026/) | 150 | COP 460.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en La Ceja — octubre 2026](venta-casas-2-habitaciones-la-ceja-octubre-2026/) | 43 | COP 1.200.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en La Estrella — octubre 2026](arriendo-apartamentos-2-habitaciones-la-estrella-octubre-2026/) | 252 | COP 2.400.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en La Estrella — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-estrella-octubre-2026/) | 232 | COP 2.700.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en La Estrella — octubre 2026](venta-apartamentos-2-habitaciones-la-estrella-octubre-2026/) | 243 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Estrella — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-estrella-octubre-2026/) | 316 | COP 482.500.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Madrid — octubre 2026](arriendo-apartamentos-2-habitaciones-madrid-octubre-2026/) | 60 | COP 1.200.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Madrid — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-madrid-octubre-2026/) | 214 | COP 1.200.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Madrid — octubre 2026](venta-apartamentos-2-habitaciones-madrid-octubre-2026/) | 68 | COP 216.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Manizales — octubre 2026](arriendo-apartamentos-2-habitaciones-manizales-octubre-2026/) | 126 | COP 1.650.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Manizales — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-manizales-octubre-2026/) | 147 | COP 2.670.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Manizales — octubre 2026](venta-apartamentos-1-habitaciones-manizales-octubre-2026/) | 104 | COP 348.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Manizales — octubre 2026](venta-apartamentos-2-habitaciones-manizales-octubre-2026/) | 767 | COP 350.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-manizales-octubre-2026/) | 1944 | COP 495.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Manizales — octubre 2026](venta-casas-2-habitaciones-manizales-octubre-2026/) | 45 | COP 450.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Marinilla — octubre 2026](arriendo-apartamentos-2-habitaciones-marinilla-octubre-2026/) | 56 | COP 1.700.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Marinilla — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-marinilla-octubre-2026/) | 49 | COP 1.750.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Marinilla — octubre 2026](venta-apartamentos-2-habitaciones-marinilla-octubre-2026/) | 62 | COP 342.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Marinilla — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-marinilla-octubre-2026/) | 96 | COP 349.850.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Medellín — octubre 2026](arriendo-apartamentos-1-habitaciones-medellin-octubre-2026/) | 1849 | COP 3.850.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Medellín — octubre 2026](arriendo-apartamentos-2-habitaciones-medellin-octubre-2026/) | 6601 | COP 4.200.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Medellín — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-medellin-octubre-2026/) | 11945 | COP 5.500.000 |  |
+| [Precio de arriendo de casas de 1 habitación en Medellín — octubre 2026](arriendo-casas-1-habitaciones-medellin-octubre-2026/) | 36 | COP 5.500.000 |  |
+| [Precio de arriendo de casas de 2 habitaciones en Medellín — octubre 2026](arriendo-casas-2-habitaciones-medellin-octubre-2026/) | 156 | COP 3.250.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Medellín — octubre 2026](venta-apartamentos-1-habitaciones-medellin-octubre-2026/) | 1137 | COP 630.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Medellín — octubre 2026](venta-apartamentos-2-habitaciones-medellin-octubre-2026/) | 4659 | COP 720.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Medellín — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-medellin-octubre-2026/) | 15088 | COP 890.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Medellín — octubre 2026](venta-casas-2-habitaciones-medellin-octubre-2026/) | 153 | COP 535.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Montería — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-monteria-octubre-2026/) | 38 | COP 2.250.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Montería — octubre 2026](venta-apartamentos-2-habitaciones-monteria-octubre-2026/) | 55 | COP 280.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Montería — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-monteria-octubre-2026/) | 258 | COP 420.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Mosquera — octubre 2026](arriendo-apartamentos-2-habitaciones-mosquera-octubre-2026/) | 43 | COP 1.250.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Mosquera — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-mosquera-octubre-2026/) | 121 | COP 1.600.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Mosquera — octubre 2026](venta-apartamentos-2-habitaciones-mosquera-octubre-2026/) | 109 | COP 265.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Palmira — octubre 2026](arriendo-apartamentos-2-habitaciones-palmira-octubre-2026/) | 31 | COP 1.100.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Palmira — octubre 2026](venta-apartamentos-2-habitaciones-palmira-octubre-2026/) | 57 | COP 245.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Palmira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-palmira-octubre-2026/) | 67 | COP 350.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Pereira — octubre 2026](arriendo-apartamentos-1-habitaciones-pereira-octubre-2026/) | 84 | COP 1.950.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Pereira — octubre 2026](arriendo-apartamentos-2-habitaciones-pereira-octubre-2026/) | 535 | COP 2.600.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Pereira — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-pereira-octubre-2026/) | 939 | COP 3.100.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Pereira — octubre 2026](venta-apartamentos-1-habitaciones-pereira-octubre-2026/) | 144 | COP 370.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Pereira — octubre 2026](venta-apartamentos-2-habitaciones-pereira-octubre-2026/) | 1236 | COP 400.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Pereira — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-pereira-octubre-2026/) | 3061 | COP 460.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Pereira — octubre 2026](venta-casas-2-habitaciones-pereira-octubre-2026/) | 82 | COP 392.500.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Piedecuesta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-piedecuesta-octubre-2026/) | 46 | COP 1.275.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Piedecuesta — octubre 2026](venta-apartamentos-2-habitaciones-piedecuesta-octubre-2026/) | 59 | COP 215.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Piedecuesta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-piedecuesta-octubre-2026/) | 196 | COP 220.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Puerto Colombia — octubre 2026](arriendo-apartamentos-2-habitaciones-puerto-colombia-octubre-2026/) | 58 | COP 2.000.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Puerto Colombia — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-puerto-colombia-octubre-2026/) | 33 | COP 3.400.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Puerto Colombia — octubre 2026](venta-apartamentos-2-habitaciones-puerto-colombia-octubre-2026/) | 52 | COP 427.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Puerto Colombia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-puerto-colombia-octubre-2026/) | 86 | COP 585.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Rionegro — octubre 2026](arriendo-apartamentos-1-habitaciones-rionegro-octubre-2026/) | 229 | COP 3.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Rionegro — octubre 2026](arriendo-apartamentos-2-habitaciones-rionegro-octubre-2026/) | 1750 | COP 2.600.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Rionegro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-rionegro-octubre-2026/) | 1213 | COP 2.700.000 |  |
+| [Precio de arriendo de casas de 2 habitaciones en Rionegro — octubre 2026](arriendo-casas-2-habitaciones-rionegro-octubre-2026/) | 87 | COP 6.500.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Rionegro — octubre 2026](venta-apartamentos-1-habitaciones-rionegro-octubre-2026/) | 154 | COP 517.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-rionegro-octubre-2026/) | 1636 | COP 500.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Rionegro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-rionegro-octubre-2026/) | 1256 | COP 540.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Rionegro — octubre 2026](venta-casas-2-habitaciones-rionegro-octubre-2026/) | 85 | COP 1.450.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Sabaneta — octubre 2026](arriendo-apartamentos-1-habitaciones-sabaneta-octubre-2026/) | 121 | COP 2.500.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Sabaneta — octubre 2026](arriendo-apartamentos-2-habitaciones-sabaneta-octubre-2026/) | 1301 | COP 2.900.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-sabaneta-octubre-2026/) | 2462 | COP 3.300.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Sabaneta — octubre 2026](venta-apartamentos-1-habitaciones-sabaneta-octubre-2026/) | 108 | COP 387.500.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Sabaneta — octubre 2026](venta-apartamentos-2-habitaciones-sabaneta-octubre-2026/) | 1392 | COP 511.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-sabaneta-octubre-2026/) | 2891 | COP 580.000.000 |  |
+| [Precio de arriendo de apartamentos de 1 habitación en Santa Marta — octubre 2026](arriendo-apartamentos-1-habitaciones-santa-marta-octubre-2026/) | 219 | COP 2.600.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Santa Marta — octubre 2026](arriendo-apartamentos-2-habitaciones-santa-marta-octubre-2026/) | 268 | COP 3.500.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Santa Marta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-santa-marta-octubre-2026/) | 192 | COP 4.175.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Santa Marta — octubre 2026](venta-apartamentos-1-habitaciones-santa-marta-octubre-2026/) | 1088 | COP 450.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-santa-marta-octubre-2026/) | 1409 | COP 700.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Marta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-marta-octubre-2026/) | 1410 | COP 760.000.000 |  |
+| [Precio de venta de casas de 2 habitaciones en Santa Marta — octubre 2026](venta-casas-2-habitaciones-santa-marta-octubre-2026/) | 66 | COP 380.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Soacha — octubre 2026](arriendo-apartamentos-2-habitaciones-soacha-octubre-2026/) | 73 | COP 950.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Soacha — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-soacha-octubre-2026/) | 71 | COP 950.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Tocancipá — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-tocancipa-octubre-2026/) | 76 | COP 1.090.500 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Tocancipá — octubre 2026](venta-apartamentos-2-habitaciones-tocancipa-octubre-2026/) | 71 | COP 200.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Villavicencio — octubre 2026](arriendo-apartamentos-2-habitaciones-villavicencio-octubre-2026/) | 36 | COP 1.200.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Villavicencio — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-villavicencio-octubre-2026/) | 32 | COP 1.683.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Villavicencio — octubre 2026](venta-apartamentos-2-habitaciones-villavicencio-octubre-2026/) | 97 | COP 220.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Villavicencio — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-villavicencio-octubre-2026/) | 260 | COP 320.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Zipaquirá — octubre 2026](venta-apartamentos-2-habitaciones-zipaquira-octubre-2026/) | 109 | COP 245.000.000 |  |

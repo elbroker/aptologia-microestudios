@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2600000,224
-habitaciones,2,2600000,224
-habitaciones,3+,3000000,132
-barrio,mediana_barrio_todos_los_tamanos,2800000,364
-ciudad,mediana_ciudad,2500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/barro-blanco,
+seccion,metrica,valor,moneda,n
+precio,p25,2500000.0,COP,126
+precio,mediana,2725000.0,COP,126
+precio,p75,3000000.0,COP,126
+precio,minimo,1550000.0,COP,126
+precio,maximo,11111111.0,COP,126
+m2,mediana_precio_m2,40322.58,COP,125
+m2,area_mediana_m2,67.0,m2,125
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.4,%,121
+estrato,estrato_mas_frecuente,5,,126
+habitaciones,2,2725000.0,COP,126
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,37837.84,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/barro-blanco,,
+fuente,licencia,CC BY 4.0,,

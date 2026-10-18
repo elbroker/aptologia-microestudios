@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,105
-habitaciones,2,490000000,70
-habitaciones,3+,550000000,105
-barrio,mediana_barrio_todos_los_tamanos,535000000,175
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/las-antillas,
+seccion,metrica,valor,moneda,n
+precio,p25,482500000.0,COP,79
+precio,mediana,548000000.0,COP,79
+precio,p75,665000000.0,COP,79
+precio,minimo,420000000.0,COP,79
+precio,maximo,975149761.0,COP,79
+m2,mediana_precio_m2,7620999.22,COP,78
+m2,area_mediana_m2,72.0,m2,78
+admin,mediana_admin_mes,420000.0,COP,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.2,%,78
+estrato,estrato_mas_frecuente,4,,76
+habitaciones,3+,548000000.0,COP,79
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/las-antillas,,
+fuente,licencia,CC BY 4.0,,

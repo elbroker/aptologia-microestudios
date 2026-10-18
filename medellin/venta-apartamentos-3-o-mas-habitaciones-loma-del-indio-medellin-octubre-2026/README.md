@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 3 o más habitaciones en Loma del Indio, Medellín — octubre 2026
 
-En Loma del Indio, Medellín, la mediana de precio de venta de apartamentos de 3 o más habitaciones es COP 590 millones, según 173 avisos vigentes.
+Con 123 avisos vigentes, el precio mediano de apartamentos de 3 o más habitaciones en venta en Loma del Indio, Medellín es COP 630 millones.
 
-Comparado con la mediana de la ciudad, COP 900 millones, la diferencia es de 34 % por debajo.
+Eso es 29 % por debajo de la mediana de Medellín para apartamentos de 3 o más habitaciones (COP 890 millones).
 
-Son 53 % de los 328 avisos de apartamentos en venta del barrio, cuya mediana general es COP 580 millones (+2 %).
+Por metro cuadrado, la mediana es COP 7,60 millones/m² (n = 120 avisos con área), 8 % por encima de Medellín (COP 7,06 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 3.900.000 al mes), el arriendo anual equivale a 7,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 57 % de los 217 avisos de apartamentos en venta de la zona, cuya mediana general es COP 580 millones (+9 %).
 
-En el mismo barrio, la mediana es COP 450 millones con 1 habitación (n = 9), COP 530 millones con 2 habitaciones (n = 146).
+Con el precio por m² de arriendo del mismo segmento (COP 50.000/m² al mes), la rentabilidad bruta implícita es 7,9 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 173 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 80 m².
+
+La administración mediana declarada es COP 450.000 al mes (n = 96).
+
+El estrato más frecuente es 4 (70 % de los avisos con estrato).
+
+- n = 123 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/medellin/loma-del-indio
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/medellin/loma-del-indio
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-3-o-mas-habitaciones-loma-del-indio-medellin-octubre-2026.pdf`, `venta-apartamentos-3-o-mas-habitaciones-loma-del-indio-medellin-octubre-2026.csv`, `venta-apartamentos-3-o-mas-habitaciones-loma-del-indio-medellin-octubre-2026.png`.

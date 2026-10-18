@@ -1,23 +1,25 @@
 # Precio de arriendo de casas en Santa Elena, El Retiro — octubre 2026
 
-COP 7.650.000 al mes es el canon mediano de casas en arriendo en Santa Elena, El Retiro (n = 56 avisos).
+En Santa Elena, El Retiro, la mediana de canon mensual de casas es COP 7,70 millones, según 55 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 11.600.000, la diferencia es de 34 % por debajo.
+Eso es 33 % por debajo de la mediana de El Retiro para casas (COP 11,50 millones).
 
-Con la mediana de venta del mismo barrio (COP 1,90 mil millones), el arriendo anual equivale a 4,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 38.095/m² al mes (n = 54 avisos con área), 6 % por debajo de El Retiro (COP 40.625/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (44 avisos, mediana COP 8.000.000); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 25 %.
+Con el precio por m² de venta del mismo segmento (COP 7,50 millones/m²), la rentabilidad bruta implícita es 6,1 % anual (aproximación con medianas de ofertas distintas).
 
-84 % de los avisos incluye parqueadero, y su mediana (COP 7.600.000) es prácticamente igual a la general.
+El área mediana anunciada es 200 m².
 
-La dispersión es moderada: el cuartil superior (COP 9.725.000) es 1,6 veces el inferior (COP 6.000.000).
+El segmento con más oferta es el de 3 o más habitaciones (43 avisos, mediana COP 8,00 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +25 %.
 
-El aviso más barato pide COP 2.800.000 y el más caro COP 27.900.000.
+El estrato más frecuente es 5 (84 % de los avisos con estrato).
 
-- n = 56 avisos vigentes · foto del 2026-10-17
+La mitad central de los avisos va de COP 6,00 millones a COP 9,75 millones (razón 1,6), una dispersión moderada.
+
+- n = 55 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/el-retiro/santa-elena
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/el-retiro/santa-elena
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-casas-santa-elena-el-retiro-octubre-2026.pdf`, `arriendo-casas-santa-elena-el-retiro-octubre-2026.csv`, `arriendo-casas-santa-elena-el-retiro-octubre-2026.png`.

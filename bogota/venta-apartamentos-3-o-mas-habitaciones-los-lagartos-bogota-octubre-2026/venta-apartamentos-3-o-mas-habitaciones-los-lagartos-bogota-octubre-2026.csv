@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1270000000,62
-habitaciones,2,660000000,9
-habitaciones,3+,1270000000,62
-barrio,mediana_barrio_todos_los_tamanos,1200000000,73
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/los-lagartos,
+seccion,metrica,valor,moneda,n
+precio,p25,865000000.0,COP,35
+precio,mediana,1350000000.0,COP,35
+precio,p75,1900000000.0,COP,35
+precio,minimo,425000000.0,COP,35
+precio,maximo,4000000000.0,COP,35
+m2,mediana_precio_m2,6761904.76,COP,34
+m2,area_mediana_m2,185.0,m2,34
+admin,mediana_admin_mes,1200000.0,COP,31
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,3+,1350000000.0,COP,35
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/los-lagartos,,
+fuente,licencia,CC BY 4.0,,

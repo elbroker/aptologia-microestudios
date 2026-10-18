@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2400000,69
-habitaciones,2,2300000,25
-habitaciones,3+,2400000,69
-barrio,mediana_barrio_todos_los_tamanos,2400000,96
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/rodeo-alto,
+seccion,metrica,valor,moneda,n
+precio,p25,2250000.0,COP,41
+precio,mediana,2500000.0,COP,41
+precio,p75,2800000.0,COP,41
+precio,minimo,1600000.0,COP,41
+precio,maximo,4500000.0,COP,41
+m2,mediana_precio_m2,36363.64,COP,41
+m2,area_mediana_m2,68.0,m2,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,68.4,%,38
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,3+,2500000.0,COP,41
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/rodeo-alto,,
+fuente,licencia,CC BY 4.0,,

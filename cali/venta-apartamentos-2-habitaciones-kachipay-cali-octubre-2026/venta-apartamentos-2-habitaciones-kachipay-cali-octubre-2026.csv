@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,250000000,46
-habitaciones,2,250000000,46
-habitaciones,3+,250000000,26
-barrio,mediana_barrio_todos_los_tamanos,250000000,73
-ciudad,mediana_ciudad,280000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/kachipay,
+seccion,metrica,valor,moneda,n
+precio,p25,228500000.5,COP,43
+precio,mediana,250000000.0,COP,43
+precio,p75,267500000.0,COP,43
+precio,minimo,160000000.0,COP,43
+precio,maximo,535000000.0,COP,43
+m2,mediana_precio_m2,4150943.4,COP,43
+m2,area_mediana_m2,61.0,m2,43
+admin,mediana_admin_mes,237000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,37.2,%,43
+estrato,estrato_mas_frecuente,4,,43
+habitaciones,2,250000000.0,COP,43
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,4545454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/kachipay,,
+fuente,licencia,CC BY 4.0,,

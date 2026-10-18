@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1330000000,118
-habitaciones,1,709630000,20
-habitaciones,2,1041572600,31
-habitaciones,3+,1330000000,118
-barrio,mediana_barrio_todos_los_tamanos,1290000000,169
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/sotileza,
+seccion,metrica,valor,moneda,n
+precio,p25,1275000000.0,COP,55
+precio,mediana,1800000000.0,COP,55
+precio,p75,2980000000.0,COP,55
+precio,minimo,550000000.0,COP,55
+precio,maximo,4100000000.0,COP,55
+m2,mediana_precio_m2,7228260.87,COP,55
+m2,area_mediana_m2,227.0,m2,55
+admin,mediana_admin_mes,1473500.0,COP,50
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,3+,1800000000.0,COP,55
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/sotileza,,
+fuente,licencia,CC BY 4.0,,

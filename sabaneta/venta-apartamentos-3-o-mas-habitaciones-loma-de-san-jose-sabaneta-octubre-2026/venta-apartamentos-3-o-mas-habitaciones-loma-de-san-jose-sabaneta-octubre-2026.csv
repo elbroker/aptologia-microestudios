@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,600000000,85
-habitaciones,2,530000000,59
-habitaciones,3+,600000000,85
-barrio,mediana_barrio_todos_los_tamanos,570000000,145
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-san-jose,
+seccion,metrica,valor,moneda,n
+precio,p25,517500000.0,COP,75
+precio,mediana,600000000.0,COP,75
+precio,p75,695000000.0,COP,75
+precio,minimo,280000000.0,COP,75
+precio,maximo,3500000000.0,COP,75
+m2,mediana_precio_m2,7142857.14,COP,75
+m2,area_mediana_m2,84.0,m2,75
+admin,mediana_admin_mes,392000.0,COP,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,4,,75
+habitaciones,3+,600000000.0,COP,75
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-san-jose,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2000000,70
-habitaciones,2,1800000,34
-habitaciones,3+,2000000,70
-barrio,mediana_barrio_todos_los_tamanos,1900000,106
-ciudad,mediana_ciudad,2200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/bello/bucaros,
+seccion,metrica,valor,moneda,n
+precio,p25,1850000.0,COP,50
+precio,mediana,2000000.0,COP,50
+precio,p75,2300000.0,COP,50
+precio,minimo,1111111.0,COP,50
+precio,maximo,4200000.0,COP,50
+m2,mediana_precio_m2,35043.86,COP,50
+m2,area_mediana_m2,57.5,m2,50
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.9,%,33
+estrato,estrato_mas_frecuente,3,,49
+habitaciones,3+,2000000.0,COP,50
+ciudad,mediana_ciudad_referencia,2200000.0,COP,
+ciudad,mediana_m2_ciudad,33846.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello/bucaros,,
+fuente,licencia,CC BY 4.0,,

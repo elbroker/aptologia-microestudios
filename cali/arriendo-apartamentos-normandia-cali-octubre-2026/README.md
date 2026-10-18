@@ -1,23 +1,25 @@
 # Precio de arriendo de apartamentos en Normandía, Cali — octubre 2026
 
-En Normandía, Cali, la mediana de canon mensual de apartamentos es COP 9.000.000, según 51 avisos vigentes.
+En Normandía, Cali, la mediana de canon mensual de apartamentos es COP 9,25 millones, según 38 avisos vigentes.
 
-Frente al total de Cali (COP 1.750.000), el barrio está 414 % por encima.
+Eso es 387 % por encima de la mediana de Cali para apartamentos (COP 1,90 millones).
 
-Por mediana, es el puesto 1 de 19 barrios de Cali con al menos 30 avisos de apartamentos en arriendo: entre los más caros.
+Por metro cuadrado, la mediana es COP 41.036/m² al mes (n = 36 avisos con área), 37 % por encima de Cali (COP 30.000/m²).
 
-Con la mediana de venta del mismo barrio (COP 1,49 mil millones), el arriendo anual equivale a 7,2 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 1 de 10 barrios de Cali con al menos 30 avisos de apartamentos en arriendo (COP): entre las más caras.
 
-El segmento con más oferta es el de 3 o más habitaciones (46 avisos, mediana COP 9.700.000).
+Con el precio por m² de venta del mismo segmento (COP 6,00 millones/m²), la rentabilidad bruta implícita es 8,2 % anual (aproximación con medianas de ofertas distintas).
 
-96 % de los avisos incluye parqueadero.
+El área mediana anunciada es 236 m².
 
-La dispersión es moderada: el cuartil superior (COP 12.500.000) es 1,6 veces el inferior (COP 8.000.000).
+El segmento con más oferta es el de 3 o más habitaciones (35 avisos, mediana COP 9,90 millones).
 
-- n = 51 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 6 (84 % de los avisos con estrato).
+
+- n = 38 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/cali/normandia
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/cali/normandia
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-normandia-cali-octubre-2026.pdf`, `arriendo-apartamentos-normandia-cali-octubre-2026.csv`, `arriendo-apartamentos-normandia-cali-octubre-2026.png`.

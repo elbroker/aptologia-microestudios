@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 2 habitaciones en Las Lomitas, Sabaneta — octubre 2026
 
-En Las Lomitas, Sabaneta, la mediana de precio de venta de apartamentos de 2 habitaciones es COP 570 millones, según 167 avisos vigentes.
+En Las Lomitas, Sabaneta, la mediana de precio de venta de apartamentos de 2 habitaciones es COP 569 millones, según 132 avisos vigentes.
 
-Eso la ubica 12 % por encima de la mediana de Sabaneta para apartamentos de 2 habitaciones (COP 510 millones).
+Eso es 11 % por encima de la mediana de Sabaneta para apartamentos de 2 habitaciones (COP 511 millones).
 
-Son 25 % de los 673 avisos de apartamentos en venta del barrio, cuya mediana general es COP 600 millones (−5 %).
+Por metro cuadrado, la mediana es COP 7,17 millones/m² (n = 132 avisos con área), 4 % por debajo de Sabaneta (COP 7,46 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 3.000.000 al mes), el arriendo anual equivale a 6,3 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 26 % de los 509 avisos de apartamentos en venta de la zona, cuya mediana general es COP 619 millones (−8 %).
 
-En el mismo barrio, la mediana es COP 410 millones con 1 habitación (n = 17), COP 630 millones con 3 o más habitaciones (n = 489).
+Con el precio por m² de arriendo del mismo segmento (COP 40.849/m² al mes), la rentabilidad bruta implícita es 6,8 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 167 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 72 m².
+
+La administración mediana declarada es COP 380.000 al mes (n = 84).
+
+El estrato más frecuente es 4 (81 % de los avisos con estrato).
+
+- n = 132 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/sabaneta/las-lomitas
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/sabaneta/las-lomitas
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-2-habitaciones-las-lomitas-sabaneta-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-las-lomitas-sabaneta-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-las-lomitas-sabaneta-octubre-2026.png`.

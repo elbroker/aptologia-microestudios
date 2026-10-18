@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,660000000,57
-habitaciones,1,554900360,25
-habitaciones,2,435000000,28
-habitaciones,3+,660000000,57
-barrio,mediana_barrio_todos_los_tamanos,610000000,110
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/la-soledad,
+seccion,metrica,valor,moneda,n
+precio,p25,582500000.0,COP,38
+precio,mediana,675000000.0,COP,38
+precio,p75,1092500000.0,COP,38
+precio,minimo,390000000.0,COP,38
+precio,maximo,2400000000.0,COP,38
+m2,mediana_precio_m2,5148429.65,COP,38
+m2,area_mediana_m2,122.5,m2,38
+admin,mediana_admin_mes,250000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.4,%,32
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,3+,675000000.0,COP,38
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-soledad,,
+fuente,licencia,CC BY 4.0,,

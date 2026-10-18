@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1800000,88
-habitaciones,2,1800000,88
-habitaciones,3+,2327000,172
-barrio,mediana_barrio_todos_los_tamanos,2050000,262
-ciudad,mediana_ciudad,2200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/miramar,
+seccion,metrica,valor,moneda,n
+precio,p25,1600000.0,COP,65
+precio,mediana,2000000.0,COP,65
+precio,p75,2410000.0,COP,65
+precio,minimo,1300000.0,COP,65
+precio,maximo,4950000.0,COP,65
+m2,mediana_precio_m2,35714.29,COP,65
+m2,area_mediana_m2,55.0,m2,65
+admin,mediana_admin_mes,236850.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.8,%,46
+estrato,estrato_mas_frecuente,4,,65
+habitaciones,2,2000000.0,COP,65
+ciudad,mediana_ciudad_referencia,2300000.0,COP,
+ciudad,mediana_m2_ciudad,32758.62,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

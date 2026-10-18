@@ -1,23 +1,25 @@
 # Precio de venta de casas en Bocono, Cúcuta — octubre 2026
 
-COP 965 millones es el precio mediano de casas en venta en Bocono, Cúcuta (n = 48 avisos).
+En Bocono, Cúcuta, la mediana de precio de venta de casas es COP 980 millones, según 47 avisos vigentes.
 
-Eso la ubica 99 % por encima de la mediana de Cúcuta para casas (COP 485 millones).
+Frente a la mediana de Cúcuta para casas (COP 500 millones), queda 96 % por encima.
 
-La dispersión es alta: el cuartil superior (COP 1,52 mil millones) es 5,3 veces el inferior (COP 288 millones).
+Por metro cuadrado, la mediana es COP 3,40 millones/m² (n = 46 avisos con área), 16 % por encima de Cúcuta (COP 2,92 millones/m²).
 
-Por mediana, es el puesto 2 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta: entre los más caros.
+La mitad central de los avisos va de COP 295 millones a COP 1,55 mil millones (razón 5,3), una dispersión alta.
 
-El segmento con más oferta es el de 3 o más habitaciones (45 avisos, mediana COP 1,02 mil millones).
+Por precio mediano es el puesto 2 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta (COP): entre las más caras.
 
-94 % de los avisos incluye parqueadero, y su mediana (COP 980 millones) es prácticamente igual a la general.
+El área mediana anunciada es 200 m².
 
-El aviso más barato pide COP 160 millones y el más caro COP 3,00 mil millones.
+El segmento con más oferta es el de 3 o más habitaciones (44 avisos, mediana COP 1,03 mil millones).
 
-- n = 48 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 280.000 al mes (n = 27).
+
+- n = 47 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/bocono
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/bocono
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-bocono-cucuta-octubre-2026.pdf`, `venta-casas-bocono-cucuta-octubre-2026.csv`, `venta-casas-bocono-cucuta-octubre-2026.png`.

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,37
-habitaciones,1,240000000,15
-habitaciones,2,310000000,21
-habitaciones,3+,550000000,37
-barrio,mediana_barrio_todos_los_tamanos,399000000,73
-ciudad,mediana_ciudad,420000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/armenia/fundadores,
+seccion,metrica,valor,moneda,n
+precio,p25,477500000.0,COP,30
+precio,mediana,550000000.0,COP,30
+precio,p75,705000000.0,COP,30
+precio,minimo,370000000.0,COP,30
+precio,maximo,1500000000.0,COP,30
+m2,mediana_precio_m2,4885356.02,COP,30
+m2,area_mediana_m2,126.5,m2,30
+admin,mediana_admin_mes,505000.0,COP,23
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,550000000.0,COP,30
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4883720.93,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia/fundadores,,
+fuente,licencia,CC BY 4.0,,

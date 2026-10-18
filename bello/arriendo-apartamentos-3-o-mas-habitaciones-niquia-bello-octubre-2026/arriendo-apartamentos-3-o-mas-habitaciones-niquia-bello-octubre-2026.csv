@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2300000,131
-habitaciones,1,1450000,20
-habitaciones,2,2000000,40
-habitaciones,3+,2300000,131
-barrio,mediana_barrio_todos_los_tamanos,2100000,191
-ciudad,mediana_ciudad,2200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/bello/niquia,
+seccion,metrica,valor,moneda,n
+precio,p25,1775000.0,COP,79
+precio,mediana,2200000.0,COP,79
+precio,p75,2500000.0,COP,79
+precio,minimo,1300000.0,COP,79
+precio,maximo,11111111.0,COP,79
+m2,mediana_precio_m2,32835.82,COP,77
+m2,area_mediana_m2,67.0,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,83.3,%,66
+estrato,estrato_mas_frecuente,3,,78
+habitaciones,3+,2200000.0,COP,79
+ciudad,mediana_ciudad_referencia,2200000.0,COP,
+ciudad,mediana_m2_ciudad,33846.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello/niquia,,
+fuente,licencia,CC BY 4.0,,

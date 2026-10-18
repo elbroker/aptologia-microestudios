@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en Serena del Mar, Cartagena — octubre 2026
 
-En Serena del Mar, Cartagena, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 3.000.000, según 299 avisos vigentes.
+COP 3,00 millones al mes es el canon mediano de apartamentos de 2 habitaciones en arriendo en Serena del Mar, Cartagena (n = 229 avisos).
 
-Eso la ubica 9 % por debajo de la mediana de Cartagena para apartamentos de 2 habitaciones (COP 3.300.000).
+Frente a la mediana de Cartagena para apartamentos de 2 habitaciones (COP 3,40 millones), queda 12 % por debajo.
 
-Son 63 % de los 471 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 3.000.000 (+0 %).
+Por metro cuadrado, la mediana es COP 43.529/m² al mes (n = 227 avisos con área), 2 % por debajo de Cartagena (COP 44.286/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 600 millones), el arriendo anual equivale a 6,0 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 64 % de los 356 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 3,17 millones (−5 %).
 
-En el mismo barrio, la mediana es COP 2.525.000 con 1 habitación (n = 92), COP 4.500.000 con 3 o más habitaciones (n = 79).
+Con el precio por m² de venta del mismo segmento (COP 7,93 millones/m²), la rentabilidad bruta implícita es 6,6 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 299 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 70 m².
+
+La administración mediana declarada es COP 442.000 al mes (n = 71), aparte del canon.
+
+El estrato más frecuente es 5 (45 % de los avisos con estrato).
+
+- n = 229 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/cartagena/serena-del-mar
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/cartagena/serena-del-mar
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026.png`.

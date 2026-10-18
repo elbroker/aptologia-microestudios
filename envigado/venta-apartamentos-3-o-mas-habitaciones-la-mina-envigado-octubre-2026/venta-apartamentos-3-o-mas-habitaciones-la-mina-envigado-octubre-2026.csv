@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,350000000,65
-habitaciones,2,477500000,30
-habitaciones,3+,350000000,65
-barrio,mediana_barrio_todos_los_tamanos,370000000,95
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/la-mina,
+seccion,metrica,valor,moneda,n
+precio,p25,300000000.0,COP,45
+precio,mediana,350000000.0,COP,45
+precio,p75,430000000.0,COP,45
+precio,minimo,262000000.0,COP,45
+precio,maximo,520000000.0,COP,45
+m2,mediana_precio_m2,5454545.45,COP,45
+m2,area_mediana_m2,60.0,m2,45
+admin,mediana_admin_mes,225000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,70.3,%,37
+estrato,estrato_mas_frecuente,3,,45
+habitaciones,3+,350000000.0,COP,45
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-mina,,
+fuente,licencia,CC BY 4.0,,

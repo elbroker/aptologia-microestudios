@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,350000000,121
-habitaciones,1,350000000,121
-habitaciones,2,430000000,249
-habitaciones,3+,600000000,204
-barrio,mediana_barrio_todos_los_tamanos,450000000,578
-ciudad,mediana_ciudad,425000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero,
+seccion,metrica,valor,moneda,n
+precio,p25,315000000.0,COP,75
+precio,mediana,390000000.0,COP,75
+precio,p75,452500000.0,COP,75
+precio,minimo,210000000.0,COP,75
+precio,maximo,835000000.0,COP,75
+m2,mediana_precio_m2,8181818.18,COP,75
+m2,area_mediana_m2,49.0,m2,75
+admin,mediana_admin_mes,391000.0,COP,60
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,85.9,%,64
+estrato,estrato_mas_frecuente,6,,74
+habitaciones,1,390000000.0,COP,75
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,10958904.11,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,630000000,119
-habitaciones,2,548000000,219
-habitaciones,3+,630000000,119
-barrio,mediana_barrio_todos_los_tamanos,560000000,343
-ciudad,mediana_ciudad,540000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/rionegro/barro-blanco,
+seccion,metrica,valor,moneda,n
+precio,p25,580000000.0,COP,77
+precio,mediana,630000000.0,COP,77
+precio,p75,700000000.0,COP,77
+precio,minimo,288000000.0,COP,77
+precio,maximo,1250000000.0,COP,77
+m2,mediana_precio_m2,8078166.06,COP,76
+m2,area_mediana_m2,76.0,m2,76
+admin,mediana_admin_mes,434082.0,COP,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,90.3,%,72
+estrato,estrato_mas_frecuente,5,,76
+habitaciones,3+,630000000.0,COP,77
+ciudad,mediana_ciudad_referencia,540000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/barro-blanco,,
+fuente,licencia,CC BY 4.0,,

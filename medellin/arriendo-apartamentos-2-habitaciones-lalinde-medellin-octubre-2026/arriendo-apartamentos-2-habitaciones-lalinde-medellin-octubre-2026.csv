@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,6000000,122
-habitaciones,1,3800000,30
-habitaciones,2,6000000,122
-habitaciones,3+,8000000,55
-barrio,mediana_barrio_todos_los_tamanos,6250000,208
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/lalinde,
+seccion,metrica,valor,moneda,n
+precio,p25,5300000.0,COP,94
+precio,mediana,6225000.0,COP,94
+precio,p75,7500000.0,COP,94
+precio,minimo,3200000.0,COP,94
+precio,maximo,10500000.0,COP,94
+m2,mediana_precio_m2,67093.75,COP,92
+m2,area_mediana_m2,95.0,m2,92
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,94
+estrato,estrato_mas_frecuente,6,,94
+habitaciones,2,6225000.0,COP,94
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

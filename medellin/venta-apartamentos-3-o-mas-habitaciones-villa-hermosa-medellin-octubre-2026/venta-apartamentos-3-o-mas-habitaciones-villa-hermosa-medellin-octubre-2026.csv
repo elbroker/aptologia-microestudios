@@ -1,8 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,340000000,37
-habitaciones,2,270000000,17
-habitaciones,3+,340000000,37
-barrio,mediana_barrio_todos_los_tamanos,327500000,56
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/villa-hermosa,
+seccion,metrica,valor,moneda,n
+precio,p25,310000000.0,COP,33
+precio,mediana,340000000.0,COP,33
+precio,p75,400000000.0,COP,33
+precio,minimo,268000000.0,COP,33
+precio,maximo,550000000.0,COP,33
+m2,mediana_precio_m2,3797619.05,COP,32
+m2,area_mediana_m2,89.0,m2,32
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,3+,340000000.0,COP,33
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/villa-hermosa,,
+fuente,licencia,CC BY 4.0,,

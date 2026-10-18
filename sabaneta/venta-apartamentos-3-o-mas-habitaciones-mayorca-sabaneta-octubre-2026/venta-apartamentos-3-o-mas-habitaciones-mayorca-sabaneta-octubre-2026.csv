@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,58
-habitaciones,2,395000000,28
-habitaciones,3+,550000000,58
-barrio,mediana_barrio_todos_los_tamanos,500000000,93
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/mayorca,
+seccion,metrica,valor,moneda,n
+precio,p25,450000000.0,COP,43
+precio,mediana,550000000.0,COP,43
+precio,p75,695000000.0,COP,43
+precio,minimo,245000000.0,COP,43
+precio,maximo,990000000.0,COP,43
+m2,mediana_precio_m2,6947115.38,COP,42
+m2,area_mediana_m2,84.0,m2,42
+admin,mediana_admin_mes,348000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.7,%,39
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,3+,550000000.0,COP,43
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/mayorca,,
+fuente,licencia,CC BY 4.0,,

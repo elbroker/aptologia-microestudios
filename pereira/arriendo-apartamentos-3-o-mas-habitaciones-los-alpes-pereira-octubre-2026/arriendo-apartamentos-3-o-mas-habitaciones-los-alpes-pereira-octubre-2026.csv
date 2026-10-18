@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3500000,59
-habitaciones,1,1975000,24
-habitaciones,2,3000000,51
-habitaciones,3+,3500000,59
-barrio,mediana_barrio_todos_los_tamanos,3000000,134
-ciudad,mediana_ciudad,3200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/pereira/los-alpes,
+seccion,metrica,valor,moneda,n
+precio,p25,2850000.0,COP,49
+precio,mediana,3500000.0,COP,49
+precio,p75,4150000.0,COP,49
+precio,minimo,2100000.0,COP,49
+precio,maximo,5650000.0,COP,49
+m2,mediana_precio_m2,27315.55,COP,46
+m2,area_mediana_m2,125.0,m2,46
+admin,mediana_admin_mes,600000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,6,,49
+habitaciones,3+,3500000.0,COP,49
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,31460.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/los-alpes,,
+fuente,licencia,CC BY 4.0,,

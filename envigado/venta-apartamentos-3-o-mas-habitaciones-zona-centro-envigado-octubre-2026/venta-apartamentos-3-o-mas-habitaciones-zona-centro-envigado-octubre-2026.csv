@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,780000000,75
-habitaciones,2,645000000,22
-habitaciones,3+,780000000,75
-barrio,mediana_barrio_todos_los_tamanos,755000000,100
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/zona-centro,
+seccion,metrica,valor,moneda,n
+precio,p25,646250000.0,COP,70
+precio,mediana,802500000.0,COP,70
+precio,p75,1195000000.0,COP,70
+precio,minimo,300000000.0,COP,70
+precio,maximo,2500000000.0,COP,70
+m2,mediana_precio_m2,8125000.0,COP,69
+m2,area_mediana_m2,111.0,m2,69
+admin,mediana_admin_mes,600000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,65
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,802500000.0,COP,70
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/zona-centro,,
+fuente,licencia,CC BY 4.0,,

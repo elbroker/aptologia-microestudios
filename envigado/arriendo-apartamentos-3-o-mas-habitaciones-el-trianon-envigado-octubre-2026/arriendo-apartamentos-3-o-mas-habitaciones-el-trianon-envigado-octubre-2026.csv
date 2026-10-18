@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3225000,76
-habitaciones,2,3500000,39
-habitaciones,3+,3225000,76
-barrio,mediana_barrio_todos_los_tamanos,3400000,122
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/el-trianon,
+seccion,metrica,valor,moneda,n
+precio,p25,3000000.0,COP,52
+precio,mediana,3475000.0,COP,52
+precio,p75,4000000.0,COP,52
+precio,minimo,2550000.0,COP,52
+precio,maximo,4650000.0,COP,52
+m2,mediana_precio_m2,44888.06,COP,52
+m2,area_mediana_m2,80.0,m2,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.8,%,48
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,3+,3475000.0,COP,52
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/el-trianon,,
+fuente,licencia,CC BY 4.0,,

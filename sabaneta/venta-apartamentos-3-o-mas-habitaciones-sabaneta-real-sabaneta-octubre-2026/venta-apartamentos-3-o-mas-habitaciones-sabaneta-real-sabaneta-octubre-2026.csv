@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,620000000,56
-habitaciones,2,520000000,24
-habitaciones,3+,620000000,56
-barrio,mediana_barrio_todos_los_tamanos,557500000,84
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/sabaneta-real,
+seccion,metrica,valor,moneda,n
+precio,p25,502500000.0,COP,54
+precio,mediana,620000000.0,COP,54
+precio,p75,718750000.0,COP,54
+precio,minimo,267000000.0,COP,54
+precio,maximo,1200000000.0,COP,54
+m2,mediana_precio_m2,6910067.87,COP,54
+m2,area_mediana_m2,86.0,m2,54
+admin,mediana_admin_mes,367500.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,3+,620000000.0,COP,54
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/sabaneta-real,,
+fuente,licencia,CC BY 4.0,,

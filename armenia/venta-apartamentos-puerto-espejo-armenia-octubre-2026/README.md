@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Puerto Espejo, Armenia — octubre 2026
 
-En Puerto Espejo, Armenia, la mediana de precio de venta de apartamentos es COP 230 millones, según 220 avisos vigentes.
+En Puerto Espejo, Armenia, la mediana de precio de venta de apartamentos es COP 236 millones, según 132 avisos vigentes.
 
-Frente al total de Armenia (COP 350 millones), el barrio está 34 % por debajo.
+Eso es 38 % por debajo de la mediana de Armenia para apartamentos (COP 380 millones).
 
-Por mediana, es el puesto 21 de 23 barrios de Armenia con al menos 30 avisos de apartamentos en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 3,97 millones/m² (n = 130 avisos con área), 26 % por debajo de Armenia (COP 5,33 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (173 avisos, mediana COP 230 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 48 %.
+Por precio mediano es el puesto 18 de 18 barrios de Armenia con al menos 30 avisos de apartamentos en venta (COP): entre las más económicas.
 
-El aviso más barato pide COP 32 millones y el más caro COP 3,10 mil millones.
+El área mediana anunciada es 60 m².
 
-59 % de los avisos incluye parqueadero, y su mediana (COP 250 millones) está 9 % por encima de la general.
+El segmento con más oferta es el de 3 o más habitaciones (109 avisos, mediana COP 240 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +7 %.
 
-La mitad central de los avisos va de COP 199 millones a COP 280 millones (razón 1,4), una dispersión moderada.
+La administración mediana declarada es COP 208.000 al mes (n = 92).
 
-- n = 220 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 3 (85 % de los avisos con estrato).
+
+- n = 132 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/armenia/puerto-espejo
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/armenia/puerto-espejo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-puerto-espejo-armenia-octubre-2026.pdf`, `venta-apartamentos-puerto-espejo-armenia-octubre-2026.csv`, `venta-apartamentos-puerto-espejo-armenia-octubre-2026.png`.

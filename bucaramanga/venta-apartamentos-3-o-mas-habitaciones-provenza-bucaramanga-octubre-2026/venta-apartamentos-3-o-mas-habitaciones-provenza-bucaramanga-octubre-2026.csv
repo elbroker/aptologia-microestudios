@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,360000000,59
-habitaciones,2,275000000,10
-habitaciones,3+,360000000,59
-barrio,mediana_barrio_todos_los_tamanos,350000000,73
-ciudad,mediana_ciudad,470000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/provenza,
+seccion,metrica,valor,moneda,n
+precio,p25,325000000.0,COP,49
+precio,mediana,367000000.0,COP,49
+precio,p75,430000000.0,COP,49
+precio,minimo,240000000.0,COP,49
+precio,maximo,620000000.0,COP,49
+m2,mediana_precio_m2,3804347.83,COP,49
+m2,area_mediana_m2,85.0,m2,49
+admin,mediana_admin_mes,254000.0,COP,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.0,%,46
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,3+,367000000.0,COP,49
+ciudad,mediana_ciudad_referencia,457000000.0,COP,
+ciudad,mediana_m2_ciudad,4535185.19,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/provenza,,
+fuente,licencia,CC BY 4.0,,

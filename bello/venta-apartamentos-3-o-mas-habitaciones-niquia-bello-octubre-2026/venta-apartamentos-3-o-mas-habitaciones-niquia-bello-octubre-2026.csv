@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,355500000,296
-habitaciones,1,300000000,9
-habitaciones,2,320000000,105
-habitaciones,3+,355500000,296
-barrio,mediana_barrio_todos_los_tamanos,340000000,412
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/niquia,
+seccion,metrica,valor,moneda,n
+precio,p25,305000000.0,COP,209
+precio,mediana,350000000.0,COP,209
+precio,p75,430000000.0,COP,209
+precio,minimo,210000000.0,COP,209
+precio,maximo,790000000.0,COP,209
+m2,mediana_precio_m2,5556258.79,COP,204
+m2,area_mediana_m2,67.0,m2,204
+admin,mediana_admin_mes,250000.0,COP,139
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,68.9,%,180
+estrato,estrato_mas_frecuente,3,,192
+habitaciones,3+,350000000.0,COP,209
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/niquia,,
+fuente,licencia,CC BY 4.0,,

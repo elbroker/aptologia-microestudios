@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1900000,117
-habitaciones,1,2200000,34
-habitaciones,2,1900000,117
-habitaciones,3+,2600000,80
-barrio,mediana_barrio_todos_los_tamanos,2200000,231
-ciudad,mediana_ciudad,2500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,1650000.0,COP,77
+precio,mediana,1900000.0,COP,77
+precio,p75,2700000.0,COP,77
+precio,minimo,1400000.0,COP,77
+precio,maximo,6000000.0,COP,77
+m2,mediana_precio_m2,34965.03,COP,77
+m2,area_mediana_m2,60.0,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.1,%,53
+estrato,estrato_mas_frecuente,4,,77
+habitaciones,2,1900000.0,COP,77
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,37837.84,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/centro,,
+fuente,licencia,CC BY 4.0,,

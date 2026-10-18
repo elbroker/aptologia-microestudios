@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2500000,59
-habitaciones,1,1925000,42
-habitaciones,2,2500000,59
-habitaciones,3+,2950000,117
-barrio,mediana_barrio_todos_los_tamanos,2650000,218
-ciudad,mediana_ciudad,2700000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/pereira/alamos,
+seccion,metrica,valor,moneda,n
+precio,p25,2300000.0,COP,56
+precio,mediana,2500000.0,COP,56
+precio,p75,2812500.0,COP,56
+precio,minimo,1520000.0,COP,56
+precio,maximo,6200000.0,COP,56
+m2,mediana_precio_m2,35773.81,COP,56
+m2,area_mediana_m2,69.0,m2,56
+admin,mediana_admin_mes,345000.0,COP,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,2,2500000.0,COP,56
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,35625.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/alamos,,
+fuente,licencia,CC BY 4.0,,

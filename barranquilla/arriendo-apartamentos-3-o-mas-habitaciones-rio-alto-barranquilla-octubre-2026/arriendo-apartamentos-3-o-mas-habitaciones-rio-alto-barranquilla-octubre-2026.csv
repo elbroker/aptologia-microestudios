@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3800000,103
-habitaciones,2,3100000,30
-habitaciones,3+,3800000,103
-barrio,mediana_barrio_todos_los_tamanos,3500000,134
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/rio-alto,
+seccion,metrica,valor,moneda,n
+precio,p25,3097500.0,COP,68
+precio,mediana,3800000.0,COP,68
+precio,p75,4616916.5,COP,68
+precio,minimo,2231000.0,COP,68
+precio,maximo,12000000.0,COP,68
+m2,mediana_precio_m2,41809.35,COP,68
+m2,area_mediana_m2,86.0,m2,68
+admin,mediana_admin_mes,390000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,64
+estrato,estrato_mas_frecuente,5,,68
+habitaciones,3+,3800000.0,COP,68
+ciudad,mediana_ciudad_referencia,3426700.0,COP,
+ciudad,mediana_m2_ciudad,32296.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/rio-alto,,
+fuente,licencia,CC BY 4.0,,

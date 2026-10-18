@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,910000000,73
-habitaciones,1,330000000,14
-habitaciones,2,440000000,14
-habitaciones,3+,910000000,73
-barrio,mediana_barrio_todos_los_tamanos,680000000,104
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/belen-rosales,
+seccion,metrica,valor,moneda,n
+precio,p25,616500000.0,COP,55
+precio,mediana,850000000.0,COP,55
+precio,p75,1100000000.0,COP,55
+precio,minimo,380000000.0,COP,55
+precio,maximo,1600000000.0,COP,55
+m2,mediana_precio_m2,5987654.32,COP,55
+m2,area_mediana_m2,128.0,m2,55
+admin,mediana_admin_mes,225000.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,90.4,%,52
+estrato,estrato_mas_frecuente,5,,54
+habitaciones,3+,850000000.0,COP,55
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen-rosales,,
+fuente,licencia,CC BY 4.0,,

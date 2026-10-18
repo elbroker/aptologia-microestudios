@@ -1,7 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,620000000,35
-habitaciones,3+,620000000,35
-barrio,mediana_barrio_todos_los_tamanos,535000000,44
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/villa-nueva,
+seccion,metrica,valor,moneda,n
+precio,p25,390000000.0,COP,31
+precio,mediana,580000000.0,COP,31
+precio,p75,785000000.0,COP,31
+precio,minimo,230000000.0,COP,31
+precio,maximo,1100000000.0,COP,31
+m2,mediana_precio_m2,3583439.49,COP,30
+m2,area_mediana_m2,165.0,m2,30
+admin,mediana_admin_mes,789000.0,COP,23
+banos,mediana_banos,3.0,,
+habitaciones,3+,580000000.0,COP,31
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/villa-nueva,,
+fuente,licencia,CC BY 4.0,,

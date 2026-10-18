@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 3 o más habitaciones en San Diego, Medellín — octubre 2026
 
-En San Diego, Medellín, la mediana de canon mensual de apartamentos de 3 o más habitaciones es COP 3.900.000, según 85 avisos vigentes.
+En San Diego, Medellín, la mediana de canon mensual de apartamentos de 3 o más habitaciones es COP 4,00 millones, según 65 avisos vigentes.
 
-Eso la ubica 29 % por debajo de la mediana de Medellín para apartamentos de 3 o más habitaciones (COP 5.500.000).
+Eso es 27 % por debajo de la mediana de Medellín para apartamentos de 3 o más habitaciones (COP 5,50 millones).
 
-Son 47 % de los 179 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 3.700.000 (+5 %).
+Por metro cuadrado, la mediana es COP 48.000/m² al mes (n = 65 avisos con área), 6 % por encima de Medellín (COP 45.455/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 645 millones), el arriendo anual equivale a 7,3 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 49 % de los 133 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 3,70 millones (+8 %).
 
-En el mismo barrio, la mediana es COP 4.200.000 con 1 habitación (n = 16), COP 3.300.000 con 2 habitaciones (n = 77).
+Con el precio por m² de venta del mismo segmento (COP 8,04 millones/m²), la rentabilidad bruta implícita es 7,2 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 85 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 80 m².
+
+El estrato más frecuente es 6 (38 % de los avisos con estrato).
+
+91 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 65 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/san-diego
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/san-diego
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-3-o-mas-habitaciones-san-diego-medellin-octubre-2026.pdf`, `arriendo-apartamentos-3-o-mas-habitaciones-san-diego-medellin-octubre-2026.csv`, `arriendo-apartamentos-3-o-mas-habitaciones-san-diego-medellin-octubre-2026.png`.

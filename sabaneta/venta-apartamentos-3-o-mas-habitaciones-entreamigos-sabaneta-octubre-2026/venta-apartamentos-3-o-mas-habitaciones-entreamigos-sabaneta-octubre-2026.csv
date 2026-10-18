@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,599500000,88
-habitaciones,1,330000000,29
-habitaciones,2,440000000,47
-habitaciones,3+,599500000,88
-barrio,mediana_barrio_todos_los_tamanos,499923500,165
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/entreamigos,
+seccion,metrica,valor,moneda,n
+precio,p25,489288000.0,COP,86
+precio,mediana,600000000.0,COP,86
+precio,p75,717500000.0,COP,86
+precio,minimo,245000000.0,COP,86
+precio,maximo,1810000000.0,COP,86
+m2,mediana_precio_m2,6965517.24,COP,84
+m2,area_mediana_m2,81.0,m2,84
+admin,mediana_admin_mes,386900.0,COP,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.5,%,77
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,3+,600000000.0,COP,86
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/entreamigos,,
+fuente,licencia,CC BY 4.0,,

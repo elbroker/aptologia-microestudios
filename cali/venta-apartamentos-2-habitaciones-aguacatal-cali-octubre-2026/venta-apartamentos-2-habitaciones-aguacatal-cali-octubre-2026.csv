@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,230000000,47
-habitaciones,2,230000000,47
-habitaciones,3+,1400000000,136
-barrio,mediana_barrio_todos_los_tamanos,1075000000,184
-ciudad,mediana_ciudad,280000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/aguacatal,
+seccion,metrica,valor,moneda,n
+precio,p25,200000000.0,COP,37
+precio,mediana,230000000.0,COP,37
+precio,p75,248000000.0,COP,37
+precio,minimo,163000000.0,COP,37
+precio,maximo,800000000.0,COP,37
+m2,mediana_precio_m2,3901639.34,COP,37
+m2,area_mediana_m2,57.0,m2,37
+admin,mediana_admin_mes,275000.0,COP,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,2,230000000.0,COP,37
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,4545454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/aguacatal,,
+fuente,licencia,CC BY 4.0,,

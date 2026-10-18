@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1500000000,82
-habitaciones,1,849000000,49
-habitaciones,2,1470000000,44
-habitaciones,3+,1500000000,82
-barrio,mediana_barrio_todos_los_tamanos,1350000000,175
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/provenza,
+seccion,metrica,valor,moneda,n
+precio,p25,1150000000.0,COP,62
+precio,mediana,1495000000.0,COP,62
+precio,p75,1950000000.0,COP,62
+precio,minimo,760000000.0,COP,62
+precio,maximo,3600000000.0,COP,62
+m2,mediana_precio_m2,8677236.11,COP,62
+m2,area_mediana_m2,165.5,m2,62
+admin,mediana_admin_mes,1070000.0,COP,45
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,6,,62
+habitaciones,3+,1495000000.0,COP,62
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/provenza,,
+fuente,licencia,CC BY 4.0,,

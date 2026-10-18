@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,370000000,41
-habitaciones,1,300000000,11
-habitaciones,2,370000000,41
-habitaciones,3+,430000000,35
-barrio,mediana_barrio_todos_los_tamanos,380000000,87
-ciudad,mediana_ciudad,260000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/dosquebradas/la-macarena,
+seccion,metrica,valor,moneda,n
+precio,p25,330000000.0,COP,35
+precio,mediana,370000000.0,COP,35
+precio,p75,397500000.0,COP,35
+precio,minimo,185000000.0,COP,35
+precio,maximo,425000000.0,COP,35
+m2,mediana_precio_m2,5750000.0,COP,35
+m2,area_mediana_m2,63.0,m2,35
+admin,mediana_admin_mes,307500.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,370000000.0,COP,35
+ciudad,mediana_ciudad_referencia,265000000.0,COP,
+ciudad,mediana_m2_ciudad,4962962.96,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas/la-macarena,,
+fuente,licencia,CC BY 4.0,,

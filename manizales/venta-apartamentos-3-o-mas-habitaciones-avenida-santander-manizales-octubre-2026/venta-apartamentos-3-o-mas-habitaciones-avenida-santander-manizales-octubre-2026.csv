@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,670000000,97
-habitaciones,1,300000000,29
-habitaciones,2,400000000,37
-habitaciones,3+,670000000,97
-barrio,mediana_barrio_todos_los_tamanos,542500000,164
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/avenida-santander,
+seccion,metrica,valor,moneda,n
+precio,p25,578750000.0,COP,64
+precio,mediana,670000000.0,COP,64
+precio,p75,790000000.0,COP,64
+precio,minimo,400000000.0,COP,64
+precio,maximo,1300000000.0,COP,64
+m2,mediana_precio_m2,5596330.28,COP,63
+m2,area_mediana_m2,114.0,m2,63
+admin,mediana_admin_mes,755000.0,COP,49
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.3,%,60
+estrato,estrato_mas_frecuente,6,,64
+habitaciones,3+,670000000.0,COP,64
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/avenida-santander,,
+fuente,licencia,CC BY 4.0,,

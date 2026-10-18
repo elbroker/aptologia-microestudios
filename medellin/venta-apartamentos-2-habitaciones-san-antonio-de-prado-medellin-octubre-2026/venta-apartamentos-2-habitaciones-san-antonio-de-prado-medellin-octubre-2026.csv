@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,230000000,93
-habitaciones,2,230000000,93
-habitaciones,3+,260000000,87
-barrio,mediana_barrio_todos_los_tamanos,240000000,185
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/san-antonio-de-prado,
+seccion,metrica,valor,moneda,n
+precio,p25,201000000.0,COP,66
+precio,mediana,230000000.0,COP,66
+precio,p75,250000000.0,COP,66
+precio,minimo,160000000.0,COP,66
+precio,maximo,620000000.0,COP,66
+m2,mediana_precio_m2,4904545.45,COP,66
+m2,area_mediana_m2,46.0,m2,66
+admin,mediana_admin_mes,174700.0,COP,34
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,57.9,%,38
+estrato,estrato_mas_frecuente,3,,63
+habitaciones,2,230000000.0,COP,66
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/san-antonio-de-prado,,
+fuente,licencia,CC BY 4.0,,

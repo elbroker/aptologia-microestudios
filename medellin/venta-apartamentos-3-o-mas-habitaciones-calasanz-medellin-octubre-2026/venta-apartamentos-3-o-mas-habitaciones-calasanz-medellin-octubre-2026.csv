@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,490000000,494
-habitaciones,1,305000000,22
-habitaciones,2,360000000,223
-habitaciones,3+,490000000,494
-barrio,mediana_barrio_todos_los_tamanos,430000000,741
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,
+seccion,metrica,valor,moneda,n
+precio,p25,400000000.0,COP,338
+precio,mediana,507500000.0,COP,338
+precio,p75,628750000.0,COP,338
+precio,minimo,215000000.0,COP,338
+precio,maximo,2000000000.0,COP,338
+m2,mediana_precio_m2,6270691.99,COP,336
+m2,area_mediana_m2,79.0,m2,336
+admin,mediana_admin_mes,350000.0,COP,232
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.9,%,299
+estrato,estrato_mas_frecuente,4,,331
+habitaciones,3+,507500000.0,COP,338
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

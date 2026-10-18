@@ -16,12 +16,12 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Frailes, Dosquebradas — octubre 2026](venta-apartamentos-frailes-dosquebradas-octubre-2026/) | 124 | COP 230.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Frailes, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-frailes-dosquebradas-octubre-2026/) | 92 | COP 230.000.000 |  |
-| [Precio de venta de apartamentos en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-la-macarena-dosquebradas-octubre-2026/) | 87 | COP 380.000.000 |  |
-| [Precio de venta de apartamentos en La Pradera, Dosquebradas — octubre 2026](venta-apartamentos-la-pradera-dosquebradas-octubre-2026/) | 86 | COP 255.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Pradera, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-pradera-dosquebradas-octubre-2026/) | 57 | COP 300.000.000 |  |
-| [Precio de venta de casas en La Pradera, Dosquebradas — octubre 2026](venta-casas-la-pradera-dosquebradas-octubre-2026/) | 43 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-2-habitaciones-la-macarena-dosquebradas-octubre-2026/) | 41 | COP 370.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-macarena-dosquebradas-octubre-2026/) | 35 | COP 430.000.000 |  |
-| [Precio de venta de casas en Frailes, Dosquebradas — octubre 2026](venta-casas-frailes-dosquebradas-octubre-2026/) | 34 | COP 355.000.000 |  |
+| [Precio de venta de apartamentos en Frailes, Dosquebradas — octubre 2026](venta-apartamentos-frailes-dosquebradas-octubre-2026/) | 105 | COP 230.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Frailes, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-frailes-dosquebradas-octubre-2026/) | 80 | COP 237.500.000 |  |
+| [Precio de venta de apartamentos en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-la-macarena-dosquebradas-octubre-2026/) | 74 | COP 388.000.000 |  |
+| [Precio de venta de apartamentos en La Pradera, Dosquebradas — octubre 2026](venta-apartamentos-la-pradera-dosquebradas-octubre-2026/) | 68 | COP 270.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Pradera, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-pradera-dosquebradas-octubre-2026/) | 54 | COP 295.000.000 |  |
+| [Precio de venta de casas en La Pradera, Dosquebradas — octubre 2026](venta-casas-la-pradera-dosquebradas-octubre-2026/) | 41 | COP 560.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-2-habitaciones-la-macarena-dosquebradas-octubre-2026/) | 35 | COP 370.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Macarena, Dosquebradas — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-macarena-dosquebradas-octubre-2026/) | 34 | COP 430.000.000 |  |
+| [Precio de venta de casas en Frailes, Dosquebradas — octubre 2026](venta-casas-frailes-dosquebradas-octubre-2026/) | 32 | COP 355.000.000 |  |

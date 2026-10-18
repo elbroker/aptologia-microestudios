@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Ciudad Jardín, Cali — octubre 2026
 
-En Ciudad Jardín, Cali, la mediana de precio de venta de apartamentos es COP 820 millones, según 532 avisos vigentes.
+Con 398 avisos vigentes, el precio mediano de apartamentos en venta en Ciudad Jardín, Cali es COP 820 millones.
 
-Frente al total de Cali (COP 400 millones), el barrio está 105 % por encima.
+Eso es 91 % por encima de la mediana de Cali para apartamentos (COP 430 millones).
 
-Por mediana, es el puesto 12 de 74 barrios de Cali con al menos 30 avisos de apartamentos en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 6,36 millones/m² (n = 397 avisos con área), 37 % por encima de Cali (COP 4,65 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 3.200.000 al mes), el arriendo anual equivale a 4,7 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Con el precio por m² de arriendo del mismo segmento (COP 40.283/m² al mes), la rentabilidad bruta implícita es 7,6 % anual (aproximación con medianas de ofertas distintas).
 
-El segmento con más oferta es el de 3 o más habitaciones (453 avisos, mediana COP 850 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 136 %.
+El área mediana anunciada es 136 m².
 
-97 % de los avisos incluye parqueadero.
+El segmento con más oferta es el de 3 o más habitaciones (349 avisos, mediana COP 850 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +45 %.
 
-La mitad central de los avisos va de COP 581 millones a COP 996 millones (razón 1,7), una dispersión moderada.
+La administración mediana declarada es COP 800.000 al mes (n = 302).
 
-- n = 532 avisos vigentes · foto del 2026-10-17
+Por precio mediano es el puesto 14 de 66 barrios de Cali con al menos 30 avisos de apartamentos en venta (COP): en la franja media.
+
+- n = 398 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/cali/ciudad-jardin
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/cali/ciudad-jardin
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-ciudad-jardin-cali-octubre-2026.pdf`, `venta-apartamentos-ciudad-jardin-cali-octubre-2026.csv`, `venta-apartamentos-ciudad-jardin-cali-octubre-2026.png`.

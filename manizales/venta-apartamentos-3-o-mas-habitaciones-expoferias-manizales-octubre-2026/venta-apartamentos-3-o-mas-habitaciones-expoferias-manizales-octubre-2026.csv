@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,806500000,32
-habitaciones,1,495000000,11
-habitaciones,2,650000000,15
-habitaciones,3+,806500000,32
-barrio,mediana_barrio_todos_los_tamanos,696724823,59
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/expoferias,
+seccion,metrica,valor,moneda,n
+precio,p25,750000000.0,COP,31
+precio,mediana,803000000.0,COP,31
+precio,p75,845065807.5,COP,31
+precio,minimo,460000000.0,COP,31
+precio,maximo,1380000000.0,COP,31
+m2,mediana_precio_m2,8000000.0,COP,31
+m2,area_mediana_m2,100.0,m2,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,96.8,%,31
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,803000000.0,COP,31
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/expoferias,,
+fuente,licencia,CC BY 4.0,,

@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Ciudad Verde, Soacha — octubre 2026
 
-Con 302 avisos vigentes, el precio mediano de apartamentos en venta en Ciudad Verde, Soacha es COP 160 millones.
+COP 177 millones es el precio mediano de apartamentos en venta en Ciudad Verde, Soacha (n = 161 avisos).
 
-La mediana prácticamente coincide con la de Soacha para apartamentos (COP 155 millones; diferencia de 3,2 %).
+Prácticamente coincide con la mediana de Soacha para apartamentos (COP 170 millones).
 
-Con la mediana de arriendo del mismo barrio (COP 858.500 al mes), el arriendo anual equivale a 6,4 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 3,41 millones/m² (n = 160 avisos con área), 0 % por encima de Soacha (COP 3,39 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (226 avisos, mediana COP 164 millones); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana 13 %.
+Con el precio por m² de arriendo del mismo segmento (COP 19.265/m² al mes), la rentabilidad bruta implícita es 6,8 % anual (aproximación con medianas de ofertas distintas).
 
-12 % de los avisos incluye parqueadero, y su mediana (COP 180 millones) está 12 % por encima de la general.
+El área mediana anunciada es 53 m².
 
-El aviso más barato pide COP 100 millones y el más caro COP 300 millones.
+El segmento con más oferta es el de 3 o más habitaciones (139 avisos, mediana COP 180 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +8 %.
 
-40 % de los anunciantes publica un teléfono de contacto.
+La administración mediana declarada es COP 125.400 al mes (n = 123).
 
-- n = 302 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 3 (95 % de los avisos con estrato).
+
+- n = 161 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/soacha/ciudad-verde
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/soacha/ciudad-verde
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-ciudad-verde-soacha-octubre-2026.pdf`, `venta-apartamentos-ciudad-verde-soacha-octubre-2026.csv`, `venta-apartamentos-ciudad-verde-soacha-octubre-2026.png`.

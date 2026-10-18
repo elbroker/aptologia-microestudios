@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4200000,254
-habitaciones,1,3850000,62
-habitaciones,2,4000000,265
-habitaciones,3+,4200000,254
-barrio,mediana_barrio_todos_los_tamanos,4200000,583
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/las-palmas,
+seccion,metrica,valor,moneda,n
+precio,p25,4000000.0,COP,143
+precio,mediana,4700000.0,COP,143
+precio,p75,6500000.0,COP,143
+precio,minimo,1800000.0,COP,143
+precio,maximo,20000000.0,COP,143
+m2,mediana_precio_m2,55470.09,COP,140
+m2,area_mediana_m2,87.5,m2,140
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.6,%,141
+estrato,estrato_mas_frecuente,6,,142
+habitaciones,3+,4700000.0,COP,143
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,400000000,203
-habitaciones,1,183000000,19
-habitaciones,2,260000000,33
-habitaciones,3+,400000000,203
-barrio,mediana_barrio_todos_los_tamanos,360000000,255
-ciudad,mediana_ciudad,470000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/pereira/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,318750000.0,COP,180
+precio,mediana,420000000.0,COP,180
+precio,p75,530000000.0,COP,180
+precio,minimo,180000000.0,COP,180
+precio,maximo,1200000000.0,COP,180
+m2,mediana_precio_m2,3487588.65,COP,166
+m2,area_mediana_m2,118.4,m2,166
+admin,mediana_admin_mes,602000.0,COP,121
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,68.5,%,178
+estrato,estrato_mas_frecuente,5,,180
+habitaciones,3+,420000000.0,COP,180
+ciudad,mediana_ciudad_referencia,460000000.0,COP,
+ciudad,mediana_m2_ciudad,5142857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,525000000,45
-habitaciones,1,410000000,11
-habitaciones,2,525000000,45
-habitaciones,3+,670000000,33
-barrio,mediana_barrio_todos_los_tamanos,530000000,89
-ciudad,mediana_ciudad,505000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/rionegro/san-antonio,
+seccion,metrica,valor,moneda,n
+precio,p25,467500000.0,COP,40
+precio,mediana,525000000.0,COP,40
+precio,p75,573750000.0,COP,40
+precio,minimo,340000000.0,COP,40
+precio,maximo,820000000.0,COP,40
+m2,mediana_precio_m2,7987960.87,COP,40
+m2,area_mediana_m2,65.6,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.0,%,40
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,2,525000000.0,COP,40
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/san-antonio,,
+fuente,licencia,CC BY 4.0,,

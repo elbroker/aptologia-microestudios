@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,917500000,100
-habitaciones,2,540000000,28
-habitaciones,3+,917500000,100
-barrio,mediana_barrio_todos_los_tamanos,830080000,128
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/menga,
+seccion,metrica,valor,moneda,n
+precio,p25,680000000.0,COP,72
+precio,mediana,922500000.0,COP,72
+precio,p75,1100000000.0,COP,72
+precio,minimo,490000000.0,COP,72
+precio,maximo,3900000000.0,COP,72
+m2,mediana_precio_m2,6702141.9,COP,72
+m2,area_mediana_m2,132.0,m2,72
+admin,mediana_admin_mes,1140000.0,COP,55
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.6,%,71
+estrato,estrato_mas_frecuente,6,,72
+habitaciones,3+,922500000.0,COP,72
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/menga,,
+fuente,licencia,CC BY 4.0,,

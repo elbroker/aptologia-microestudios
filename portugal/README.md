@@ -1,0 +1,94 @@
+# Microestudios de vivienda — Portugal por zona, tipo y habitaciones (octubre 2026)
+
+76 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Portugal, por ciudad, zona, tipo de inmueble y número de habitaciones (con precio por m²), cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
+- Licencia: CC BY 4.0
+- Datos al 18 de octubre de 2026
+- Sitio: https://www.aptologia.com/
+- Comunidad Zenodo: https://zenodo.org/communities/aptologia/
+- GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/portugal
+- Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-portugal-2026
+- Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-portugal-2026
+- OSF: https://osf.io/phqmy/
+
+`indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
+
+| Microestudio | n | Mediana | DOI |
+|---|---|---|---|
+| [Precio de alquiler de apartamentos en Alvalade, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-alvalade-lisboa-portugal-octubre-2026/) | 38 | EUR 1.900 |  |
+| [Precio de alquiler de apartamentos en Arroios, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-arroios-lisboa-portugal-octubre-2026/) | 45 | EUR 1.800 |  |
+| [Precio de alquiler de apartamentos en Avenidas Novas, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-avenidas-novas-lisboa-portugal-octubre-2026/) | 57 | EUR 2.300 |  |
+| [Precio de alquiler de apartamentos en Lumiar, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-lumiar-lisboa-portugal-octubre-2026/) | 36 | EUR 1.700 |  |
+| [Precio de alquiler de apartamentos en Santo António, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-santo-antonio-lisboa-portugal-octubre-2026/) | 30 | EUR 3.188 |  |
+| [Precio de alquiler de apartamentos en São Domingos de Benfica, Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-sao-domingos-de-benfica-lisboa-portugal-octubre-2026/) | 31 | EUR 1.750 |  |
+| [Precio de venta de apartamentos en Alcântara, Lisboa (Portugal) — octubre 2026](venta-apartamentos-alcantara-lisboa-portugal-octubre-2026/) | 50 | EUR 645.000 |  |
+| [Precio de venta de apartamentos en Alvalade, Lisboa (Portugal) — octubre 2026](venta-apartamentos-alvalade-lisboa-portugal-octubre-2026/) | 55 | EUR 700.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Alvalade, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-alvalade-lisboa-portugal-octubre-2026/) | 33 | EUR 850.000 |  |
+| [Precio de venta de apartamentos en Areeiro, Lisboa (Portugal) — octubre 2026](venta-apartamentos-areeiro-lisboa-portugal-octubre-2026/) | 42 | EUR 867.500 |  |
+| [Precio de venta de apartamentos en Arroios, Lisboa (Portugal) — octubre 2026](venta-apartamentos-arroios-lisboa-portugal-octubre-2026/) | 125 | EUR 599.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Arroios, Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-arroios-lisboa-portugal-octubre-2026/) | 31 | EUR 385.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Arroios, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-arroios-lisboa-portugal-octubre-2026/) | 43 | EUR 635.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Arroios, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-arroios-lisboa-portugal-octubre-2026/) | 51 | EUR 650.000 |  |
+| [Precio de venta de apartamentos en Avenidas Novas, Lisboa (Portugal) — octubre 2026](venta-apartamentos-avenidas-novas-lisboa-portugal-octubre-2026/) | 118 | EUR 1.052.520 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Avenidas Novas, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-avenidas-novas-lisboa-portugal-octubre-2026/) | 30 | EUR 965.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Avenidas Novas, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-avenidas-novas-lisboa-portugal-octubre-2026/) | 67 | EUR 1.250.000 |  |
+| [Precio de venta de apartamentos en Belém, Lisboa (Portugal) — octubre 2026](venta-apartamentos-belem-lisboa-portugal-octubre-2026/) | 41 | EUR 1.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Belém, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-belem-lisboa-portugal-octubre-2026/) | 34 | EUR 1.867.500 |  |
+| [Precio de venta de apartamentos en Benfica, Lisboa (Portugal) — octubre 2026](venta-apartamentos-benfica-lisboa-portugal-octubre-2026/) | 44 | EUR 474.000 |  |
+| [Precio de venta de apartamentos en Campo de Ourique, Lisboa (Portugal) — octubre 2026](venta-apartamentos-campo-de-ourique-lisboa-portugal-octubre-2026/) | 47 | EUR 539.500 |  |
+| [Precio de venta de apartamentos en Campolide, Lisboa (Portugal) — octubre 2026](venta-apartamentos-campolide-lisboa-portugal-octubre-2026/) | 45 | EUR 746.000 |  |
+| [Precio de venta de apartamentos en Estrela, Lisboa (Portugal) — octubre 2026](venta-apartamentos-estrela-lisboa-portugal-octubre-2026/) | 117 | EUR 715.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Estrela, Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-estrela-lisboa-portugal-octubre-2026/) | 39 | EUR 475.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Estrela, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-estrela-lisboa-portugal-octubre-2026/) | 46 | EUR 764.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Estrela, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-estrela-lisboa-portugal-octubre-2026/) | 32 | EUR 1.047.500 |  |
+| [Precio de venta de apartamentos en Lumiar, Lisboa (Portugal) — octubre 2026](venta-apartamentos-lumiar-lisboa-portugal-octubre-2026/) | 158 | EUR 786.500 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Lumiar, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-lumiar-lisboa-portugal-octubre-2026/) | 41 | EUR 675.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Lumiar, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-lumiar-lisboa-portugal-octubre-2026/) | 106 | EUR 885.000 |  |
+| [Precio de venta de apartamentos en Marvila, Lisboa (Portugal) — octubre 2026](venta-apartamentos-marvila-lisboa-portugal-octubre-2026/) | 56 | EUR 920.000 |  |
+| [Precio de venta de apartamentos en Misericórdia, Lisboa (Portugal) — octubre 2026](venta-apartamentos-misericordia-lisboa-portugal-octubre-2026/) | 116 | EUR 642.500 |  |
+| [Precio de venta de apartamentos de 1 habitación en Misericórdia, Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-misericordia-lisboa-portugal-octubre-2026/) | 31 | EUR 380.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Misericórdia, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-misericordia-lisboa-portugal-octubre-2026/) | 52 | EUR 632.500 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Misericórdia, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-misericordia-lisboa-portugal-octubre-2026/) | 33 | EUR 1.095.000 |  |
+| [Precio de venta de apartamentos en Olivais, Lisboa (Portugal) — octubre 2026](venta-apartamentos-olivais-lisboa-portugal-octubre-2026/) | 45 | EUR 394.900 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Olivais, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-olivais-lisboa-portugal-octubre-2026/) | 31 | EUR 395.000 |  |
+| [Precio de venta de apartamentos en Parque das Nações, Lisboa (Portugal) — octubre 2026](venta-apartamentos-parque-das-nacoes-lisboa-portugal-octubre-2026/) | 61 | EUR 735.000 |  |
+| [Precio de venta de apartamentos en Penha de França, Lisboa (Portugal) — octubre 2026](venta-apartamentos-penha-de-franca-lisboa-portugal-octubre-2026/) | 55 | EUR 412.000 |  |
+| [Precio de venta de apartamentos en Santa Maria Maior, Lisboa (Portugal) — octubre 2026](venta-apartamentos-santa-maria-maior-lisboa-portugal-octubre-2026/) | 120 | EUR 575.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Santa Maria Maior, Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-santa-maria-maior-lisboa-portugal-octubre-2026/) | 33 | EUR 385.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Santa Maria Maior, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-santa-maria-maior-lisboa-portugal-octubre-2026/) | 54 | EUR 575.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Maria Maior, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-maria-maior-lisboa-portugal-octubre-2026/) | 33 | EUR 750.000 |  |
+| [Precio de venta de apartamentos en Santo António, Lisboa (Portugal) — octubre 2026](venta-apartamentos-santo-antonio-lisboa-portugal-octubre-2026/) | 132 | EUR 762.500 |  |
+| [Precio de venta de apartamentos de 1 habitación en Santo António, Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-santo-antonio-lisboa-portugal-octubre-2026/) | 50 | EUR 574.600 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Santo António, Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-santo-antonio-lisboa-portugal-octubre-2026/) | 35 | EUR 890.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Santo António, Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santo-antonio-lisboa-portugal-octubre-2026/) | 47 | EUR 1.345.000 |  |
+| [Precio de venta de apartamentos en São Domingos de Benfica, Lisboa (Portugal) — octubre 2026](venta-apartamentos-sao-domingos-de-benfica-lisboa-portugal-octubre-2026/) | 37 | EUR 629.900 |  |
+| [Precio de venta de apartamentos en São Vicente, Lisboa (Portugal) — octubre 2026](venta-apartamentos-sao-vicente-lisboa-portugal-octubre-2026/) | 57 | EUR 349.900 |  |
+| [Precio de venta de apartamentos en Aldoar, Foz do Douro e Nevogilde, Oporto (Portugal) — octubre 2026](venta-apartamentos-aldoar-foz-do-douro-e-nevogilde-oporto-portugal-octubre-2026/) | 51 | EUR 635.000 |  |
+| [Precio de venta de apartamentos en Bonfim, Oporto (Portugal) — octubre 2026](venta-apartamentos-bonfim-oporto-portugal-octubre-2026/) | 70 | EUR 402.900 |  |
+| [Precio de venta de apartamentos en Campanhã, Oporto (Portugal) — octubre 2026](venta-apartamentos-campanha-oporto-portugal-octubre-2026/) | 71 | EUR 406.500 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Campanhã, Oporto (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-campanha-oporto-portugal-octubre-2026/) | 42 | EUR 406.500 |  |
+| [Precio de venta de apartamentos en Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal) — octubre 2026](venta-apartamentos-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026/) | 165 | EUR 400.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026/) | 78 | EUR 315.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026/) | 61 | EUR 490.000 |  |
+| [Precio de venta de estudios en Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal) — octubre 2026](venta-estudios-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026/) | 38 | EUR 243.750 |  |
+| [Precio de venta de apartamentos en Lordelo do Ouro e Massarelos, Oporto (Portugal) — octubre 2026](venta-apartamentos-lordelo-do-ouro-e-massarelos-oporto-portugal-octubre-2026/) | 86 | EUR 818.500 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Lordelo do Ouro e Massarelos, Oporto (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-lordelo-do-ouro-e-massarelos-oporto-portugal-octubre-2026/) | 49 | EUR 1.000.000 |  |
+| [Precio de venta de apartamentos en Paranhos, Oporto (Portugal) — octubre 2026](venta-apartamentos-paranhos-oporto-portugal-octubre-2026/) | 97 | EUR 325.000 |  |
+| [Precio de venta de apartamentos de 1 habitación en Paranhos, Oporto (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-paranhos-oporto-portugal-octubre-2026/) | 34 | EUR 252.500 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Paranhos, Oporto (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-paranhos-oporto-portugal-octubre-2026/) | 47 | EUR 364.000 |  |
+| [Precio de venta de apartamentos en Ramalde, Oporto (Portugal) — octubre 2026](venta-apartamentos-ramalde-oporto-portugal-octubre-2026/) | 85 | EUR 458.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Ramalde, Oporto (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-ramalde-oporto-portugal-octubre-2026/) | 32 | EUR 454.500 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Ramalde, Oporto (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ramalde-oporto-portugal-octubre-2026/) | 34 | EUR 687.500 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Faro (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-faro-portugal-octubre-2026/) | 47 | EUR 640.000 |  |
+| [Precio de alquiler de apartamentos de 1 habitación en Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-1-habitaciones-lisboa-portugal-octubre-2026/) | 115 | EUR 1.450 |  |
+| [Precio de alquiler de apartamentos de 2 habitaciones en Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-2-habitaciones-lisboa-portugal-octubre-2026/) | 190 | EUR 1.650 |  |
+| [Precio de alquiler de apartamentos de 3 o más habitaciones en Lisboa (Portugal) — octubre 2026](alquiler-apartamentos-3-o-mas-habitaciones-lisboa-portugal-octubre-2026/) | 195 | EUR 2.300 |  |
+| [Precio de venta de apartamentos de 1 habitación en Lisboa (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-lisboa-portugal-octubre-2026/) | 338 | EUR 462.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Lisboa (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-lisboa-portugal-octubre-2026/) | 567 | EUR 610.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Lisboa (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-lisboa-portugal-octubre-2026/) | 678 | EUR 900.000 |  |
+| [Precio de alquiler de apartamentos de 1 habitación en Oporto (Portugal) — octubre 2026](alquiler-apartamentos-1-habitaciones-oporto-portugal-octubre-2026/) | 30 | EUR 1.070 |  |
+| [Precio de venta de apartamentos de 1 habitación en Oporto (Portugal) — octubre 2026](venta-apartamentos-1-habitaciones-oporto-portugal-octubre-2026/) | 177 | EUR 295.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Oporto (Portugal) — octubre 2026](venta-apartamentos-2-habitaciones-oporto-portugal-octubre-2026/) | 254 | EUR 430.875 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Oporto (Portugal) — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-oporto-portugal-octubre-2026/) | 194 | EUR 749.850 |  |
+| [Precio de venta de casas de 3 o más habitaciones en Oporto (Portugal) — octubre 2026](venta-casas-3-o-mas-habitaciones-oporto-portugal-octubre-2026/) | 88 | EUR 765.000 |  |

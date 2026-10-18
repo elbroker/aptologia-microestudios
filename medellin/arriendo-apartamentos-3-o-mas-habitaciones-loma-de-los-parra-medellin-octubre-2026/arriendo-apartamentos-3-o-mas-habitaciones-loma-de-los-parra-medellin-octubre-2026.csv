@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,7150000,60
-habitaciones,2,7200000,16
-habitaciones,3+,7150000,60
-barrio,mediana_barrio_todos_los_tamanos,7200000,77
-ciudad,mediana_ciudad,5500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-de-los-parra,
+seccion,metrica,valor,moneda,n
+precio,p25,6575000.0,COP,55
+precio,mediana,8000000.0,COP,55
+precio,p75,8900000.0,COP,55
+precio,minimo,3500000.0,COP,55
+precio,maximo,19000000.0,COP,55
+m2,mediana_precio_m2,48571.43,COP,55
+m2,area_mediana_m2,150.0,m2,55
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,3+,8000000.0,COP,55
+ciudad,mediana_ciudad_referencia,5500000.0,COP,
+ciudad,mediana_m2_ciudad,45454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-de-los-parra,,
+fuente,licencia,CC BY 4.0,,

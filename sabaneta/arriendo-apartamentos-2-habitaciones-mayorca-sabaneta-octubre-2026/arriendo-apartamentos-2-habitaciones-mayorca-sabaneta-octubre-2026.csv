@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3400000,88
-habitaciones,1,2400000,11
-habitaciones,2,3400000,88
-habitaciones,3+,3200000,100
-barrio,mediana_barrio_todos_los_tamanos,3200000,199
-ciudad,mediana_ciudad,2850000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/mayorca,
+seccion,metrica,valor,moneda,n
+precio,p25,2650000.0,COP,57
+precio,mediana,3200000.0,COP,57
+precio,p75,3500000.0,COP,57
+precio,minimo,1800000.0,COP,57
+precio,maximo,5100000.0,COP,57
+m2,mediana_precio_m2,45000.0,COP,57
+m2,area_mediana_m2,65.0,m2,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.9,%,49
+estrato,estrato_mas_frecuente,4,,57
+habitaciones,2,3200000.0,COP,57
+ciudad,mediana_ciudad_referencia,2900000.0,COP,
+ciudad,mediana_m2_ciudad,41818.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/mayorca,,
+fuente,licencia,CC BY 4.0,,

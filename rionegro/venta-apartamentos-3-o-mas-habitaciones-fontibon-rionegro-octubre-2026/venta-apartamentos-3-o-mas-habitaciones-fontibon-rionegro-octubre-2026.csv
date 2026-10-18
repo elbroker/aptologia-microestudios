@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,360000000,186
-habitaciones,2,350000000,206
-habitaciones,3+,360000000,186
-barrio,mediana_barrio_todos_los_tamanos,350000000,395
-ciudad,mediana_ciudad,540000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/rionegro/fontibon,
+seccion,metrica,valor,moneda,n
+precio,p25,330000000.0,COP,121
+precio,mediana,350000000.0,COP,121
+precio,p75,380000000.0,COP,121
+precio,minimo,250000000.0,COP,121
+precio,maximo,639000000.0,COP,121
+m2,mediana_precio_m2,6071428.57,COP,119
+m2,area_mediana_m2,57.0,m2,119
+admin,mediana_admin_mes,270000.0,COP,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.6,%,115
+estrato,estrato_mas_frecuente,4,,109
+habitaciones,3+,350000000.0,COP,121
+ciudad,mediana_ciudad_referencia,540000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/fontibon,,
+fuente,licencia,CC BY 4.0,,

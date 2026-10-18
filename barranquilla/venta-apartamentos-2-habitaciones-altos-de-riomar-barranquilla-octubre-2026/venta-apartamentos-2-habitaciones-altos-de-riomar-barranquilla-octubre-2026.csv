@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,380000000,77
-habitaciones,1,260000000,32
-habitaciones,2,380000000,77
-habitaciones,3+,628200000,672
-barrio,mediana_barrio_todos_los_tamanos,560000000,781
-ciudad,mediana_ciudad,325000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/altos-de-riomar,
+seccion,metrica,valor,moneda,n
+precio,p25,310000000.0,COP,57
+precio,mediana,380000000.0,COP,57
+precio,p75,480000000.0,COP,57
+precio,minimo,230000000.0,COP,57
+precio,maximo,750000000.0,COP,57
+m2,mediana_precio_m2,4730875.0,COP,56
+m2,area_mediana_m2,83.0,m2,56
+admin,mediana_admin_mes,472000.0,COP,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,2,380000000.0,COP,57
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,4747126.54,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/altos-de-riomar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,101
-habitaciones,1,260000000,23
-habitaciones,2,317500000,38
-habitaciones,3+,550000000,101
-barrio,mediana_barrio_todos_los_tamanos,420000000,163
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/san-vicente,
+seccion,metrica,valor,moneda,n
+precio,p25,400000000.0,COP,79
+precio,mediana,550000000.0,COP,79
+precio,p75,725000000.0,COP,79
+precio,minimo,300000000.0,COP,79
+precio,maximo,1400000000.0,COP,79
+m2,mediana_precio_m2,4051470.59,COP,78
+m2,area_mediana_m2,137.0,m2,78
+admin,mediana_admin_mes,623000.0,COP,59
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+estrato,estrato_mas_frecuente,5,,78
+habitaciones,3+,550000000.0,COP,79
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/san-vicente,,
+fuente,licencia,CC BY 4.0,,

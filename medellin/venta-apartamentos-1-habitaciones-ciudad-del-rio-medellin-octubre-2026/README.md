@@ -1,19 +1,25 @@
 # Precio de venta de apartamentos de 1 habitación en Ciudad del Río, Medellín — octubre 2026
 
-En Ciudad del Río, Medellín, la mediana de precio de venta de apartamentos de 1 habitación es COP 620 millones, según 102 avisos vigentes.
+COP 650 millones es el precio mediano de apartamentos de 1 habitación en venta en Ciudad del Río, Medellín (n = 47 avisos).
 
-Frente al total de Medellín (COP 575 millones), el barrio está 8 % por encima.
+Prácticamente coincide con la mediana de Medellín para apartamentos de 1 habitación (COP 630 millones).
 
-Son 24 % de los 427 avisos de apartamentos en venta del barrio, cuya mediana general es COP 830 millones (−25 %).
+Por metro cuadrado, la mediana es COP 11,78 millones/m² (n = 43 avisos con área), 9 % por encima de Medellín (COP 10,83 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 3.690.000 al mes), el arriendo anual equivale a 7,1 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 18 % de los 263 avisos de apartamentos en venta de la zona, cuya mediana general es COP 830 millones (−22 %).
 
-En el mismo barrio, la mediana es COP 865 millones con 2 habitaciones (n = 150), COP 940 millones con 3 o más habitaciones (n = 174).
+Con el precio por m² de arriendo del mismo segmento (COP 75.227/m² al mes), la rentabilidad bruta implícita es 7,7 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 102 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 54 m².
+
+La administración mediana declarada es COP 360.000 al mes (n = 25).
+
+El estrato más frecuente es 5 (52 % de los avisos con estrato).
+
+- n = 47 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/medellin/ciudad-del-rio
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/medellin/ciudad-del-rio
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-1-habitaciones-ciudad-del-rio-medellin-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-ciudad-del-rio-medellin-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-ciudad-del-rio-medellin-octubre-2026.png`.

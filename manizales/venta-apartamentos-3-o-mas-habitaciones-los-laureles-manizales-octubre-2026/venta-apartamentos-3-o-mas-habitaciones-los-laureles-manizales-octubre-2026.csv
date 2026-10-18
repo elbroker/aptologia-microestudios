@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,628000000,59
-habitaciones,2,572500000,12
-habitaciones,3+,628000000,59
-barrio,mediana_barrio_todos_los_tamanos,575000000,76
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/los-laureles,
+seccion,metrica,valor,moneda,n
+precio,p25,460000000.0,COP,45
+precio,mediana,566000000.0,COP,45
+precio,p75,780000000.0,COP,45
+precio,minimo,315000000.0,COP,45
+precio,maximo,2000000000.0,COP,45
+m2,mediana_precio_m2,5600000.0,COP,45
+m2,area_mediana_m2,95.0,m2,45
+admin,mediana_admin_mes,479000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,3+,566000000.0,COP,45
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/los-laureles,,
+fuente,licencia,CC BY 4.0,,

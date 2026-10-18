@@ -1,8 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,320000000,47
-habitaciones,2,215000000,26
-habitaciones,3+,320000000,47
-barrio,mediana_barrio_todos_los_tamanos,296500000,76
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/la-gabriela,
+seccion,metrica,valor,moneda,n
+precio,p25,280000000.0,COP,32
+precio,mediana,314500000.0,COP,32
+precio,p75,336250000.0,COP,32
+precio,minimo,195000000.0,COP,32
+precio,maximo,398000000.0,COP,32
+m2,mediana_precio_m2,5128338.54,COP,32
+m2,area_mediana_m2,63.1,m2,32
+admin,mediana_admin_mes,230000.0,COP,21
+banos,mediana_banos,2.0,,
+habitaciones,3+,314500000.0,COP,32
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/la-gabriela,,
+fuente,licencia,CC BY 4.0,,

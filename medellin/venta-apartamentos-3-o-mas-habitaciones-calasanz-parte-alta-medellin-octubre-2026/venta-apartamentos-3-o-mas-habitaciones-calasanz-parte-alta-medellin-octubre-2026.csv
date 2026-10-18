@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,406500000,48
-habitaciones,2,340000000,23
-habitaciones,3+,406500000,48
-barrio,mediana_barrio_todos_los_tamanos,386000000,71
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz-parte-alta,
+seccion,metrica,valor,moneda,n
+precio,p25,380000000.0,COP,42
+precio,mediana,416500000.0,COP,42
+precio,p75,565000000.0,COP,42
+precio,minimo,190000000.0,COP,42
+precio,maximo,1150000000.0,COP,42
+m2,mediana_precio_m2,6888815.21,COP,42
+m2,area_mediana_m2,62.0,m2,42
+admin,mediana_admin_mes,330000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.2,%,38
+estrato,estrato_mas_frecuente,4,,38
+habitaciones,3+,416500000.0,COP,42
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz-parte-alta,,
+fuente,licencia,CC BY 4.0,,

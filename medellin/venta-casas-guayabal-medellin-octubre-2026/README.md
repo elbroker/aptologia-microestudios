@@ -2,22 +2,24 @@
 
 En Guayabal, Medellín, la mediana de precio de venta de casas es COP 480 millones, según 30 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 1,30 mil millones, la diferencia es de 63 % por debajo.
+Frente a la mediana de Medellín para casas (COP 1,39 mil millones), queda 65 % por debajo.
 
-Por mediana, es el puesto 37 de 46 barrios de Medellín con al menos 30 avisos de casas en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 4,40 millones/m² (n = 30 avisos con área), 20 % por debajo de Medellín (COP 5,53 millones/m²).
+
+Por precio mediano es el puesto 33 de 39 barrios de Medellín con al menos 30 avisos de casas en venta (COP): entre las más económicas.
+
+El área mediana anunciada es 130 m².
 
 El segmento con más oferta es el de 3 o más habitaciones (27 avisos, mediana COP 520 millones).
 
 La mitad central de los avisos va de COP 370 millones a COP 695 millones (razón 1,9), una dispersión moderada.
 
-30 % de los avisos incluye parqueadero, y su mediana (COP 720 millones) está 50 % por encima de la general.
+El estrato más frecuente es 3 (57 % de los avisos con estrato).
 
-El aviso más barato pide COP 280 millones y el más caro COP 1,58 mil millones.
-
-- n = 30 avisos vigentes · foto del 2026-10-18
+- n = 30 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/guayabal
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/guayabal
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-guayabal-medellin-octubre-2026.pdf`, `venta-casas-guayabal-medellin-octubre-2026.csv`, `venta-casas-guayabal-medellin-octubre-2026.png`.

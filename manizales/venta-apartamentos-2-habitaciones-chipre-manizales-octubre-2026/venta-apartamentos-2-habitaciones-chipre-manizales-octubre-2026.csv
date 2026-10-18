@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,400000000,53
-habitaciones,1,300000000,40
-habitaciones,2,400000000,53
-habitaciones,3+,420000000,115
-barrio,mediana_barrio_todos_los_tamanos,381443500,208
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/chipre,
+seccion,metrica,valor,moneda,n
+precio,p25,277500000.0,COP,36
+precio,mediana,400000000.0,COP,36
+precio,p75,436250000.0,COP,36
+precio,minimo,176000000.0,COP,36
+precio,maximo,545623000.0,COP,36
+m2,mediana_precio_m2,6092261.9,COP,36
+m2,area_mediana_m2,64.0,m2,36
+admin,mediana_admin_mes,236500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,73.3,%,30
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,2,400000000.0,COP,36
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,6166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/chipre,,
+fuente,licencia,CC BY 4.0,,

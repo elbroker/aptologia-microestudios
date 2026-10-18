@@ -1,23 +1,25 @@
 # Precio de venta de casas en Rodadero Sur, Santa Marta — octubre 2026
 
-En Rodadero Sur, Santa Marta, la mediana de precio de venta de casas es COP 575 millones, según 50 avisos vigentes.
+Con 40 avisos vigentes, el precio mediano de casas en venta en Rodadero Sur, Santa Marta es COP 585 millones.
 
-Comparado con la mediana de la ciudad, COP 650 millones, la diferencia es de 12 % por debajo.
+Eso es 13 % por debajo de la mediana de Santa Marta para casas (COP 670 millones).
 
-Por mediana, es el puesto 10 de 10 barrios de Santa Marta con al menos 30 avisos de casas en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 3,62 millones/m² (n = 40 avisos con área), 4 % por encima de Santa Marta (COP 3,49 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (47 avisos, mediana COP 580 millones).
+Por precio mediano es el puesto 9 de 9 barrios de Santa Marta con al menos 30 avisos de casas en venta (COP): entre las más económicas.
 
-84 % de los avisos incluye parqueadero, y su mediana (COP 570 millones) es prácticamente igual a la general.
+El área mediana anunciada es 138 m².
 
-La dispersión es moderada: el cuartil superior (COP 700 millones) es 1,6 veces el inferior (COP 438 millones).
+El segmento con más oferta es el de 3 o más habitaciones (38 avisos, mediana COP 595 millones).
 
-El aviso más barato pide COP 300 millones y el más caro COP 1,35 mil millones.
+La administración mediana declarada es COP 618.250 al mes (n = 26).
 
-- n = 50 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 6 (35 % de los avisos con estrato).
+
+- n = 40 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/santa-marta/rodadero-sur
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/santa-marta/rodadero-sur
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-rodadero-sur-santa-marta-octubre-2026.pdf`, `venta-casas-rodadero-sur-santa-marta-octubre-2026.csv`, `venta-casas-rodadero-sur-santa-marta-octubre-2026.png`.

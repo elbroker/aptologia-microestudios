@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,260000000,46
-habitaciones,1,190000000,17
-habitaciones,2,260000000,46
-habitaciones,3+,347450000,94
-barrio,mediana_barrio_todos_los_tamanos,300000000,157
-ciudad,mediana_ciudad,320000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/san-francisco,
+seccion,metrica,valor,moneda,n
+precio,p25,230000000.0,COP,36
+precio,mediana,280000000.0,COP,36
+precio,p75,299250000.0,COP,36
+precio,minimo,210000000.0,COP,36
+precio,maximo,770000000.0,COP,36
+m2,mediana_precio_m2,4835317.46,COP,36
+m2,area_mediana_m2,60.0,m2,36
+admin,mediana_admin_mes,314000.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,2,280000000.0,COP,36
+ciudad,mediana_ciudad_referencia,319000000.0,COP,
+ciudad,mediana_m2_ciudad,5316666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/san-francisco,,
+fuente,licencia,CC BY 4.0,,

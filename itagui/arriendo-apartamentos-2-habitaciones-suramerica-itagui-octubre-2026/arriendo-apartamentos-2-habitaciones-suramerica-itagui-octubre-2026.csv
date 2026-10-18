@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3050000,70
-habitaciones,2,3050000,70
-habitaciones,3+,3000000,164
-barrio,mediana_barrio_todos_los_tamanos,3000000,239
-ciudad,mediana_ciudad,2575000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/itagui/suramerica,
+seccion,metrica,valor,moneda,n
+precio,p25,2600000.0,COP,52
+precio,mediana,3000000.0,COP,52
+precio,p75,3300000.0,COP,52
+precio,minimo,1950000.0,COP,52
+precio,maximo,5200000.0,COP,52
+m2,mediana_precio_m2,42535.65,COP,52
+m2,area_mediana_m2,70.5,m2,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.0,%,50
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,2,3000000.0,COP,52
+ciudad,mediana_ciudad_referencia,2500000.0,COP,
+ciudad,mediana_m2_ciudad,41666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/itagui/suramerica,,
+fuente,licencia,CC BY 4.0,,

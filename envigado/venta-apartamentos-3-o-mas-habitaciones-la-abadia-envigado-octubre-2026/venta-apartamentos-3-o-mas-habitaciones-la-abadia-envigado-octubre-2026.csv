@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,845000000,62
-habitaciones,2,650000000,41
-habitaciones,3+,845000000,62
-barrio,mediana_barrio_todos_los_tamanos,759000000,103
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/la-abadia,
+seccion,metrica,valor,moneda,n
+precio,p25,760000000.0,COP,49
+precio,mediana,845000000.0,COP,49
+precio,p75,950000000.0,COP,49
+precio,minimo,320000000.0,COP,49
+precio,maximo,1900000000.0,COP,49
+m2,mediana_precio_m2,8292682.93,COP,49
+m2,area_mediana_m2,95.0,m2,49
+admin,mediana_admin_mes,604000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,5,,49
+habitaciones,3+,845000000.0,COP,49
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-abadia,,
+fuente,licencia,CC BY 4.0,,

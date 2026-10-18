@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,400000000,122
-habitaciones,2,400000000,33
-habitaciones,3+,400000000,122
-barrio,mediana_barrio_todos_los_tamanos,400000000,158
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/cabanas,
+seccion,metrica,valor,moneda,n
+precio,p25,340000000.0,COP,94
+precio,mediana,400000000.0,COP,94
+precio,p75,477500000.0,COP,94
+precio,minimo,230000000.0,COP,94
+precio,maximo,1450000000.0,COP,94
+m2,mediana_precio_m2,4938271.6,COP,89
+m2,area_mediana_m2,85.0,m2,89
+admin,mediana_admin_mes,295000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,61.0,%,77
+estrato,estrato_mas_frecuente,4,,90
+habitaciones,3+,400000000.0,COP,94
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/cabanas,,
+fuente,licencia,CC BY 4.0,,

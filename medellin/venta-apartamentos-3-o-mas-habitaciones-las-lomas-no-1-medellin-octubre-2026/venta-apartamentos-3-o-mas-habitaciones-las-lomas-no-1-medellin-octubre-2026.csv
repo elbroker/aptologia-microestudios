@@ -1,7 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1405000000,36
-habitaciones,3+,1405000000,36
-barrio,mediana_barrio_todos_los_tamanos,1250000000,49
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/las-lomas-no-1,
+seccion,metrica,valor,moneda,n
+precio,p25,950000000.0,COP,35
+precio,mediana,1380000000.0,COP,35
+precio,p75,1800000000.0,COP,35
+precio,minimo,600000000.0,COP,35
+precio,maximo,3500000000.0,COP,35
+m2,mediana_precio_m2,7623318.39,COP,35
+m2,area_mediana_m2,165.0,m2,35
+admin,mediana_admin_mes,1231850.0,COP,22
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,3+,1380000000.0,COP,35
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/las-lomas-no-1,,
+fuente,licencia,CC BY 4.0,,

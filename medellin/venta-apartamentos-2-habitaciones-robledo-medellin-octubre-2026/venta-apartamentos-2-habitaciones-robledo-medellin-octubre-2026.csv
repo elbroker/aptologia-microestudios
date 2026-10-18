@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,230000000,150
-habitaciones,2,230000000,150
-habitaciones,3+,274000000,298
-barrio,mediana_barrio_todos_los_tamanos,265000000,453
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,
+seccion,metrica,valor,moneda,n
+precio,p25,185000000.0,COP,125
+precio,mediana,230000000.0,COP,125
+precio,p75,380000000.0,COP,125
+precio,minimo,150000000.0,COP,125
+precio,maximo,620000000.0,COP,125
+m2,mediana_precio_m2,5382751.94,COP,124
+m2,area_mediana_m2,47.0,m2,124
+admin,mediana_admin_mes,190000.0,COP,73
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,45.8,%,83
+estrato,estrato_mas_frecuente,3,,116
+habitaciones,2,230000000.0,COP,125
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

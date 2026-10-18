@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,704499451,38
-habitaciones,1,500000000,9
-habitaciones,2,704499451,38
-habitaciones,3+,820000000,10
-barrio,mediana_barrio_todos_los_tamanos,630000000,57
-ciudad,mediana_ciudad,760000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/el-retiro/el-carmen,
+seccion,metrica,valor,moneda,n
+precio,p25,567555419.25,COP,34
+precio,mediana,689500000.0,COP,34
+precio,p75,797500000.0,COP,34
+precio,minimo,320000000.0,COP,34
+precio,maximo,1100000000.0,COP,34
+m2,mediana_precio_m2,10143391.8,COP,34
+m2,area_mediana_m2,68.5,m2,34
+admin,mediana_admin_mes,350000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+habitaciones,2,689500000.0,COP,34
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,9397227.05,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro/el-carmen,,
+fuente,licencia,CC BY 4.0,,

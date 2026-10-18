@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,940000000,121
-habitaciones,1,860000000,17
-habitaciones,2,940000000,121
-habitaciones,3+,1140000000,453
-barrio,mediana_barrio_todos_los_tamanos,1100000000,594
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/castropol,
+seccion,metrica,valor,moneda,n
+precio,p25,755000000.0,COP,86
+precio,mediana,940000000.0,COP,86
+precio,p75,1326824098.0,COP,86
+precio,minimo,265000000.0,COP,86
+precio,maximo,3500000000.0,COP,86
+m2,mediana_precio_m2,9861084.31,COP,82
+m2,area_mediana_m2,94.0,m2,82
+admin,mediana_admin_mes,774500.0,COP,52
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,83
+estrato,estrato_mas_frecuente,6,,83
+habitaciones,2,940000000.0,COP,86
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3200000,82
-habitaciones,2,3000000,29
-habitaciones,3+,3200000,82
-barrio,mediana_barrio_todos_los_tamanos,3100000,115
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/loma-de-la-doctora,
+seccion,metrica,valor,moneda,n
+precio,p25,2900000.0,COP,77
+precio,mediana,3200000.0,COP,77
+precio,p75,3800000.0,COP,77
+precio,minimo,1800000.0,COP,77
+precio,maximo,5800000.0,COP,77
+m2,mediana_precio_m2,40000.0,COP,77
+m2,area_mediana_m2,82.0,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,68
+estrato,estrato_mas_frecuente,4,,76
+habitaciones,3+,3200000.0,COP,77
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/loma-de-la-doctora,,
+fuente,licencia,CC BY 4.0,,

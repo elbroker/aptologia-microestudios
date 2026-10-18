@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,530000000,55
-habitaciones,2,420000000,31
-habitaciones,3+,530000000,55
-barrio,mediana_barrio_todos_los_tamanos,460000000,87
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/fabricato,
+seccion,metrica,valor,moneda,n
+precio,p25,430750000.0,COP,48
+precio,mediana,510000000.0,COP,48
+precio,p75,602500000.0,COP,48
+precio,minimo,280000000.0,COP,48
+precio,maximo,730000000.0,COP,48
+m2,mediana_precio_m2,6826592.08,COP,48
+m2,area_mediana_m2,71.5,m2,48
+admin,mediana_admin_mes,330644.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.5,%,48
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,510000000.0,COP,48
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/fabricato,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2068000,54
-habitaciones,1,2146600,85
-habitaciones,2,2068000,54
-habitaciones,3+,3900000,34
-barrio,mediana_barrio_todos_los_tamanos,2250000,174
-ciudad,mediana_ciudad,2200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/san-vicente,
+seccion,metrica,valor,moneda,n
+precio,p25,1727000.0,COP,35
+precio,mediana,2100000.0,COP,35
+precio,p75,2900000.0,COP,35
+precio,minimo,1200000.0,COP,35
+precio,maximo,5250000.0,COP,35
+m2,mediana_precio_m2,29016.28,COP,34
+m2,area_mediana_m2,70.0,m2,34
+admin,mediana_admin_mes,416000.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.3,%,35
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,2,2100000.0,COP,35
+ciudad,mediana_ciudad_referencia,2300000.0,COP,
+ciudad,mediana_m2_ciudad,32758.62,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/san-vicente,,
+fuente,licencia,CC BY 4.0,,

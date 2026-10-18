@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,520000000,51
-habitaciones,2,390000000,22
-habitaciones,3+,520000000,51
-barrio,mediana_barrio_todos_los_tamanos,482500000,76
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/la-florida,
+seccion,metrica,valor,moneda,n
+precio,p25,459377500.0,COP,42
+precio,mediana,505000000.0,COP,42
+precio,p75,559250000.0,COP,42
+precio,minimo,300000000.0,COP,42
+precio,maximo,980000000.0,COP,42
+m2,mediana_precio_m2,6863240.42,COP,42
+m2,area_mediana_m2,75.0,m2,42
+admin,mediana_admin_mes,390000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,81.0,%,42
+estrato,estrato_mas_frecuente,4,,42
+habitaciones,3+,505000000.0,COP,42
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/la-florida,,
+fuente,licencia,CC BY 4.0,,

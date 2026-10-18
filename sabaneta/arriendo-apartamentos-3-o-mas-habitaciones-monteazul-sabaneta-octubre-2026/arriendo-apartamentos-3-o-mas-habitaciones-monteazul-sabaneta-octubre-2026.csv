@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3300000,104
-habitaciones,1,2300000,13
-habitaciones,2,2850000,101
-habitaciones,3+,3300000,104
-barrio,mediana_barrio_todos_los_tamanos,3000000,218
-ciudad,mediana_ciudad,3300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/monteazul,
+seccion,metrica,valor,moneda,n
+precio,p25,3000000.0,COP,91
+precio,mediana,3300000.0,COP,91
+precio,p75,3650000.0,COP,91
+precio,minimo,2350000.0,COP,91
+precio,maximo,6800000.0,COP,91
+m2,mediana_precio_m2,42046.24,COP,90
+m2,area_mediana_m2,78.0,m2,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+estrato,estrato_mas_frecuente,4,,91
+habitaciones,3+,3300000.0,COP,91
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,40243.9,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/monteazul,,
+fuente,licencia,CC BY 4.0,,

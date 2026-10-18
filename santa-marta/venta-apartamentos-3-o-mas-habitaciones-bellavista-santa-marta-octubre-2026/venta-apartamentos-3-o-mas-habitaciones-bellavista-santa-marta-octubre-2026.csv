@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1325000000,82
-habitaciones,1,415000000,49
-habitaciones,2,775000000,23
-habitaciones,3+,1325000000,82
-barrio,mediana_barrio_todos_los_tamanos,780000000,156
-ciudad,mediana_ciudad,790000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bellavista,
+seccion,metrica,valor,moneda,n
+precio,p25,727500000.0,COP,58
+precio,mediana,1200000000.0,COP,58
+precio,p75,1450000000.0,COP,58
+precio,minimo,400000000.0,COP,58
+precio,maximo,2680000000.0,COP,58
+m2,mediana_precio_m2,6144018.58,COP,58
+m2,area_mediana_m2,182.0,m2,58
+admin,mediana_admin_mes,1063000.0,COP,47
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.3,%,58
+estrato,estrato_mas_frecuente,6,,57
+habitaciones,3+,1200000000.0,COP,58
+ciudad,mediana_ciudad_referencia,760000000.0,COP,
+ciudad,mediana_m2_ciudad,5729166.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bellavista,,
+fuente,licencia,CC BY 4.0,,

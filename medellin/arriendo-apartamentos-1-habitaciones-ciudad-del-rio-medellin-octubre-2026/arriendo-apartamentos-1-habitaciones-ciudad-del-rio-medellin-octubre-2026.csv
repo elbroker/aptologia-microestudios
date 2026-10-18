@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3690000,163
-habitaciones,1,3690000,163
-habitaciones,2,4500000,239
-habitaciones,3+,4700000,325
-barrio,mediana_barrio_todos_los_tamanos,4500000,732
-ciudad,mediana_ciudad,3500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/ciudad-del-rio,
+seccion,metrica,valor,moneda,n
+precio,p25,3500000.0,COP,57
+precio,mediana,4000000.0,COP,57
+precio,p75,4900000.0,COP,57
+precio,minimo,2900000.0,COP,57
+precio,maximo,6000000.0,COP,57
+m2,mediana_precio_m2,75227.27,COP,52
+m2,area_mediana_m2,50.0,m2,52
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,67.9,%,53
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,1,4000000.0,COP,57
+ciudad,mediana_ciudad_referencia,3850000.0,COP,
+ciudad,mediana_m2_ciudad,65599.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

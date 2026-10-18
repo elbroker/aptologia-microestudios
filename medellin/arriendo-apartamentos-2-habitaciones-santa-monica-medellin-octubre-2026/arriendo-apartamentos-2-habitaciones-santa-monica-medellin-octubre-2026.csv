@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2150000,62
-habitaciones,1,1650000,27
-habitaciones,2,2150000,62
-habitaciones,3+,2700000,40
-barrio,mediana_barrio_todos_los_tamanos,2200000,129
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/santa-monica,
+seccion,metrica,valor,moneda,n
+precio,p25,2075000.0,COP,39
+precio,mediana,2200000.0,COP,39
+precio,p75,2595000.0,COP,39
+precio,minimo,1800000.0,COP,39
+precio,maximo,11111111.0,COP,39
+m2,mediana_precio_m2,35833.33,COP,37
+m2,area_mediana_m2,60.0,m2,37
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,21.2,%,33
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,2,2200000.0,COP,39
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/santa-monica,,
+fuente,licencia,CC BY 4.0,,

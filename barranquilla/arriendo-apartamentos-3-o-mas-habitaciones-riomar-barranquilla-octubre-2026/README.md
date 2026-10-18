@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 3 o más habitaciones en Riomar, Barranquilla — octubre 2026
 
-COP 4.500.000 al mes es el canon mediano de apartamentos de 3 o más habitaciones en arriendo en Riomar, Barranquilla (n = 159 avisos).
+En Riomar, Barranquilla, la mediana de canon mensual de apartamentos de 3 o más habitaciones es COP 4,50 millones, según 146 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 3.300.000, la diferencia es de 36 % por encima.
+Eso es 31 % por encima de la mediana de Barranquilla para apartamentos de 3 o más habitaciones (COP 3,43 millones).
 
-Son 66 % de los 240 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 4.000.000 (+12 %).
+Por metro cuadrado, la mediana es COP 40.742/m² al mes (n = 140 avisos con área), 26 % por encima de Barranquilla (COP 32.296/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 680 millones), el arriendo anual equivale a 7,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 71 % de los 207 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 4,10 millones (+10 %).
 
-En el mismo barrio, la mediana es COP 2.400.000 con 1 habitación (n = 29), COP 3.225.000 con 2 habitaciones (n = 52).
+Con el precio por m² de venta del mismo segmento (COP 4,89 millones/m²), la rentabilidad bruta implícita es 10,0 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 159 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 125 m².
+
+La administración mediana declarada es COP 600.000 al mes (n = 85), aparte del canon.
+
+El estrato más frecuente es 6 (47 % de los avisos con estrato).
+
+- n = 146 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/barranquilla/riomar
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/barranquilla/riomar
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-3-o-mas-habitaciones-riomar-barranquilla-octubre-2026.pdf`, `arriendo-apartamentos-3-o-mas-habitaciones-riomar-barranquilla-octubre-2026.csv`, `arriendo-apartamentos-3-o-mas-habitaciones-riomar-barranquilla-octubre-2026.png`.

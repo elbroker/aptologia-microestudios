@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1073000,46
-habitaciones,2,988500,16
-habitaciones,3+,1073000,46
-barrio,mediana_barrio_todos_los_tamanos,1062500,62
-ciudad,mediana_ciudad,1076400,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/tocancipa/verganzo,
+seccion,metrica,valor,moneda,n
+precio,p25,970000.0,COP,36
+precio,mediana,1090500.0,COP,36
+precio,p75,1215000.0,COP,36
+precio,minimo,867500.0,COP,36
+precio,maximo,1750000.0,COP,36
+m2,mediana_precio_m2,19181.82,COP,34
+m2,area_mediana_m2,58.5,m2,34
+admin,mediana_admin_mes,172000.0,COP,17
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,36
+habitaciones,3+,1090500.0,COP,36
+ciudad,mediana_ciudad_referencia,1090500.0,COP,
+ciudad,mediana_m2_ciudad,18660.71,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/tocancipa/verganzo,,
+fuente,licencia,CC BY 4.0,,

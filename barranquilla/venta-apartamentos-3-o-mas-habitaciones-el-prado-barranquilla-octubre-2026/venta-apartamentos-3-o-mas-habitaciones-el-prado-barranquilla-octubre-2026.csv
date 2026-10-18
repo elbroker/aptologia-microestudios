@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,400000000,221
-habitaciones,1,200000000,17
-habitaciones,2,290000000,51
-habitaciones,3+,400000000,221
-barrio,mediana_barrio_todos_los_tamanos,380000000,290
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-prado,
+seccion,metrica,valor,moneda,n
+precio,p25,350000000.0,COP,156
+precio,mediana,392500000.0,COP,156
+precio,p75,530000000.0,COP,156
+precio,minimo,240000000.0,COP,156
+precio,maximo,2600000000.0,COP,156
+m2,mediana_precio_m2,3083333.33,COP,129
+m2,area_mediana_m2,138.5,m2,129
+admin,mediana_admin_mes,538400.0,COP,136
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,99.3,%,151
+estrato,estrato_mas_frecuente,4,,155
+habitaciones,3+,392500000.0,COP,156
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

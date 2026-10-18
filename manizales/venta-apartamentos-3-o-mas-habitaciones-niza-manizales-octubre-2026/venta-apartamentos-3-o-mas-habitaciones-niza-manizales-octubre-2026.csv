@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,380000000,63
-habitaciones,2,425000000,14
-habitaciones,3+,380000000,63
-barrio,mediana_barrio_todos_los_tamanos,395000000,77
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/niza,
+seccion,metrica,valor,moneda,n
+precio,p25,337500000.0,COP,40
+precio,mediana,375000000.0,COP,40
+precio,p75,410000000.0,COP,40
+precio,minimo,285000000.0,COP,40
+precio,maximo,450000000.0,COP,40
+m2,mediana_precio_m2,5771939.33,COP,40
+m2,area_mediana_m2,65.0,m2,40
+admin,mediana_admin_mes,280000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,3+,375000000.0,COP,40
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/niza,,
+fuente,licencia,CC BY 4.0,,

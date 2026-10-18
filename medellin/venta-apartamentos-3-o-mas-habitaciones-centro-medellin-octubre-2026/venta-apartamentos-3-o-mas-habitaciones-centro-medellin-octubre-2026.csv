@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,550000000,69
-habitaciones,1,215000000,8
-habitaciones,2,247500000,20
-habitaciones,3+,550000000,69
-barrio,mediana_barrio_todos_los_tamanos,454000000,97
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,357500000.0,COP,60
+precio,mediana,540000000.0,COP,60
+precio,p75,675000000.0,COP,60
+precio,minimo,235000000.0,COP,60
+precio,maximo,2000000000.0,COP,60
+m2,mediana_precio_m2,3649635.04,COP,57
+m2,area_mediana_m2,136.5,m2,57
+admin,mediana_admin_mes,680000.0,COP,39
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,60.0,%,60
+estrato,estrato_mas_frecuente,4,,59
+habitaciones,3+,540000000.0,COP,60
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en San Vicente, Barranquilla — octubre 2026
 
-COP 2.068.000 al mes es el canon mediano de apartamentos de 2 habitaciones en arriendo en San Vicente, Barranquilla (n = 54 avisos).
+En San Vicente, Barranquilla, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 2,10 millones, según 35 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 2.200.000, la diferencia es de 6 % por debajo.
+Eso es 9 % por debajo de la mediana de Barranquilla para apartamentos de 2 habitaciones (COP 2,30 millones).
 
-Son 31 % de los 174 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 2.250.000 (−8 %).
+Por metro cuadrado, la mediana es COP 29.016/m² al mes (n = 34 avisos con área), 11 % por debajo de Barranquilla (COP 32.759/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 318 millones), el arriendo anual equivale a 7,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 40 % de los 87 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 2,50 millones (−16 %).
 
-En el mismo barrio, la mediana es COP 2.146.600 con 1 habitación (n = 85), COP 3.900.000 con 3 o más habitaciones (n = 34).
+El área mediana anunciada es 70 m².
 
-- n = 54 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 416.000 al mes (n = 16), aparte del canon.
+
+El estrato más frecuente es 5 (63 % de los avisos con estrato).
+
+La mitad central de los avisos va de COP 1,73 millones a COP 2,90 millones (razón 1,7), una dispersión moderada.
+
+- n = 35 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/barranquilla/san-vicente
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/barranquilla/san-vicente
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-san-vicente-barranquilla-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-san-vicente-barranquilla-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-san-vicente-barranquilla-octubre-2026.png`.

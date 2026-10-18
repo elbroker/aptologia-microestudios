@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,510000000,227
-habitaciones,1,350000000,123
-habitaciones,2,510000000,227
-habitaciones,3+,750000000,661
-barrio,mediana_barrio_todos_los_tamanos,620000000,1013
-ciudad,mediana_ciudad,420000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,
+seccion,metrica,valor,moneda,n
+precio,p25,400000000.0,COP,157
+precio,mediana,500000000.0,COP,157
+precio,p75,600000000.0,COP,157
+precio,minimo,270000000.0,COP,157
+precio,maximo,1950000000.0,COP,157
+m2,mediana_precio_m2,6556603.77,COP,157
+m2,area_mediana_m2,78.0,m2,157
+admin,mediana_admin_mes,447500.0,COP,112
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,157
+estrato,estrato_mas_frecuente,6,,155
+habitaciones,2,500000000.0,COP,157
+ciudad,mediana_ciudad_referencia,400000000.0,COP,
+ciudad,mediana_m2_ciudad,6061538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

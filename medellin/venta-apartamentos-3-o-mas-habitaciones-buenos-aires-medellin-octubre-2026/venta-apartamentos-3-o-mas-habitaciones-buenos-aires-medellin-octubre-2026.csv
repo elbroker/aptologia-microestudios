@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,350000000,69
-habitaciones,1,255000000,14
-habitaciones,2,280000000,39
-habitaciones,3+,350000000,69
-barrio,mediana_barrio_todos_los_tamanos,320000000,122
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/buenos-aires,
+seccion,metrica,valor,moneda,n
+precio,p25,285000000.0,COP,64
+precio,mediana,345000000.0,COP,64
+precio,p75,405000000.0,COP,64
+precio,minimo,205000000.0,COP,64
+precio,maximo,1576934550.0,COP,64
+m2,mediana_precio_m2,4861111.11,COP,61
+m2,area_mediana_m2,75.5,m2,61
+admin,mediana_admin_mes,230000.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,22.6,%,53
+estrato,estrato_mas_frecuente,3,,63
+habitaciones,3+,345000000.0,COP,64
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/buenos-aires,,
+fuente,licencia,CC BY 4.0,,

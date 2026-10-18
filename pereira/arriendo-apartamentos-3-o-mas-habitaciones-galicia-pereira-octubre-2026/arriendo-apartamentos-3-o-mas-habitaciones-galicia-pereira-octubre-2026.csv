@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2200000,91
-habitaciones,2,2200000,27
-habitaciones,3+,2200000,91
-barrio,mediana_barrio_todos_los_tamanos,2200000,123
-ciudad,mediana_ciudad,3200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/pereira/galicia,
+seccion,metrica,valor,moneda,n
+precio,p25,1850000.0,COP,69
+precio,mediana,2200000.0,COP,69
+precio,p75,2850000.0,COP,69
+precio,minimo,1500000.0,COP,69
+precio,maximo,5000000.0,COP,69
+m2,mediana_precio_m2,29230.77,COP,69
+m2,area_mediana_m2,72.0,m2,69
+admin,mediana_admin_mes,324000.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,5,,69
+habitaciones,3+,2200000.0,COP,69
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,31460.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/galicia,,
+fuente,licencia,CC BY 4.0,,

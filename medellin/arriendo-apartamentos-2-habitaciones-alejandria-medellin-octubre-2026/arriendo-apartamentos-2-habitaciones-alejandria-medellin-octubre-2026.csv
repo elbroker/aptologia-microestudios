@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5940382,38
-habitaciones,1,4600000,41
-habitaciones,2,5940382,38
-habitaciones,3+,7700000,83
-barrio,mediana_barrio_todos_los_tamanos,6375000,162
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/alejandria,
+seccion,metrica,valor,moneda,n
+precio,p25,4925000.0,COP,36
+precio,mediana,5940382.0,COP,36
+precio,p75,6575000.0,COP,36
+precio,minimo,3900000.0,COP,36
+precio,maximo,18000000.0,COP,36
+m2,mediana_precio_m2,61764.71,COP,35
+m2,area_mediana_m2,90.0,m2,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,2,5940382.0,COP,36
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/alejandria,,
+fuente,licencia,CC BY 4.0,,

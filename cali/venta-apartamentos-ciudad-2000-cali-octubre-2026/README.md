@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Ciudad 2000, Cali — octubre 2026
 
-COP 230 millones es el precio mediano de apartamentos en venta en Ciudad 2000, Cali (n = 59 avisos).
+COP 221 millones es el precio mediano de apartamentos en venta en Ciudad 2000, Cali (n = 40 avisos).
 
-Comparado con la mediana de la ciudad, COP 400 millones, la diferencia es de 43 % por debajo.
+Frente a la mediana de Cali para apartamentos (COP 430 millones), queda 49 % por debajo.
 
-Por mediana, es el puesto 68 de 74 barrios de Cali con al menos 30 avisos de apartamentos en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 4,03 millones/m² (n = 40 avisos con área), 13 % por debajo de Cali (COP 4,65 millones/m²).
 
-El segmento con más oferta es el de 2 habitaciones (31 avisos, mediana COP 230 millones); pasar de 2 habitaciones a 3 o más habitaciones sube la mediana -9 %.
+Por precio mediano es el puesto 63 de 66 barrios de Cali con al menos 30 avisos de apartamentos en venta (COP): entre las más económicas.
 
-El aviso más barato pide COP 143 millones y el más caro COP 285 millones.
+El área mediana anunciada es 55 m².
 
-56 % de los anunciantes publica un teléfono de contacto.
+El segmento con más oferta es el de 2 habitaciones (26 avisos, mediana COP 230 millones); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana −18 %.
 
-49 % de los avisos incluye parqueadero, y su mediana (COP 240 millones) está 4 % por encima de la general.
+La administración mediana declarada es COP 184.500 al mes (n = 30).
 
-- n = 59 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 4 (50 % de los avisos con estrato).
+
+- n = 40 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/cali/ciudad-2000
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/cali/ciudad-2000
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-ciudad-2000-cali-octubre-2026.pdf`, `venta-apartamentos-ciudad-2000-cali-octubre-2026.csv`, `venta-apartamentos-ciudad-2000-cali-octubre-2026.png`.

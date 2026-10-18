@@ -1,7 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,7000000,35
-habitaciones,3+,7000000,35
-barrio,mediana_barrio_todos_los_tamanos,6900000,42
-ciudad,mediana_ciudad,6650000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/la-doctora,
+seccion,metrica,valor,moneda,n
+precio,p25,6500000.0,COP,32
+precio,mediana,6900000.0,COP,32
+precio,p75,9250000.0,COP,32
+precio,minimo,2500000.0,COP,32
+precio,maximo,16000000.0,COP,32
+m2,mediana_precio_m2,29130.43,COP,31
+m2,area_mediana_m2,280.0,m2,31
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,93.8,%,32
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,6900000.0,COP,32
+ciudad,mediana_ciudad_referencia,6650000.0,COP,
+ciudad,mediana_m2_ciudad,29148.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta/la-doctora,,
+fuente,licencia,CC BY 4.0,,

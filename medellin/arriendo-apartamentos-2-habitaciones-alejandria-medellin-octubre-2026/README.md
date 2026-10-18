@@ -1,19 +1,23 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en Alejandria, Medellín — octubre 2026
 
-En Alejandria, Medellín, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 5.940.382, según 38 avisos vigentes.
+COP 5,94 millones al mes es el canon mediano de apartamentos de 2 habitaciones en arriendo en Alejandria, Medellín (n = 36 avisos).
 
-Eso la ubica 38 % por encima de la mediana de Medellín para apartamentos de 2 habitaciones (COP 4.300.000).
+Frente a la mediana de Medellín para apartamentos de 2 habitaciones (COP 4,20 millones), queda 41 % por encima.
 
-Son 23 % de los 162 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 6.375.000 (−7 %).
+Por metro cuadrado, la mediana es COP 61.765/m² al mes (n = 35 avisos con área), 17 % por encima de Medellín (COP 52.857/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 1,23 mil millones), el arriendo anual equivale a 5,8 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 27 % de los 131 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 6,50 millones (−9 %).
 
-En el mismo barrio, la mediana es COP 4.600.000 con 1 habitación (n = 41), COP 7.700.000 con 3 o más habitaciones (n = 83).
+El área mediana anunciada es 90 m².
 
-- n = 38 avisos vigentes · foto del 2026-10-18
+El estrato más frecuente es 6 (86 % de los avisos con estrato).
+
+La mitad central de los avisos va de COP 4,92 millones a COP 6,58 millones (razón 1,3), una dispersión baja.
+
+- n = 36 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/alejandria
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/medellin/alejandria
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-alejandria-medellin-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-alejandria-medellin-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-alejandria-medellin-octubre-2026.png`.

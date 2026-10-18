@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1360000000,61
-habitaciones,2,695000000,19
-habitaciones,3+,1360000000,61
-barrio,mediana_barrio_todos_los_tamanos,1125000000,84
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/arboledas,
+seccion,metrica,valor,moneda,n
+precio,p25,900000000.0,COP,53
+precio,mediana,1300000000.0,COP,53
+precio,p75,1550000000.0,COP,53
+precio,minimo,500000000.0,COP,53
+precio,maximo,3900000000.0,COP,53
+m2,mediana_precio_m2,5714285.71,COP,53
+m2,area_mediana_m2,195.0,m2,53
+admin,mediana_admin_mes,1690000.0,COP,42
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+estrato,estrato_mas_frecuente,6,,53
+habitaciones,3+,1300000000.0,COP,53
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/arboledas,,
+fuente,licencia,CC BY 4.0,,

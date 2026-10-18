@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2300000000,84
-habitaciones,2,1500000000,11
-habitaciones,3+,2300000000,84
-barrio,mediana_barrio_todos_los_tamanos,1989500000,100
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/bellavista,
+seccion,metrica,valor,moneda,n
+precio,p25,1550000000.0,COP,33
+precio,mediana,2300000000.0,COP,33
+precio,p75,3500000000.0,COP,33
+precio,minimo,450000000.0,COP,33
+precio,maximo,4050000000.0,COP,33
+m2,mediana_precio_m2,9019607.84,COP,33
+m2,area_mediana_m2,257.0,m2,33
+admin,mediana_admin_mes,2067000.0,COP,31
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,3+,2300000000.0,COP,33
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/bellavista,,
+fuente,licencia,CC BY 4.0,,

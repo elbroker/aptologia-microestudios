@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,318500000,42
-habitaciones,2,318500000,42
-habitaciones,3+,410000000,18
-barrio,mediana_barrio_todos_los_tamanos,335000000,61
-ciudad,mediana_ciudad,330000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/el-misterio,
+seccion,metrica,valor,moneda,n
+precio,p25,297500000.0,COP,39
+precio,mediana,320000000.0,COP,39
+precio,p75,341250000.0,COP,39
+precio,minimo,260000000.0,COP,39
+precio,maximo,490000000.0,COP,39
+m2,mediana_precio_m2,5833333.33,COP,39
+m2,area_mediana_m2,55.3,m2,39
+admin,mediana_admin_mes,285000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,2,320000000.0,COP,39
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,5749907.51,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/el-misterio,,
+fuente,licencia,CC BY 4.0,,

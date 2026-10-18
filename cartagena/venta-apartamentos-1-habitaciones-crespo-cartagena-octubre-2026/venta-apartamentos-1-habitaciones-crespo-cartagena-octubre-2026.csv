@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,490000000,99
-habitaciones,1,490000000,99
-habitaciones,2,715000000,94
-habitaciones,3+,755000000,188
-barrio,mediana_barrio_todos_los_tamanos,665000000,383
-ciudad,mediana_ciudad,669850000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cartagena/crespo,
+seccion,metrica,valor,moneda,n
+precio,p25,450000000.0,COP,58
+precio,mediana,525000000.0,COP,58
+precio,p75,600000000.0,COP,58
+precio,minimo,210000000.0,COP,58
+precio,maximo,850000000.0,COP,58
+m2,mediana_precio_m2,10194404.07,COP,56
+m2,area_mediana_m2,46.5,m2,56
+admin,mediana_admin_mes,356000.0,COP,32
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,78.3,%,46
+estrato,estrato_mas_frecuente,5,,57
+habitaciones,1,525000000.0,COP,58
+ciudad,mediana_ciudad_referencia,670000000.0,COP,
+ciudad,mediana_m2_ciudad,10444165.75,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

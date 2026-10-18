@@ -16,4 +16,4 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de arriendo de apartamentos en La Industrial, Marinilla — octubre 2026](arriendo-apartamentos-la-industrial-marinilla-octubre-2026/) | 34 | COP 1.750.000 |  |
+| [Precio de arriendo de apartamentos en La Industrial, Marinilla — octubre 2026](arriendo-apartamentos-la-industrial-marinilla-octubre-2026/) | 31 | COP 1.800.000 |  |

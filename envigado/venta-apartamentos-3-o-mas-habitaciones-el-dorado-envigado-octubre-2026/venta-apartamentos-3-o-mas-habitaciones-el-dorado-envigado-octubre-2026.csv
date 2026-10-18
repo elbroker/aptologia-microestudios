@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,510000000,57
-habitaciones,2,660000000,20
-habitaciones,3+,510000000,57
-barrio,mediana_barrio_todos_los_tamanos,550000000,80
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/el-dorado,
+seccion,metrica,valor,moneda,n
+precio,p25,445000000.0,COP,51
+precio,mediana,510000000.0,COP,51
+precio,p75,650000000.0,COP,51
+precio,minimo,285000000.0,COP,51
+precio,maximo,2800000000.0,COP,51
+m2,mediana_precio_m2,6056547.62,COP,50
+m2,area_mediana_m2,89.0,m2,50
+admin,mediana_admin_mes,305000.0,COP,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,69.4,%,36
+estrato,estrato_mas_frecuente,3,,48
+habitaciones,3+,510000000.0,COP,51
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-dorado,,
+fuente,licencia,CC BY 4.0,,

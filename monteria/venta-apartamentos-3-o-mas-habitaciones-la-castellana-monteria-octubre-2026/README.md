@@ -1,17 +1,25 @@
 # Precio de venta de apartamentos de 3 o más habitaciones en La Castellana, Montería — octubre 2026
 
-Con 64 avisos vigentes, el precio mediano de apartamentos de 3 o más habitaciones en venta en La Castellana, Montería es COP 425 millones.
+COP 420 millones es el precio mediano de apartamentos de 3 o más habitaciones en venta en La Castellana, Montería (n = 58 avisos).
 
-La mediana prácticamente coincide con la de Montería para apartamentos de 3 o más habitaciones (COP 420 millones; diferencia de 1,2 %).
+Prácticamente coincide con la mediana de Montería para apartamentos de 3 o más habitaciones (COP 420 millones).
 
-Son 79 % de los 81 avisos de apartamentos en venta del barrio, cuya mediana general es COP 400 millones (+6 %).
+Por metro cuadrado, la mediana es COP 3,68 millones/m² (n = 55 avisos con área), 1 % por debajo de Montería (COP 3,70 millones/m²).
 
-En el mismo barrio, la mediana es COP 300 millones con 2 habitaciones (n = 13).
+Son 78 % de los 74 avisos de apartamentos en venta de la zona, cuya mediana general es COP 395 millones (+6 %).
 
-- n = 64 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 117 m².
+
+La administración mediana declarada es COP 510.000 al mes (n = 15).
+
+El estrato más frecuente es 5 (44 % de los avisos con estrato).
+
+76 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 58 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/monteria/la-castellana
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/monteria/la-castellana
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026.pdf`, `venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026.csv`, `venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026.png`.

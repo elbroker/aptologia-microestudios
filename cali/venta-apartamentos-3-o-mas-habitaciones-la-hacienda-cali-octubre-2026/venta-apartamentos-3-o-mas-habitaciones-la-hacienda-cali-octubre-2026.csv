@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,430000000,100
-habitaciones,2,342500000,24
-habitaciones,3+,430000000,100
-barrio,mediana_barrio_todos_los_tamanos,400000000,125
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/la-hacienda,
+seccion,metrica,valor,moneda,n
+precio,p25,365000000.0,COP,80
+precio,mediana,435000000.0,COP,80
+precio,p75,560000000.0,COP,80
+precio,minimo,260000000.0,COP,80
+precio,maximo,1000000000.0,COP,80
+m2,mediana_precio_m2,4863686.62,COP,80
+m2,area_mediana_m2,97.5,m2,80
+admin,mediana_admin_mes,480000.0,COP,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.7,%,79
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,3+,435000000.0,COP,80
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/la-hacienda,,
+fuente,licencia,CC BY 4.0,,

@@ -1,23 +1,25 @@
 # Precio de venta de casas en Prados del Este, Cúcuta — octubre 2026
 
-Con 37 avisos vigentes, el precio mediano de casas en venta en Prados del Este, Cúcuta es COP 360 millones.
+En Prados del Este, Cúcuta, la mediana de precio de venta de casas es COP 360 millones, según 35 avisos vigentes.
 
-Frente al total de Cúcuta (COP 485 millones), el barrio está 26 % por debajo.
+Frente a la mediana de Cúcuta para casas (COP 500 millones), queda 28 % por debajo.
 
-Por mediana, es el puesto 11 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta: entre los más económicos.
+Por metro cuadrado, la mediana es COP 3,14 millones/m² (n = 35 avisos con área), 7 % por encima de Cúcuta (COP 2,92 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (35 avisos, mediana COP 355 millones).
+Por precio mediano es el puesto 11 de 11 barrios de Cúcuta con al menos 30 avisos de casas en venta (COP): entre las más económicas.
 
-100 % de los avisos incluye parqueadero.
+El área mediana anunciada es 110 m².
 
-El aviso más barato pide COP 250 millones y el más caro COP 470 millones.
+El segmento con más oferta es el de 3 o más habitaciones (33 avisos, mediana COP 355 millones).
 
-59 % de los anunciantes publica un teléfono de contacto.
+La administración mediana declarada es COP 283.100 al mes (n = 15).
 
-- n = 37 avisos vigentes · foto del 2026-10-17
+El estrato más frecuente es 3 (66 % de los avisos con estrato).
+
+- n = 35 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/prados-del-este
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/cucuta/prados-del-este
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-prados-del-este-cucuta-octubre-2026.pdf`, `venta-casas-prados-del-este-cucuta-octubre-2026.csv`, `venta-casas-prados-del-este-cucuta-octubre-2026.png`.

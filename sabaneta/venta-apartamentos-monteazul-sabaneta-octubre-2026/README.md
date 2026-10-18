@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Monteazul, Sabaneta — octubre 2026
 
-Con 136 avisos vigentes, el precio mediano de apartamentos en venta en Monteazul, Sabaneta es COP 520 millones.
+En Monteazul, Sabaneta, la mediana de precio de venta de apartamentos es COP 520 millones, según 123 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 550 millones, la diferencia es de 5 % por debajo.
+Frente a la mediana de Sabaneta para apartamentos (COP 550 millones), queda 5 % por debajo.
 
-Con la mediana de arriendo del mismo barrio (COP 3.000.000 al mes), el arriendo anual equivale a 6,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 7,47 millones/m² (n = 122 avisos con área), 5 % por encima de Sabaneta (COP 7,12 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (68 avisos, mediana COP 580 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 40 %.
+Con el precio por m² de arriendo del mismo segmento (COP 43.160/m² al mes), la rentabilidad bruta implícita es 6,9 % anual (aproximación con medianas de ofertas distintas).
 
-85 % de los avisos incluye parqueadero, y su mediana (COP 540 millones) está 4 % por encima de la general.
+El área mediana anunciada es 70 m².
 
-Por mediana, es el puesto 17 de 31 barrios de Sabaneta con al menos 30 avisos de apartamentos en venta: en la franja media.
+El segmento con más oferta es el de 3 o más habitaciones (63 avisos, mediana COP 580 millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +32 %.
 
-El aviso más barato pide COP 215 millones y el más caro COP 950 millones.
+La administración mediana declarada es COP 364.083 al mes (n = 78).
 
-- n = 136 avisos vigentes · foto del 2026-10-18
+Por precio mediano es el puesto 19 de 30 barrios de Sabaneta con al menos 30 avisos de apartamentos en venta (COP): en la franja media.
+
+- n = 123 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/sabaneta/monteazul
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/sabaneta/monteazul
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-monteazul-sabaneta-octubre-2026.pdf`, `venta-apartamentos-monteazul-sabaneta-octubre-2026.csv`, `venta-apartamentos-monteazul-sabaneta-octubre-2026.png`.

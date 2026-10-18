@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2800000,152
-habitaciones,2,2500000,104
-habitaciones,3+,2800000,152
-barrio,mediana_barrio_todos_los_tamanos,2600000,258
-ciudad,mediana_ciudad,2800000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/la-estrella/la-aldea,
+seccion,metrica,valor,moneda,n
+precio,p25,2500000.0,COP,80
+precio,mediana,2700000.0,COP,80
+precio,p75,2900000.0,COP,80
+precio,minimo,1600000.0,COP,80
+precio,maximo,4000000.0,COP,80
+m2,mediana_precio_m2,38619.05,COP,80
+m2,area_mediana_m2,67.0,m2,80
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+estrato,estrato_mas_frecuente,4,,80
+habitaciones,3+,2700000.0,COP,80
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,38235.29,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-estrella/la-aldea,,
+fuente,licencia,CC BY 4.0,,

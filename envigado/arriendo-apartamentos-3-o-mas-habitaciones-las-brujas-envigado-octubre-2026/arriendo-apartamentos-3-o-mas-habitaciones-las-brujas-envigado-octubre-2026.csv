@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,6500000,85
-habitaciones,2,4500000,32
-habitaciones,3+,6500000,85
-barrio,mediana_barrio_todos_los_tamanos,5700000,120
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/las-brujas,
+seccion,metrica,valor,moneda,n
+precio,p25,5050000.0,COP,74
+precio,mediana,6450000.0,COP,74
+precio,p75,8425000.0,COP,74
+precio,minimo,3300000.0,COP,74
+precio,maximo,11500000.0,COP,74
+m2,mediana_precio_m2,48958.22,COP,74
+m2,area_mediana_m2,132.0,m2,74
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,98.6,%,73
+estrato,estrato_mas_frecuente,5,,74
+habitaciones,3+,6450000.0,COP,74
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/las-brujas,,
+fuente,licencia,CC BY 4.0,,

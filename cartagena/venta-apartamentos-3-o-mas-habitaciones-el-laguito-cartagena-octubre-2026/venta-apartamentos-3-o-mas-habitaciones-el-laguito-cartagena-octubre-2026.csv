@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,900000000,105
-habitaciones,1,450000000,130
-habitaciones,2,795000000,137
-habitaciones,3+,900000000,105
-barrio,mediana_barrio_todos_los_tamanos,750000000,376
-ciudad,mediana_ciudad,890000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,
+seccion,metrica,valor,moneda,n
+precio,p25,789925000.0,COP,86
+precio,mediana,900000000.0,COP,86
+precio,p75,1222500000.0,COP,86
+precio,minimo,450000000.0,COP,86
+precio,maximo,3500000000.0,COP,86
+m2,mediana_precio_m2,6825757.58,COP,84
+m2,area_mediana_m2,126.0,m2,84
+admin,mediana_admin_mes,1000000.0,COP,70
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,83.6,%,61
+estrato,estrato_mas_frecuente,6,,85
+habitaciones,3+,900000000.0,COP,86
+ciudad,mediana_ciudad_referencia,897500000.0,COP,
+ciudad,mediana_m2_ciudad,6736296.7,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,,
+fuente,licencia,CC BY 4.0,,

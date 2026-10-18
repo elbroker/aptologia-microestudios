@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3800000,104
-habitaciones,1,3800000,39
-habitaciones,2,3800000,104
-habitaciones,3+,5500000,111
-barrio,mediana_barrio_todos_los_tamanos,4500000,254
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/patio-bonito,
+seccion,metrica,valor,moneda,n
+precio,p25,3500000.0,COP,68
+precio,mediana,4100000.0,COP,68
+precio,p75,4725000.0,COP,68
+precio,minimo,2100000.0,COP,68
+precio,maximo,16000000.0,COP,68
+m2,mediana_precio_m2,52230.51,COP,68
+m2,area_mediana_m2,78.0,m2,68
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,68
+estrato,estrato_mas_frecuente,6,,68
+habitaciones,2,4100000.0,COP,68
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/patio-bonito,,
+fuente,licencia,CC BY 4.0,,

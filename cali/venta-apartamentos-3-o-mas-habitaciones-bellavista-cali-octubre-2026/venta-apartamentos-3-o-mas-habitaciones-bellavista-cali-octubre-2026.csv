@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,930000000,181
-habitaciones,1,385000000,16
-habitaciones,2,630000000,81
-habitaciones,3+,930000000,181
-barrio,mediana_barrio_todos_los_tamanos,800000000,279
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/bellavista,
+seccion,metrica,valor,moneda,n
+precio,p25,737000000.0,COP,151
+precio,mediana,934684000.0,COP,151
+precio,p75,1535000000.0,COP,151
+precio,minimo,280000000.0,COP,151
+precio,maximo,3890000000.0,COP,151
+m2,mediana_precio_m2,6000000.0,COP,149
+m2,area_mediana_m2,165.0,m2,149
+admin,mediana_admin_mes,1084500.0,COP,118
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,150
+estrato,estrato_mas_frecuente,6,,151
+habitaciones,3+,934684000.0,COP,151
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/bellavista,,
+fuente,licencia,CC BY 4.0,,

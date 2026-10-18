@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 1 habitación en Los Salados, El Retiro — octubre 2026
 
-En Los Salados, El Retiro, la mediana de canon mensual de apartamentos de 1 habitación es COP 4.500.000, según 73 avisos vigentes.
+En Los Salados, El Retiro, la mediana de canon mensual de apartamentos de 1 habitación es COP 4,50 millones, según 40 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 3.900.000, la diferencia es de 15 % por encima.
+Eso es 15 % por encima de la mediana de El Retiro para apartamentos de 1 habitación (COP 3,90 millones).
 
-Son 39 % de los 186 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 5.000.000 (−10 %).
+Por metro cuadrado, la mediana es COP 60.135/m² al mes (n = 40 avisos con área), 7 % por encima de El Retiro (COP 56.000/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 685 millones), el arriendo anual equivale a 7,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 30 % de los 134 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 5,20 millones (−13 %).
 
-En el mismo barrio, la mediana es COP 5.750.000 con 2 habitaciones (n = 100), COP 4.800.000 con 3 o más habitaciones (n = 13).
+Con el precio por m² de venta del mismo segmento (COP 11,01 millones/m²), la rentabilidad bruta implícita es 6,6 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 73 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 73 m².
+
+El estrato más frecuente es 5 (88 % de los avisos con estrato).
+
+La mitad central de los avisos va de COP 4,20 millones a COP 5,20 millones (razón 1,2), una dispersión baja.
+
+- n = 40 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/el-retiro/los-salados
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/el-retiro/los-salados
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-1-habitaciones-los-salados-el-retiro-octubre-2026.pdf`, `arriendo-apartamentos-1-habitaciones-los-salados-el-retiro-octubre-2026.csv`, `arriendo-apartamentos-1-habitaciones-los-salados-el-retiro-octubre-2026.png`.

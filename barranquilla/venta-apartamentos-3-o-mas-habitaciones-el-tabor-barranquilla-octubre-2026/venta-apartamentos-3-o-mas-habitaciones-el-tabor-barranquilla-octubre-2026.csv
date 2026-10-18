@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,430000000,103
-habitaciones,1,240000000,13
-habitaciones,2,350000000,21
-habitaciones,3+,430000000,103
-barrio,mediana_barrio_todos_los_tamanos,395000000,139
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-tabor,
+seccion,metrica,valor,moneda,n
+precio,p25,350000000.0,COP,73
+precio,mediana,410000000.0,COP,73
+precio,p75,460000000.0,COP,73
+precio,minimo,210000000.0,COP,73
+precio,maximo,1100000000.0,COP,73
+m2,mediana_precio_m2,3551912.57,COP,65
+m2,area_mediana_m2,110.0,m2,65
+admin,mediana_admin_mes,490000.0,COP,66
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,3+,410000000.0,COP,73
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-tabor,,
+fuente,licencia,CC BY 4.0,,

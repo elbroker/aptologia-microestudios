@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4525000,394
-habitaciones,1,3600000,8
-habitaciones,2,4300000,236
-habitaciones,3+,4525000,394
-barrio,mediana_barrio_todos_los_tamanos,4500000,640
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/cumbres,
+seccion,metrica,valor,moneda,n
+precio,p25,3950000.0,COP,290
+precio,mediana,4650000.0,COP,290
+precio,p75,5637500.0,COP,290
+precio,minimo,2450000.0,COP,290
+precio,maximo,15000000.0,COP,290
+m2,mediana_precio_m2,47814.14,COP,290
+m2,area_mediana_m2,98.0,m2,290
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.6,%,286
+estrato,estrato_mas_frecuente,5,,289
+habitaciones,3+,4650000.0,COP,290
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/cumbres,,
+fuente,licencia,CC BY 4.0,,

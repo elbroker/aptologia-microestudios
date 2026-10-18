@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,307955952,46
-habitaciones,2,202750000,48
-habitaciones,3+,307955952,46
-barrio,mediana_barrio_todos_los_tamanos,215000000,94
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/alameda,
+seccion,metrica,valor,moneda,n
+precio,p25,211250000.0,COP,42
+precio,mediana,310000000.0,COP,42
+precio,p75,360967500.0,COP,42
+precio,minimo,156000000.0,COP,42
+precio,maximo,420000000.0,COP,42
+m2,mediana_precio_m2,4567901.23,COP,41
+m2,area_mediana_m2,63.0,m2,41
+admin,mediana_admin_mes,263000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.8,%,31
+estrato,estrato_mas_frecuente,3,,35
+habitaciones,3+,310000000.0,COP,42
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/alameda,,
+fuente,licencia,CC BY 4.0,,

@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,590000000,173
-habitaciones,1,450000000,9
-habitaciones,2,530000000,146
-habitaciones,3+,590000000,173
-barrio,mediana_barrio_todos_los_tamanos,580000000,328
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-del-indio,
+seccion,metrica,valor,moneda,n
+precio,p25,470000000.0,COP,123
+precio,mediana,630000000.0,COP,123
+precio,p75,750000000.0,COP,123
+precio,minimo,320000000.0,COP,123
+precio,maximo,4000000000.0,COP,123
+m2,mediana_precio_m2,7599921.63,COP,120
+m2,area_mediana_m2,79.5,m2,120
+admin,mediana_admin_mes,450000.0,COP,96
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.1,%,118
+estrato,estrato_mas_frecuente,4,,115
+habitaciones,3+,630000000.0,COP,123
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

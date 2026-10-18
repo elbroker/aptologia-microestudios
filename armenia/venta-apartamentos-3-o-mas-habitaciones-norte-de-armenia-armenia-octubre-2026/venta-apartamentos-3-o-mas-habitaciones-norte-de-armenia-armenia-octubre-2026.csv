@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,517500000,40
-habitaciones,1,325000000,17
-habitaciones,2,350000000,25
-habitaciones,3+,517500000,40
-barrio,mediana_barrio_todos_los_tamanos,380000000,84
-ciudad,mediana_ciudad,420000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/armenia/norte-de-armenia,
+seccion,metrica,valor,moneda,n
+precio,p25,334250000.0,COP,40
+precio,mediana,517500000.0,COP,40
+precio,p75,657500000.0,COP,40
+precio,minimo,225000000.0,COP,40
+precio,maximo,2150000000.0,COP,40
+m2,mediana_precio_m2,5084745.76,COP,39
+m2,area_mediana_m2,90.5,m2,39
+admin,mediana_admin_mes,380000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,3+,517500000.0,COP,40
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4883720.93,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia/norte-de-armenia,,
+fuente,licencia,CC BY 4.0,,

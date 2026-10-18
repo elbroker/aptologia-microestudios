@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,700000000,85
-habitaciones,1,385000000,123
-habitaciones,2,700000000,85
-habitaciones,3+,980000000,553
-barrio,mediana_barrio_todos_los_tamanos,880000000,761
-ciudad,mediana_ciudad,280000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/pance,
+seccion,metrica,valor,moneda,n
+precio,p25,640000000.0,COP,60
+precio,mediana,700000000.0,COP,60
+precio,p75,827500000.0,COP,60
+precio,minimo,200000000.0,COP,60
+precio,maximo,1100000000.0,COP,60
+m2,mediana_precio_m2,8552380.95,COP,60
+m2,area_mediana_m2,80.0,m2,60
+admin,mediana_admin_mes,705000.0,COP,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,6,,59
+habitaciones,2,700000000.0,COP,60
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,4545454.55,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

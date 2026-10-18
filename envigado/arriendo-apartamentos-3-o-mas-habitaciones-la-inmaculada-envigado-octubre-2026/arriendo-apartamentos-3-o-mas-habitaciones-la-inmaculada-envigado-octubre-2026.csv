@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4500000,41
-habitaciones,2,4450000,12
-habitaciones,3+,4500000,41
-barrio,mediana_barrio_todos_los_tamanos,4500000,53
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/la-inmaculada,
+seccion,metrica,valor,moneda,n
+precio,p25,3325000.0,COP,34
+precio,mediana,4500000.0,COP,34
+precio,p75,5325000.0,COP,34
+precio,minimo,1111111.0,COP,34
+precio,maximo,11111111.0,COP,34
+m2,mediana_precio_m2,42452.83,COP,33
+m2,area_mediana_m2,101.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.5,%,32
+estrato,estrato_mas_frecuente,5,,34
+habitaciones,3+,4500000.0,COP,34
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/la-inmaculada,,
+fuente,licencia,CC BY 4.0,,

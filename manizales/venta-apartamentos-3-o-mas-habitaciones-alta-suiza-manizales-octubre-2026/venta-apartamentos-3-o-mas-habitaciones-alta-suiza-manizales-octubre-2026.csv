@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,497500000,60
-habitaciones,1,250000000,12
-habitaciones,2,350000000,23
-habitaciones,3+,497500000,60
-barrio,mediana_barrio_todos_los_tamanos,425000000,95
-ciudad,mediana_ciudad,495000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/manizales/alta-suiza,
+seccion,metrica,valor,moneda,n
+precio,p25,416250000.0,COP,46
+precio,mediana,497500000.0,COP,46
+precio,p75,573750000.0,COP,46
+precio,minimo,230000000.0,COP,46
+precio,maximo,870000000.0,COP,46
+m2,mediana_precio_m2,5648667.6,COP,46
+m2,area_mediana_m2,81.5,m2,46
+admin,mediana_admin_mes,250000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,3+,497500000.0,COP,46
+ciudad,mediana_ciudad_referencia,495000000.0,COP,
+ciudad,mediana_m2_ciudad,5355736.78,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/alta-suiza,,
+fuente,licencia,CC BY 4.0,,

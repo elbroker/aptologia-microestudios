@@ -1,23 +1,25 @@
 # Precio de venta de apartamentos en Llanogrande, Rionegro — octubre 2026
 
-COP 870 millones es el precio mediano de apartamentos en venta en Llanogrande, Rionegro (n = 81 avisos).
+Con 64 avisos vigentes, el precio mediano de apartamentos en venta en Llanogrande, Rionegro es COP 1,10 mil millones.
 
-Comparado con la mediana de la ciudad, COP 520 millones, la diferencia es de 67 % por encima.
+Eso es 112 % por encima de la mediana de Rionegro para apartamentos (COP 520 millones).
 
-Por mediana, es el puesto 2 de 19 barrios de Rionegro con al menos 30 avisos de apartamentos en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 11,11 millones/m² (n = 58 avisos con área), 49 % por encima de Rionegro (COP 7,44 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 5.500.000 al mes), el arriendo anual equivale a 7,6 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 2 de 18 barrios de Rionegro con al menos 30 avisos de apartamentos en venta (COP): entre las más caras.
 
-El segmento con más oferta es el de 1 habitación (32 avisos, mediana COP 645 millones); pasar de 1 habitación a 3 o más habitaciones sube la mediana 285 %.
+Con el precio por m² de arriendo del mismo segmento (COP 70.482/m² al mes), la rentabilidad bruta implícita es 7,6 % anual (aproximación con medianas de ofertas distintas).
 
-La dispersión es alta: el cuartil superior (COP 1,38 mil millones) es 2,1 veces el inferior (COP 650 millones).
+El área mediana anunciada es 97 m².
 
-89 % de los avisos incluye parqueadero, y su mediana (COP 1,05 mil millones) está 21 % por encima de la general.
+El segmento con más oferta es el de 2 habitaciones (26 avisos, mediana COP 1,23 mil millones); pasar de 1 habitación a 3 o más habitaciones cambia la mediana +260 %.
 
-- n = 81 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 837.500 al mes (n = 34).
+
+- n = 64 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/venta/rionegro/llanogrande
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/rionegro/llanogrande
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-apartamentos-llanogrande-rionegro-octubre-2026.pdf`, `venta-apartamentos-llanogrande-rionegro-octubre-2026.csv`, `venta-apartamentos-llanogrande-rionegro-octubre-2026.png`.

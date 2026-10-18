@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,360000000,52
-habitaciones,2,395000000,57
-habitaciones,3+,360000000,52
-barrio,mediana_barrio_todos_los_tamanos,380000000,115
-ciudad,mediana_ciudad,540000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/rionegro/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,303750000.0,COP,48
+precio,mediana,360000000.0,COP,48
+precio,p75,642500000.0,COP,48
+precio,minimo,240000000.0,COP,48
+precio,maximo,900000000.0,COP,48
+m2,mediana_precio_m2,6044897.96,COP,48
+m2,area_mediana_m2,69.5,m2,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.5,%,31
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,360000000.0,COP,48
+ciudad,mediana_ciudad_referencia,540000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/centro,,
+fuente,licencia,CC BY 4.0,,

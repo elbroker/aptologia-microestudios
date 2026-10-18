@@ -1,9 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,380000000,47
-habitaciones,1,210000000,9
-habitaciones,2,322500000,14
-habitaciones,3+,380000000,47
-barrio,mediana_barrio_todos_los_tamanos,360000000,70
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/prado,
+seccion,metrica,valor,moneda,n
+precio,p25,335000000.0,COP,39
+precio,mediana,380000000.0,COP,39
+precio,p75,462500000.0,COP,39
+precio,minimo,240000000.0,COP,39
+precio,maximo,980000000.0,COP,39
+m2,mediana_precio_m2,4200000.0,COP,35
+m2,area_mediana_m2,122.0,m2,35
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,3+,380000000.0,COP,39
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/prado,,
+fuente,licencia,CC BY 4.0,,

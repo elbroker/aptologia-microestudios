@@ -1,7 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1300000,35
-habitaciones,2,1300000,35
-barrio,mediana_barrio_todos_los_tamanos,1300000,43
-ciudad,mediana_ciudad,1200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/jamundi/parque-natura,
+seccion,metrica,valor,moneda,n
+precio,p25,1100000.0,COP,33
+precio,mediana,1300000.0,COP,33
+precio,p75,1400000.0,COP,33
+precio,minimo,870000.0,COP,33
+precio,maximo,1800000.0,COP,33
+m2,mediana_precio_m2,21810.17,COP,32
+m2,area_mediana_m2,58.0,m2,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,1300000.0,COP,33
+ciudad,mediana_ciudad_referencia,1220000.0,COP,
+ciudad,mediana_m2_ciudad,21311.48,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/jamundi/parque-natura,,
+fuente,licencia,CC BY 4.0,,

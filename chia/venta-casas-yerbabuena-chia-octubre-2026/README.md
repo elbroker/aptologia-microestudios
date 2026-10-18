@@ -1,23 +1,25 @@
 # Precio de venta de casas en Yerbabuena, Chía — octubre 2026
 
-Con 204 avisos vigentes, el precio mediano de casas en venta en Yerbabuena, Chía es COP 2,50 mil millones.
+Con 199 avisos vigentes, el precio mediano de casas en venta en Yerbabuena, Chía es COP 2,50 mil millones.
 
-Eso la ubica 127 % por encima de la mediana de Chía para casas (COP 1,10 mil millones).
+Eso es 127 % por encima de la mediana de Chía para casas (COP 1,10 mil millones).
 
-Por mediana, es el puesto 2 de 23 barrios de Chía con al menos 30 avisos de casas en venta: entre los más caros.
+Por metro cuadrado, la mediana es COP 6,01 millones/m² (n = 181 avisos con área), 19 % por encima de Chía (COP 5,06 millones/m²).
 
-Con la mediana de arriendo del mismo barrio (COP 11.500.000 al mes), el arriendo anual equivale a 5,5 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por precio mediano es el puesto 4 de 21 barrios de Chía con al menos 30 avisos de casas en venta (COP): entre las más caras.
 
-El segmento con más oferta es el de 3 o más habitaciones (200 avisos, mediana COP 2,50 mil millones).
+Con el precio por m² de arriendo del mismo segmento (COP 27.026/m² al mes), la rentabilidad bruta implícita es 5,4 % anual (aproximación con medianas de ofertas distintas).
 
-96 % de los avisos incluye parqueadero.
+El área mediana anunciada es 420 m².
 
-La mitad central de los avisos va de COP 1,81 mil millones a COP 3,20 mil millones (razón 1,8), una dispersión moderada.
+El segmento con más oferta es el de 3 o más habitaciones (195 avisos, mediana COP 2,50 mil millones).
 
-- n = 204 avisos vigentes · foto del 2026-10-17
+La administración mediana declarada es COP 1,20 millones al mes (n = 146).
+
+- n = 199 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/chia/yerbabuena
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/chia/yerbabuena
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-yerbabuena-chia-octubre-2026.pdf`, `venta-casas-yerbabuena-chia-octubre-2026.csv`, `venta-casas-yerbabuena-chia-octubre-2026.png`.

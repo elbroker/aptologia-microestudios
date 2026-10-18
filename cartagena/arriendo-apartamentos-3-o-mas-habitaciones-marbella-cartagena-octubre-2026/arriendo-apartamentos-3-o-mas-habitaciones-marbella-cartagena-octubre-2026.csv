@@ -1,9 +1,16 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4500000,36
-habitaciones,1,2500000,20
-habitaciones,2,3800000,58
-habitaciones,3+,4500000,36
-barrio,mediana_barrio_todos_los_tamanos,3770500,114
-ciudad,mediana_ciudad,4800000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/marbella,
+seccion,metrica,valor,moneda,n
+precio,p25,3800000.0,COP,31
+precio,mediana,4500000.0,COP,31
+precio,p75,5000000.0,COP,31
+precio,minimo,2400000.0,COP,31
+precio,maximo,7700000.0,COP,31
+m2,mediana_precio_m2,34793.1,COP,31
+m2,area_mediana_m2,122.0,m2,31
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,5,,31
+habitaciones,3+,4500000.0,COP,31
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,40425.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/marbella,,
+fuente,licencia,CC BY 4.0,,

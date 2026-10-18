@@ -1,6 +1,6 @@
 # Microestudios de vivienda por barrio — Piedecuesta (octubre 2026)
 
-4 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Piedecuesta, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
+5 microestudios abiertos de Aptología (aptologia.com) sobre precios de oferta de arriendo y venta de vivienda en Piedecuesta, uno por barrio y tipo de inmueble, cada uno con al menos 30 avisos únicos (deduplicados entre portales). Cada carpeta trae un PDF de 2 páginas, un CSV con las cifras y una gráfica PNG.
 
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
@@ -16,7 +16,8 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Barroblanco, Piedecuesta — octubre 2026](venta-apartamentos-barroblanco-piedecuesta-octubre-2026/) | 49 | COP 180.000.000 |  |
+| [Precio de venta de apartamentos en Barroblanco, Piedecuesta — octubre 2026](venta-apartamentos-barroblanco-piedecuesta-octubre-2026/) | 36 | COP 180.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Barroblanco, Piedecuesta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-barroblanco-piedecuesta-octubre-2026/) | 41 | COP 180.000.000 |  |
 | [Precio de venta de casas en Ruitoque, Piedecuesta — octubre 2026](venta-casas-ruitoque-piedecuesta-octubre-2026/) | 36 | COP 1.650.000.000 |  |
 | [Precio de venta de casas en Mesa de los Santos, Piedecuesta — octubre 2026](venta-casas-mesa-de-los-santos-piedecuesta-octubre-2026/) | 32 | COP 885.000.000 |  |
+| [Precio de venta de casas en Campo Verde, Piedecuesta — octubre 2026](venta-casas-campo-verde-piedecuesta-octubre-2026/) | 35 | COP 1.100.000.000 |  |

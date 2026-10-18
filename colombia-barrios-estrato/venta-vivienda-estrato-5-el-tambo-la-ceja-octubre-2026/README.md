@@ -1,0 +1,21 @@
+# Precio de venta de vivienda en estrato 5 en El Tambo, La Ceja — octubre 2026
+
+En El Tambo, La Ceja, la mediana de precio de venta de vivienda en estrato 5 es COP 990 millones, según 31 avisos vigentes.
+
+Por metro cuadrado, la mediana es COP 5,85 millones/m² (n = 30 avisos con área).
+
+La mitad central de los avisos va de COP 625 millones a COP 1,93 mil millones (razón 3,1), una dispersión alta.
+
+Incluye todos los tipos de vivienda de estrato 5 del barrio; la mediana de apartamentos del barrio, sin filtrar por estrato, es COP 450 millones.
+
+El área mediana anunciada es 188 m².
+
+El segmento con más oferta es el de 3 o más habitaciones (26 avisos, mediana COP 1,04 mil millones).
+
+- n = 31 avisos vigentes · datos del 2026-10-18 · moneda COP
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/venta/la-ceja/el-tambo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `venta-vivienda-estrato-5-el-tambo-la-ceja-octubre-2026.pdf`, `venta-vivienda-estrato-5-el-tambo-la-ceja-octubre-2026.csv`, `venta-vivienda-estrato-5-el-tambo-la-ceja-octubre-2026.png`.

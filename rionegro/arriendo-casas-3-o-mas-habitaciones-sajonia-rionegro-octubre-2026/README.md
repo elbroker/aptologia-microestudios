@@ -1,19 +1,25 @@
 # Precio de arriendo de casas de 3 o más habitaciones en Sajonia, Rionegro — octubre 2026
 
-COP 14.600.000 al mes es el canon mediano de casas de 3 o más habitaciones en arriendo en Sajonia, Rionegro (n = 49 avisos).
+COP 14,60 millones al mes es el canon mediano de casas de 3 o más habitaciones en arriendo en Sajonia, Rionegro (n = 41 avisos).
 
-Frente al total de Rionegro (COP 11.500.000), el barrio está 27 % por encima.
+Eso es 33 % por encima de la mediana de Rionegro para casas de 3 o más habitaciones (COP 11 millones).
 
-Son 78 % de los 63 avisos de casas en arriendo del barrio, cuya mediana general es COP 12 millones (+22 %).
+Por metro cuadrado, la mediana es COP 45.783/m² al mes (n = 36 avisos con área), 26 % por encima de Rionegro (COP 36.364/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 2,65 mil millones), el arriendo anual equivale a 6,6 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 80 % de los 51 avisos de casas en arriendo de la zona, cuya mediana general es COP 13 millones (+12 %).
 
-En el mismo barrio, la mediana es COP 11 millones con 2 habitaciones (n = 11).
+Con el precio por m² de venta del mismo segmento (COP 8,07 millones/m²), la rentabilidad bruta implícita es 6,8 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 49 avisos vigentes · foto del 2026-10-17
+El área mediana anunciada es 328 m².
+
+La mitad central de los avisos va de COP 8,50 millones a COP 16,50 millones (razón 1,9), una dispersión moderada.
+
+El estrato más frecuente es 5 (48 % de los avisos con estrato).
+
+- n = 41 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/rionegro/sajonia
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-17: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/rionegro/sajonia
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-casas-3-o-mas-habitaciones-sajonia-rionegro-octubre-2026.pdf`, `arriendo-casas-3-o-mas-habitaciones-sajonia-rionegro-octubre-2026.csv`, `arriendo-casas-3-o-mas-habitaciones-sajonia-rionegro-octubre-2026.png`.

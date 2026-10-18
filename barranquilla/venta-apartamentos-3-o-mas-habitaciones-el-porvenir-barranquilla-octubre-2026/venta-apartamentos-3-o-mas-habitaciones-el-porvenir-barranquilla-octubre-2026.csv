@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,390000000,72
-habitaciones,1,177500000,10
-habitaciones,2,270000000,25
-habitaciones,3+,390000000,72
-barrio,mediana_barrio_todos_los_tamanos,360000000,107
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-porvenir,
+seccion,metrica,valor,moneda,n
+precio,p25,340000000.0,COP,61
+precio,mediana,390000000.0,COP,61
+precio,p75,450000000.0,COP,61
+precio,minimo,269000000.0,COP,61
+precio,maximo,3500000000.0,COP,61
+m2,mediana_precio_m2,3559259.26,COP,56
+m2,area_mediana_m2,108.0,m2,56
+admin,mediana_admin_mes,490000.0,COP,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.5,%,55
+estrato,estrato_mas_frecuente,4,,60
+habitaciones,3+,390000000.0,COP,61
+ciudad,mediana_ciudad_referencia,510000000.0,COP,
+ciudad,mediana_m2_ciudad,4380952.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

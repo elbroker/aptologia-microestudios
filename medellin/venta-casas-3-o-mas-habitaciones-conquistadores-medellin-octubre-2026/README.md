@@ -1,17 +1,25 @@
 # Precio de venta de casas de 3 o más habitaciones en Conquistadores, Medellín — octubre 2026
 
-Con 37 avisos vigentes, el precio mediano de casas de 3 o más habitaciones en venta en Conquistadores, Medellín es COP 1,89 mil millones.
+Con 32 avisos vigentes, el precio mediano de casas de 3 o más habitaciones en venta en Conquistadores, Medellín es COP 1,89 mil millones.
 
-Eso la ubica 45 % por encima de la mediana de Medellín para casas de 3 o más habitaciones (COP 1,30 mil millones).
+Frente a la mediana de Medellín para casas de 3 o más habitaciones (COP 1,40 mil millones), queda 35 % por encima.
 
-Son 84 % de los 44 avisos de casas en venta del barrio, cuya mediana general es COP 1,84 mil millones (+2 %).
+Por metro cuadrado, la mediana es COP 5,79 millones/m² (n = 32 avisos con área), 5 % por encima de Medellín (COP 5,53 millones/m²).
 
-Con la mediana de arriendo del mismo barrio y tamaño (COP 11 millones al mes), el arriendo anual equivale a 7,0 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 82 % de los 39 avisos de casas en venta de la zona, cuya mediana general es COP 1,89 mil millones (+0 %).
 
-- n = 37 avisos vigentes · foto del 2026-10-18
+Con el precio por m² de arriendo del mismo segmento (COP 34.086/m² al mes), la rentabilidad bruta implícita es 7,1 % anual (aproximación con medianas de ofertas distintas).
+
+El área mediana anunciada es 250 m².
+
+La mitad central de los avisos va de COP 938 millones a COP 2,12 mil millones (razón 2,3), una dispersión alta.
+
+El estrato más frecuente es 5 (90 % de los avisos con estrato).
+
+- n = 32 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/conquistadores
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/conquistadores
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-3-o-mas-habitaciones-conquistadores-medellin-octubre-2026.pdf`, `venta-casas-3-o-mas-habitaciones-conquistadores-medellin-octubre-2026.csv`, `venta-casas-3-o-mas-habitaciones-conquistadores-medellin-octubre-2026.png`.

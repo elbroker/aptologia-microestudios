@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,350000000,44
-habitaciones,2,350000000,44
-habitaciones,3+,420000000,96
-barrio,mediana_barrio_todos_los_tamanos,370000000,146
-ciudad,mediana_ciudad,330000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/centro,
+seccion,metrica,valor,moneda,n
+precio,p25,300000000.0,COP,39
+precio,mediana,349000000.0,COP,39
+precio,p75,359900000.0,COP,39
+precio,minimo,180000000.0,COP,39
+precio,maximo,730000000.0,COP,39
+m2,mediana_precio_m2,5397435.9,COP,38
+m2,area_mediana_m2,58.0,m2,38
+admin,mediana_admin_mes,247000.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,2,349000000.0,COP,39
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,5749907.51,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/centro,,
+fuente,licencia,CC BY 4.0,,

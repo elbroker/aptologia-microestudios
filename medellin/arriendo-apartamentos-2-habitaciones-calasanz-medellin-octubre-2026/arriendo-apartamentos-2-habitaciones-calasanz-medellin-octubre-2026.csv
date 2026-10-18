@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,2400000,207
-habitaciones,1,1950000,64
-habitaciones,2,2400000,207
-habitaciones,3+,3200000,262
-barrio,mediana_barrio_todos_los_tamanos,2600000,537
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,
+seccion,metrica,valor,moneda,n
+precio,p25,2000000.0,COP,126
+precio,mediana,2425000.0,COP,126
+precio,p75,2700000.0,COP,126
+precio,minimo,1000000.0,COP,126
+precio,maximo,3800000.0,COP,126
+m2,mediana_precio_m2,41017.64,COP,126
+m2,area_mediana_m2,58.0,m2,126
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,51.4,%,111
+estrato,estrato_mas_frecuente,4,,126
+habitaciones,2,2425000.0,COP,126
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

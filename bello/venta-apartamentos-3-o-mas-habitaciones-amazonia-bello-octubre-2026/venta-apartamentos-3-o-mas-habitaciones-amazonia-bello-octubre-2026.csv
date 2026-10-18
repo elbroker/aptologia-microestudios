@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,390000000,65
-habitaciones,2,299000000,24
-habitaciones,3+,390000000,65
-barrio,mediana_barrio_todos_los_tamanos,390000000,90
-ciudad,mediana_ciudad,350000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/bello/amazonia,
+seccion,metrica,valor,moneda,n
+precio,p25,365750000.0,COP,54
+precio,mediana,397500000.0,COP,54
+precio,p75,430000000.0,COP,54
+precio,minimo,270000000.0,COP,54
+precio,maximo,1030000000.0,COP,54
+m2,mediana_precio_m2,6407361.8,COP,54
+m2,area_mediana_m2,61.8,m2,54
+admin,mediana_admin_mes,300000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.4,%,54
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,3+,397500000.0,COP,54
+ciudad,mediana_ciudad_referencia,350000000.0,COP,
+ciudad,mediana_m2_ciudad,5365853.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/amazonia,,
+fuente,licencia,CC BY 4.0,,

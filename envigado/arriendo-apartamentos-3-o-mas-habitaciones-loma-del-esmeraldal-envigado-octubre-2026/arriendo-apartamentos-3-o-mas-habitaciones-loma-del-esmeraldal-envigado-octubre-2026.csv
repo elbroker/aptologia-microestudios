@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,5100000,241
-habitaciones,1,3600000,19
-habitaciones,2,4300000,348
-habitaciones,3+,5100000,241
-barrio,mediana_barrio_todos_los_tamanos,4500000,608
-ciudad,mediana_ciudad,4500000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-esmeraldal,
+seccion,metrica,valor,moneda,n
+precio,p25,4300000.0,COP,198
+precio,mediana,5025000.0,COP,198
+precio,p75,6500000.0,COP,198
+precio,minimo,1500000.0,COP,198
+precio,maximo,20000000.0,COP,198
+m2,mediana_precio_m2,50000.0,COP,198
+m2,area_mediana_m2,100.0,m2,198
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.5,%,192
+estrato,estrato_mas_frecuente,5,,195
+habitaciones,3+,5025000.0,COP,198
+ciudad,mediana_ciudad_referencia,4550000.0,COP,
+ciudad,mediana_m2_ciudad,46195.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

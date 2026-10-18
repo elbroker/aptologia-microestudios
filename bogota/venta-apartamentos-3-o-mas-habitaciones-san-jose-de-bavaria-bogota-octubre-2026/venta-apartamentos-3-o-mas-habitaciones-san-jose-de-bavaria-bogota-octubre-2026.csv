@@ -1,8 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1200000000,65
-habitaciones,2,400000000,64
-habitaciones,3+,1200000000,65
-barrio,mediana_barrio_todos_los_tamanos,665000000,133
-ciudad,mediana_ciudad,960000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/bogota/san-jose-de-bavaria,
+seccion,metrica,valor,moneda,n
+precio,p25,683500000.0,COP,30
+precio,mediana,1150000000.0,COP,30
+precio,p75,1300000000.0,COP,30
+precio,minimo,335000000.0,COP,30
+precio,maximo,3400000000.0,COP,30
+m2,mediana_precio_m2,8439840.44,COP,30
+m2,area_mediana_m2,134.1,m2,30
+admin,mediana_admin_mes,800000.0,COP,27
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,1150000000.0,COP,30
+ciudad,mediana_ciudad_referencia,980000000.0,COP,
+ciudad,mediana_m2_ciudad,6902380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/san-jose-de-bavaria,,
+fuente,licencia,CC BY 4.0,,

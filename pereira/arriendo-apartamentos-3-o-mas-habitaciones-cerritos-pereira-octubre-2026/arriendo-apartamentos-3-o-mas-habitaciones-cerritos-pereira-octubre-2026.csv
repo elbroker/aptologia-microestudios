@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4580000,115
-habitaciones,1,2600000,15
-habitaciones,2,3700000,97
-habitaciones,3+,4580000,115
-barrio,mediana_barrio_todos_los_tamanos,4000000,228
-ciudad,mediana_ciudad,3200000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/arriendo/pereira/cerritos,
+seccion,metrica,valor,moneda,n
+precio,p25,3713750.0,COP,88
+precio,mediana,4615000.0,COP,88
+precio,p75,5525000.0,COP,88
+precio,minimo,1550000.0,COP,88
+precio,maximo,13000000.0,COP,88
+m2,mediana_precio_m2,40880.6,COP,88
+m2,area_mediana_m2,111.0,m2,88
+admin,mediana_admin_mes,543000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+estrato,estrato_mas_frecuente,6,,88
+habitaciones,3+,4615000.0,COP,88
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,31460.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,455000000,73
-habitaciones,2,382500000,20
-habitaciones,3+,455000000,73
-barrio,mediana_barrio_todos_los_tamanos,440000000,97
-ciudad,mediana_ciudad,450000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cajica/la-estacion,
+seccion,metrica,valor,moneda,n
+precio,p25,339000000.0,COP,65
+precio,mediana,450000000.0,COP,65
+precio,p75,550000000.0,COP,65
+precio,minimo,240000000.0,COP,65
+precio,maximo,815000000.0,COP,65
+m2,mediana_precio_m2,5378236.25,COP,64
+m2,area_mediana_m2,84.0,m2,64
+admin,mediana_admin_mes,350300.0,COP,55
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.3,%,54
+estrato,estrato_mas_frecuente,4,,64
+habitaciones,3+,450000000.0,COP,65
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5606060.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/la-estacion,,
+fuente,licencia,CC BY 4.0,,

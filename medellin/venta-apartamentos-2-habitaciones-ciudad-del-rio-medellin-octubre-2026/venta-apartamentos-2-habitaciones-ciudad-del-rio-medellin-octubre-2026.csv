@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,865000000,150
-habitaciones,1,620000000,102
-habitaciones,2,865000000,150
-habitaciones,3+,940000000,174
-barrio,mediana_barrio_todos_los_tamanos,830000000,427
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/ciudad-del-rio,
+seccion,metrica,valor,moneda,n
+precio,p25,769000000.0,COP,99
+precio,mediana,820000000.0,COP,99
+precio,p75,947500000.0,COP,99
+precio,minimo,465748332.0,COP,99
+precio,maximo,1300000000.0,COP,99
+m2,mediana_precio_m2,10923076.92,COP,99
+m2,area_mediana_m2,78.0,m2,99
+admin,mediana_admin_mes,474000.0,COP,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.0,%,99
+estrato,estrato_mas_frecuente,5,,94
+habitaciones,2,820000000.0,COP,99
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

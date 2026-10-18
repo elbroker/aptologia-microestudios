@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,3400000,609
-habitaciones,1,2500000,556
-habitaciones,2,3400000,609
-habitaciones,3+,4600000,1777
-barrio,mediana_barrio_todos_los_tamanos,4000000,2967
-ciudad,mediana_ciudad,4300000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,
+seccion,metrica,valor,moneda,n
+precio,p25,2800000.0,COP,418
+precio,mediana,3350000.0,COP,418
+precio,p75,4300000.0,COP,418
+precio,minimo,1300000.0,COP,418
+precio,maximo,11111111.0,COP,418
+m2,mediana_precio_m2,44827.59,COP,417
+m2,area_mediana_m2,75.5,m2,417
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,82.3,%,362
+estrato,estrato_mas_frecuente,5,,418
+habitaciones,2,3350000.0,COP,418
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,52857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

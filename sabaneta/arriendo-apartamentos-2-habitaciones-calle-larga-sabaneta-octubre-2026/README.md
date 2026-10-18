@@ -1,19 +1,25 @@
 # Precio de arriendo de apartamentos de 2 habitaciones en Calle Larga, Sabaneta — octubre 2026
 
-Con 71 avisos vigentes, el canon mediano de apartamentos de 2 habitaciones en arriendo en Calle Larga, Sabaneta es COP 2.550.000 al mes.
+En Calle Larga, Sabaneta, la mediana de canon mensual de apartamentos de 2 habitaciones es COP 2,60 millones, según 45 avisos vigentes.
 
-Comparado con la mediana de la ciudad, COP 2.850.000, la diferencia es de 11 % por debajo.
+Frente a la mediana de Sabaneta para apartamentos de 2 habitaciones (COP 2,90 millones), queda 10 % por debajo.
 
-Son 41 % de los 173 avisos de apartamentos en arriendo del barrio, cuya mediana general es COP 2.600.000 (−2 %).
+Por metro cuadrado, la mediana es COP 43.388/m² al mes (n = 44 avisos con área), 4 % por encima de Sabaneta (COP 41.818/m²).
 
-Con la mediana de venta del mismo barrio y tamaño (COP 430 millones), el arriendo anual equivale a 7,1 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Son 44 % de los 103 avisos de apartamentos en arriendo de la zona, cuya mediana general es COP 2,70 millones (−4 %).
 
-En el mismo barrio, la mediana es COP 2.100.000 con 1 habitación (n = 18), COP 2.800.000 con 3 o más habitaciones (n = 84).
+Con el precio por m² de venta del mismo segmento (COP 7,54 millones/m²), la rentabilidad bruta implícita es 6,9 % anual (aproximación con medianas de ofertas distintas).
 
-- n = 71 avisos vigentes · foto del 2026-10-18
+El área mediana anunciada es 60 m².
+
+El estrato más frecuente es 4 (73 % de los avisos con estrato).
+
+76 % de los avisos con el dato declara parqueadero o cochera.
+
+- n = 45 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/arriendo/sabaneta/calle-larga
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/sabaneta/calle-larga
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `arriendo-apartamentos-2-habitaciones-calle-larga-sabaneta-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-calle-larga-sabaneta-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-calle-larga-sabaneta-octubre-2026.png`.

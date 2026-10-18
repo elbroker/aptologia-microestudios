@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,590000000,304
-habitaciones,2,530000000,177
-habitaciones,3+,590000000,304
-barrio,mediana_barrio_todos_los_tamanos,570000000,484
-ciudad,mediana_ciudad,580000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/sabaneta/san-jose,
+seccion,metrica,valor,moneda,n
+precio,p25,454500000.0,COP,212
+precio,mediana,592500000.0,COP,212
+precio,p75,670000000.0,COP,212
+precio,minimo,230000000.0,COP,212
+precio,maximo,960000000.0,COP,212
+m2,mediana_precio_m2,6861309.73,COP,212
+m2,area_mediana_m2,84.0,m2,212
+admin,mediana_admin_mes,391000.0,COP,140
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.1,%,202
+estrato,estrato_mas_frecuente,4,,211
+habitaciones,3+,592500000.0,COP,212
+ciudad,mediana_ciudad_referencia,580000000.0,COP,
+ciudad,mediana_m2_ciudad,6954661.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/san-jose,,
+fuente,licencia,CC BY 4.0,,

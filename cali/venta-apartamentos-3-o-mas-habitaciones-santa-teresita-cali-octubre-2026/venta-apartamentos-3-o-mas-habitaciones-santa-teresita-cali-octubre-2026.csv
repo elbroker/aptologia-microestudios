@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1000000000,399
-habitaciones,1,595000000,41
-habitaciones,2,845000000,80
-habitaciones,3+,1000000000,399
-barrio,mediana_barrio_todos_los_tamanos,920000000,520
-ciudad,mediana_ciudad,490000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/cali/santa-teresita,
+seccion,metrica,valor,moneda,n
+precio,p25,800000000.0,COP,282
+precio,mediana,1000000000.0,COP,282
+precio,p75,1500000000.0,COP,282
+precio,minimo,235000000.0,COP,282
+precio,maximo,3000000000.0,COP,282
+m2,mediana_precio_m2,5000000.0,COP,282
+m2,area_mediana_m2,204.0,m2,282
+admin,mediana_admin_mes,1439000.0,COP,238
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.9,%,282
+estrato,estrato_mas_frecuente,6,,282
+habitaciones,3+,1000000000.0,COP,282
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,4642857.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/santa-teresita,,
+fuente,licencia,CC BY 4.0,,

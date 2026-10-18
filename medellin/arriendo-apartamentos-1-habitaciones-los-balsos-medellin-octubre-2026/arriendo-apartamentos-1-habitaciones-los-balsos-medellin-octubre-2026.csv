@@ -1,9 +1,17 @@
-seccion,metrica,valor_cop,n
-precio,mediana,4200000,91
-habitaciones,1,4200000,91
-habitaciones,2,6000000,188
-habitaciones,3+,7300000,430
-barrio,mediana_barrio_todos_los_tamanos,6500000,709
-ciudad,mediana_ciudad,3500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-balsos,
+seccion,metrica,valor,moneda,n
+precio,p25,4000000.0,COP,35
+precio,mediana,4500000.0,COP,35
+precio,p75,5100000.0,COP,35
+precio,minimo,2800000.0,COP,35
+precio,maximo,10500000.0,COP,35
+m2,mediana_precio_m2,65910.24,COP,34
+m2,area_mediana_m2,67.0,m2,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,1,4500000.0,COP,35
+ciudad,mediana_ciudad_referencia,3850000.0,COP,
+ciudad,mediana_m2_ciudad,65599.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

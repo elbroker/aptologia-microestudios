@@ -1,8 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1300000000,107
-habitaciones,2,855000000,18
-habitaciones,3+,1300000000,107
-barrio,mediana_barrio_todos_los_tamanos,1252500000,126
-ciudad,mediana_ciudad,850000000,
-fuente,fecha_foto,2026-10-17,
-fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-benedictinos,
+seccion,metrica,valor,moneda,n
+precio,p25,942500000.0,COP,94
+precio,mediana,1290000000.0,COP,94
+precio,p75,1542500000.0,COP,94
+precio,minimo,490000000.0,COP,94
+precio,maximo,2890000000.0,COP,94
+m2,mediana_precio_m2,8408367.11,COP,94
+m2,area_mediana_m2,154.0,m2,94
+admin,mediana_admin_mes,750000.0,COP,49
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+estrato,estrato_mas_frecuente,5,,90
+habitaciones,3+,1290000000.0,COP,94
+ciudad,mediana_ciudad_referencia,850000000.0,COP,
+ciudad,mediana_m2_ciudad,8101265.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-benedictinos,,
+fuente,licencia,CC BY 4.0,,

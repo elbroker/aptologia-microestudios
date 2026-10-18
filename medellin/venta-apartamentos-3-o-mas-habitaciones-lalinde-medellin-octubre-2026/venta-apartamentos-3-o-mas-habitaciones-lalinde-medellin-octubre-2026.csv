@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,1447500000,54
-habitaciones,1,717500000,22
-habitaciones,2,1240000000,60
-habitaciones,3+,1447500000,54
-barrio,mediana_barrio_todos_los_tamanos,1298000000,136
-ciudad,mediana_ciudad,900000000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/lalinde,
+seccion,metrica,valor,moneda,n
+precio,p25,1275000000.0,COP,39
+precio,mediana,1450000000.0,COP,39
+precio,p75,1700000000.0,COP,39
+precio,minimo,630000000.0,COP,39
+precio,maximo,3912510000.0,COP,39
+m2,mediana_precio_m2,9177215.19,COP,37
+m2,area_mediana_m2,144.0,m2,37
+admin,mediana_admin_mes,900000.0,COP,23
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,3+,1450000000.0,COP,39
+ciudad,mediana_ciudad_referencia,890000000.0,COP,
+ciudad,mediana_m2_ciudad,7058823.53,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

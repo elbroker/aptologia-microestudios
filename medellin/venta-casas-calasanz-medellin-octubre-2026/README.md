@@ -1,23 +1,25 @@
 # Precio de venta de casas en Calasanz, Medellín — octubre 2026
 
-En Calasanz, Medellín, la mediana de precio de venta de casas es COP 780 millones, según 105 avisos vigentes.
+Con 85 avisos vigentes, el precio mediano de casas en venta en Calasanz, Medellín es COP 850 millones.
 
-Comparado con la mediana de la ciudad, COP 1,30 mil millones, la diferencia es de 40 % por debajo.
+Frente a la mediana de Medellín para casas (COP 1,39 mil millones), queda 39 % por debajo.
 
-Con la mediana de arriendo del mismo barrio (COP 5.800.000 al mes), el arriendo anual equivale a 8,9 % del precio de venta: una aproximación gruesa a la rentabilidad bruta, porque compara medianas de ofertas distintas.
+Por metro cuadrado, la mediana es COP 4,57 millones/m² (n = 84 avisos con área), 17 % por debajo de Medellín (COP 5,53 millones/m²).
 
-El segmento con más oferta es el de 3 o más habitaciones (102 avisos, mediana COP 780 millones).
+Con el precio por m² de arriendo del mismo segmento (COP 28.889/m² al mes), la rentabilidad bruta implícita es 7,6 % anual (aproximación con medianas de ofertas distintas).
 
-Por mediana, es el puesto 32 de 46 barrios de Medellín con al menos 30 avisos de casas en venta: en la franja media.
+El área mediana anunciada es 196 m².
 
-69 % de los avisos incluye parqueadero, y su mediana (COP 780 millones) es prácticamente igual a la general.
+El segmento con más oferta es el de 3 o más habitaciones (83 avisos, mediana COP 850 millones).
 
-El aviso más barato pide COP 200 millones y el más caro COP 1,82 mil millones.
+La administración mediana declarada es COP 430.000 al mes (n = 20).
 
-- n = 105 avisos vigentes · foto del 2026-10-18
+Por precio mediano es el puesto 24 de 39 barrios de Medellín con al menos 30 avisos de casas en venta (COP): en la franja media.
+
+- n = 85 avisos vigentes · datos del 2026-10-18 · moneda COP
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Datos: Aptología (aptologia.com), API de datos abiertos, licencia CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/calasanz
-- Metodología: Fuente: la foto nocturna del mercado que publica la API de datos abiertos de Aptología (https://www.aptologia.com/datos-abiertos), con fecha 2026-10-18: avisos residenciales vivos en portales inmobiliarios e inmobiliarias de Colombia, deduplicados, con precios pedidos en pesos colombianos (COP), sin administración. Solo se publican celdas con al menos 30 avisos. Sin precio por m² (la API no publica área). Archivos: PDF de 2 páginas, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/casas-en-venta/medellin/calasanz
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
 
 Archivos: `venta-casas-calasanz-medellin-octubre-2026.pdf`, `venta-casas-calasanz-medellin-octubre-2026.csv`, `venta-casas-calasanz-medellin-octubre-2026.png`.

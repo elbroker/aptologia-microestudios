@@ -1,9 +1,18 @@
-seccion,metrica,valor_cop,n
-precio,mediana,875250000,180
-habitaciones,1,800000000,57
-habitaciones,2,875250000,180
-habitaciones,3+,1100000000,252
-barrio,mediana_barrio_todos_los_tamanos,900000000,493
-ciudad,mediana_ciudad,740500000,
-fuente,fecha_foto,2026-10-18,
-fuente,atribucion,https://www.aptologia.com/venta/medellin/las-palmas,
+seccion,metrica,valor,moneda,n
+precio,p25,690000000.0,COP,128
+precio,mediana,890000000.0,COP,128
+precio,p75,1286250000.0,COP,128
+precio,minimo,240000000.0,COP,128
+precio,maximo,1980000000.0,COP,128
+m2,mediana_precio_m2,10526315.79,COP,125
+m2,area_mediana_m2,86.5,m2,125
+admin,mediana_admin_mes,600000.0,COP,74
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.7,%,123
+estrato,estrato_mas_frecuente,6,,125
+habitaciones,2,890000000.0,COP,128
+ciudad,mediana_ciudad_referencia,720000000.0,COP,
+ciudad,mediana_m2_ciudad,8510638.3,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,
