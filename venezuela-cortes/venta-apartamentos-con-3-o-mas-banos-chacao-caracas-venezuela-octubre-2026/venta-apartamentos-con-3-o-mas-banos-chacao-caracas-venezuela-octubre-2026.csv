@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,135
+precio,p25,360000.0,USD,135
+precio,mediana,550000.0,USD,135
+precio,p75,850000.0,USD,135
+precio,minimo,110000.0,USD,135
+precio,maximo,1850000.0,USD,135
+m2,mediana_precio_m2,2084.21,USD,135
+m2,area_mediana_m2,248.0,m2,135
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.8,%,135
+habitaciones,2,240000.0,USD,8
+habitaciones,3+,550000.0,USD,125
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/chacao,,
+fuente,licencia,CC BY 4.0,,

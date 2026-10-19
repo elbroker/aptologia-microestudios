@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,125
+precio,p25,800.0,USD,125
+precio,mediana,1000.0,USD,125
+precio,p75,1400.0,USD,125
+precio,minimo,400.0,USD,125
+precio,maximo,4500.0,USD,125
+m2,mediana_precio_m2,10.84,USD,120
+m2,area_mediana_m2,88.0,m2,120
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.8,%,124
+habitaciones,1,1200.0,USD,21
+habitaciones,2,900.0,USD,49
+habitaciones,3+,950.0,USD,55
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/alquiler/caracas,,
+fuente,licencia,CC BY 4.0,,
