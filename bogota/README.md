@@ -1079,14 +1079,14 @@
 | [Precio de arriendo de casas de 3 habitaciones en Guaymaral, Bogotá — octubre 2026](arriendo-casas-3-habitaciones-guaymaral-bogota-octubre-2026/) | 30 | COP 10.800.000 | [10.5281/zenodo.23483468](https://doi.org/10.5281/zenodo.23483468) |
 | [Precio de venta de apartamentos en El Liston, Bogotá — octubre 2026](venta-apartamentos-el-liston-bogota-octubre-2026/) | 30 | COP 267.402.000 | [10.5281/zenodo.23483605](https://doi.org/10.5281/zenodo.23483605) |
 | [Precio de venta de vivienda en Mónaco, Bogotá — octubre 2026](venta-monaco-bogota-octubre-2026/) | 30 | COP 1.240.000.000 | [10.5281/zenodo.23484905](https://doi.org/10.5281/zenodo.23484905) |
-| [Precio de arriendo en Nueva Castilla, Bogotá — octubre 2026](arriendo-nueva-castilla-bogota-octubre-2026/) | 30 | COP 1.600.000 |  |
-| [Precio de arriendo en Nueva Zelandia, Bogotá — octubre 2026](arriendo-nueva-zelandia-bogota-octubre-2026/) | 30 | COP 1.690.000 |  |
-| [Precio de venta de vivienda en Olaya, Bogotá — octubre 2026](venta-olaya-bogota-octubre-2026/) | 30 | COP 465.000.000 |  |
-| [Precio de venta de vivienda en Paloquemao, Bogotá — octubre 2026](venta-paloquemao-bogota-octubre-2026/) | 30 | COP 262.999.500 |  |
-| [Precio de venta de apartamentos en Prado Pinzon, Bogotá — octubre 2026](venta-apartamentos-prado-pinzon-bogota-octubre-2026/) | 30 | COP 340.000.000 |  |
-| [Precio de venta de vivienda en Primavera Occidental - Puente Aranda, Bogotá — octubre 2026](venta-primavera-occidental-puente-aranda-bogota-octubre-2026/) | 30 | COP 287.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Puente Largo, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-puente-largo-bogota-octubre-2026/) | 30 | COP 567.180.000 |  |
-| [Precio de arriendo de apartaestudios en El Recuerdo, Bogotá — octubre 2026](arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026/) | 30 | COP 2.000.000 |  |
+| [Precio de arriendo en Nueva Castilla, Bogotá — octubre 2026](arriendo-nueva-castilla-bogota-octubre-2026/) | 30 | COP 1.600.000 | [10.5281/zenodo.23484938](https://doi.org/10.5281/zenodo.23484938) |
+| [Precio de arriendo en Nueva Zelandia, Bogotá — octubre 2026](arriendo-nueva-zelandia-bogota-octubre-2026/) | 30 | COP 1.690.000 | [10.5281/zenodo.23484947](https://doi.org/10.5281/zenodo.23484947) |
+| [Precio de venta de vivienda en Olaya, Bogotá — octubre 2026](venta-olaya-bogota-octubre-2026/) | 30 | COP 465.000.000 | [10.5281/zenodo.23484955](https://doi.org/10.5281/zenodo.23484955) |
+| [Precio de venta de vivienda en Paloquemao, Bogotá — octubre 2026](venta-paloquemao-bogota-octubre-2026/) | 30 | COP 262.999.500 | [10.5281/zenodo.23484957](https://doi.org/10.5281/zenodo.23484957) |
+| [Precio de venta de apartamentos en Prado Pinzon, Bogotá — octubre 2026](venta-apartamentos-prado-pinzon-bogota-octubre-2026/) | 30 | COP 340.000.000 | [10.5281/zenodo.23484961](https://doi.org/10.5281/zenodo.23484961) |
+| [Precio de venta de vivienda en Primavera Occidental - Puente Aranda, Bogotá — octubre 2026](venta-primavera-occidental-puente-aranda-bogota-octubre-2026/) | 30 | COP 287.500.000 | [10.5281/zenodo.23485099](https://doi.org/10.5281/zenodo.23485099) |
+| [Precio de venta de apartamentos de 2 habitaciones en Puente Largo, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-puente-largo-bogota-octubre-2026/) | 30 | COP 567.180.000 | [10.5281/zenodo.23485575](https://doi.org/10.5281/zenodo.23485575) |
+| [Precio de arriendo de apartaestudios en El Recuerdo, Bogotá — octubre 2026](arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026/) | 30 | COP 2.000.000 | [10.5281/zenodo.23485590](https://doi.org/10.5281/zenodo.23485590) |
 | [Precio de arriendo de apartamentos de 2 habitaciones en El Redil, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-redil-bogota-octubre-2026/) | 30 | COP 1.550.000 |  |
 | [Precio de arriendo de apartamentos de 2 habitaciones en El Refugio, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-refugio-bogota-octubre-2026/) | 30 | COP 8.500.000 |  |
 | [Precio de arriendo en El Retiro, Bogotá — octubre 2026](arriendo-el-retiro-bogota-octubre-2026/) | 30 | COP 14.000.000 |  |
