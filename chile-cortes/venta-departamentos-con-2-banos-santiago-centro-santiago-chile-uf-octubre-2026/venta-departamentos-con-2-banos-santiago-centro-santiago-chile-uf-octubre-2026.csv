@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,1098
+precio,p25,2750.0,UF,1098
+precio,mediana,3400.0,UF,1098
+precio,p75,4200.0,UF,1098
+precio,minimo,1560.0,UF,1098
+precio,maximo,32000.0,UF,1098
+m2,mediana_precio_m2,52.88,UF,811
+m2,area_mediana_m2,63.0,m2,811
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,114
+habitaciones,1,3475.0,UF,18
+habitaciones,2,3217.5,UF,642
+habitaciones,3+,3643.6,UF,431
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+# Precio de arriendo de departamentos con 3 o más baños en Las Condes, Santiago (Chile), precios en UF — octubre 2026
+
+UF 53,44 al mes es el canon mediano de departamentos con 3 o más baños en arriendo en Las Condes, Santiago (Chile) (n = 197 avisos).
+
+Frente a la mediana de todos los departamentos en arriendo de Las Condes (UF 35,00, n = 630), queda 53 % por encima; este segmento reúne el 31 % de esos avisos.
+
+Por metro cuadrado, la mediana es UF 0,34/m² al mes (n = 145), 15 % por debajo del conjunto de referencia (UF 0,41/m²).
+
+El área mediana anunciada es 152 m².
+
+El segmento con más oferta es el de 3 o más habitaciones (190 avisos, mediana UF 53,44); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana −21 %.
+
+La mediana de todos los departamentos en arriendo de Santiago es UF 13,85 (+286 % de diferencia).
+
+La mitad central de los avisos va de UF 45,00 a UF 75,00 (razón 1,7), una dispersión moderada.
+
+- n = 197 avisos vigentes · datos del 2026-10-18 · moneda UF
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/cl/arriendo/santiago/las-condes
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Chile, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en UF, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `arriendo-departamentos-con-3-o-mas-banos-las-condes-santiago-chile-uf-octubre-2026.pdf`, `arriendo-departamentos-con-3-o-mas-banos-las-condes-santiago-chile-uf-octubre-2026.csv`, `arriendo-departamentos-con-3-o-mas-banos-las-condes-santiago-chile-uf-octubre-2026.png`.

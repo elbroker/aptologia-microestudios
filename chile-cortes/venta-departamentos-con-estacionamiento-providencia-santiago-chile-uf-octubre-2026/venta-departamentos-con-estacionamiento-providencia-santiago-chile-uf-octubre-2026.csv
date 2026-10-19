@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,208
+precio,p25,6610.0,UF,208
+precio,mediana,8625.0,UF,208
+precio,p75,10292.5,UF,208
+precio,minimo,3500.0,UF,208
+precio,maximo,21500.0,UF,208
+m2,mediana_precio_m2,83.67,UF,199
+m2,area_mediana_m2,105.0,m2,199
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,208
+habitaciones,1,5725.0,UF,28
+habitaciones,2,7699.0,UF,67
+habitaciones,3+,9900.0,UF,111
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

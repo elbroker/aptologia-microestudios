@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,165
+precio,p25,850000.0,CLP,165
+precio,mediana,990000.0,CLP,165
+precio,p75,1235000.0,CLP,165
+precio,minimo,450000.0,CLP,165
+precio,maximo,2300000.0,CLP,165
+m2,mediana_precio_m2,13709.68,CLP,145
+m2,area_mediana_m2,75.0,m2,145
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+habitaciones,1,940000.0,CLP,8
+habitaciones,2,982836.0,CLP,111
+habitaciones,3+,1100000.0,CLP,46
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

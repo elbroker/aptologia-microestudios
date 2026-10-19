@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,170
+precio,p25,23.0,UF,170
+precio,mediana,36.5,UF,170
+precio,p75,50.0,UF,170
+precio,minimo,7.6,UF,170
+precio,maximo,130.0,UF,170
+m2,mediana_precio_m2,0.35,UF,168
+m2,area_mediana_m2,100.0,m2,168
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,170
+habitaciones,1,18.5,UF,30
+habitaciones,2,32.5,UF,66
+habitaciones,3+,49.0,UF,73
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,
