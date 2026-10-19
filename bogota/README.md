@@ -572,57 +572,57 @@
 | [Precio de venta de vivienda en Garces Navas, Bogotá — octubre 2026](venta-garces-navas-bogota-octubre-2026/) | 57 | COP 450.000.000 | [10.5281/zenodo.23462540](https://doi.org/10.5281/zenodo.23462540) |
 | [Precio de venta de apartamentos de 3 habitaciones en Madelena, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-madelena-bogota-octubre-2026/) | 57 | COP 255.000.000 | [10.5281/zenodo.23462551](https://doi.org/10.5281/zenodo.23462551) |
 | [Precio de arriendo en Mazuren, Bogotá — octubre 2026](arriendo-mazuren-bogota-octubre-2026/) | 57 | COP 2.500.000 | [10.5281/zenodo.23462558](https://doi.org/10.5281/zenodo.23462558) |
-| [Precio de arriendo de apartamentos en Nicolas de Federman, Bogotá — octubre 2026](arriendo-apartamentos-nicolas-de-federman-bogota-octubre-2026/) | 57 | COP 3.200.000 |  |
-| [Precio de venta de vivienda en San Antonio, Bogotá — octubre 2026](venta-san-antonio-bogota-octubre-2026/) | 57 | COP 700.000.000 |  |
-| [Precio de venta de apartamentos en Toberin, Bogotá — octubre 2026](venta-apartamentos-toberin-bogota-octubre-2026/) | 57 | COP 282.000.000 |  |
-| [Precio de venta de vivienda en Villa Alsacia, Bogotá — octubre 2026](venta-villa-alsacia-bogota-octubre-2026/) | 57 | COP 355.000.000 |  |
-| [Precio de venta de casas en Villa Magdala, Bogotá — octubre 2026](venta-casas-villa-magdala-bogota-octubre-2026/) | 57 | COP 850.000.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en Los Andes, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-los-andes-bogota-octubre-2026/) | 56 | COP 992.500.000 |  |
-| [Precio de arriendo de apartamentos de 1 habitación en Barrios Unidos, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-barrios-unidos-bogota-octubre-2026/) | 56 | COP 1.800.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Bella Suiza, Bogotá — octubre 2026](venta-apartamentos-1-habitaciones-bella-suiza-bogota-octubre-2026/) | 56 | COP 442.500.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en La Calleja, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-la-calleja-bogota-octubre-2026/) | 56 | COP 1.400.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 habitaciones en La Carolina, Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-la-carolina-bogota-octubre-2026/) | 56 | COP 10.250.000 |  |
-| [Precio de arriendo de casas en Quinta Camacho, Bogotá — octubre 2026](arriendo-casas-quinta-camacho-bogota-octubre-2026/) | 56 | COP 18.000.000 |  |
-| [Precio de arriendo en San Luis, Bogotá — octubre 2026](arriendo-san-luis-bogota-octubre-2026/) | 56 | COP 2.285.750 |  |
-| [Precio de venta de apartamentos en Tintala, Bogotá — octubre 2026](venta-apartamentos-tintala-bogota-octubre-2026/) | 56 | COP 242.500.000 |  |
+| [Precio de arriendo de apartamentos en Nicolas de Federman, Bogotá — octubre 2026](arriendo-apartamentos-nicolas-de-federman-bogota-octubre-2026/) | 57 | COP 3.200.000 | [10.5281/zenodo.23462579](https://doi.org/10.5281/zenodo.23462579) |
+| [Precio de venta de vivienda en San Antonio, Bogotá — octubre 2026](venta-san-antonio-bogota-octubre-2026/) | 57 | COP 700.000.000 | [10.5281/zenodo.23462585](https://doi.org/10.5281/zenodo.23462585) |
+| [Precio de venta de apartamentos en Toberin, Bogotá — octubre 2026](venta-apartamentos-toberin-bogota-octubre-2026/) | 57 | COP 282.000.000 | [10.5281/zenodo.23462591](https://doi.org/10.5281/zenodo.23462591) |
+| [Precio de venta de vivienda en Villa Alsacia, Bogotá — octubre 2026](venta-villa-alsacia-bogota-octubre-2026/) | 57 | COP 355.000.000 | [10.5281/zenodo.23462597](https://doi.org/10.5281/zenodo.23462597) |
+| [Precio de venta de casas en Villa Magdala, Bogotá — octubre 2026](venta-casas-villa-magdala-bogota-octubre-2026/) | 57 | COP 850.000.000 | [10.5281/zenodo.23462606](https://doi.org/10.5281/zenodo.23462606) |
+| [Precio de venta de casas de 4 o más habitaciones en Los Andes, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-los-andes-bogota-octubre-2026/) | 56 | COP 992.500.000 | [10.5281/zenodo.23462617](https://doi.org/10.5281/zenodo.23462617) |
+| [Precio de arriendo de apartamentos de 1 habitación en Barrios Unidos, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-barrios-unidos-bogota-octubre-2026/) | 56 | COP 1.800.000 | [10.5281/zenodo.23462626](https://doi.org/10.5281/zenodo.23462626) |
+| [Precio de venta de apartamentos de 1 habitación en Bella Suiza, Bogotá — octubre 2026](venta-apartamentos-1-habitaciones-bella-suiza-bogota-octubre-2026/) | 56 | COP 442.500.000 | [10.5281/zenodo.23462634](https://doi.org/10.5281/zenodo.23462634) |
+| [Precio de venta de casas de 4 o más habitaciones en La Calleja, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-la-calleja-bogota-octubre-2026/) | 56 | COP 1.400.000.000 | [10.5281/zenodo.23462643](https://doi.org/10.5281/zenodo.23462643) |
+| [Precio de arriendo de apartamentos de 3 habitaciones en La Carolina, Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-la-carolina-bogota-octubre-2026/) | 56 | COP 10.250.000 | [10.5281/zenodo.23462651](https://doi.org/10.5281/zenodo.23462651) |
+| [Precio de arriendo de casas en Quinta Camacho, Bogotá — octubre 2026](arriendo-casas-quinta-camacho-bogota-octubre-2026/) | 56 | COP 18.000.000 | [10.5281/zenodo.23462656](https://doi.org/10.5281/zenodo.23462656) |
+| [Precio de arriendo en San Luis, Bogotá — octubre 2026](arriendo-san-luis-bogota-octubre-2026/) | 56 | COP 2.285.750 | [10.5281/zenodo.23462662](https://doi.org/10.5281/zenodo.23462662) |
+| [Precio de venta de apartamentos en Tintala, Bogotá — octubre 2026](venta-apartamentos-tintala-bogota-octubre-2026/) | 56 | COP 242.500.000 | [10.5281/zenodo.23462674](https://doi.org/10.5281/zenodo.23462674) |
 | [Precio de venta de apartamentos en Victoria Norte, Bogotá — octubre 2026](venta-apartamentos-victoria-norte-bogota-octubre-2026/) | 56 | COP 430.000.000 | [10.5281/zenodo.23454708](https://doi.org/10.5281/zenodo.23454708) |
-| [Precio de venta de casas en Bonanza, Bogotá — octubre 2026](venta-casas-bonanza-bogota-octubre-2026/) | 55 | COP 750.000.000 |  |
-| [Precio de arriendo en Bosque de Pinos, Bogotá — octubre 2026](arriendo-bosque-de-pinos-bogota-octubre-2026/) | 55 | COP 9.200.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Cedro Golf, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-cedro-golf-bogota-octubre-2026/) | 55 | COP 580.000.000 |  |
-| [Precio de venta de casas de 3 habitaciones en Cerros de Suba, Bogotá — octubre 2026](venta-casas-3-habitaciones-cerros-de-suba-bogota-octubre-2026/) | 55 | COP 1.550.000.000 |  |
-| [Precio de arriendo en Marly, Bogotá — octubre 2026](arriendo-marly-bogota-octubre-2026/) | 55 | COP 1.726.000 |  |
-| [Precio de venta de apartamentos en Mirandela, Bogotá — octubre 2026](venta-apartamentos-mirandela-bogota-octubre-2026/) | 55 | COP 399.000.000 |  |
-| [Precio de venta de vivienda en Modelia Occidental, Bogotá — octubre 2026](venta-modelia-occidental-bogota-octubre-2026/) | 55 | COP 750.000.000 |  |
-| [Precio de venta de casas en Puente Largo, Bogotá — octubre 2026](venta-casas-puente-largo-bogota-octubre-2026/) | 55 | COP 1.200.000.002 |  |
-| [Precio de arriendo en El Recuerdo, Bogotá — octubre 2026](arriendo-el-recuerdo-bogota-octubre-2026/) | 55 | COP 2.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Bosque de Pinos, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-bosque-de-pinos-bogota-octubre-2026/) | 54 | COP 1.500.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en La Candelaria, Bogotá — octubre 2026](venta-apartamentos-1-habitaciones-la-candelaria-bogota-octubre-2026/) | 54 | COP 469.000.000 |  |
-| [Precio de venta de apartamentos en Chico Norte II, Bogotá — octubre 2026](venta-apartamentos-chico-norte-ii-bogota-octubre-2026/) | 54 | COP 980.000.000 |  |
-| [Precio de arriendo de apartamentos de 1 habitación en Chicó Reservado, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-chico-reservado-bogota-octubre-2026/) | 54 | COP 5.525.000 |  |
-| [Precio de venta de casas en Ciudad Montes, Bogotá — octubre 2026](venta-casas-ciudad-montes-bogota-octubre-2026/) | 54 | COP 880.000.000 |  |
-| [Precio de venta de apartamentos en Recodo del Country, Bogotá — octubre 2026](venta-apartamentos-recodo-del-country-bogota-octubre-2026/) | 54 | COP 1.225.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en San Antonio Norte, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-san-antonio-norte-bogota-octubre-2026/) | 54 | COP 327.000.000 |  |
-| [Precio de venta de vivienda en Verbenal, Bogotá — octubre 2026](venta-verbenal-bogota-octubre-2026/) | 54 | COP 343.500.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en Villa Luz, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-villa-luz-bogota-octubre-2026/) | 54 | COP 850.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 habitaciones en Bella Suiza, Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-bella-suiza-bogota-octubre-2026/) | 53 | COP 6.950.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Belmira, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-belmira-bogota-octubre-2026/) | 53 | COP 770.000.000 |  |
-| [Precio de venta de apartamentos de 4 o más habitaciones en Bosque Medina, Bogotá — octubre 2026](venta-apartamentos-4-o-mas-habitaciones-bosque-medina-bogota-octubre-2026/) | 53 | COP 2.500.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en La Calleja, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-la-calleja-bogota-octubre-2026/) | 53 | COP 725.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Castilla, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-castilla-bogota-octubre-2026/) | 53 | COP 250.000.000 |  |
-| [Precio de venta de apartamentos en Nueva Castilla, Bogotá — octubre 2026](venta-apartamentos-nueva-castilla-bogota-octubre-2026/) | 53 | COP 320.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Quinta Paredes, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-quinta-paredes-bogota-octubre-2026/) | 53 | COP 720.000.000 |  |
-| [Precio de venta de vivienda en San Martin, Bogotá — octubre 2026](venta-san-martin-bogota-octubre-2026/) | 53 | COP 454.965.520 |  |
-| [Precio de venta de casas en San Patricio, Bogotá — octubre 2026](venta-casas-san-patricio-bogota-octubre-2026/) | 53 | COP 1.450.000.000 |  |
-| [Precio de venta de vivienda en Santa Fe, Bogotá — octubre 2026](venta-santa-fe-bogota-octubre-2026/) | 53 | COP 330.000.000 |  |
-| [Precio de venta de apartamentos de 4 o más habitaciones en Santa Paula, Bogotá — octubre 2026](venta-apartamentos-4-o-mas-habitaciones-santa-paula-bogota-octubre-2026/) | 53 | COP 1.875.000.000 |  |
-| [Precio de venta de casas en Venecia, Bogotá — octubre 2026](venta-casas-venecia-bogota-octubre-2026/) | 53 | COP 800.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Alameda, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-alameda-bogota-octubre-2026/) | 52 | COP 670.000.000 |  |
-| [Precio de venta de apartamentos en Los Cedros, Bogotá — octubre 2026](venta-apartamentos-los-cedros-bogota-octubre-2026/) | 52 | COP 512.749.500 |  |
-| [Precio de arriendo de casas en Chapinero, Bogotá — octubre 2026](arriendo-casas-chapinero-bogota-octubre-2026/) | 52 | COP 15.500.000 |  |
-| [Precio de arriendo en Chico Norte III, Bogotá — octubre 2026](arriendo-chico-norte-iii-bogota-octubre-2026/) | 52 | COP 4.350.000 |  |
-| [Precio de venta de apartamentos en Los Lagartos, Bogotá — octubre 2026](venta-apartamentos-los-lagartos-bogota-octubre-2026/) | 52 | COP 965.000.000 |  |
-| [Precio de arriendo de apartamentos en La Macarena, Bogotá — octubre 2026](arriendo-apartamentos-la-macarena-bogota-octubre-2026/) | 52 | COP 3.000.000 |  |
-| [Precio de venta de apartamentos en Molinos Norte, Bogotá — octubre 2026](venta-apartamentos-molinos-norte-bogota-octubre-2026/) | 52 | COP 989.500.000 |  |
+| [Precio de venta de casas en Bonanza, Bogotá — octubre 2026](venta-casas-bonanza-bogota-octubre-2026/) | 55 | COP 750.000.000 | [10.5281/zenodo.23462686](https://doi.org/10.5281/zenodo.23462686) |
+| [Precio de arriendo en Bosque de Pinos, Bogotá — octubre 2026](arriendo-bosque-de-pinos-bogota-octubre-2026/) | 55 | COP 9.200.000 | [10.5281/zenodo.23462696](https://doi.org/10.5281/zenodo.23462696) |
+| [Precio de venta de apartamentos de 3 habitaciones en Cedro Golf, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-cedro-golf-bogota-octubre-2026/) | 55 | COP 580.000.000 | [10.5281/zenodo.23462709](https://doi.org/10.5281/zenodo.23462709) |
+| [Precio de venta de casas de 3 habitaciones en Cerros de Suba, Bogotá — octubre 2026](venta-casas-3-habitaciones-cerros-de-suba-bogota-octubre-2026/) | 55 | COP 1.550.000.000 | [10.5281/zenodo.23462721](https://doi.org/10.5281/zenodo.23462721) |
+| [Precio de arriendo en Marly, Bogotá — octubre 2026](arriendo-marly-bogota-octubre-2026/) | 55 | COP 1.726.000 | [10.5281/zenodo.23462726](https://doi.org/10.5281/zenodo.23462726) |
+| [Precio de venta de apartamentos en Mirandela, Bogotá — octubre 2026](venta-apartamentos-mirandela-bogota-octubre-2026/) | 55 | COP 399.000.000 | [10.5281/zenodo.23462732](https://doi.org/10.5281/zenodo.23462732) |
+| [Precio de venta de vivienda en Modelia Occidental, Bogotá — octubre 2026](venta-modelia-occidental-bogota-octubre-2026/) | 55 | COP 750.000.000 | [10.5281/zenodo.23462735](https://doi.org/10.5281/zenodo.23462735) |
+| [Precio de venta de casas en Puente Largo, Bogotá — octubre 2026](venta-casas-puente-largo-bogota-octubre-2026/) | 55 | COP 1.200.000.002 | [10.5281/zenodo.23462739](https://doi.org/10.5281/zenodo.23462739) |
+| [Precio de arriendo en El Recuerdo, Bogotá — octubre 2026](arriendo-el-recuerdo-bogota-octubre-2026/) | 55 | COP 2.000.000 | [10.5281/zenodo.23462749](https://doi.org/10.5281/zenodo.23462749) |
+| [Precio de venta de apartamentos de 3 habitaciones en Bosque de Pinos, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-bosque-de-pinos-bogota-octubre-2026/) | 54 | COP 1.500.000.000 | [10.5281/zenodo.23462755](https://doi.org/10.5281/zenodo.23462755) |
+| [Precio de venta de apartamentos de 1 habitación en La Candelaria, Bogotá — octubre 2026](venta-apartamentos-1-habitaciones-la-candelaria-bogota-octubre-2026/) | 54 | COP 469.000.000 | [10.5281/zenodo.23462758](https://doi.org/10.5281/zenodo.23462758) |
+| [Precio de venta de apartamentos en Chico Norte II, Bogotá — octubre 2026](venta-apartamentos-chico-norte-ii-bogota-octubre-2026/) | 54 | COP 980.000.000 | [10.5281/zenodo.23462766](https://doi.org/10.5281/zenodo.23462766) |
+| [Precio de arriendo de apartamentos de 1 habitación en Chicó Reservado, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-chico-reservado-bogota-octubre-2026/) | 54 | COP 5.525.000 | [10.5281/zenodo.23462771](https://doi.org/10.5281/zenodo.23462771) |
+| [Precio de venta de casas en Ciudad Montes, Bogotá — octubre 2026](venta-casas-ciudad-montes-bogota-octubre-2026/) | 54 | COP 880.000.000 | [10.5281/zenodo.23462775](https://doi.org/10.5281/zenodo.23462775) |
+| [Precio de venta de apartamentos en Recodo del Country, Bogotá — octubre 2026](venta-apartamentos-recodo-del-country-bogota-octubre-2026/) | 54 | COP 1.225.000.000 | [10.5281/zenodo.23462782](https://doi.org/10.5281/zenodo.23462782) |
+| [Precio de venta de apartamentos de 3 habitaciones en San Antonio Norte, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-san-antonio-norte-bogota-octubre-2026/) | 54 | COP 327.000.000 | [10.5281/zenodo.23462786](https://doi.org/10.5281/zenodo.23462786) |
+| [Precio de venta de vivienda en Verbenal, Bogotá — octubre 2026](venta-verbenal-bogota-octubre-2026/) | 54 | COP 343.500.000 | [10.5281/zenodo.23462792](https://doi.org/10.5281/zenodo.23462792) |
+| [Precio de venta de casas de 4 o más habitaciones en Villa Luz, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-villa-luz-bogota-octubre-2026/) | 54 | COP 850.000.000 | [10.5281/zenodo.23462799](https://doi.org/10.5281/zenodo.23462799) |
+| [Precio de arriendo de apartamentos de 3 habitaciones en Bella Suiza, Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-bella-suiza-bogota-octubre-2026/) | 53 | COP 6.950.000 | [10.5281/zenodo.23462802](https://doi.org/10.5281/zenodo.23462802) |
+| [Precio de venta de apartamentos de 3 habitaciones en Belmira, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-belmira-bogota-octubre-2026/) | 53 | COP 770.000.000 | [10.5281/zenodo.23462814](https://doi.org/10.5281/zenodo.23462814) |
+| [Precio de venta de apartamentos de 4 o más habitaciones en Bosque Medina, Bogotá — octubre 2026](venta-apartamentos-4-o-mas-habitaciones-bosque-medina-bogota-octubre-2026/) | 53 | COP 2.500.000.000 | [10.5281/zenodo.23462817](https://doi.org/10.5281/zenodo.23462817) |
+| [Precio de venta de apartamentos de 2 habitaciones en La Calleja, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-la-calleja-bogota-octubre-2026/) | 53 | COP 725.000.000 | [10.5281/zenodo.23462828](https://doi.org/10.5281/zenodo.23462828) |
+| [Precio de venta de apartamentos de 2 habitaciones en Castilla, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-castilla-bogota-octubre-2026/) | 53 | COP 250.000.000 | [10.5281/zenodo.23462875](https://doi.org/10.5281/zenodo.23462875) |
+| [Precio de venta de apartamentos en Nueva Castilla, Bogotá — octubre 2026](venta-apartamentos-nueva-castilla-bogota-octubre-2026/) | 53 | COP 320.000.000 | [10.5281/zenodo.23462891](https://doi.org/10.5281/zenodo.23462891) |
+| [Precio de venta de apartamentos de 3 habitaciones en Quinta Paredes, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-quinta-paredes-bogota-octubre-2026/) | 53 | COP 720.000.000 | [10.5281/zenodo.23462894](https://doi.org/10.5281/zenodo.23462894) |
+| [Precio de venta de vivienda en San Martin, Bogotá — octubre 2026](venta-san-martin-bogota-octubre-2026/) | 53 | COP 454.965.520 | [10.5281/zenodo.23462896](https://doi.org/10.5281/zenodo.23462896) |
+| [Precio de venta de casas en San Patricio, Bogotá — octubre 2026](venta-casas-san-patricio-bogota-octubre-2026/) | 53 | COP 1.450.000.000 | [10.5281/zenodo.23462899](https://doi.org/10.5281/zenodo.23462899) |
+| [Precio de venta de vivienda en Santa Fe, Bogotá — octubre 2026](venta-santa-fe-bogota-octubre-2026/) | 53 | COP 330.000.000 | [10.5281/zenodo.23462906](https://doi.org/10.5281/zenodo.23462906) |
+| [Precio de venta de apartamentos de 4 o más habitaciones en Santa Paula, Bogotá — octubre 2026](venta-apartamentos-4-o-mas-habitaciones-santa-paula-bogota-octubre-2026/) | 53 | COP 1.875.000.000 | [10.5281/zenodo.23462908](https://doi.org/10.5281/zenodo.23462908) |
+| [Precio de venta de casas en Venecia, Bogotá — octubre 2026](venta-casas-venecia-bogota-octubre-2026/) | 53 | COP 800.000.000 | [10.5281/zenodo.23462920](https://doi.org/10.5281/zenodo.23462920) |
+| [Precio de venta de apartamentos de 3 habitaciones en Alameda, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-alameda-bogota-octubre-2026/) | 52 | COP 670.000.000 | [10.5281/zenodo.23462927](https://doi.org/10.5281/zenodo.23462927) |
+| [Precio de venta de apartamentos en Los Cedros, Bogotá — octubre 2026](venta-apartamentos-los-cedros-bogota-octubre-2026/) | 52 | COP 512.749.500 | [10.5281/zenodo.23462933](https://doi.org/10.5281/zenodo.23462933) |
+| [Precio de arriendo de casas en Chapinero, Bogotá — octubre 2026](arriendo-casas-chapinero-bogota-octubre-2026/) | 52 | COP 15.500.000 | [10.5281/zenodo.23462935](https://doi.org/10.5281/zenodo.23462935) |
+| [Precio de arriendo en Chico Norte III, Bogotá — octubre 2026](arriendo-chico-norte-iii-bogota-octubre-2026/) | 52 | COP 4.350.000 | [10.5281/zenodo.23462941](https://doi.org/10.5281/zenodo.23462941) |
+| [Precio de venta de apartamentos en Los Lagartos, Bogotá — octubre 2026](venta-apartamentos-los-lagartos-bogota-octubre-2026/) | 52 | COP 965.000.000 | [10.5281/zenodo.23462952](https://doi.org/10.5281/zenodo.23462952) |
+| [Precio de arriendo de apartamentos en La Macarena, Bogotá — octubre 2026](arriendo-apartamentos-la-macarena-bogota-octubre-2026/) | 52 | COP 3.000.000 | [10.5281/zenodo.23462993](https://doi.org/10.5281/zenodo.23462993) |
+| [Precio de venta de apartamentos en Molinos Norte, Bogotá — octubre 2026](venta-apartamentos-molinos-norte-bogota-octubre-2026/) | 52 | COP 989.500.000 | [10.5281/zenodo.23464564](https://doi.org/10.5281/zenodo.23464564) |
 | [Precio de arriendo de apartamentos de 1 habitación en San Patricio, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-san-patricio-bogota-octubre-2026/) | 52 | COP 3.400.000 |  |
 | [Precio de venta de casas de 4 o más habitaciones en Santa Barbara Central, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-santa-barbara-central-bogota-octubre-2026/) | 52 | COP 1.700.000.000 |  |
 | [Precio de venta de apartamentos de 4 o más habitaciones en Santa Barbara Occidental, Bogotá — octubre 2026](venta-apartamentos-4-o-mas-habitaciones-santa-barbara-occidental-bogota-octubre-2026/) | 52 | COP 1.640.000.002 |  |
