@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,125
+precio,p25,730000000.0,COP,125
+precio,mediana,950000000.0,COP,125
+precio,p75,1200000000.0,COP,125
+precio,minimo,300000000.0,COP,125
+precio,maximo,2500000000.0,COP,125
+m2,mediana_precio_m2,7297265.72,COP,124
+m2,area_mediana_m2,128.0,m2,124
+admin,mediana_admin_mes,1047500.0,COP,114
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,99.2,%,125
+estrato,estrato_mas_frecuente,5,,125
+habitaciones,1,600000000.0,COP,17
+habitaciones,2,750000000.0,COP,34
+habitaciones,3+,1150000000.0,COP,74
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara-occidental,,
+fuente,licencia,CC BY 4.0,,

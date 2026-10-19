@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,piso3,"en piso 9 o más",,41
+precio,p25,1900000.0,COP,41
+precio,mediana,2100000.0,COP,41
+precio,p75,3000000.0,COP,41
+precio,minimo,1500000.0,COP,41
+precio,maximo,11111111.0,COP,41
+m2,mediana_precio_m2,38397.44,COP,40
+m2,area_mediana_m2,55.0,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,45.7,%,35
+estrato,estrato_mas_frecuente,3,,41
+habitaciones,2,2300000.0,COP,16
+habitaciones,3+,2100000.0,COP,25
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

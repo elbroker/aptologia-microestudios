@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,piso3,"en piso 9 o más",,50
+precio,p25,1125000000.0,COP,50
+precio,mediana,1650000000.0,COP,50
+precio,p75,2342500000.0,COP,50
+precio,minimo,690000000.0,COP,50
+precio,maximo,3800000000.0,COP,50
+m2,mediana_precio_m2,6250000.0,COP,50
+m2,area_mediana_m2,255.0,m2,50
+admin,mediana_admin_mes,1600000.0,COP,37
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,49
+habitaciones,3+,1650000000.0,COP,50
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/normandia,,
+fuente,licencia,CC BY 4.0,,

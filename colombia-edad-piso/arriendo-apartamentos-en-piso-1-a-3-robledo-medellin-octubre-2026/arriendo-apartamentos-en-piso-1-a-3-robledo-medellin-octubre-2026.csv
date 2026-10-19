@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,62
+precio,p25,1300000.0,COP,62
+precio,mediana,1675000.0,COP,62
+precio,p75,2200000.0,COP,62
+precio,minimo,850000.0,COP,62
+precio,maximo,5200000.0,COP,62
+m2,mediana_precio_m2,28571.43,COP,61
+m2,area_mediana_m2,55.0,m2,61
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,22.4,%,49
+estrato,estrato_mas_frecuente,3,,62
+habitaciones,2,1475000.0,COP,28
+habitaciones,3+,2100000.0,COP,29
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

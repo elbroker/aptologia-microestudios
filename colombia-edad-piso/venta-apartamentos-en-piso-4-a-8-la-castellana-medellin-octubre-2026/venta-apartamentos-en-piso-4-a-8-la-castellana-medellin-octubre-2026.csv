@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,piso2,"en piso 4 a 8",,63
+precio,p25,600000000.0,COP,63
+precio,mediana,720000000.0,COP,63
+precio,p75,880000000.0,COP,63
+precio,minimo,420000000.0,COP,63
+precio,maximo,1480000000.0,COP,63
+m2,mediana_precio_m2,7200000.0,COP,63
+m2,area_mediana_m2,105.0,m2,63
+admin,mediana_admin_mes,400000.0,COP,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.9,%,62
+estrato,estrato_mas_frecuente,5,,63
+habitaciones,2,600000000.0,COP,9
+habitaciones,3+,749500000.0,COP,54
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

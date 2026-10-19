@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,30
+precio,p25,472500000.0,COP,30
+precio,mediana,695000000.0,COP,30
+precio,p75,800000000.0,COP,30
+precio,minimo,340000000.0,COP,30
+precio,maximo,3200000000.0,COP,30
+m2,mediana_precio_m2,6914184.95,COP,30
+m2,area_mediana_m2,92.4,m2,30
+admin,mediana_admin_mes,617650.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,470000000.0,COP,11
+habitaciones,3+,785000000.0,COP,18
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/belmira,,
+fuente,licencia,CC BY 4.0,,

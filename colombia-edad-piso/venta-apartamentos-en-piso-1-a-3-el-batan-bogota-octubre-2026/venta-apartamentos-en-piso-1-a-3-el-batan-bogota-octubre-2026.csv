@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,43
+precio,p25,440000000.0,COP,43
+precio,mediana,600000000.0,COP,43
+precio,p75,675294000.0,COP,43
+precio,minimo,330000000.0,COP,43
+precio,maximo,979000000.0,COP,43
+m2,mediana_precio_m2,7411764.71,COP,43
+m2,area_mediana_m2,85.7,m2,43
+admin,mediana_admin_mes,585000.0,COP,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.7,%,43
+estrato,estrato_mas_frecuente,5,,43
+habitaciones,1,420000000.0,COP,9
+habitaciones,2,470000000.0,COP,12
+habitaciones,3+,650294000.0,COP,22
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-batan,,
+fuente,licencia,CC BY 4.0,,

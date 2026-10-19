@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,piso3,"en piso 9 o más",,30
+precio,p25,800000000.0,COP,30
+precio,mediana,950000000.0,COP,30
+precio,p75,1212500000.0,COP,30
+precio,minimo,610000000.0,COP,30
+precio,maximo,2500000000.0,COP,30
+m2,area_mediana_m2,97.5,m2,29
+admin,mediana_admin_mes,630000.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,2,800000000.0,COP,12
+habitaciones,3+,1175000000.0,COP,16
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

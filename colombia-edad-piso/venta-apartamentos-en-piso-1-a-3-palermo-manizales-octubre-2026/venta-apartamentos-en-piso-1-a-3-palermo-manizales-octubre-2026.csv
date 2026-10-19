@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,111
+precio,p25,480000000.0,COP,111
+precio,mediana,525000000.0,COP,111
+precio,p75,600000000.0,COP,111
+precio,minimo,240000000.0,COP,111
+precio,maximo,1350000000.0,COP,111
+m2,mediana_precio_m2,4973684.21,COP,110
+m2,area_mediana_m2,108.5,m2,110
+admin,mediana_admin_mes,327500.0,COP,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.1,%,106
+estrato,estrato_mas_frecuente,6,,111
+habitaciones,1,312500000.0,COP,6
+habitaciones,2,467500000.0,COP,16
+habitaciones,3+,550000000.0,COP,89
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/palermo,,
+fuente,licencia,CC BY 4.0,,

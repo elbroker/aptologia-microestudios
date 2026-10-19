@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,42
+precio,p25,452000000.0,COP,42
+precio,mediana,520000000.0,COP,42
+precio,p75,583000000.0,COP,42
+precio,minimo,320000000.0,COP,42
+precio,maximo,3200000000.0,COP,42
+m2,mediana_precio_m2,6488718.78,COP,42
+m2,area_mediana_m2,75.5,m2,42
+admin,mediana_admin_mes,328700.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.3,%,37
+estrato,estrato_mas_frecuente,4,,42
+habitaciones,2,450000000.0,COP,11
+habitaciones,3+,540000000.0,COP,31
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/modelia,,
+fuente,licencia,CC BY 4.0,,

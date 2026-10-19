@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,40
+precio,p25,2500000.0,COP,40
+precio,mediana,3055000.0,COP,40
+precio,p75,4000000.0,COP,40
+precio,minimo,1500000.0,COP,40
+precio,maximo,9600000.0,COP,40
+m2,mediana_precio_m2,39062.5,COP,39
+m2,area_mediana_m2,87.5,m2,39
+admin,mediana_admin_mes,490000.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,1,3000000.0,COP,7
+habitaciones,2,3055000.0,COP,18
+habitaciones,3+,3600000.0,COP,15
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/villa-santos,,
+fuente,licencia,CC BY 4.0,,

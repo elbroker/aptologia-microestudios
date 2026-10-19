@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,68
+precio,p25,790000000.0,COP,68
+precio,mediana,965000000.0,COP,68
+precio,p75,1337500000.0,COP,68
+precio,minimo,380000000.0,COP,68
+precio,maximo,2900000000.0,COP,68
+m2,mediana_precio_m2,9315849.33,COP,66
+m2,area_mediana_m2,111.5,m2,66
+admin,mediana_admin_mes,1018000.0,COP,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,67
+estrato,estrato_mas_frecuente,6,,68
+habitaciones,1,790000000.0,COP,13
+habitaciones,2,965000000.0,COP,36
+habitaciones,3+,1500000000.0,COP,19
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/la-boquilla,,
+fuente,licencia,CC BY 4.0,,

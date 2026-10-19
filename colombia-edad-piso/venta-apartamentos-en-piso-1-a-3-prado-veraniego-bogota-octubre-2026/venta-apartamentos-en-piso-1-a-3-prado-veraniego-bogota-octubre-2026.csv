@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,piso1,"en piso 1 a 3",,30
+precio,p25,295250000.0,COP,30
+precio,mediana,345000000.0,COP,30
+precio,p75,480000000.0,COP,30
+precio,minimo,200000000.0,COP,30
+precio,maximo,1700000000.0,COP,30
+m2,mediana_precio_m2,6551886.79,COP,30
+m2,area_mediana_m2,57.0,m2,30
+admin,mediana_admin_mes,329350.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,30
+habitaciones,1,290000000.0,COP,5
+habitaciones,2,420000000.0,COP,11
+habitaciones,3+,385000000.0,COP,13
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/prado-veraniego,,
+fuente,licencia,CC BY 4.0,,
