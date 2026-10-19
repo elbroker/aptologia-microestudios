@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Soacha Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-soacha-ciudad-verde-soacha-octubre-2026/) | 51 | COP 167.000.000 |  |
+| [Precio de venta de apartamentos en Soacha Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-soacha-ciudad-verde-soacha-octubre-2026/) | 51 | COP 167.000.000 | [10.5281/zenodo.23465016](https://doi.org/10.5281/zenodo.23465016) |
 | [Precio de venta de apartamentos en Soacha Danubio, Soacha — octubre 2026](venta-apartamentos-soacha-danubio-soacha-octubre-2026/) | 46 | COP 154.500.000 |  |
 | [Precio de venta de apartamentos de 3 habitaciones en Soacha Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-3-habitaciones-soacha-ciudad-verde-soacha-octubre-2026/) | 37 | COP 176.400.000 |  |
 | [Precio de venta de apartamentos en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-ciudad-verde-soacha-octubre-2026/) | 161 | COP 177.000.000 |  |
