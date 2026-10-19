@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,area3,"de 70 a 100 m²",,300
+precio,p25,2800000.0,COP,300
+precio,mediana,3200000.0,COP,300
+precio,p75,3750000.0,COP,300
+precio,minimo,1111111.0,COP,300
+precio,maximo,11111111.0,COP,300
+m2,mediana_precio_m2,39583.33,COP,296
+m2,area_mediana_m2,80.0,m2,296
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.2,%,269
+estrato,estrato_mas_frecuente,5,,300
+habitaciones,2,3025000.0,COP,84
+habitaciones,3+,3225000.0,COP,216
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

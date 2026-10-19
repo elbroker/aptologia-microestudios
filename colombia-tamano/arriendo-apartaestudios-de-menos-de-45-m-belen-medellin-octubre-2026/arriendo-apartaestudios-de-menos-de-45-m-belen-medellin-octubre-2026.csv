@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,area1,"de menos de 45 m²",,60
+precio,p25,1297500.0,COP,60
+precio,mediana,1800000.0,COP,60
+precio,p75,2200000.0,COP,60
+precio,minimo,830000.0,COP,60
+precio,maximo,3500000.0,COP,60
+m2,mediana_precio_m2,53750.0,COP,57
+m2,area_mediana_m2,32.5,m2,57
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,12.5,%,40
+estrato,estrato_mas_frecuente,4,,60
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,60000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

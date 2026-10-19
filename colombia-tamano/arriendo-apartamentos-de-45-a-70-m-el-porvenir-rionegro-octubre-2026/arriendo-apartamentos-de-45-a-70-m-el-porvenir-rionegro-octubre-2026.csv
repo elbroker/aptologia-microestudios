@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,area2,"de 45 a 70 m²",,250
+precio,p25,1600000.0,COP,250
+precio,mediana,1800000.0,COP,250
+precio,p75,2500000.0,COP,250
+precio,minimo,1200000.0,COP,250
+precio,maximo,6000000.0,COP,250
+m2,mediana_precio_m2,34654.63,COP,250
+m2,area_mediana_m2,55.0,m2,250
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.3,%,196
+estrato,estrato_mas_frecuente,4,,249
+habitaciones,1,2300000.0,COP,20
+habitaciones,2,1800000.0,COP,155
+habitaciones,3+,1750000.0,COP,74
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

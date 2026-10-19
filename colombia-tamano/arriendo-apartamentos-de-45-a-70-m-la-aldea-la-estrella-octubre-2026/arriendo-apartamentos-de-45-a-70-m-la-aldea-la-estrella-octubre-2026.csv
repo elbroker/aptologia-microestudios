@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,area2,"de 45 a 70 m²",,109
+precio,p25,2300000.0,COP,109
+precio,mediana,2500000.0,COP,109
+precio,p75,2700000.0,COP,109
+precio,minimo,1600000.0,COP,109
+precio,maximo,4600000.0,COP,109
+m2,mediana_precio_m2,40625.0,COP,109
+m2,area_mediana_m2,61.0,m2,109
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+estrato,estrato_mas_frecuente,4,,109
+habitaciones,2,2450000.0,COP,61
+habitaciones,3+,2600000.0,COP,47
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,38333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-estrella,,
+fuente,licencia,CC BY 4.0,,
