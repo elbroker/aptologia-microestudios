@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,285
+precio,p25,250000.0,USD,285
+precio,mediana,380000.0,USD,285
+precio,p75,595000.0,USD,285
+precio,minimo,90000.0,USD,285
+precio,maximo,1500000.0,USD,285
+m2,mediana_precio_m2,988.98,USD,270
+m2,area_mediana_m2,365.0,m2,270
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,203
+habitaciones,2,230000.0,USD,5
+habitaciones,3+,385000.0,USD,280
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/la-paz,,
+fuente,licencia,CC BY 4.0,,

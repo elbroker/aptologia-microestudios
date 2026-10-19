@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,429
+precio,p25,350.0,USD,429
+precio,mediana,430.0,USD,429
+precio,p75,550.0,USD,429
+precio,minimo,180.0,USD,429
+precio,maximo,4500.0,USD,429
+m2,mediana_precio_m2,8.0,USD,366
+m2,area_mediana_m2,52.0,m2,366
+admin,mediana_admin_mes,50.0,USD,105
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,174
+habitaciones,1,417.5,USD,340
+habitaciones,2,450.0,USD,81
+habitaciones,3+,734.0,USD,8
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

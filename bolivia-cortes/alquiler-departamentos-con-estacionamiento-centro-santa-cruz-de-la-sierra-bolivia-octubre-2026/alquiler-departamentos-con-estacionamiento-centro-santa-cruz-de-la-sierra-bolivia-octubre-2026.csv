@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,62
+precio,p25,430.75,USD,62
+precio,mediana,500.0,USD,62
+precio,p75,700.0,USD,62
+precio,minimo,300.0,USD,62
+precio,maximo,3000.0,USD,62
+m2,mediana_precio_m2,5.36,USD,46
+m2,area_mediana_m2,95.0,m2,46
+admin,mediana_admin_mes,30.0,USD,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+habitaciones,1,400.0,USD,21
+habitaciones,2,500.0,USD,21
+habitaciones,3+,803.5,USD,20
+ciudad,mediana_ciudad_referencia,570.0,USD,
+ciudad,mediana_m2_ciudad,7.26,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

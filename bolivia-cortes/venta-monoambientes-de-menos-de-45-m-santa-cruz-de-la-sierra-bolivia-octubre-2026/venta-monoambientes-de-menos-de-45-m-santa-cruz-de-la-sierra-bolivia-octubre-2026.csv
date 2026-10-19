@@ -1,0 +1,15 @@
+seccion,metrica,valor,moneda,n
+filtro,area1,"de menos de 45 m²",,240
+precio,p25,45000.0,USD,240
+precio,mediana,53550.0,USD,240
+precio,p75,66000.0,USD,240
+precio,minimo,23700.0,USD,240
+precio,maximo,155000.0,USD,240
+m2,mediana_precio_m2,1500.0,USD,236
+m2,area_mediana_m2,35.5,m2,236
+admin,mediana_admin_mes,50.0,USD,103
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,
