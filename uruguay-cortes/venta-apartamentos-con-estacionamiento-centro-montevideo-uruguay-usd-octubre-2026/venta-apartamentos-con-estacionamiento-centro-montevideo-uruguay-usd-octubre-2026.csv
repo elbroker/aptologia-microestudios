@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,64
+precio,p25,154437.25,USD,64
+precio,mediana,177750.0,USD,64
+precio,p75,211522.75,USD,64
+precio,minimo,110000.0,USD,64
+precio,maximo,995000.0,USD,64
+m2,mediana_precio_m2,2701.79,USD,60
+m2,area_mediana_m2,68.5,m2,60
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,64
+habitaciones,1,150000.0,USD,25
+habitaciones,2,180000.0,USD,23
+habitaciones,3+,232000.0,USD,16
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/centro,,
+fuente,licencia,CC BY 4.0,,

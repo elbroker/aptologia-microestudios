@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,100
+precio,p25,40000.0,UYU,100
+precio,mediana,43000.0,UYU,100
+precio,p75,51250.0,UYU,100
+precio,minimo,28000.0,UYU,100
+precio,maximo,75000.0,UYU,100
+m2,mediana_precio_m2,619.09,UYU,100
+m2,area_mediana_m2,75.0,m2,100
+admin,mediana_admin_mes,9000.0,UYU,92
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+habitaciones,1,33500.0,UYU,9
+habitaciones,2,42500.0,UYU,58
+habitaciones,3+,52000.0,UYU,33
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/pocitos,,
+fuente,licencia,CC BY 4.0,,

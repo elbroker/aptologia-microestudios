@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,41
+precio,p25,140000.0,USD,41
+precio,mediana,159000.0,USD,41
+precio,p75,198000.0,USD,41
+precio,minimo,88000.0,USD,41
+precio,maximo,269000.0,USD,41
+m2,mediana_precio_m2,2725.16,USD,40
+m2,area_mediana_m2,57.0,m2,40
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,1,140500.0,USD,22
+habitaciones,2,194340.0,USD,14
+habitaciones,3+,255823.0,USD,5
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/tres-cruces,,
+fuente,licencia,CC BY 4.0,,

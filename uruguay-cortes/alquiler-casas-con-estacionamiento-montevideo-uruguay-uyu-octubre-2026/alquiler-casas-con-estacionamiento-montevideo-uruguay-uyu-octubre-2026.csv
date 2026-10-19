@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,240
+precio,p25,26800.0,UYU,240
+precio,mediana,45000.0,UYU,240
+precio,p75,75000.0,UYU,240
+precio,minimo,16000.0,UYU,240
+precio,maximo,220000.0,UYU,240
+m2,mediana_precio_m2,408.81,UYU,227
+m2,area_mediana_m2,110.0,m2,227
+admin,mediana_admin_mes,6000.0,UYU,16
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,240
+habitaciones,1,22500.0,UYU,36
+habitaciones,2,35250.0,UYU,90
+habitaciones,3+,70000.0,UYU,113
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

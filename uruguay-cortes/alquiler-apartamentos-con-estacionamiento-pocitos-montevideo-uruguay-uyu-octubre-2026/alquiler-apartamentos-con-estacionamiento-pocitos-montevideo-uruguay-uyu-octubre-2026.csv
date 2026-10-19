@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,119
+precio,p25,36000.0,UYU,119
+precio,mediana,42000.0,UYU,119
+precio,p75,49000.0,UYU,119
+precio,minimo,27500.0,UYU,119
+precio,maximo,75000.0,UYU,119
+m2,mediana_precio_m2,670.0,UYU,115
+m2,area_mediana_m2,60.0,m2,115
+admin,mediana_admin_mes,7500.0,UYU,110
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,119
+habitaciones,1,35450.0,UYU,50
+habitaciones,2,43000.0,UYU,47
+habitaciones,3+,63000.0,UYU,22
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/pocitos,,
+fuente,licencia,CC BY 4.0,,

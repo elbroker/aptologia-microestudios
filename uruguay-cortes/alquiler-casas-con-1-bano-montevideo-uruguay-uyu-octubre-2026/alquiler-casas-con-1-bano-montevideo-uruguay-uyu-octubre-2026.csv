@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,318
+precio,p25,22000.0,UYU,318
+precio,mediana,27850.0,UYU,318
+precio,p75,39000.0,UYU,318
+precio,minimo,14000.0,UYU,318
+precio,maximo,90000.0,UYU,318
+m2,mediana_precio_m2,384.62,UYU,303
+m2,area_mediana_m2,70.0,m2,303
+admin,mediana_admin_mes,2000.0,UYU,24
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,137
+habitaciones,1,22000.0,UYU,87
+habitaciones,2,27000.0,UYU,146
+habitaciones,3+,39250.0,UYU,80
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

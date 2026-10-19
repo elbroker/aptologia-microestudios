@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,47
+precio,p25,1800.0,USD,47
+precio,mediana,2290.0,USD,47
+precio,p75,2600.0,USD,47
+precio,minimo,1200.0,USD,47
+precio,maximo,4900.0,USD,47
+m2,mediana_precio_m2,18.09,USD,45
+m2,area_mediana_m2,121.0,m2,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+habitaciones,1,1800.0,USD,5
+habitaciones,2,2290.0,USD,34
+habitaciones,3+,2650.0,USD,8
+ciudad,mediana_ciudad_referencia,1990.0,USD,
+ciudad,mediana_m2_ciudad,20.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/carrasco,,
+fuente,licencia,CC BY 4.0,,
