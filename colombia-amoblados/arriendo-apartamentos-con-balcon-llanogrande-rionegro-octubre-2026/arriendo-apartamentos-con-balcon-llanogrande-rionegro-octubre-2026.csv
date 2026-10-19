@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,balc,"con balcón",,53
+precio,p25,4900000.0,COP,53
+precio,mediana,6500000.0,COP,53
+precio,p75,8900000.0,COP,53
+precio,minimo,2500000.0,COP,53
+precio,maximo,20500000.0,COP,53
+m2,mediana_precio_m2,70652.17,COP,53
+m2,area_mediana_m2,90.0,m2,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.2,%,53
+estrato,estrato_mas_frecuente,5,,53
+habitaciones,1,4800000.0,COP,23
+habitaciones,2,8000000.0,COP,21
+habitaciones,3+,9200000.0,COP,9
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

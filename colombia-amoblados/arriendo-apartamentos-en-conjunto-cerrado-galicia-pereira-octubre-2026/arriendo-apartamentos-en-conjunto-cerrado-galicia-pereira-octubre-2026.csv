@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,conj,"en conjunto cerrado",,75
+precio,p25,1725000.0,COP,75
+precio,mediana,2100000.0,COP,75
+precio,p75,2650000.0,COP,75
+precio,minimo,1500000.0,COP,75
+precio,maximo,5000000.0,COP,75
+m2,mediana_precio_m2,28333.33,COP,75
+m2,area_mediana_m2,72.0,m2,75
+admin,mediana_admin_mes,285000.0,COP,47
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,5,,75
+habitaciones,2,1700000.0,COP,13
+habitaciones,3+,2125000.0,COP,62
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/galicia,,
+fuente,licencia,CC BY 4.0,,

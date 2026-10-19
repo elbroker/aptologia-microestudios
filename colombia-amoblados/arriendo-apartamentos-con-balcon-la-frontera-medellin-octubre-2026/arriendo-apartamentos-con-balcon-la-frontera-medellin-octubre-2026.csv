@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,balc,"con balcón",,50
+precio,p25,3962500.0,COP,50
+precio,mediana,5350000.0,COP,50
+precio,p75,6000000.0,COP,50
+precio,minimo,2200000.0,COP,50
+precio,maximo,15000000.0,COP,50
+m2,mediana_precio_m2,46491.23,COP,49
+m2,area_mediana_m2,112.0,m2,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,5,,50
+habitaciones,1,3850000.0,COP,6
+habitaciones,2,3825000.0,COP,10
+habitaciones,3+,5500000.0,COP,34
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-frontera,,
+fuente,licencia,CC BY 4.0,,

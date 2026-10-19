@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,balc,"con balcón",,125
+precio,p25,3350000.0,COP,125
+precio,mediana,4350000.0,COP,125
+precio,p75,5500000.0,COP,125
+precio,minimo,1550000.0,COP,125
+precio,maximo,15800000.0,COP,125
+m2,mediana_precio_m2,45625.0,COP,125
+m2,area_mediana_m2,98.0,m2,125
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.7,%,110
+estrato,estrato_mas_frecuente,5,,125
+habitaciones,2,4250000.0,COP,40
+habitaciones,3+,4575000.0,COP,82
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,
