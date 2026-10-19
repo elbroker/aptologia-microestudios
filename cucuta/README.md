@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de vivienda en Prados del Este, Cúcuta — octubre 2026](venta-prados-del-este-cucuta-octubre-2026/) | 37 | COP 280.000.000 |  |
+| [Precio de venta de vivienda en Prados del Este, Cúcuta — octubre 2026](venta-prados-del-este-cucuta-octubre-2026/) | 37 | COP 280.000.000 | [10.5281/zenodo.23477414](https://doi.org/10.5281/zenodo.23477414) |
 | [Precio de venta de vivienda en Caobos, Cúcuta — octubre 2026](venta-caobos-cucuta-octubre-2026/) | 33 | COP 500.000.000 |  |
 | [Precio de venta de vivienda en Barrio Blanco, Cúcuta — octubre 2026](venta-barrio-blanco-cucuta-octubre-2026/) | 32 | COP 425.000.000 |  |
 | [Precio de arriendo de apartamentos en Prados del Este, Cúcuta — octubre 2026](arriendo-apartamentos-prados-del-este-cucuta-octubre-2026/) | 62 | COP 1.285.850 |  |

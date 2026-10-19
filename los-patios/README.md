@@ -16,4 +16,4 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de vivienda en Los Patios, Los Patios — octubre 2026](venta-los-patios-los-patios-octubre-2026/) | 37 | COP 380.000.000 |  |
+| [Precio de venta de vivienda en Los Patios, Los Patios — octubre 2026](venta-los-patios-los-patios-octubre-2026/) | 37 | COP 380.000.000 | [10.5281/zenodo.23477430](https://doi.org/10.5281/zenodo.23477430) |
