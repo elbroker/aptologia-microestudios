@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,area3,"de 70 a 100 m²",,245
+precio,p25,800.0,USD,245
+precio,mediana,950.0,USD,245
+precio,p75,1150.0,USD,245
+precio,minimo,500.0,USD,245
+precio,maximo,8500.0,USD,245
+m2,mediana_precio_m2,11.44,USD,242
+m2,area_mediana_m2,81.0,m2,242
+admin,mediana_admin_mes,300.0,USD,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,201
+habitaciones,1,900.0,USD,64
+habitaciones,2,995.0,USD,140
+habitaciones,3+,950.0,USD,40
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

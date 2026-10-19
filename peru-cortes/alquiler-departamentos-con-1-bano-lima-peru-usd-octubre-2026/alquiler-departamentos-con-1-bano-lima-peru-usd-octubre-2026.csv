@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,257
+precio,p25,680.0,USD,257
+precio,mediana,770.0,USD,257
+precio,p75,950.0,USD,257
+precio,minimo,500.0,USD,257
+precio,maximo,8000.0,USD,257
+m2,mediana_precio_m2,13.27,USD,249
+m2,area_mediana_m2,60.0,m2,249
+admin,mediana_admin_mes,200.0,USD,20
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,168
+habitaciones,1,750.0,USD,191
+habitaciones,2,950.0,USD,49
+habitaciones,3+,1020.0,USD,8
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

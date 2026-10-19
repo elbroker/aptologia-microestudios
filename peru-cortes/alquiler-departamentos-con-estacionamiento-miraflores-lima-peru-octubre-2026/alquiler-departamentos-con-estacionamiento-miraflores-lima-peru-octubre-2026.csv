@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,787
+precio,p25,3150.0,PEN,787
+precio,mediana,4000.0,PEN,787
+precio,p75,5700.0,PEN,787
+precio,minimo,1700.0,PEN,787
+precio,maximo,18330.0,PEN,787
+m2,mediana_precio_m2,36.61,PEN,777
+m2,area_mediana_m2,119.0,m2,777
+admin,mediana_admin_mes,420.0,PEN,153
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,787
+habitaciones,1,2842.5,PEN,98
+habitaciones,2,3600.0,PEN,303
+habitaciones,3+,5031.0,PEN,378
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/miraflores,,
+fuente,licencia,CC BY 4.0,,

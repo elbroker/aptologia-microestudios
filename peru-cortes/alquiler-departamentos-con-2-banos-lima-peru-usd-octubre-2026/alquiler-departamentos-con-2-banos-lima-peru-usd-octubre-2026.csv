@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,575
+precio,p25,950.0,USD,575
+precio,mediana,1200.0,USD,575
+precio,p75,1550.0,USD,575
+precio,minimo,500.0,USD,575
+precio,maximo,10000.0,USD,575
+m2,mediana_precio_m2,10.91,USD,561
+m2,area_mediana_m2,112.0,m2,561
+admin,mediana_admin_mes,400.0,USD,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,495
+habitaciones,1,900.0,USD,36
+habitaciones,2,1100.0,USD,305
+habitaciones,3+,1300.0,USD,232
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

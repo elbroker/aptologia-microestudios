@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,57
+precio,p25,2500.0,PEN,57
+precio,mediana,2790.0,PEN,57
+precio,p75,3256.0,PEN,57
+precio,minimo,1500.0,PEN,57
+precio,maximo,8118.0,PEN,57
+m2,mediana_precio_m2,32.86,PEN,57
+m2,area_mediana_m2,83.0,m2,57
+admin,mediana_admin_mes,280.0,PEN,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+habitaciones,1,2440.0,PEN,6
+habitaciones,2,2700.0,PEN,21
+habitaciones,3+,3100.0,PEN,29
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/magdalena-del-mar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,113
+precio,p25,2650.0,PEN,113
+precio,mediana,3000.0,PEN,113
+precio,p75,4180.0,PEN,113
+precio,minimo,1755.0,PEN,113
+precio,maximo,18699.0,PEN,113
+m2,mediana_precio_m2,43.16,PEN,109
+m2,area_mediana_m2,72.0,m2,109
+admin,mediana_admin_mes,348.0,PEN,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,113
+habitaciones,1,2660.0,PEN,45
+habitaciones,2,3224.0,PEN,38
+habitaciones,3+,8162.0,PEN,29
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/barranco,,
+fuente,licencia,CC BY 4.0,,

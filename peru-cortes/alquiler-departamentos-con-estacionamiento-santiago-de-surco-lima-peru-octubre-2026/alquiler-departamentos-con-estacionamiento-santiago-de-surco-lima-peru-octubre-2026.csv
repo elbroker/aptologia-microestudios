@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,337
+precio,p25,2860.0,PEN,337
+precio,mediana,3781.0,PEN,337
+precio,p75,6142.0,PEN,337
+precio,minimo,1100.0,PEN,337
+precio,maximo,18260.0,PEN,337
+m2,mediana_precio_m2,27.07,PEN,335
+m2,area_mediana_m2,139.5,m2,335
+admin,mediana_admin_mes,300.0,PEN,85
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,337
+habitaciones,1,2550.0,PEN,12
+habitaciones,2,2900.0,PEN,53
+habitaciones,3+,4200.0,PEN,268
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/santiago-de-surco,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,1027
+precio,p25,965.0,USD,1027
+precio,mediana,1300.0,USD,1027
+precio,p75,2200.0,USD,1027
+precio,minimo,500.0,USD,1027
+precio,maximo,10000.0,USD,1027
+m2,mediana_precio_m2,11.0,USD,1003
+m2,area_mediana_m2,130.0,m2,1003
+admin,mediana_admin_mes,400.0,USD,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,1027
+habitaciones,1,800.0,USD,157
+habitaciones,2,1197.5,USD,330
+habitaciones,3+,1975.0,USD,538
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,42
+precio,p25,2500.0,PEN,42
+precio,mediana,2718.5,PEN,42
+precio,p75,3287.5,PEN,42
+precio,minimo,1500.0,PEN,42
+precio,maximo,5936.0,PEN,42
+m2,mediana_precio_m2,37.66,PEN,41
+m2,area_mediana_m2,75.5,m2,41
+admin,mediana_admin_mes,245.0,PEN,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+habitaciones,2,2600.0,PEN,20
+habitaciones,3+,3225.0,PEN,20
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/lince,,
+fuente,licencia,CC BY 4.0,,
