@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,330
+precio,p25,1331.25,USD,330
+precio,mediana,1800.0,USD,330
+precio,p75,2800.0,USD,330
+precio,minimo,800.0,USD,330
+precio,maximo,7000.0,USD,330
+m2,mediana_precio_m2,15.62,USD,272
+m2,area_mediana_m2,120.0,m2,272
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,330
+habitaciones,1,1325.0,USD,137
+habitaciones,2,2200.0,USD,101
+habitaciones,3+,3400.0,USD,90
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo/piantini,,
+fuente,licencia,CC BY 4.0,,

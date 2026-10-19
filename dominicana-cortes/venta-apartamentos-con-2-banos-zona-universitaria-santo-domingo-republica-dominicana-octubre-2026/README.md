@@ -1,0 +1,21 @@
+# Precio de venta de apartamentos con 2 baños en Zona Universitaria, Santo Domingo (República Dominicana) — octubre 2026
+
+USD 215.000 es el precio mediano de apartamentos con 2 baños en venta en Zona Universitaria, Santo Domingo (República Dominicana) (n = 31 avisos).
+
+Eso es 14 % más que la mediana de todos los apartamentos en venta de Zona Universitaria (USD 188.000, n = 53); este segmento reúne el 58 % de esos avisos.
+
+El área mediana anunciada es 112 m².
+
+El segmento con más oferta es el de 2 habitaciones (24 avisos, mediana USD 193.500); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +23 %.
+
+La mediana de todos los apartamentos en venta de Santo Domingo es USD 240.000 (−10 % de diferencia).
+
+La mitad central de los avisos va de USD 173.765 a USD 236.000 (razón 1,4), una dispersión baja.
+
+- n = 31 avisos vigentes · datos del 2026-10-18 · moneda USD
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/do/venta/santo-domingo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de República Dominicana, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en USD, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `venta-apartamentos-con-2-banos-zona-universitaria-santo-domingo-republica-dominicana-octubre-2026.pdf`, `venta-apartamentos-con-2-banos-zona-universitaria-santo-domingo-republica-dominicana-octubre-2026.csv`, `venta-apartamentos-con-2-banos-zona-universitaria-santo-domingo-republica-dominicana-octubre-2026.png`.

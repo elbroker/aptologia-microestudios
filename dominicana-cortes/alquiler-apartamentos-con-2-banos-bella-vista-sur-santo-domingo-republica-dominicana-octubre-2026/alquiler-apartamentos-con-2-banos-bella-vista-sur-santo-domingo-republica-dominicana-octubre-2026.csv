@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,44
+precio,p25,1337.5,USD,44
+precio,mediana,1500.0,USD,44
+precio,p75,1825.0,USD,44
+precio,minimo,750.0,USD,44
+precio,maximo,2800.0,USD,44
+m2,mediana_precio_m2,14.15,USD,38
+m2,area_mediana_m2,120.0,m2,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+habitaciones,1,1200.0,USD,6
+habitaciones,2,1500.0,USD,31
+habitaciones,3+,1700.0,USD,7
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo/bella-vista-sur,,
+fuente,licencia,CC BY 4.0,,

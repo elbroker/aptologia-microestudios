@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,102
+precio,p25,195750.0,USD,102
+precio,mediana,253500.0,USD,102
+precio,p75,302950.0,USD,102
+precio,minimo,129900.0,USD,102
+precio,maximo,650000.0,USD,102
+m2,mediana_precio_m2,2324.93,USD,86
+m2,area_mediana_m2,114.5,m2,86
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,1,170000.0,USD,15
+habitaciones,2,253500.0,USD,70
+habitaciones,3+,302950.0,USD,17
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/la-esperilla,,
+fuente,licencia,CC BY 4.0,,
