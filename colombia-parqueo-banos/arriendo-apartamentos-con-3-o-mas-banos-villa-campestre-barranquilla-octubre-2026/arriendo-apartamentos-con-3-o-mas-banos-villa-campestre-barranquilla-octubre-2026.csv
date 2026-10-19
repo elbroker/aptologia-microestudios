@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,45
+precio,p25,3250000.0,COP,45
+precio,mediana,3850000.0,COP,45
+precio,p75,5000000.0,COP,45
+precio,minimo,1493000.0,COP,45
+precio,maximo,10000000.0,COP,45
+m2,mediana_precio_m2,38775.51,COP,45
+m2,area_mediana_m2,102.0,m2,45
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,2,3850000.0,COP,5
+habitaciones,3+,3900000.0,COP,40
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/villa-campestre,,
+fuente,licencia,CC BY 4.0,,

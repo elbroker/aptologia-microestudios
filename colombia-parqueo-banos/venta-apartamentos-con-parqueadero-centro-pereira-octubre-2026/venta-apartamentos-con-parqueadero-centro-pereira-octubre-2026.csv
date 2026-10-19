@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,145
+precio,p25,320000000.0,COP,145
+precio,mediana,420000000.0,COP,145
+precio,p75,550000000.0,COP,145
+precio,minimo,170000000.0,COP,145
+precio,maximo,1200000000.0,COP,145
+m2,mediana_precio_m2,3779527.56,COP,134
+m2,area_mediana_m2,118.0,m2,134
+admin,mediana_admin_mes,602350.0,COP,120
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,145
+estrato,estrato_mas_frecuente,5,,145
+habitaciones,1,230000000.0,COP,6
+habitaciones,2,290000000.0,COP,17
+habitaciones,3+,450000000.0,COP,122
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,40
+precio,p25,7000000.0,COP,40
+precio,mediana,9350000.0,COP,40
+precio,p75,11500000.0,COP,40
+precio,minimo,4700000.0,COP,40
+precio,maximo,20000000.0,COP,40
+m2,mediana_precio_m2,61190.48,COP,40
+m2,area_mediana_m2,153.5,m2,40
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,95.0,%,40
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,2,9625000.0,COP,6
+habitaciones,3+,9500000.0,COP,33
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/provenza,,
+fuente,licencia,CC BY 4.0,,

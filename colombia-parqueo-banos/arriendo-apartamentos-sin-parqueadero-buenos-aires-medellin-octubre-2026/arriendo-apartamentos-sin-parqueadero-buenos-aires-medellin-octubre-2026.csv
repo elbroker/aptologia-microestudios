@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin parqueadero",,52
+precio,p25,1500000.0,COP,52
+precio,mediana,1725000.0,COP,52
+precio,p75,2262500.0,COP,52
+precio,minimo,900000.0,COP,52
+precio,maximo,4500000.0,COP,52
+m2,mediana_precio_m2,30645.16,COP,51
+m2,area_mediana_m2,55.0,m2,51
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,52
+estrato,estrato_mas_frecuente,3,,51
+habitaciones,1,1800000.0,COP,5
+habitaciones,2,1600000.0,COP,33
+habitaciones,3+,2185000.0,COP,14
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/buenos-aires,,
+fuente,licencia,CC BY 4.0,,

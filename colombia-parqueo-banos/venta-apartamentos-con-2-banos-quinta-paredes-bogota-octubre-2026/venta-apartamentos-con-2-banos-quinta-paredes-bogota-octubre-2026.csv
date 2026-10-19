@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,80
+precio,p25,500000000.0,COP,80
+precio,mediana,594000000.0,COP,80
+precio,p75,741867000.0,COP,80
+precio,minimo,330770000.0,COP,80
+precio,maximo,1639325000.0,COP,80
+m2,mediana_precio_m2,8571295.0,COP,78
+m2,area_mediana_m2,75.0,m2,78
+admin,mediana_admin_mes,500000.0,COP,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.5,%,79
+estrato,estrato_mas_frecuente,4,,78
+habitaciones,1,515000000.0,COP,10
+habitaciones,2,629424000.0,COP,31
+habitaciones,3+,600000000.0,COP,39
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/quinta-paredes,,
+fuente,licencia,CC BY 4.0,,

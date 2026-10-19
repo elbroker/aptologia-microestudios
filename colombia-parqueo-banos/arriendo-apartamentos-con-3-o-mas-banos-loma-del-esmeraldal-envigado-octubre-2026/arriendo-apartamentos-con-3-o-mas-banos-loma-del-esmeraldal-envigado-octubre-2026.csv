@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,128
+precio,p25,4900000.0,COP,128
+precio,mediana,6000000.0,COP,128
+precio,p75,7825000.0,COP,128
+precio,minimo,3700000.0,COP,128
+precio,maximo,20000000.0,COP,128
+m2,mediana_precio_m2,53734.5,COP,128
+m2,area_mediana_m2,114.5,m2,128
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,126
+estrato,estrato_mas_frecuente,5,,128
+habitaciones,2,4800000.0,COP,33
+habitaciones,3+,6500000.0,COP,95
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

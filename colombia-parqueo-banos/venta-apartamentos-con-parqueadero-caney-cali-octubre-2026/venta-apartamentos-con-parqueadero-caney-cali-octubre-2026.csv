@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,101
+precio,p25,227000000.0,COP,101
+precio,mediana,300000000.0,COP,101
+precio,p75,380000000.0,COP,101
+precio,minimo,160000000.0,COP,101
+precio,maximo,2200000000.0,COP,101
+m2,mediana_precio_m2,4125420.88,COP,100
+m2,area_mediana_m2,75.0,m2,100
+admin,mediana_admin_mes,407000.0,COP,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,101
+estrato,estrato_mas_frecuente,4,,101
+habitaciones,2,211000000.0,COP,24
+habitaciones,3+,340000000.0,COP,76
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

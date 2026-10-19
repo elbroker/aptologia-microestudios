@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,390
+precio,p25,1000000.0,COP,390
+precio,mediana,1300000.0,COP,390
+precio,p75,1800000.0,COP,390
+precio,minimo,850000.0,COP,390
+precio,maximo,12500000.0,COP,390
+m2,mediana_precio_m2,25490.2,COP,331
+m2,area_mediana_m2,55.0,m2,331
+admin,mediana_admin_mes,247000.0,COP,28
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,54.5,%,244
+estrato,estrato_mas_frecuente,3,,389
+habitaciones,1,1800000.0,COP,133
+habitaciones,2,1190000.0,COP,180
+habitaciones,3+,1100000.0,COP,77
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

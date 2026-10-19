@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,120
+precio,p25,1650000.0,COP,120
+precio,mediana,1950000.0,COP,120
+precio,p75,2750000.0,COP,120
+precio,minimo,1350000.0,COP,120
+precio,maximo,4500000.0,COP,120
+m2,mediana_precio_m2,34606.06,COP,120
+m2,area_mediana_m2,65.0,m2,120
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.6,%,87
+estrato,estrato_mas_frecuente,4,,119
+habitaciones,1,2300000.0,COP,5
+habitaciones,2,1800000.0,COP,62
+habitaciones,3+,2450000.0,COP,53
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

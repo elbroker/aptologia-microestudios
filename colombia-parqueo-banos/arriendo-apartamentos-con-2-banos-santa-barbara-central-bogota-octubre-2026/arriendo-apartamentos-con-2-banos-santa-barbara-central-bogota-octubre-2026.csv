@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,45
+precio,p25,3500000.0,COP,45
+precio,mediana,4000000.0,COP,45
+precio,p75,5200000.0,COP,45
+precio,minimo,2400000.0,COP,45
+precio,maximo,7000000.0,COP,45
+m2,mediana_precio_m2,51960.78,COP,45
+m2,area_mediana_m2,80.0,m2,45
+admin,mediana_admin_mes,692000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,1,3403500.0,COP,8
+habitaciones,2,4294000.0,COP,27
+habitaciones,3+,4649500.0,COP,10
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-barbara-central,,
+fuente,licencia,CC BY 4.0,,

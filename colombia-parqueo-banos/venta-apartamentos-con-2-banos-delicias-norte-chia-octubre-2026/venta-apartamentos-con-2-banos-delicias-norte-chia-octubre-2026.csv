@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,35
+precio,p25,390000000.0,COP,35
+precio,mediana,420000000.0,COP,35
+precio,p75,495000000.0,COP,35
+precio,minimo,218000000.0,COP,35
+precio,maximo,580000000.0,COP,35
+m2,mediana_precio_m2,5642105.26,COP,35
+m2,area_mediana_m2,75.0,m2,35
+admin,mediana_admin_mes,486500.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,1,322500000.0,COP,6
+habitaciones,2,415000000.0,COP,11
+habitaciones,3+,495000000.0,COP,18
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,5529411.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/chia/delicias-norte,,
+fuente,licencia,CC BY 4.0,,

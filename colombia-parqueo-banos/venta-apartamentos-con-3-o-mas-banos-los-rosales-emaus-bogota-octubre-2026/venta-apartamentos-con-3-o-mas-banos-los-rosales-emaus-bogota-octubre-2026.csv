@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,45
+precio,p25,1500000000.0,COP,45
+precio,mediana,1700000000.0,COP,45
+precio,p75,2310000000.0,COP,45
+precio,minimo,920000000.0,COP,45
+precio,maximo,3800000000.0,COP,45
+m2,mediana_precio_m2,8333333.33,COP,45
+m2,area_mediana_m2,212.2,m2,45
+admin,mediana_admin_mes,1900000.0,COP,43
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,2,2250000000.0,COP,7
+habitaciones,3+,1700000000.0,COP,38
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/los-rosales-emaus,,
+fuente,licencia,CC BY 4.0,,

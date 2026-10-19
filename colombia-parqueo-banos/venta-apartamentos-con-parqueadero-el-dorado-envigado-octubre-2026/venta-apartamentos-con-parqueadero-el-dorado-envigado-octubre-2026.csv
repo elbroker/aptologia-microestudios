@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,32
+precio,p25,517500000.0,COP,32
+precio,mediana,575000000.0,COP,32
+precio,p75,680000000.0,COP,32
+precio,minimo,285000000.0,COP,32
+precio,maximo,1350000000.0,COP,32
+m2,mediana_precio_m2,6500000.0,COP,31
+m2,area_mediana_m2,89.0,m2,31
+admin,mediana_admin_mes,315000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,665000000.0,COP,6
+habitaciones,3+,560000000.0,COP,25
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-dorado,,
+fuente,licencia,CC BY 4.0,,

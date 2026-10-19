@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,47
+precio,p25,1600000.0,COP,47
+precio,mediana,2000000.0,COP,47
+precio,p75,2830000.0,COP,47
+precio,minimo,1340000.0,COP,47
+precio,maximo,3740000.0,COP,47
+m2,mediana_precio_m2,30060.24,COP,44
+m2,area_mediana_m2,80.0,m2,44
+admin,mediana_admin_mes,385000.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+estrato,estrato_mas_frecuente,4,,47
+habitaciones,1,1600000.0,COP,9
+habitaciones,2,1950000.0,COP,22
+habitaciones,3+,2650000.0,COP,16
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

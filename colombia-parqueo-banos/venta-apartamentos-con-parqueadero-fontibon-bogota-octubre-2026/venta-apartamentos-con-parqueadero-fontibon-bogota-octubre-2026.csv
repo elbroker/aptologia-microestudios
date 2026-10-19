@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,159
+precio,p25,350000000.0,COP,159
+precio,mediana,450000000.0,COP,159
+precio,p75,586500000.0,COP,159
+precio,minimo,150000000.0,COP,159
+precio,maximo,1712000000.0,COP,159
+m2,mediana_precio_m2,6801948.05,COP,156
+m2,area_mediana_m2,65.0,m2,156
+admin,mediana_admin_mes,330000.0,COP,124
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,159
+estrato,estrato_mas_frecuente,4,,146
+habitaciones,1,267500000.0,COP,8
+habitaciones,2,374500000.0,COP,42
+habitaciones,3+,500000000.0,COP,109
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/fontibon,,
+fuente,licencia,CC BY 4.0,,

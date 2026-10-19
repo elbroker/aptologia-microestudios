@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,81
+precio,p25,570000000.0,COP,81
+precio,mediana,698000000.0,COP,81
+precio,p75,780000000.0,COP,81
+precio,minimo,250000000.0,COP,81
+precio,maximo,1400000000.0,COP,81
+m2,mediana_precio_m2,7672413.79,COP,79
+m2,area_mediana_m2,94.0,m2,79
+admin,mediana_admin_mes,466740.0,COP,68
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,81
+estrato,estrato_mas_frecuente,5,,81
+habitaciones,1,347000000.0,COP,14
+habitaciones,2,620000000.0,COP,27
+habitaciones,3+,780000000.0,COP,40
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-castellana,,
+fuente,licencia,CC BY 4.0,,

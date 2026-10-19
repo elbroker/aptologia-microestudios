@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,35
+precio,p25,360000000.0,COP,35
+precio,mediana,470000000.0,COP,35
+precio,p75,650000000.0,COP,35
+precio,minimo,278000000.0,COP,35
+precio,maximo,1380000000.0,COP,35
+m2,mediana_precio_m2,3800000.0,COP,35
+m2,area_mediana_m2,130.0,m2,35
+admin,mediana_admin_mes,504000.0,COP,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,470000000.0,COP,35
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/la-floresta,,
+fuente,licencia,CC BY 4.0,,

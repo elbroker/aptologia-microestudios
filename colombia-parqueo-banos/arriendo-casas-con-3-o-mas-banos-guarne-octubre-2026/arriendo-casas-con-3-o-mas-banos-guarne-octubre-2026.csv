@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,49
+precio,p25,7000000.0,COP,49
+precio,mediana,8500000.0,COP,49
+precio,p75,14400000.0,COP,49
+precio,minimo,3000000.0,COP,49
+precio,maximo,27000000.0,COP,49
+m2,mediana_precio_m2,32600.0,COP,44
+m2,area_mediana_m2,300.0,m2,44
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,5,,46
+habitaciones,3+,8500000.0,COP,48
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/datos-abiertos,,
+fuente,licencia,CC BY 4.0,,

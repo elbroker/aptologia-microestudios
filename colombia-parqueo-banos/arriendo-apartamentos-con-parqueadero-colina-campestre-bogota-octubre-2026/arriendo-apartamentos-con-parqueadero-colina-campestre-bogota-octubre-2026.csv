@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,123
+precio,p25,2713500.0,COP,123
+precio,mediana,3600000.0,COP,123
+precio,p75,4500000.0,COP,123
+precio,minimo,1500000.0,COP,123
+precio,maximo,13000000.0,COP,123
+m2,mediana_precio_m2,41571.97,COP,122
+m2,area_mediana_m2,88.0,m2,122
+admin,mediana_admin_mes,503000.0,COP,55
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,123
+estrato,estrato_mas_frecuente,4,,122
+habitaciones,1,2450000.0,COP,11
+habitaciones,2,2753500.0,COP,20
+habitaciones,3+,3970000.0,COP,91
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

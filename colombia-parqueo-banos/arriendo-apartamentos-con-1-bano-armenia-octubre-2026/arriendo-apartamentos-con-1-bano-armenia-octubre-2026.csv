@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,47
+precio,p25,1300000.0,COP,47
+precio,mediana,1600000.0,COP,47
+precio,p75,1900000.0,COP,47
+precio,minimo,850000.0,COP,47
+precio,maximo,3500000.0,COP,47
+m2,mediana_precio_m2,30833.33,COP,47
+m2,area_mediana_m2,50.0,m2,47
+admin,mediana_admin_mes,250000.0,COP,16
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,80.0,%,35
+estrato,estrato_mas_frecuente,3,,46
+habitaciones,1,2025000.0,COP,10
+habitaciones,2,1745000.0,COP,31
+habitaciones,3+,1475000.0,COP,6
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/armenia,,
+fuente,licencia,CC BY 4.0,,

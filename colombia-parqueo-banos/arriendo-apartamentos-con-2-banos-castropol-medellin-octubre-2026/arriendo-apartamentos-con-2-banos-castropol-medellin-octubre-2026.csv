@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,230
+precio,p25,3800000.0,COP,230
+precio,mediana,4500000.0,COP,230
+precio,p75,5500000.0,COP,230
+precio,minimo,1850000.0,COP,230
+precio,maximo,11111111.0,COP,230
+m2,mediana_precio_m2,52439.02,COP,229
+m2,area_mediana_m2,87.0,m2,229
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.8,%,229
+estrato,estrato_mas_frecuente,6,,229
+habitaciones,1,4100000.0,COP,5
+habitaciones,2,4200000.0,COP,94
+habitaciones,3+,5000000.0,COP,131
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

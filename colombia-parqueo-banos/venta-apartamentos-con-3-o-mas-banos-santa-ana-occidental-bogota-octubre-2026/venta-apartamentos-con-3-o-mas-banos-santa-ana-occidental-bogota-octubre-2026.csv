@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,45
+precio,p25,850000000.0,COP,45
+precio,mediana,1380000000.0,COP,45
+precio,p75,1850000000.0,COP,45
+precio,minimo,560000000.0,COP,45
+precio,maximo,2500000000.0,COP,45
+m2,mediana_precio_m2,9019607.84,COP,45
+m2,area_mediana_m2,150.0,m2,45
+admin,mediana_admin_mes,1150000.0,COP,43
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,3+,1415000000.0,COP,40
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-ana-occidental,,
+fuente,licencia,CC BY 4.0,,

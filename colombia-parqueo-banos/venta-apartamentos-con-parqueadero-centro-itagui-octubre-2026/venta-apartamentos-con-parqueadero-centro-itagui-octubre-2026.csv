@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,32
+precio,p25,474250000.0,COP,32
+precio,mediana,505000000.0,COP,32
+precio,p75,561250000.0,COP,32
+precio,minimo,400000000.0,COP,32
+precio,maximo,640000000.0,COP,32
+m2,mediana_precio_m2,8270785.66,COP,32
+m2,area_mediana_m2,63.0,m2,32
+admin,mediana_admin_mes,330000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,2,478500000.0,COP,16
+habitaciones,3+,554950000.0,COP,16
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/centro,,
+fuente,licencia,CC BY 4.0,,

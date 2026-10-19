@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,32
+precio,p25,352500000.0,COP,32
+precio,mediana,430000000.0,COP,32
+precio,p75,532500000.0,COP,32
+precio,minimo,190000000.0,COP,32
+precio,maximo,830000000.0,COP,32
+m2,mediana_precio_m2,6817460.32,COP,32
+m2,area_mediana_m2,65.0,m2,32
+admin,mediana_admin_mes,413561.5,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,1,395000000.0,COP,5
+habitaciones,2,435000000.0,COP,12
+habitaciones,3+,515000000.0,COP,15
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/barrancas-norte,,
+fuente,licencia,CC BY 4.0,,

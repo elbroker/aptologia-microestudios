@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,341
+precio,p25,350000000.0,COP,341
+precio,mediana,520000000.0,COP,341
+precio,p75,620000000.0,COP,341
+precio,minimo,217000000.0,COP,341
+precio,maximo,3000000000.0,COP,341
+m2,mediana_precio_m2,7500000.0,COP,340
+m2,area_mediana_m2,65.0,m2,340
+admin,mediana_admin_mes,290000.0,COP,197
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,341
+estrato,estrato_mas_frecuente,4,,313
+habitaciones,1,460000000.0,COP,14
+habitaciones,2,530000000.0,COP,195
+habitaciones,3+,535000000.0,COP,132
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

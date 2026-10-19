@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin parqueadero",,30
+precio,p25,170000000.0,COP,30
+precio,mediana,176000000.0,COP,30
+precio,p75,200000000.0,COP,30
+precio,minimo,164000000.0,COP,30
+precio,maximo,300000000.0,COP,30
+m2,mediana_precio_m2,3633725.49,COP,30
+m2,area_mediana_m2,50.0,m2,30
+admin,mediana_admin_mes,118177.5,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,30
+estrato,estrato_mas_frecuente,3,,30
+habitaciones,2,176000000.0,COP,19
+habitaciones,3+,186500000.0,COP,10
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-guabinas,,
+fuente,licencia,CC BY 4.0,,

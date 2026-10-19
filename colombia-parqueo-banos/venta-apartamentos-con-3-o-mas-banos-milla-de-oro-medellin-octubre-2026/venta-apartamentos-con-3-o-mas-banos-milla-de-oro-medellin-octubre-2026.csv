@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,80
+precio,p25,1200000000.0,COP,80
+precio,mediana,1500000000.0,COP,80
+precio,p75,1768125000.0,COP,80
+precio,minimo,850000000.0,COP,80
+precio,maximo,3016000000.0,COP,80
+m2,mediana_precio_m2,7830687.83,COP,67
+m2,area_mediana_m2,172.5,m2,67
+admin,mediana_admin_mes,1100000.0,COP,49
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,80
+estrato,estrato_mas_frecuente,6,,80
+habitaciones,2,1400000000.0,COP,13
+habitaciones,3+,1500000000.0,COP,67
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/milla-de-oro,,
+fuente,licencia,CC BY 4.0,,

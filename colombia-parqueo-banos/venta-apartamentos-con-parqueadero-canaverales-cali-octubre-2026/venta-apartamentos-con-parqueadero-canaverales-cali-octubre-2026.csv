@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,31
+precio,p25,192500000.0,COP,31
+precio,mediana,240000000.0,COP,31
+precio,p75,281000000.0,COP,31
+precio,minimo,165000000.0,COP,31
+precio,maximo,1050000000.0,COP,31
+m2,mediana_precio_m2,3982300.88,COP,31
+m2,area_mediana_m2,60.0,m2,31
+admin,mediana_admin_mes,250000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,3+,245000000.0,COP,27
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/canaverales,,
+fuente,licencia,CC BY 4.0,,

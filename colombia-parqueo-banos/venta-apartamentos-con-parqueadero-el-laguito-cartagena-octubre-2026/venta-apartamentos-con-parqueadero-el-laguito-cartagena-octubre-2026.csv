@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,144
+precio,p25,650000000.0,COP,144
+precio,mediana,825000000.0,COP,144
+precio,p75,960000000.0,COP,144
+precio,minimo,360000000.0,COP,144
+precio,maximo,3500000000.0,COP,144
+m2,mediana_precio_m2,8888888.89,COP,143
+m2,area_mediana_m2,95.0,m2,143
+admin,mediana_admin_mes,800000.0,COP,120
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,144
+estrato,estrato_mas_frecuente,6,,143
+habitaciones,1,470000000.0,COP,34
+habitaciones,2,820000000.0,COP,58
+habitaciones,3+,980000000.0,COP,51
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin parqueadero",,54
+precio,p25,2050000.0,COP,54
+precio,mediana,2500000.0,COP,54
+precio,p75,3075000.0,COP,54
+precio,minimo,1400000.0,COP,54
+precio,maximo,11111111.0,COP,54
+m2,mediana_precio_m2,33503.4,COP,52
+m2,area_mediana_m2,71.5,m2,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,54
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,1,2400000.0,COP,6
+habitaciones,2,2200000.0,COP,19
+habitaciones,3+,2800000.0,COP,29
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

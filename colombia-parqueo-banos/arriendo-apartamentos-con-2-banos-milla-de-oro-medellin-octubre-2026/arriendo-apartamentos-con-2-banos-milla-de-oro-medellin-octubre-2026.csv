@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,32
+precio,p25,4500000.0,COP,32
+precio,mediana,5700000.0,COP,32
+precio,p75,7550000.0,COP,32
+precio,minimo,2500000.0,COP,32
+precio,maximo,16000000.0,COP,32
+m2,mediana_precio_m2,61186.19,COP,32
+m2,area_mediana_m2,90.0,m2,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,32
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,1,4500000.0,COP,7
+habitaciones,2,5800000.0,COP,17
+habitaciones,3+,6600000.0,COP,8
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/milla-de-oro,,
+fuente,licencia,CC BY 4.0,,

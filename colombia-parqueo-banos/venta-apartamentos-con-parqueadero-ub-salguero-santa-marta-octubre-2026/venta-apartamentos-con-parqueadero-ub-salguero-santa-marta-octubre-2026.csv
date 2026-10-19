@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con parqueadero",,83
+precio,p25,640000000.0,COP,83
+precio,mediana,780000000.0,COP,83
+precio,p75,960000000.0,COP,83
+precio,minimo,385000000.0,COP,83
+precio,maximo,3600000000.0,COP,83
+m2,mediana_precio_m2,9780844.16,COP,82
+m2,area_mediana_m2,84.0,m2,82
+admin,mediana_admin_mes,615000.0,COP,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,83
+estrato,estrato_mas_frecuente,6,,81
+habitaciones,1,600000000.0,COP,21
+habitaciones,2,825000000.0,COP,45
+habitaciones,3+,1077000000.0,COP,16
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/ub-salguero,,
+fuente,licencia,CC BY 4.0,,

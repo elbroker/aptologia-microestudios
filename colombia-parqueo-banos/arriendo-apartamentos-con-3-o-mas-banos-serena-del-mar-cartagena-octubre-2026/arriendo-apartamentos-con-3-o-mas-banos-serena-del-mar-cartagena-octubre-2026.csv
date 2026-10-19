@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,48
+precio,p25,3500000.0,COP,48
+precio,mediana,4050000.0,COP,48
+precio,p75,7700000.0,COP,48
+precio,minimo,2500000.0,COP,48
+precio,maximo,20000000.0,COP,48
+m2,mediana_precio_m2,47722.72,COP,48
+m2,area_mediana_m2,99.0,m2,48
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,2,3600000.0,COP,24
+habitaciones,3+,7040000.0,COP,24
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/serena-del-mar,,
+fuente,licencia,CC BY 4.0,,

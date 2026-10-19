@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin parqueadero",,195
+precio,p25,2600000.0,COP,195
+precio,mediana,3200000.0,COP,195
+precio,p75,4150000.0,COP,195
+precio,minimo,1050000.0,COP,195
+precio,maximo,11111111.0,COP,195
+m2,mediana_precio_m2,42539.68,COP,186
+m2,area_mediana_m2,79.0,m2,186
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,195
+estrato,estrato_mas_frecuente,5,,195
+habitaciones,1,2500000.0,COP,45
+habitaciones,2,3100000.0,COP,64
+habitaciones,3+,3600000.0,COP,84
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

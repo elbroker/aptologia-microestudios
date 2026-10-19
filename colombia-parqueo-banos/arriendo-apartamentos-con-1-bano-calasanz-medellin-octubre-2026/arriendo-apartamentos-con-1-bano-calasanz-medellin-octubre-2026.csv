@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,42
+precio,p25,1800000.0,COP,42
+precio,mediana,2100000.0,COP,42
+precio,p75,2700000.0,COP,42
+precio,minimo,1000000.0,COP,42
+precio,maximo,3600000.0,COP,42
+m2,mediana_precio_m2,43750.0,COP,39
+m2,area_mediana_m2,50.0,m2,39
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,42
+habitaciones,1,1800000.0,COP,11
+habitaciones,2,2450000.0,COP,26
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,
