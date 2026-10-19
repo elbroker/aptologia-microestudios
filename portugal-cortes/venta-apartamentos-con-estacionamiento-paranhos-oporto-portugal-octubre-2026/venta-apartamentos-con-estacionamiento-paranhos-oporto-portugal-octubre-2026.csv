@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,57
+precio,p25,325000.0,EUR,57
+precio,mediana,380000.0,EUR,57
+precio,p75,449801.0,EUR,57
+precio,minimo,217500.0,EUR,57
+precio,maximo,950000.0,EUR,57
+m2,mediana_precio_m2,4836.84,EUR,57
+m2,area_mediana_m2,81.0,m2,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+habitaciones,1,249900.0,EUR,11
+habitaciones,2,380000.0,EUR,33
+habitaciones,3+,449900.0,EUR,13
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto/paranhos,,
+fuente,licencia,CC BY 4.0,,

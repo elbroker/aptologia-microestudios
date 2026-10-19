@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,63
+precio,p25,740000.0,EUR,63
+precio,mediana,1180000.0,EUR,63
+precio,p75,1602850.0,EUR,63
+precio,minimo,425000.0,EUR,63
+precio,maximo,2580000.0,EUR,63
+m2,mediana_precio_m2,9923.08,EUR,61
+m2,area_mediana_m2,117.0,m2,61
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,63
+habitaciones,1,640000.0,EUR,13
+habitaciones,2,1139820.0,EUR,22
+habitaciones,3+,1525000.0,EUR,28
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/avenidas-novas,,
+fuente,licencia,CC BY 4.0,,

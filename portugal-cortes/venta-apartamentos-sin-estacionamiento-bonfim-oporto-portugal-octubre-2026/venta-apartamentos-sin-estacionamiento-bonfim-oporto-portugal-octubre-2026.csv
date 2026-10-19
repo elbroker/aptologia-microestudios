@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin estacionamiento",,41
+precio,p25,275000.0,EUR,41
+precio,mediana,315000.0,EUR,41
+precio,p75,420000.0,EUR,41
+precio,minimo,235000.0,EUR,41
+precio,maximo,980000.0,EUR,41
+m2,mediana_precio_m2,4702.38,EUR,41
+m2,area_mediana_m2,75.0,m2,41
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,41
+habitaciones,1,275500.0,EUR,20
+habitaciones,2,385000.0,EUR,14
+habitaciones,3+,415000.0,EUR,7
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto/bonfim,,
+fuente,licencia,CC BY 4.0,,

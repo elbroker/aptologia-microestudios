@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,133
+precio,p25,686000.0,EUR,133
+precio,mediana,831000.0,EUR,133
+precio,p75,1008960.0,EUR,133
+precio,minimo,399000.0,EUR,133
+precio,maximo,1759000.0,EUR,133
+m2,mediana_precio_m2,7242.42,EUR,133
+m2,area_mediana_m2,122.0,m2,133
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,133
+habitaciones,1,500000.0,EUR,9
+habitaciones,2,685000.0,EUR,29
+habitaciones,3+,910000.0,EUR,95
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/lumiar,,
+fuente,licencia,CC BY 4.0,,

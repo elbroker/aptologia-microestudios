@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,40
+precio,p25,893750.0,EUR,40
+precio,mediana,1197500.0,EUR,40
+precio,p75,1685000.0,EUR,40
+precio,minimo,530000.0,EUR,40
+precio,maximo,2750000.0,EUR,40
+m2,mediana_precio_m2,11226.42,EUR,34
+m2,area_mediana_m2,105.5,m2,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+habitaciones,1,885000.0,EUR,12
+habitaciones,2,1132500.0,EUR,12
+habitaciones,3+,1775000.0,EUR,16
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/santo-antonio,,
+fuente,licencia,CC BY 4.0,,

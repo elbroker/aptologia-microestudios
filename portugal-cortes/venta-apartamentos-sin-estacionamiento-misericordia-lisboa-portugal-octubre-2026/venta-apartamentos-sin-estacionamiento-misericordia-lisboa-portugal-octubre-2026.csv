@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq0,"sin estacionamiento",,95
+precio,p25,412000.0,EUR,95
+precio,mediana,560000.0,EUR,95
+precio,p75,759000.0,EUR,95
+precio,minimo,235000.0,EUR,95
+precio,maximo,2750000.0,EUR,95
+m2,mediana_precio_m2,7821.16,EUR,90
+m2,area_mediana_m2,72.5,m2,90
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,95
+habitaciones,1,355000.0,EUR,27
+habitaciones,2,590000.0,EUR,45
+habitaciones,3+,795000.0,EUR,23
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/misericordia,,
+fuente,licencia,CC BY 4.0,,

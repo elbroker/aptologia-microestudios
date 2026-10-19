@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,41
+precio,p25,810000.0,EUR,41
+precio,mediana,950000.0,EUR,41
+precio,p75,1595000.0,EUR,41
+precio,minimo,515000.0,EUR,41
+precio,maximo,2600000.0,EUR,41
+m2,mediana_precio_m2,9040.59,EUR,39
+m2,area_mediana_m2,115.0,m2,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,1,588000.0,EUR,13
+habitaciones,2,947500.0,EUR,16
+habitaciones,3+,1835000.0,EUR,12
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/estrela,,
+fuente,licencia,CC BY 4.0,,

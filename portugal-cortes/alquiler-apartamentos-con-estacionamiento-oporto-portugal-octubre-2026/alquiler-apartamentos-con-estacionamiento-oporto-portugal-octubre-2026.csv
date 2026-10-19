@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,33
+precio,p25,1200.0,EUR,33
+precio,mediana,1500.0,EUR,33
+precio,p75,1950.0,EUR,33
+precio,minimo,930.0,EUR,33
+precio,maximo,7500.0,EUR,33
+m2,mediana_precio_m2,16.07,EUR,33
+m2,area_mediana_m2,103.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,1,1140.0,EUR,10
+habitaciones,2,1600.0,EUR,13
+habitaciones,3+,2175.0,EUR,10
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/arrendamento/porto,,
+fuente,licencia,CC BY 4.0,,
