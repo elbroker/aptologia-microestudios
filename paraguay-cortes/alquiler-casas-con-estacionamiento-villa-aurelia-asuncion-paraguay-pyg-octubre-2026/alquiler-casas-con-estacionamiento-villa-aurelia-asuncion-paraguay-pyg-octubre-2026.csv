@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,55
+precio,p25,5750000.0,PYG,55
+precio,mediana,9000000.0,PYG,55
+precio,p75,16250000.0,PYG,55
+precio,minimo,3800000.0,PYG,55
+precio,maximo,25000000.0,PYG,55
+m2,mediana_precio_m2,40064.1,PYG,48
+m2,area_mediana_m2,290.0,m2,48
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+habitaciones,2,5000000.0,PYG,8
+habitaciones,3+,10000000.0,PYG,47
+ciudad,mediana_ciudad_referencia,8500000.0,PYG,
+ciudad,mediana_m2_ciudad,34285.71,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/villa-aurelia,,
+fuente,licencia,CC BY 4.0,,

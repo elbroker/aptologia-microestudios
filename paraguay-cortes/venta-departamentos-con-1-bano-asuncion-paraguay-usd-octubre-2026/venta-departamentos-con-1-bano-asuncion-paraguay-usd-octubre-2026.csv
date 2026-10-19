@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,1950
+precio,p25,80000.0,USD,1950
+precio,mediana,100000.0,USD,1950
+precio,p75,128759.25,USD,1950
+precio,minimo,42500.0,USD,1950
+precio,maximo,1350000.0,USD,1950
+m2,mediana_precio_m2,1917.16,USD,1598
+m2,area_mediana_m2,52.0,m2,1598
+admin,mediana_admin_mes,80.0,USD,30
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,729
+habitaciones,1,93100.0,USD,1473
+habitaciones,2,138432.0,USD,395
+habitaciones,3+,230000.0,USD,69
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,69
+precio,p25,4000000.0,PYG,69
+precio,mediana,4800000.0,PYG,69
+precio,p75,6000000.0,PYG,69
+precio,minimo,3200000.0,PYG,69
+precio,maximo,11500000.0,PYG,69
+m2,mediana_precio_m2,69230.77,PYG,61
+m2,area_mediana_m2,74.5,m2,61
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+habitaciones,1,4000000.0,PYG,29
+habitaciones,2,5300000.0,PYG,29
+habitaciones,3+,10700000.0,PYG,11
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/jara,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,area3,"de 70 a 100 m²",,65
+precio,p25,1200.0,USD,65
+precio,mediana,1400.0,USD,65
+precio,p75,1500.0,USD,65
+precio,minimo,850.0,USD,65
+precio,maximo,2000.0,USD,65
+m2,mediana_precio_m2,17.14,USD,65
+m2,area_mediana_m2,84.0,m2,65
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+habitaciones,1,1350.0,USD,6
+habitaciones,2,1400.0,USD,57
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,14.12,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/las-lomas,,
+fuente,licencia,CC BY 4.0,,

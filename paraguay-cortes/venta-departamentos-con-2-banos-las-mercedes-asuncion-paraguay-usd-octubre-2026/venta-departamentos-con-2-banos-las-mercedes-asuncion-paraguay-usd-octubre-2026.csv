@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,103
+precio,p25,129020.0,USD,103
+precio,mediana,149500.0,USD,103
+precio,p75,198985.0,USD,103
+precio,minimo,84600.0,USD,103
+precio,maximo,470000.0,USD,103
+m2,mediana_precio_m2,1649.48,USD,83
+m2,area_mediana_m2,97.0,m2,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+habitaciones,1,121189.0,USD,7
+habitaciones,2,141000.0,USD,74
+habitaciones,3+,220000.0,USD,22
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-mercedes,,
+fuente,licencia,CC BY 4.0,,

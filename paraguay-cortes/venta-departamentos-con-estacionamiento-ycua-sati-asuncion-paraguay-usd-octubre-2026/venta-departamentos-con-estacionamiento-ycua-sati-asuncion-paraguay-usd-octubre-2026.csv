@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,152
+precio,p25,117250.0,USD,152
+precio,mediana,176175.0,USD,152
+precio,p75,250000.0,USD,152
+precio,minimo,45950.0,USD,152
+precio,maximo,900000.0,USD,152
+m2,mediana_precio_m2,2181.82,USD,139
+m2,area_mediana_m2,84.0,m2,139
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,152
+habitaciones,1,104392.0,USD,54
+habitaciones,2,210000.0,USD,64
+habitaciones,3+,450000.0,USD,34
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/ycua-sati,,
+fuente,licencia,CC BY 4.0,,

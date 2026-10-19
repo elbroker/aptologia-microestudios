@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,1115
+precio,p25,3700000.0,PYG,1115
+precio,mediana,4500000.0,PYG,1115
+precio,p75,5200000.0,PYG,1115
+precio,minimo,1600000.0,PYG,1115
+precio,maximo,12000000.0,PYG,1115
+m2,mediana_precio_m2,78125.0,PYG,903
+m2,area_mediana_m2,55.0,m2,903
+admin,mediana_admin_mes,200000.0,PYG,23
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,739
+habitaciones,1,4275000.0,PYG,756
+habitaciones,2,5000000.0,PYG,328
+habitaciones,3+,5900000.0,PYG,23
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

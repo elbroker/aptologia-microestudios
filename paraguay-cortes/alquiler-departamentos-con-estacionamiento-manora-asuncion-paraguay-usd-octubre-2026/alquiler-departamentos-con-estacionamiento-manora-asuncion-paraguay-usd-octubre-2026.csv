@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,33
+precio,p25,1150.0,USD,33
+precio,mediana,1200.0,USD,33
+precio,p75,1500.0,USD,33
+precio,minimo,800.0,USD,33
+precio,maximo,4000.0,USD,33
+m2,area_mediana_m2,80.5,m2,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,1,1200.0,USD,15
+habitaciones,2,1550.0,USD,12
+habitaciones,3+,1500.0,USD,6
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,14.12,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/manora,,
+fuente,licencia,CC BY 4.0,,

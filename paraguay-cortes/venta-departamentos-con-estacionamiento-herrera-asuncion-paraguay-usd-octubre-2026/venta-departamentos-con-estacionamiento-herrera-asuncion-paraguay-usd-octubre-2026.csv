@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,72
+precio,p25,102500.0,USD,72
+precio,mediana,136542.5,USD,72
+precio,p75,179375.0,USD,72
+precio,minimo,47900.0,USD,72
+precio,maximo,430000.0,USD,72
+m2,mediana_precio_m2,1609.33,USD,64
+m2,area_mediana_m2,95.0,m2,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+habitaciones,1,84000.0,USD,21
+habitaciones,2,140000.0,USD,33
+habitaciones,3+,274428.5,USD,18
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/herrera,,
+fuente,licencia,CC BY 4.0,,

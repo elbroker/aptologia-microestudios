@@ -1,0 +1,15 @@
+seccion,metrica,valor,moneda,n
+filtro,area1,"de menos de 45 m²",,45
+precio,p25,80000.0,USD,45
+precio,mediana,130000.0,USD,45
+precio,p75,280000.0,USD,45
+precio,minimo,70000.0,USD,45
+precio,maximo,1000000.0,USD,45
+m2,mediana_precio_m2,2429.92,USD,30
+m2,area_mediana_m2,35.0,m2,30
+banos,mediana_banos,1.0,,
+habitaciones,1,83130.5,USD,24
+habitaciones,3+,295000.0,USD,9
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

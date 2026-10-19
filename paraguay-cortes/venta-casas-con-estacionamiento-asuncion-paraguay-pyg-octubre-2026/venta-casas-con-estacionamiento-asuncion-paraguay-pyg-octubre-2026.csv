@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,1097
+precio,p25,800000000.0,PYG,1097
+precio,mediana,1000000000.0,PYG,1097
+precio,p75,1500000000.0,PYG,1097
+precio,minimo,270000000.0,PYG,1097
+precio,maximo,4402000000.0,PYG,1097
+m2,mediana_precio_m2,4166666.67,PYG,1024
+m2,area_mediana_m2,280.0,m2,1024
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,1097
+habitaciones,1,980000000.0,PYG,31
+habitaciones,2,850000000.0,PYG,145
+habitaciones,3+,1100000000.0,PYG,913
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

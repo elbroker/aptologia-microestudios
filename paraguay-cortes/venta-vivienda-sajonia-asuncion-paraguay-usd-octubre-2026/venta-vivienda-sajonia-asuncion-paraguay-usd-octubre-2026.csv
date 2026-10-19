@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+precio,p25,100000.0,USD,105
+precio,mediana,169059.0,USD,105
+precio,p75,220000.0,USD,105
+precio,minimo,49000.0,USD,105
+precio,maximo,950000.0,USD,105
+m2,mediana_precio_m2,1000.0,USD,73
+m2,area_mediana_m2,230.0,m2,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,1,75000.0,USD,13
+habitaciones,2,113126.0,USD,21
+habitaciones,3+,198500.0,USD,44
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

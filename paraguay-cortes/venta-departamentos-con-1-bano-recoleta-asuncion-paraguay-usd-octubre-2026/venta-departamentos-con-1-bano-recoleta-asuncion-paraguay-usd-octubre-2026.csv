@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,222
+precio,p25,78225.0,USD,222
+precio,mediana,94540.0,USD,222
+precio,p75,120186.25,USD,222
+precio,minimo,46000.0,USD,222
+precio,maximo,340000.0,USD,222
+m2,mediana_precio_m2,2050.0,USD,199
+m2,area_mediana_m2,47.0,m2,199
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+habitaciones,1,89500.0,USD,188
+habitaciones,2,135600.0,USD,27
+habitaciones,3+,242450.0,USD,6
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/recoleta,,
+fuente,licencia,CC BY 4.0,,

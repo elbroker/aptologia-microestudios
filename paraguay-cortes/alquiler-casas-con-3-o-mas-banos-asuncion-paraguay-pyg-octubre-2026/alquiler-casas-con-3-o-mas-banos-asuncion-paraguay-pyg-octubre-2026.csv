@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,ban3,"con 3 o más baños",,1058
+precio,p25,7000000.0,PYG,1058
+precio,mediana,10000000.0,PYG,1058
+precio,p75,13500000.0,PYG,1058
+precio,minimo,3500000.0,PYG,1058
+precio,maximo,30000000.0,PYG,1058
+m2,mediana_precio_m2,33333.33,PYG,926
+m2,area_mediana_m2,300.0,m2,926
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,909
+habitaciones,1,12250000.0,PYG,6
+habitaciones,2,6500000.0,PYG,50
+habitaciones,3+,10000000.0,PYG,983
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

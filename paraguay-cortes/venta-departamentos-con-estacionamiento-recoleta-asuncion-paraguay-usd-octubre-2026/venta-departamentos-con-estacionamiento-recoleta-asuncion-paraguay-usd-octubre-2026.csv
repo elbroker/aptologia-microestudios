@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,123
+precio,p25,95520.0,USD,123
+precio,mediana,125000.0,USD,123
+precio,p75,160520.0,USD,123
+precio,minimo,60000.0,USD,123
+precio,maximo,328800.0,USD,123
+m2,mediana_precio_m2,1993.0,USD,113
+m2,area_mediana_m2,65.0,m2,113
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,123
+habitaciones,1,106217.5,USD,66
+habitaciones,2,146704.5,USD,48
+habitaciones,3+,205900.0,USD,9
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/recoleta,,
+fuente,licencia,CC BY 4.0,,

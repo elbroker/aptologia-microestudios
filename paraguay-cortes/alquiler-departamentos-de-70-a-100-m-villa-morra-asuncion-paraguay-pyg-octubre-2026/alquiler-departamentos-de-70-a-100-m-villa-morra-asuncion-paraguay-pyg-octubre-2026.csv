@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,area3,"de 70 a 100 m²",,71
+precio,p25,5500000.0,PYG,71
+precio,mediana,6500000.0,PYG,71
+precio,p75,6900000.0,PYG,71
+precio,minimo,4000000.0,PYG,71
+precio,maximo,9000000.0,PYG,71
+m2,mediana_precio_m2,74444.44,PYG,71
+m2,area_mediana_m2,84.0,m2,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+habitaciones,1,6000000.0,PYG,7
+habitaciones,2,6550000.0,PYG,54
+habitaciones,3+,5500000.0,PYG,7
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/villa-morra,,
+fuente,licencia,CC BY 4.0,,
