@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,ban1,"con 1 baño",,42
+precio,p25,119250.0,USD,42
+precio,mediana,149000.0,USD,42
+precio,p75,225000.0,USD,42
+precio,minimo,69000.0,USD,42
+precio,maximo,350000.0,USD,42
+m2,mediana_precio_m2,1458.33,USD,41
+m2,area_mediana_m2,102.5,m2,41
+banos,mediana_banos,1.0,,
+habitaciones,2,150000.0,USD,21
+habitaciones,3+,149000.0,USD,19
+ciudad,mediana_ciudad_referencia,290000.0,USD,
+ciudad,mediana_m2_ciudad,1568.42,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,
