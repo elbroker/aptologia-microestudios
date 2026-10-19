@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,42
+precio,p25,7249.25,BRL,42
+precio,mediana,10500.0,BRL,42
+precio,p75,13350.0,BRL,42
+precio,minimo,3753.0,BRL,42
+precio,maximo,26000.0,BRL,42
+m2,mediana_precio_m2,133.33,BRL,41
+m2,area_mediana_m2,72.0,m2,41
+admin,mediana_admin_mes,1909.5,BRL,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.6,%,42
+habitaciones,1,9030.0,BRL,22
+habitaciones,2,11500.0,BRL,15
+habitaciones,3+,11500.0,BRL,5
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-nova-conceicao,,
+fuente,licencia,CC BY 4.0,,

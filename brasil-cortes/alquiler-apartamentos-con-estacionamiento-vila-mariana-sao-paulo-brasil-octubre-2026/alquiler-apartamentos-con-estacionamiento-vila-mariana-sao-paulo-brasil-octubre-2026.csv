@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,205
+precio,p25,4200.0,BRL,205
+precio,mediana,6350.0,BRL,205
+precio,p75,10000.0,BRL,205
+precio,minimo,1700.0,BRL,205
+precio,maximo,30000.0,BRL,205
+m2,mediana_precio_m2,72.45,BRL,204
+m2,area_mediana_m2,85.0,m2,204
+admin,mediana_admin_mes,1576.0,BRL,203
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,205
+habitaciones,1,3525.0,BRL,38
+habitaciones,2,6000.0,BRL,75
+habitaciones,3+,9250.0,BRL,92
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-mariana,,
+fuente,licencia,CC BY 4.0,,

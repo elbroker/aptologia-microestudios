@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,ban2,"con 2 baños",,80
+precio,p25,4300.0,BRL,80
+precio,mediana,5685.0,BRL,80
+precio,p75,7350.0,BRL,80
+precio,minimo,2500.0,BRL,80
+precio,maximo,25000.0,BRL,80
+m2,mediana_precio_m2,71.36,BRL,80
+m2,area_mediana_m2,76.0,m2,80
+admin,mediana_admin_mes,1426.0,BRL,79
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.8,%,80
+habitaciones,1,4000.0,BRL,10
+habitaciones,2,6350.0,BRL,41
+habitaciones,3+,5450.0,BRL,29
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-mariana,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,60
+precio,p25,3475.0,BRL,60
+precio,mediana,4500.0,BRL,60
+precio,p75,5656.25,BRL,60
+precio,minimo,1900.0,BRL,60
+precio,maximo,19000.0,BRL,60
+m2,mediana_precio_m2,84.38,BRL,59
+m2,area_mediana_m2,64.5,m2,59
+admin,mediana_admin_mes,1042.5,BRL,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+habitaciones,1,3725.0,BRL,14
+habitaciones,2,5407.5,BRL,20
+habitaciones,3+,4275.0,BRL,26
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/butanta,,
+fuente,licencia,CC BY 4.0,,

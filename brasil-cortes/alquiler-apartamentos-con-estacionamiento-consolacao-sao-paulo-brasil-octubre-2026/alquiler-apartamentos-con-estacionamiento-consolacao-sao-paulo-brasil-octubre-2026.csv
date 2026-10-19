@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,parq1,"con estacionamiento",,105
+precio,p25,3250.0,BRL,105
+precio,mediana,5500.0,BRL,105
+precio,p75,8500.0,BRL,105
+precio,minimo,1500.0,BRL,105
+precio,maximo,22000.0,BRL,105
+m2,mediana_precio_m2,71.04,BRL,104
+m2,area_mediana_m2,58.0,m2,104
+admin,mediana_admin_mes,1263.5,BRL,104
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,105
+habitaciones,1,3400.0,BRL,53
+habitaciones,2,5500.0,BRL,28
+habitaciones,3+,13650.0,BRL,24
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/consolacao,,
+fuente,licencia,CC BY 4.0,,

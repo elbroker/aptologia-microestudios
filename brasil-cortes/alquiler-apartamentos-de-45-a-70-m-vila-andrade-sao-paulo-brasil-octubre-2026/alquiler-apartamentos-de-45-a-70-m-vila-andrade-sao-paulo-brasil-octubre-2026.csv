@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,area2,"de 45 a 70 m²",,70
+precio,p25,2752.5,BRL,70
+precio,mediana,3120.0,BRL,70
+precio,p75,3500.0,BRL,70
+precio,minimo,1480.0,BRL,70
+precio,maximo,11000.0,BRL,70
+m2,mediana_precio_m2,53.57,BRL,69
+m2,area_mediana_m2,57.5,m2,69
+admin,mediana_admin_mes,740.5,BRL,68
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.5,%,68
+habitaciones,1,2815.0,BRL,11
+habitaciones,2,3160.0,BRL,50
+habitaciones,3+,3200.0,BRL,9
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-andrade,,
+fuente,licencia,CC BY 4.0,,

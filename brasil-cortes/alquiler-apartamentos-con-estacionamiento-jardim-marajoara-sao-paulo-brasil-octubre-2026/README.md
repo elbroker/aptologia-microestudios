@@ -1,0 +1,25 @@
+# Precio de alquiler de apartamentos con estacionamiento en Jardim Marajoara, São Paulo (Brasil) — octubre 2026
+
+En Jardim Marajoara, São Paulo (Brasil), la mediana de canon mensual de apartamentos con estacionamiento es BRL 3.554, según 39 avisos vigentes.
+
+Eso es 25 % más que la mediana de todos los apartamentos en alquiler de Jardim Marajoara (BRL 2.850, n = 53); este segmento reúne el 74 % de esos avisos.
+
+Por metro cuadrado, la mediana es BRL 47,92/m² al mes (n = 39), 4 % por debajo del conjunto de referencia (BRL 50,00/m²).
+
+El área mediana anunciada es 77 m².
+
+El segmento con más oferta es el de 3 o más habitaciones (25 avisos, mediana BRL 4.700); pasar de 2 habitaciones a 3 o más habitaciones cambia la mediana +77 %.
+
+La mitad central de los avisos va de BRL 2.581 a BRL 5.944 (razón 2,3), una dispersión alta.
+
+La cuota de mantenimiento o condominio mediana declarada es BRL 975 al mes (n = 39), aparte del canon.
+
+La mediana de todos los apartamentos en alquiler de São Paulo es BRL 3.621 (−2 % de diferencia).
+
+- n = 39 avisos vigentes · datos del 2026-10-18 · moneda BRL
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/br/aluguel/sao-paulo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Brasil, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en BRL, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `alquiler-apartamentos-con-estacionamiento-jardim-marajoara-sao-paulo-brasil-octubre-2026.pdf`, `alquiler-apartamentos-con-estacionamiento-jardim-marajoara-sao-paulo-brasil-octubre-2026.csv`, `alquiler-apartamentos-con-estacionamiento-jardim-marajoara-sao-paulo-brasil-octubre-2026.png`.
