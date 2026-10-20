@@ -16,11 +16,11 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de arriendo de vivienda en la localidad de Fontibón, Bogotá — octubre 2026](arriendo-localidad-fontibon-bogota-octubre-2026/) | 736 | COP 1.833.850 |  |
-| [Precio de venta de vivienda en estrato 6 en la localidad de Usaquén, Bogotá — octubre 2026](venta-estrato-6-localidad-usaquen-bogota-octubre-2026/) | 8105 | COP 1.480.000.000 |  |
-| [Precio de arriendo de apartamentos en la localidad de Teusaquillo, Bogotá — octubre 2026](arriendo-apartamentos-localidad-teusaquillo-bogota-octubre-2026/) | 593 | COP 2.800.000 |  |
-| [Precio de venta de vivienda de 70 a 100 m² en la localidad de Engativá, Bogotá — octubre 2026](venta-70-a-100-m2-localidad-engativa-bogota-octubre-2026/) | 382 | COP 450.000.000 |  |
-| [Precio de arriendo de vivienda en piso 9 o superior en la localidad de Fontibón, Bogotá — octubre 2026](arriendo-piso-9-o-mas-localidad-fontibon-bogota-octubre-2026/) | 136 | COP 1.975.000 |  |
+| [Precio de arriendo de vivienda en la localidad de Fontibón, Bogotá — octubre 2026](arriendo-localidad-fontibon-bogota-octubre-2026/) | 736 | COP 1.833.850 | [10.5281/zenodo.23485880](https://doi.org/10.5281/zenodo.23485880) |
+| [Precio de venta de vivienda en estrato 6 en la localidad de Usaquén, Bogotá — octubre 2026](venta-estrato-6-localidad-usaquen-bogota-octubre-2026/) | 8105 | COP 1.480.000.000 | [10.5281/zenodo.23485906](https://doi.org/10.5281/zenodo.23485906) |
+| [Precio de arriendo de apartamentos en la localidad de Teusaquillo, Bogotá — octubre 2026](arriendo-apartamentos-localidad-teusaquillo-bogota-octubre-2026/) | 593 | COP 2.800.000 | [10.5281/zenodo.23485928](https://doi.org/10.5281/zenodo.23485928) |
+| [Precio de venta de vivienda de 70 a 100 m² en la localidad de Engativá, Bogotá — octubre 2026](venta-70-a-100-m2-localidad-engativa-bogota-octubre-2026/) | 382 | COP 450.000.000 | [10.5281/zenodo.23485934](https://doi.org/10.5281/zenodo.23485934) |
+| [Precio de arriendo de vivienda en piso 9 o superior en la localidad de Fontibón, Bogotá — octubre 2026](arriendo-piso-9-o-mas-localidad-fontibon-bogota-octubre-2026/) | 136 | COP 1.975.000 | [10.5281/zenodo.23487574](https://doi.org/10.5281/zenodo.23487574) |
 | [Precio de arriendo de vivienda de 150 a 250 m² en la localidad de Barrios Unidos, Bogotá — octubre 2026](arriendo-150-a-250-m2-localidad-barrios-unidos-bogota-octubre-2026/) | 100 | COP 9.000.000 |  |
 | [Qué se arrienda por menos de COP 1,5 millones en la localidad de San Cristóbal, Bogotá — octubre 2026](arriendo-menos-de-1-5-millones-localidad-san-cristobal-bogota-octubre-2026/) | 50 | COP 1.200.000 |  |
 | [Precio de venta de vivienda con piscina en la localidad de Chapinero, Bogotá — octubre 2026](venta-con-piscina-localidad-chapinero-bogota-octubre-2026/) | 490 | COP 2.886.913.500 |  |

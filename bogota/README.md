@@ -1087,18 +1087,18 @@
 | [Precio de venta de vivienda en Primavera Occidental - Puente Aranda, Bogotá — octubre 2026](venta-primavera-occidental-puente-aranda-bogota-octubre-2026/) | 30 | COP 287.500.000 | [10.5281/zenodo.23485099](https://doi.org/10.5281/zenodo.23485099) |
 | [Precio de venta de apartamentos de 2 habitaciones en Puente Largo, Bogotá — octubre 2026](venta-apartamentos-2-habitaciones-puente-largo-bogota-octubre-2026/) | 30 | COP 567.180.000 | [10.5281/zenodo.23485575](https://doi.org/10.5281/zenodo.23485575) |
 | [Precio de arriendo de apartaestudios en El Recuerdo, Bogotá — octubre 2026](arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026/) | 30 | COP 2.000.000 | [10.5281/zenodo.23485590](https://doi.org/10.5281/zenodo.23485590) |
-| [Precio de arriendo de apartamentos de 2 habitaciones en El Redil, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-redil-bogota-octubre-2026/) | 30 | COP 1.550.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en El Refugio, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-refugio-bogota-octubre-2026/) | 30 | COP 8.500.000 |  |
-| [Precio de arriendo en El Retiro, Bogotá — octubre 2026](arriendo-el-retiro-bogota-octubre-2026/) | 30 | COP 14.000.000 |  |
-| [Precio de venta de vivienda en La Sabana, Bogotá — octubre 2026](venta-la-sabana-bogota-octubre-2026/) | 30 | COP 340.000.000 |  |
-| [Precio de arriendo de apartamentos de 4 o más habitaciones en San Patricio, Bogotá — octubre 2026](arriendo-apartamentos-4-o-mas-habitaciones-san-patricio-bogota-octubre-2026/) | 30 | COP 16.000.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en San Simon Guaymaral, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-san-simon-guaymaral-bogota-octubre-2026/) | 30 | COP 2.500.000.000 |  |
-| [Precio de venta de vivienda en Spring, Bogotá — octubre 2026](venta-spring-bogota-octubre-2026/) | 30 | COP 815.000.000 |  |
-| [Precio de arriendo en El Tintal, Bogotá — octubre 2026](arriendo-el-tintal-bogota-octubre-2026/) | 30 | COP 1.365.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Tintala, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-tintala-bogota-octubre-2026/) | 30 | COP 328.000.000 |  |
-| [Precio de arriendo en Villa del Prado, Bogotá — octubre 2026](arriendo-villa-del-prado-bogota-octubre-2026/) | 30 | COP 2.200.000 |  |
-| [Precio de venta de apartamentos en Villa Gladys, Bogotá — octubre 2026](venta-apartamentos-villa-gladys-bogota-octubre-2026/) | 30 | COP 225.000.000 |  |
-| [Precio de venta de vivienda en Villemar, Bogotá — octubre 2026](venta-villemar-bogota-octubre-2026/) | 30 | COP 380.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en El Redil, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-redil-bogota-octubre-2026/) | 30 | COP 1.550.000 | [10.5281/zenodo.23485610](https://doi.org/10.5281/zenodo.23485610) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en El Refugio, Bogotá — octubre 2026](arriendo-apartamentos-2-habitaciones-el-refugio-bogota-octubre-2026/) | 30 | COP 8.500.000 | [10.5281/zenodo.23485616](https://doi.org/10.5281/zenodo.23485616) |
+| [Precio de arriendo en El Retiro, Bogotá — octubre 2026](arriendo-el-retiro-bogota-octubre-2026/) | 30 | COP 14.000.000 | [10.5281/zenodo.23485624](https://doi.org/10.5281/zenodo.23485624) |
+| [Precio de venta de vivienda en La Sabana, Bogotá — octubre 2026](venta-la-sabana-bogota-octubre-2026/) | 30 | COP 340.000.000 | [10.5281/zenodo.23485649](https://doi.org/10.5281/zenodo.23485649) |
+| [Precio de arriendo de apartamentos de 4 o más habitaciones en San Patricio, Bogotá — octubre 2026](arriendo-apartamentos-4-o-mas-habitaciones-san-patricio-bogota-octubre-2026/) | 30 | COP 16.000.000 | [10.5281/zenodo.23485714](https://doi.org/10.5281/zenodo.23485714) |
+| [Precio de venta de casas de 4 o más habitaciones en San Simon Guaymaral, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-san-simon-guaymaral-bogota-octubre-2026/) | 30 | COP 2.500.000.000 | [10.5281/zenodo.23485729](https://doi.org/10.5281/zenodo.23485729) |
+| [Precio de venta de vivienda en Spring, Bogotá — octubre 2026](venta-spring-bogota-octubre-2026/) | 30 | COP 815.000.000 | [10.5281/zenodo.23485748](https://doi.org/10.5281/zenodo.23485748) |
+| [Precio de arriendo en El Tintal, Bogotá — octubre 2026](arriendo-el-tintal-bogota-octubre-2026/) | 30 | COP 1.365.000 | [10.5281/zenodo.23485759](https://doi.org/10.5281/zenodo.23485759) |
+| [Precio de venta de apartamentos de 3 habitaciones en Tintala, Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-tintala-bogota-octubre-2026/) | 30 | COP 328.000.000 | [10.5281/zenodo.23485780](https://doi.org/10.5281/zenodo.23485780) |
+| [Precio de arriendo en Villa del Prado, Bogotá — octubre 2026](arriendo-villa-del-prado-bogota-octubre-2026/) | 30 | COP 2.200.000 | [10.5281/zenodo.23485803](https://doi.org/10.5281/zenodo.23485803) |
+| [Precio de venta de apartamentos en Villa Gladys, Bogotá — octubre 2026](venta-apartamentos-villa-gladys-bogota-octubre-2026/) | 30 | COP 225.000.000 | [10.5281/zenodo.23485818](https://doi.org/10.5281/zenodo.23485818) |
+| [Precio de venta de vivienda en Villemar, Bogotá — octubre 2026](venta-villemar-bogota-octubre-2026/) | 30 | COP 380.000.000 | [10.5281/zenodo.23485829](https://doi.org/10.5281/zenodo.23485829) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Sotileza, Bogotá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-sotileza-bogota-octubre-2026/) | 55 | COP 1.800.000.000 |  |
 | [Precio de venta de apartamentos de 1 habitación en El Redil, Bogotá — octubre 2026](venta-apartamentos-1-habitaciones-el-redil-bogota-octubre-2026/) | 116 | COP 240.000.000 |  |
 | [Precio de arriendo de apartamentos de 1 habitación en Engativá, Bogotá — octubre 2026](arriendo-apartamentos-1-habitaciones-engativa-bogota-octubre-2026/) | 101 | COP 1.530.000 |  |

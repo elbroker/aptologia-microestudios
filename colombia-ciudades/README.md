@@ -16,10 +16,10 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de vivienda en Bogotá — octubre 2026](venta-bogota-octubre-2026/) | 54236 | COP 865.852.573 |  |
-| [Precio de arriendo de vivienda con parqueadero en Armenia — octubre 2026](arriendo-con-parqueadero-armenia-octubre-2026/) | 55 | COP 2.500.000 |  |
-| [Precio de arriendo de vivienda con piscina en Bogotá — octubre 2026](arriendo-con-piscina-bogota-octubre-2026/) | 1394 | COP 4.500.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en Cúcuta — octubre 2026](venta-casas-4-o-mas-habitaciones-cucuta-octubre-2026/) | 256 | COP 575.000.000 |  |
+| [Precio de venta de vivienda en Bogotá — octubre 2026](venta-bogota-octubre-2026/) | 54236 | COP 865.852.573 | [10.5281/zenodo.23485870](https://doi.org/10.5281/zenodo.23485870) |
+| [Precio de arriendo de vivienda con parqueadero en Armenia — octubre 2026](arriendo-con-parqueadero-armenia-octubre-2026/) | 55 | COP 2.500.000 | [10.5281/zenodo.23485900](https://doi.org/10.5281/zenodo.23485900) |
+| [Precio de arriendo de vivienda con piscina en Bogotá — octubre 2026](arriendo-con-piscina-bogota-octubre-2026/) | 1394 | COP 4.500.000 | [10.5281/zenodo.23485922](https://doi.org/10.5281/zenodo.23485922) |
+| [Precio de venta de casas de 4 o más habitaciones en Cúcuta — octubre 2026](venta-casas-4-o-mas-habitaciones-cucuta-octubre-2026/) | 256 | COP 575.000.000 | [10.5281/zenodo.23485938](https://doi.org/10.5281/zenodo.23485938) |
 | [Precio de venta de apartamentos de 3 habitaciones en Madrid — octubre 2026](venta-apartamentos-3-habitaciones-madrid-octubre-2026/) | 78 | COP 205.000.000 |  |
 | [Precio de arriendo de vivienda con vigilancia o portería en Armenia — octubre 2026](arriendo-con-vigilancia-o-porteria-armenia-octubre-2026/) | 41 | COP 1.900.000 |  |
 | [Precio de arriendo de apartamentos de 3 habitaciones en estrato 6 en Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-estrato-6-bogota-octubre-2026/) | 2339 | COP 12.000.000 |  |
