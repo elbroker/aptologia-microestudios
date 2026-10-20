@@ -27,9 +27,9 @@
 | [Precio de venta de vivienda en conjunto cerrado en la localidad de Santa Fe, Bogotá — octubre 2026](venta-en-conjunto-cerrado-localidad-santa-fe-bogota-octubre-2026/) | 168 | COP 437.500.000 | [10.5281/zenodo.23487708](https://doi.org/10.5281/zenodo.23487708) |
 | [Precio de venta de casas de 4 o más habitaciones en la localidad de Usme, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-localidad-usme-bogota-octubre-2026/) | 75 | COP 399.000.000 | [10.5281/zenodo.23487716](https://doi.org/10.5281/zenodo.23487716) |
 | [Precio de venta de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](venta-localidad-usaquen-bogota-octubre-2026/) | 14884 | COP 1.030.000.000 | [10.5281/zenodo.23493843](https://doi.org/10.5281/zenodo.23493843) |
-| [Precio de venta de vivienda en la localidad de Suba, Bogotá — octubre 2026](venta-localidad-suba-bogota-octubre-2026/) | 10115 | COP 1.150.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](venta-localidad-chapinero-bogota-octubre-2026/) | 6938 | COP 1.600.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](arriendo-localidad-usaquen-bogota-octubre-2026/) | 5391 | COP 4.600.000 |  |
+| [Precio de venta de vivienda en la localidad de Suba, Bogotá — octubre 2026](venta-localidad-suba-bogota-octubre-2026/) | 10115 | COP 1.150.000.000 | [10.5281/zenodo.23497358](https://doi.org/10.5281/zenodo.23497358) |
+| [Precio de venta de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](venta-localidad-chapinero-bogota-octubre-2026/) | 6938 | COP 1.600.000.000 | [10.5281/zenodo.23497437](https://doi.org/10.5281/zenodo.23497437) |
+| [Precio de arriendo de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](arriendo-localidad-usaquen-bogota-octubre-2026/) | 5391 | COP 4.600.000 | [10.5281/zenodo.23498324](https://doi.org/10.5281/zenodo.23498324) |
 | [Precio de arriendo de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](arriendo-localidad-chapinero-bogota-octubre-2026/) | 4034 | COP 7.327.000 |  |
 | [Precio de venta de vivienda en la localidad de Engativá, Bogotá — octubre 2026](venta-localidad-engativa-bogota-octubre-2026/) | 2436 | COP 545.000.000 |  |
 | [Precio de arriendo de vivienda en la localidad de Suba, Bogotá — octubre 2026](arriendo-localidad-suba-bogota-octubre-2026/) | 2387 | COP 3.079.400 |  |
