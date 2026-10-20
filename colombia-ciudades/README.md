@@ -168,50 +168,50 @@
 | [Precio de venta de vivienda en estrato 5 en Tunja — octubre 2026](venta-estrato-5-tunja-octubre-2026/) | 55 | COP 513.170.400 | [10.5281/zenodo.23501672](https://doi.org/10.5281/zenodo.23501672) |
 | [Qué se arrienda por entre COP 1,5 y 2,5 millones en Cúcuta — octubre 2026](arriendo-1-5-a-2-5-millones-cucuta-octubre-2026/) | 55 | COP 1.800.000 | [10.5281/zenodo.23501683](https://doi.org/10.5281/zenodo.23501683) |
 | [Precio de venta de vivienda de 6 a 15 años de construida en Madrid — octubre 2026](venta-6-a-15-anos-madrid-octubre-2026/) | 55 | COP 196.000.000 | [10.5281/zenodo.23501966](https://doi.org/10.5281/zenodo.23501966) |
-| [Precio de venta de vivienda de más de 30 años de construida en Cali — octubre 2026](venta-mas-de-30-anos-cali-octubre-2026/) | 54 | COP 770.000.000 |  |
-| [Precio de arriendo de vivienda en pisos 1 a 3 en Cúcuta — octubre 2026](arriendo-pisos-1-a-3-cucuta-octubre-2026/) | 53 | COP 1.100.000 |  |
-| [Qué se vende por COP 2.000 millones o más en La Calera — octubre 2026](venta-mas-de-2000-millones-la-calera-octubre-2026/) | 52 | COP 2.725.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Cali — octubre 2026](venta-estrato-5-cali-octubre-2026/) | 51 | COP 500.000.000 |  |
-| [Qué se vende por entre COP 250 y 400 millones en Cali — octubre 2026](venta-250-a-400-millones-cali-octubre-2026/) | 51 | COP 275.500.000 |  |
-| [Precio de venta de vivienda sin parqueadero en Tunja — octubre 2026](venta-sin-parqueadero-tunja-octubre-2026/) | 51 | COP 238.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Los Patios — octubre 2026](venta-estrato-3-los-patios-octubre-2026/) | 50 | COP 310.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Tocancipa — octubre 2026](venta-menos-de-250-millones-tocancipa-octubre-2026/) | 50 | COP 203.500.000 |  |
-| [Precio de venta de apartamentos en Los Patios — octubre 2026](venta-apartamentos-los-patios-octubre-2026/) | 49 | COP 330.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Zipaquirá — octubre 2026](venta-45-a-70-m2-zipaquira-octubre-2026/) | 49 | COP 217.512.000 |  |
-| [Precio de venta de vivienda con parqueadero en Barranquilla — octubre 2026](venta-con-parqueadero-barranquilla-octubre-2026/) | 49 | COP 428.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Ibagué — octubre 2026](venta-estrato-4-ibague-octubre-2026/) | 48 | COP 395.005.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Barranquilla — octubre 2026](venta-45-a-70-m2-barranquilla-octubre-2026/) | 48 | COP 190.000.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Barranquilla — octubre 2026](venta-6-a-15-anos-barranquilla-octubre-2026/) | 48 | COP 210.000.000 |  |
-| [Precio de venta de vivienda de más de 30 años de construida en Ibagué — octubre 2026](venta-mas-de-30-anos-ibague-octubre-2026/) | 48 | COP 405.000.000 |  |
-| [Precio de venta de vivienda de 16 a 30 años de construida en Tunja — octubre 2026](venta-16-a-30-anos-tunja-octubre-2026/) | 48 | COP 418.000.000 |  |
-| [Precio de arriendo de apartamentos en Ibagué — octubre 2026](arriendo-apartamentos-ibague-octubre-2026/) | 47 | COP 995.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Madrid — octubre 2026](venta-estrato-4-madrid-octubre-2026/) | 47 | COP 205.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Tunja — octubre 2026](venta-estrato-4-tunja-octubre-2026/) | 47 | COP 430.000.000 |  |
-| [Precio de arriendo de apartamentos en Armenia — octubre 2026](arriendo-apartamentos-armenia-octubre-2026/) | 46 | COP 2.150.000 |  |
-| [Precio de venta de vivienda en estrato 6 en La Calera — octubre 2026](venta-estrato-6-la-calera-octubre-2026/) | 46 | COP 2.500.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Barranquilla — octubre 2026](venta-menos-de-250-millones-barranquilla-octubre-2026/) | 46 | COP 184.500.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Cali — octubre 2026](venta-6-a-15-anos-cali-octubre-2026/) | 46 | COP 250.890.000 |  |
-| [Precio de venta de vivienda en pisos 4 a 8 en Barranquilla — octubre 2026](venta-pisos-4-a-8-barranquilla-octubre-2026/) | 46 | COP 239.500.000 |  |
-| [Precio de venta de vivienda de menos de 45 m² en Soacha — octubre 2026](venta-menos-de-45-m2-soacha-octubre-2026/) | 45 | COP 131.000.000 |  |
-| [Precio de venta de vivienda con parqueadero en Chía — octubre 2026](venta-con-parqueadero-chia-octubre-2026/) | 45 | COP 1.000.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Madrid — octubre 2026](venta-estrato-3-madrid-octubre-2026/) | 44 | COP 199.500.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Villa Del Rosario — octubre 2026](venta-estrato-3-villa-del-rosario-octubre-2026/) | 44 | COP 245.000.000 |  |
-| [Qué se vende por entre COP 1.200 y 2.000 millones en Cúcuta — octubre 2026](venta-1200-a-2000-millones-cucuta-octubre-2026/) | 44 | COP 1.388.288.850 |  |
-| [Precio de venta de vivienda de 150 a 250 m² en Tunja — octubre 2026](venta-150-a-250-m2-tunja-octubre-2026/) | 44 | COP 550.000.000 |  |
-| [Precio de venta de vivienda de hasta 5 años de construida en Chía — octubre 2026](venta-hasta-5-anos-chia-octubre-2026/) | 44 | COP 326.000.000 |  |
-| [Precio de venta de vivienda de 16 a 30 años de construida en Los Patios — octubre 2026](venta-16-a-30-anos-los-patios-octubre-2026/) | 43 | COP 500.000.000 |  |
-| [Qué se arrienda por menos de COP 1,5 millones en Ibagué — octubre 2026](arriendo-menos-de-1-5-millones-ibague-octubre-2026/) | 42 | COP 850.000 |  |
-| [Precio de venta de vivienda de hasta 5 años de construida en Tunja — octubre 2026](venta-hasta-5-anos-tunja-octubre-2026/) | 42 | COP 307.500.000 |  |
-| [Precio de venta de vivienda en pisos 4 a 8 en Madrid — octubre 2026](venta-pisos-4-a-8-madrid-octubre-2026/) | 42 | COP 195.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Tunja — octubre 2026](venta-45-a-70-m2-tunja-octubre-2026/) | 41 | COP 265.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Armenia — octubre 2026](arriendo-estrato-5-armenia-octubre-2026/) | 40 | COP 2.300.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Cali — octubre 2026](venta-estrato-6-cali-octubre-2026/) | 40 | COP 1.245.000.000 |  |
-| [Precio de venta de apartamentos en Chía — octubre 2026](venta-apartamentos-chia-octubre-2026/) | 39 | COP 260.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Zipaquirá — octubre 2026](venta-menos-de-250-millones-zipaquira-octubre-2026/) | 39 | COP 210.000.000 |  |
-| [Precio de venta de vivienda de hasta 5 años de construida en Madrid — octubre 2026](venta-hasta-5-anos-madrid-octubre-2026/) | 39 | COP 205.000.000 |  |
-| [Precio de venta de casas en Chía — octubre 2026](venta-casas-chia-octubre-2026/) | 38 | COP 1.500.000.000 |  |
-| [Precio de venta de vivienda de 250 m² o más en Cali — octubre 2026](venta-mas-de-250-m2-cali-octubre-2026/) | 38 | COP 1.300.000.000 |  |
-| [Precio de arriendo de vivienda de 70 a 100 m² en Cúcuta — octubre 2026](arriendo-70-a-100-m2-cucuta-octubre-2026/) | 38 | COP 1.625.000 |  |
+| [Precio de venta de vivienda de más de 30 años de construida en Cali — octubre 2026](venta-mas-de-30-anos-cali-octubre-2026/) | 54 | COP 770.000.000 | [10.5281/zenodo.23502571](https://doi.org/10.5281/zenodo.23502571) |
+| [Precio de arriendo de vivienda en pisos 1 a 3 en Cúcuta — octubre 2026](arriendo-pisos-1-a-3-cucuta-octubre-2026/) | 53 | COP 1.100.000 | [10.5281/zenodo.23502582](https://doi.org/10.5281/zenodo.23502582) |
+| [Qué se vende por COP 2.000 millones o más en La Calera — octubre 2026](venta-mas-de-2000-millones-la-calera-octubre-2026/) | 52 | COP 2.725.000.000 | [10.5281/zenodo.23502616](https://doi.org/10.5281/zenodo.23502616) |
+| [Precio de venta de vivienda en estrato 5 en Cali — octubre 2026](venta-estrato-5-cali-octubre-2026/) | 51 | COP 500.000.000 | [10.5281/zenodo.23502638](https://doi.org/10.5281/zenodo.23502638) |
+| [Qué se vende por entre COP 250 y 400 millones en Cali — octubre 2026](venta-250-a-400-millones-cali-octubre-2026/) | 51 | COP 275.500.000 | [10.5281/zenodo.23502665](https://doi.org/10.5281/zenodo.23502665) |
+| [Precio de venta de vivienda sin parqueadero en Tunja — octubre 2026](venta-sin-parqueadero-tunja-octubre-2026/) | 51 | COP 238.000.000 | [10.5281/zenodo.23502695](https://doi.org/10.5281/zenodo.23502695) |
+| [Precio de venta de vivienda en estrato 3 en Los Patios — octubre 2026](venta-estrato-3-los-patios-octubre-2026/) | 50 | COP 310.000.000 | [10.5281/zenodo.23502724](https://doi.org/10.5281/zenodo.23502724) |
+| [Qué se vende por menos de COP 250 millones en Tocancipa — octubre 2026](venta-menos-de-250-millones-tocancipa-octubre-2026/) | 50 | COP 203.500.000 | [10.5281/zenodo.23502752](https://doi.org/10.5281/zenodo.23502752) |
+| [Precio de venta de apartamentos en Los Patios — octubre 2026](venta-apartamentos-los-patios-octubre-2026/) | 49 | COP 330.000.000 | [10.5281/zenodo.23502995](https://doi.org/10.5281/zenodo.23502995) |
+| [Precio de venta de vivienda de 45 a 70 m² en Zipaquirá — octubre 2026](venta-45-a-70-m2-zipaquira-octubre-2026/) | 49 | COP 217.512.000 | [10.5281/zenodo.23503016](https://doi.org/10.5281/zenodo.23503016) |
+| [Precio de venta de vivienda con parqueadero en Barranquilla — octubre 2026](venta-con-parqueadero-barranquilla-octubre-2026/) | 49 | COP 428.000.000 | [10.5281/zenodo.23503037](https://doi.org/10.5281/zenodo.23503037) |
+| [Precio de venta de vivienda en estrato 4 en Ibagué — octubre 2026](venta-estrato-4-ibague-octubre-2026/) | 48 | COP 395.005.000 | [10.5281/zenodo.23503058](https://doi.org/10.5281/zenodo.23503058) |
+| [Precio de venta de vivienda de 45 a 70 m² en Barranquilla — octubre 2026](venta-45-a-70-m2-barranquilla-octubre-2026/) | 48 | COP 190.000.000 | [10.5281/zenodo.23503075](https://doi.org/10.5281/zenodo.23503075) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Barranquilla — octubre 2026](venta-6-a-15-anos-barranquilla-octubre-2026/) | 48 | COP 210.000.000 | [10.5281/zenodo.23503089](https://doi.org/10.5281/zenodo.23503089) |
+| [Precio de venta de vivienda de más de 30 años de construida en Ibagué — octubre 2026](venta-mas-de-30-anos-ibague-octubre-2026/) | 48 | COP 405.000.000 | [10.5281/zenodo.23503105](https://doi.org/10.5281/zenodo.23503105) |
+| [Precio de venta de vivienda de 16 a 30 años de construida en Tunja — octubre 2026](venta-16-a-30-anos-tunja-octubre-2026/) | 48 | COP 418.000.000 | [10.5281/zenodo.23503129](https://doi.org/10.5281/zenodo.23503129) |
+| [Precio de arriendo de apartamentos en Ibagué — octubre 2026](arriendo-apartamentos-ibague-octubre-2026/) | 47 | COP 995.000 | [10.5281/zenodo.23503149](https://doi.org/10.5281/zenodo.23503149) |
+| [Precio de venta de vivienda en estrato 4 en Madrid — octubre 2026](venta-estrato-4-madrid-octubre-2026/) | 47 | COP 205.000.000 | [10.5281/zenodo.23503168](https://doi.org/10.5281/zenodo.23503168) |
+| [Precio de venta de vivienda en estrato 4 en Tunja — octubre 2026](venta-estrato-4-tunja-octubre-2026/) | 47 | COP 430.000.000 | [10.5281/zenodo.23503187](https://doi.org/10.5281/zenodo.23503187) |
+| [Precio de arriendo de apartamentos en Armenia — octubre 2026](arriendo-apartamentos-armenia-octubre-2026/) | 46 | COP 2.150.000 | [10.5281/zenodo.23503198](https://doi.org/10.5281/zenodo.23503198) |
+| [Precio de venta de vivienda en estrato 6 en La Calera — octubre 2026](venta-estrato-6-la-calera-octubre-2026/) | 46 | COP 2.500.000.000 | [10.5281/zenodo.23503356](https://doi.org/10.5281/zenodo.23503356) |
+| [Qué se vende por menos de COP 250 millones en Barranquilla — octubre 2026](venta-menos-de-250-millones-barranquilla-octubre-2026/) | 46 | COP 184.500.000 | [10.5281/zenodo.23503374](https://doi.org/10.5281/zenodo.23503374) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Cali — octubre 2026](venta-6-a-15-anos-cali-octubre-2026/) | 46 | COP 250.890.000 | [10.5281/zenodo.23503384](https://doi.org/10.5281/zenodo.23503384) |
+| [Precio de venta de vivienda en pisos 4 a 8 en Barranquilla — octubre 2026](venta-pisos-4-a-8-barranquilla-octubre-2026/) | 46 | COP 239.500.000 | [10.5281/zenodo.23503400](https://doi.org/10.5281/zenodo.23503400) |
+| [Precio de venta de vivienda de menos de 45 m² en Soacha — octubre 2026](venta-menos-de-45-m2-soacha-octubre-2026/) | 45 | COP 131.000.000 | [10.5281/zenodo.23503414](https://doi.org/10.5281/zenodo.23503414) |
+| [Precio de venta de vivienda con parqueadero en Chía — octubre 2026](venta-con-parqueadero-chia-octubre-2026/) | 45 | COP 1.000.000.000 | [10.5281/zenodo.23503431](https://doi.org/10.5281/zenodo.23503431) |
+| [Precio de venta de vivienda en estrato 3 en Madrid — octubre 2026](venta-estrato-3-madrid-octubre-2026/) | 44 | COP 199.500.000 | [10.5281/zenodo.23503440](https://doi.org/10.5281/zenodo.23503440) |
+| [Precio de venta de vivienda en estrato 3 en Villa Del Rosario — octubre 2026](venta-estrato-3-villa-del-rosario-octubre-2026/) | 44 | COP 245.000.000 | [10.5281/zenodo.23503456](https://doi.org/10.5281/zenodo.23503456) |
+| [Qué se vende por entre COP 1.200 y 2.000 millones en Cúcuta — octubre 2026](venta-1200-a-2000-millones-cucuta-octubre-2026/) | 44 | COP 1.388.288.850 | [10.5281/zenodo.23503465](https://doi.org/10.5281/zenodo.23503465) |
+| [Precio de venta de vivienda de 150 a 250 m² en Tunja — octubre 2026](venta-150-a-250-m2-tunja-octubre-2026/) | 44 | COP 550.000.000 | [10.5281/zenodo.23503479](https://doi.org/10.5281/zenodo.23503479) |
+| [Precio de venta de vivienda de hasta 5 años de construida en Chía — octubre 2026](venta-hasta-5-anos-chia-octubre-2026/) | 44 | COP 326.000.000 | [10.5281/zenodo.23503488](https://doi.org/10.5281/zenodo.23503488) |
+| [Precio de venta de vivienda de 16 a 30 años de construida en Los Patios — octubre 2026](venta-16-a-30-anos-los-patios-octubre-2026/) | 43 | COP 500.000.000 | [10.5281/zenodo.23503503](https://doi.org/10.5281/zenodo.23503503) |
+| [Qué se arrienda por menos de COP 1,5 millones en Ibagué — octubre 2026](arriendo-menos-de-1-5-millones-ibague-octubre-2026/) | 42 | COP 850.000 | [10.5281/zenodo.23503510](https://doi.org/10.5281/zenodo.23503510) |
+| [Precio de venta de vivienda de hasta 5 años de construida en Tunja — octubre 2026](venta-hasta-5-anos-tunja-octubre-2026/) | 42 | COP 307.500.000 | [10.5281/zenodo.23503526](https://doi.org/10.5281/zenodo.23503526) |
+| [Precio de venta de vivienda en pisos 4 a 8 en Madrid — octubre 2026](venta-pisos-4-a-8-madrid-octubre-2026/) | 42 | COP 195.000.000 | [10.5281/zenodo.23503536](https://doi.org/10.5281/zenodo.23503536) |
+| [Precio de venta de vivienda de 45 a 70 m² en Tunja — octubre 2026](venta-45-a-70-m2-tunja-octubre-2026/) | 41 | COP 265.000.000 | [10.5281/zenodo.23503546](https://doi.org/10.5281/zenodo.23503546) |
+| [Precio de arriendo de vivienda en estrato 5 en Armenia — octubre 2026](arriendo-estrato-5-armenia-octubre-2026/) | 40 | COP 2.300.000 | [10.5281/zenodo.23503557](https://doi.org/10.5281/zenodo.23503557) |
+| [Precio de venta de vivienda en estrato 6 en Cali — octubre 2026](venta-estrato-6-cali-octubre-2026/) | 40 | COP 1.245.000.000 | [10.5281/zenodo.23503576](https://doi.org/10.5281/zenodo.23503576) |
+| [Precio de venta de apartamentos en Chía — octubre 2026](venta-apartamentos-chia-octubre-2026/) | 39 | COP 260.000.000 | [10.5281/zenodo.23503588](https://doi.org/10.5281/zenodo.23503588) |
+| [Qué se vende por menos de COP 250 millones en Zipaquirá — octubre 2026](venta-menos-de-250-millones-zipaquira-octubre-2026/) | 39 | COP 210.000.000 | [10.5281/zenodo.23503597](https://doi.org/10.5281/zenodo.23503597) |
+| [Precio de venta de vivienda de hasta 5 años de construida en Madrid — octubre 2026](venta-hasta-5-anos-madrid-octubre-2026/) | 39 | COP 205.000.000 | [10.5281/zenodo.23503612](https://doi.org/10.5281/zenodo.23503612) |
+| [Precio de venta de casas en Chía — octubre 2026](venta-casas-chia-octubre-2026/) | 38 | COP 1.500.000.000 | [10.5281/zenodo.23503621](https://doi.org/10.5281/zenodo.23503621) |
+| [Precio de venta de vivienda de 250 m² o más en Cali — octubre 2026](venta-mas-de-250-m2-cali-octubre-2026/) | 38 | COP 1.300.000.000 | [10.5281/zenodo.23503631](https://doi.org/10.5281/zenodo.23503631) |
+| [Precio de arriendo de vivienda de 70 a 100 m² en Cúcuta — octubre 2026](arriendo-70-a-100-m2-cucuta-octubre-2026/) | 38 | COP 1.625.000 | [10.5281/zenodo.23503636](https://doi.org/10.5281/zenodo.23503636) |
 | [Precio de arriendo de vivienda de más de 30 años de construida en Cúcuta — octubre 2026](arriendo-mas-de-30-anos-cucuta-octubre-2026/) | 38 | COP 1.800.000 |  |
 | [Precio de venta de vivienda de hasta 5 años de construida en Cúcuta — octubre 2026](venta-hasta-5-anos-cucuta-octubre-2026/) | 38 | COP 275.000.000 |  |
 | [Precio de venta de casas en Cali — octubre 2026](venta-casas-cali-octubre-2026/) | 37 | COP 1.300.000.000 |  |
