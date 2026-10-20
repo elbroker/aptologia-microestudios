@@ -74,52 +74,52 @@
 | [Precio de venta de vivienda de menos de 45 m² en Bogotá — octubre 2026](venta-menos-de-45-m2-bogota-octubre-2026/) | 5578 | COP 270.000.000 | [10.5281/zenodo.23498298](https://doi.org/10.5281/zenodo.23498298) |
 | [Precio de arriendo de vivienda de menos de 45 m² en Bogotá — octubre 2026](arriendo-menos-de-45-m2-bogota-octubre-2026/) | 5524 | COP 1.760.430 | [10.5281/zenodo.23498309](https://doi.org/10.5281/zenodo.23498309) |
 | [Precio de arriendo de vivienda en estrato 4 en Bogotá — octubre 2026](arriendo-estrato-4-bogota-octubre-2026/) | 5086 | COP 2.550.000 | [10.5281/zenodo.23498330](https://doi.org/10.5281/zenodo.23498330) |
-| [Precio de arriendo de vivienda en pisos 1 a 3 en Bogotá — octubre 2026](arriendo-pisos-1-a-3-bogota-octubre-2026/) | 4889 | COP 3.200.000 |  |
-| [Precio de arriendo de vivienda en pisos 4 a 8 en Bogotá — octubre 2026](arriendo-pisos-4-a-8-bogota-octubre-2026/) | 4854 | COP 4.250.000 |  |
-| [Qué se arrienda por entre COP 1,5 y 2,5 millones en Bogotá — octubre 2026](arriendo-1-5-a-2-5-millones-bogota-octubre-2026/) | 4766 | COP 1.850.000 |  |
-| [Precio de arriendo de vivienda de 6 a 15 años de construida en Bogotá — octubre 2026](arriendo-6-a-15-anos-bogota-octubre-2026/) | 4738 | COP 4.700.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Bogotá — octubre 2026](arriendo-estrato-3-bogota-octubre-2026/) | 4332 | COP 1.600.000 |  |
-| [Precio de arriendo de vivienda de 45 a 70 m² en Bogotá — octubre 2026](arriendo-45-a-70-m2-bogota-octubre-2026/) | 4296 | COP 2.450.000 |  |
-| [Precio de venta de vivienda en piso 9 o superior en Bogotá — octubre 2026](venta-piso-9-o-mas-bogota-octubre-2026/) | 4079 | COP 600.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Bogotá — octubre 2026](venta-menos-de-250-millones-bogota-octubre-2026/) | 3883 | COP 210.000.000 |  |
-| [Qué se arrienda por entre COP 2,5 y 4 millones en Bogotá — octubre 2026](arriendo-2-5-a-4-millones-bogota-octubre-2026/) | 3707 | COP 3.050.000 |  |
-| [Precio de arriendo de vivienda de 16 a 30 años de construida en Bogotá — octubre 2026](arriendo-16-a-30-anos-bogota-octubre-2026/) | 3573 | COP 6.000.000 |  |
-| [Precio de arriendo de vivienda sin parqueadero en Bogotá — octubre 2026](arriendo-sin-parqueadero-bogota-octubre-2026/) | 3571 | COP 1.700.000 |  |
-| [Precio de arriendo de vivienda de 250 m² o más en Bogotá — octubre 2026](arriendo-mas-de-250-m2-bogota-octubre-2026/) | 3337 | COP 15.000.000 |  |
-| [Precio de venta de vivienda en estrato 2 en Bogotá — octubre 2026](venta-estrato-2-bogota-octubre-2026/) | 3215 | COP 290.000.000 |  |
-| [Precio de arriendo de apartaestudios en Bogotá — octubre 2026](arriendo-apartaestudios-bogota-octubre-2026/) | 3004 | COP 1.900.000 |  |
-| [Qué se arrienda por entre COP 4 y 7 millones en Bogotá — octubre 2026](arriendo-4-a-7-millones-bogota-octubre-2026/) | 2894 | COP 5.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Bogotá — octubre 2026](arriendo-estrato-5-bogota-octubre-2026/) | 2880 | COP 4.500.000 |  |
-| [Precio de arriendo de casas en Bogotá — octubre 2026](arriendo-casas-bogota-octubre-2026/) | 2728 | COP 10.500.000 |  |
-| [Qué se arrienda por menos de COP 1,5 millones en Bogotá — octubre 2026](arriendo-menos-de-1-5-millones-bogota-octubre-2026/) | 2522 | COP 1.250.000 |  |
-| [Precio de arriendo de vivienda de 70 a 100 m² en Bogotá — octubre 2026](arriendo-70-a-100-m2-bogota-octubre-2026/) | 2425 | COP 3.800.000 |  |
-| [Precio de arriendo de vivienda de 150 a 250 m² en Bogotá — octubre 2026](arriendo-150-a-250-m2-bogota-octubre-2026/) | 2372 | COP 10.000.000 |  |
-| [Precio de venta de apartaestudios en Bogotá — octubre 2026](venta-apartaestudios-bogota-octubre-2026/) | 2259 | COP 338.000.000 |  |
-| [Precio de arriendo de vivienda en piso 9 o superior en Bogotá — octubre 2026](arriendo-piso-9-o-mas-bogota-octubre-2026/) | 1888 | COP 2.600.000 |  |
-| [Precio de arriendo de vivienda de 100 a 150 m² en Bogotá — octubre 2026](arriendo-100-a-150-m2-bogota-octubre-2026/) | 1877 | COP 6.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 2 en Bogotá — octubre 2026](arriendo-estrato-2-bogota-octubre-2026/) | 669 | COP 1.200.000 |  |
-| [Precio de venta de vivienda de más de 30 años de construida en Bogotá — octubre 2026](venta-mas-de-30-anos-bogota-octubre-2026/) | 556 | COP 1.100.000.000 |  |
-| [Precio de venta de vivienda con parqueadero en Cúcuta — octubre 2026](venta-con-parqueadero-cucuta-octubre-2026/) | 549 | COP 400.000.000 |  |
-| [Precio de venta de casas en Cúcuta — octubre 2026](venta-casas-cucuta-octubre-2026/) | 435 | COP 470.000.000 |  |
-| [Precio de venta de vivienda en estrato 1 en Bogotá — octubre 2026](venta-estrato-1-bogota-octubre-2026/) | 409 | COP 385.000.000 |  |
-| [Precio de arriendo de vivienda de más de 30 años de construida en Bogotá — octubre 2026](arriendo-mas-de-30-anos-bogota-octubre-2026/) | 274 | COP 4.300.000 |  |
-| [Precio de venta de vivienda de 16 a 30 años de construida en Cúcuta — octubre 2026](venta-16-a-30-anos-cucuta-octubre-2026/) | 257 | COP 420.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Cúcuta — octubre 2026](venta-estrato-4-cucuta-octubre-2026/) | 252 | COP 435.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Cúcuta — octubre 2026](venta-estrato-3-cucuta-octubre-2026/) | 249 | COP 290.000.000 |  |
-| [Precio de venta de apartamentos en Cúcuta — octubre 2026](venta-apartamentos-cucuta-octubre-2026/) | 248 | COP 270.000.000 |  |
-| [Precio de venta de vivienda de más de 30 años de construida en Cúcuta — octubre 2026](venta-mas-de-30-anos-cucuta-octubre-2026/) | 239 | COP 430.000.000 |  |
-| [Qué se vende por entre COP 250 y 400 millones en Cúcuta — octubre 2026](venta-250-a-400-millones-cucuta-octubre-2026/) | 193 | COP 315.000.000 |  |
-| [Qué se vende por entre COP 400 y 700 millones en Cúcuta — octubre 2026](venta-400-a-700-millones-cucuta-octubre-2026/) | 190 | COP 480.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Cúcuta — octubre 2026](venta-menos-de-250-millones-cucuta-octubre-2026/) | 172 | COP 180.000.000 |  |
-| [Precio de venta de vivienda de 250 m² o más en Cúcuta — octubre 2026](venta-mas-de-250-m2-cucuta-octubre-2026/) | 164 | COP 800.000.000 |  |
-| [Precio de venta de apartamentos en Cali — octubre 2026](venta-apartamentos-cali-octubre-2026/) | 155 | COP 270.000.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Cúcuta — octubre 2026](venta-6-a-15-anos-cucuta-octubre-2026/) | 155 | COP 270.000.000 |  |
-| [Precio de venta de vivienda de 150 a 250 m² en Cúcuta — octubre 2026](venta-150-a-250-m2-cucuta-octubre-2026/) | 154 | COP 480.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Soacha — octubre 2026](venta-estrato-3-soacha-octubre-2026/) | 153 | COP 159.000.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Soacha — octubre 2026](venta-6-a-15-anos-soacha-octubre-2026/) | 151 | COP 153.000.000 |  |
-| [Precio de venta de vivienda sin parqueadero en Cúcuta — octubre 2026](venta-sin-parqueadero-cucuta-octubre-2026/) | 145 | COP 200.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Soacha — octubre 2026](venta-45-a-70-m2-soacha-octubre-2026/) | 141 | COP 164.000.000 |  |
-| [Precio de venta de vivienda de 100 a 150 m² en Cúcuta — octubre 2026](venta-100-a-150-m2-cucuta-octubre-2026/) | 138 | COP 380.000.000 |  |
+| [Precio de arriendo de vivienda en pisos 1 a 3 en Bogotá — octubre 2026](arriendo-pisos-1-a-3-bogota-octubre-2026/) | 4889 | COP 3.200.000 | [10.5281/zenodo.23498797](https://doi.org/10.5281/zenodo.23498797) |
+| [Precio de arriendo de vivienda en pisos 4 a 8 en Bogotá — octubre 2026](arriendo-pisos-4-a-8-bogota-octubre-2026/) | 4854 | COP 4.250.000 | [10.5281/zenodo.23498813](https://doi.org/10.5281/zenodo.23498813) |
+| [Qué se arrienda por entre COP 1,5 y 2,5 millones en Bogotá — octubre 2026](arriendo-1-5-a-2-5-millones-bogota-octubre-2026/) | 4766 | COP 1.850.000 | [10.5281/zenodo.23498826](https://doi.org/10.5281/zenodo.23498826) |
+| [Precio de arriendo de vivienda de 6 a 15 años de construida en Bogotá — octubre 2026](arriendo-6-a-15-anos-bogota-octubre-2026/) | 4738 | COP 4.700.000 | [10.5281/zenodo.23498844](https://doi.org/10.5281/zenodo.23498844) |
+| [Precio de arriendo de vivienda en estrato 3 en Bogotá — octubre 2026](arriendo-estrato-3-bogota-octubre-2026/) | 4332 | COP 1.600.000 | [10.5281/zenodo.23498862](https://doi.org/10.5281/zenodo.23498862) |
+| [Precio de arriendo de vivienda de 45 a 70 m² en Bogotá — octubre 2026](arriendo-45-a-70-m2-bogota-octubre-2026/) | 4296 | COP 2.450.000 | [10.5281/zenodo.23498873](https://doi.org/10.5281/zenodo.23498873) |
+| [Precio de venta de vivienda en piso 9 o superior en Bogotá — octubre 2026](venta-piso-9-o-mas-bogota-octubre-2026/) | 4079 | COP 600.000.000 | [10.5281/zenodo.23498881](https://doi.org/10.5281/zenodo.23498881) |
+| [Qué se vende por menos de COP 250 millones en Bogotá — octubre 2026](venta-menos-de-250-millones-bogota-octubre-2026/) | 3883 | COP 210.000.000 | [10.5281/zenodo.23498897](https://doi.org/10.5281/zenodo.23498897) |
+| [Qué se arrienda por entre COP 2,5 y 4 millones en Bogotá — octubre 2026](arriendo-2-5-a-4-millones-bogota-octubre-2026/) | 3707 | COP 3.050.000 | [10.5281/zenodo.23498907](https://doi.org/10.5281/zenodo.23498907) |
+| [Precio de arriendo de vivienda de 16 a 30 años de construida en Bogotá — octubre 2026](arriendo-16-a-30-anos-bogota-octubre-2026/) | 3573 | COP 6.000.000 | [10.5281/zenodo.23498928](https://doi.org/10.5281/zenodo.23498928) |
+| [Precio de arriendo de vivienda sin parqueadero en Bogotá — octubre 2026](arriendo-sin-parqueadero-bogota-octubre-2026/) | 3571 | COP 1.700.000 | [10.5281/zenodo.23498958](https://doi.org/10.5281/zenodo.23498958) |
+| [Precio de arriendo de vivienda de 250 m² o más en Bogotá — octubre 2026](arriendo-mas-de-250-m2-bogota-octubre-2026/) | 3337 | COP 15.000.000 | [10.5281/zenodo.23498988](https://doi.org/10.5281/zenodo.23498988) |
+| [Precio de venta de vivienda en estrato 2 en Bogotá — octubre 2026](venta-estrato-2-bogota-octubre-2026/) | 3215 | COP 290.000.000 | [10.5281/zenodo.23499017](https://doi.org/10.5281/zenodo.23499017) |
+| [Precio de arriendo de apartaestudios en Bogotá — octubre 2026](arriendo-apartaestudios-bogota-octubre-2026/) | 3004 | COP 1.900.000 | [10.5281/zenodo.23499043](https://doi.org/10.5281/zenodo.23499043) |
+| [Qué se arrienda por entre COP 4 y 7 millones en Bogotá — octubre 2026](arriendo-4-a-7-millones-bogota-octubre-2026/) | 2894 | COP 5.000.000 | [10.5281/zenodo.23499070](https://doi.org/10.5281/zenodo.23499070) |
+| [Precio de arriendo de vivienda en estrato 5 en Bogotá — octubre 2026](arriendo-estrato-5-bogota-octubre-2026/) | 2880 | COP 4.500.000 | [10.5281/zenodo.23499101](https://doi.org/10.5281/zenodo.23499101) |
+| [Precio de arriendo de casas en Bogotá — octubre 2026](arriendo-casas-bogota-octubre-2026/) | 2728 | COP 10.500.000 | [10.5281/zenodo.23499123](https://doi.org/10.5281/zenodo.23499123) |
+| [Qué se arrienda por menos de COP 1,5 millones en Bogotá — octubre 2026](arriendo-menos-de-1-5-millones-bogota-octubre-2026/) | 2522 | COP 1.250.000 | [10.5281/zenodo.23499177](https://doi.org/10.5281/zenodo.23499177) |
+| [Precio de arriendo de vivienda de 70 a 100 m² en Bogotá — octubre 2026](arriendo-70-a-100-m2-bogota-octubre-2026/) | 2425 | COP 3.800.000 | [10.5281/zenodo.23499208](https://doi.org/10.5281/zenodo.23499208) |
+| [Precio de arriendo de vivienda de 150 a 250 m² en Bogotá — octubre 2026](arriendo-150-a-250-m2-bogota-octubre-2026/) | 2372 | COP 10.000.000 | [10.5281/zenodo.23499233](https://doi.org/10.5281/zenodo.23499233) |
+| [Precio de venta de apartaestudios en Bogotá — octubre 2026](venta-apartaestudios-bogota-octubre-2026/) | 2259 | COP 338.000.000 | [10.5281/zenodo.23499261](https://doi.org/10.5281/zenodo.23499261) |
+| [Precio de arriendo de vivienda en piso 9 o superior en Bogotá — octubre 2026](arriendo-piso-9-o-mas-bogota-octubre-2026/) | 1888 | COP 2.600.000 | [10.5281/zenodo.23499294](https://doi.org/10.5281/zenodo.23499294) |
+| [Precio de arriendo de vivienda de 100 a 150 m² en Bogotá — octubre 2026](arriendo-100-a-150-m2-bogota-octubre-2026/) | 1877 | COP 6.000.000 | [10.5281/zenodo.23499302](https://doi.org/10.5281/zenodo.23499302) |
+| [Precio de arriendo de vivienda en estrato 2 en Bogotá — octubre 2026](arriendo-estrato-2-bogota-octubre-2026/) | 669 | COP 1.200.000 | [10.5281/zenodo.23499490](https://doi.org/10.5281/zenodo.23499490) |
+| [Precio de venta de vivienda de más de 30 años de construida en Bogotá — octubre 2026](venta-mas-de-30-anos-bogota-octubre-2026/) | 556 | COP 1.100.000.000 | [10.5281/zenodo.23499509](https://doi.org/10.5281/zenodo.23499509) |
+| [Precio de venta de vivienda con parqueadero en Cúcuta — octubre 2026](venta-con-parqueadero-cucuta-octubre-2026/) | 549 | COP 400.000.000 | [10.5281/zenodo.23499537](https://doi.org/10.5281/zenodo.23499537) |
+| [Precio de venta de casas en Cúcuta — octubre 2026](venta-casas-cucuta-octubre-2026/) | 435 | COP 470.000.000 | [10.5281/zenodo.23499682](https://doi.org/10.5281/zenodo.23499682) |
+| [Precio de venta de vivienda en estrato 1 en Bogotá — octubre 2026](venta-estrato-1-bogota-octubre-2026/) | 409 | COP 385.000.000 | [10.5281/zenodo.23499708](https://doi.org/10.5281/zenodo.23499708) |
+| [Precio de arriendo de vivienda de más de 30 años de construida en Bogotá — octubre 2026](arriendo-mas-de-30-anos-bogota-octubre-2026/) | 274 | COP 4.300.000 | [10.5281/zenodo.23499735](https://doi.org/10.5281/zenodo.23499735) |
+| [Precio de venta de vivienda de 16 a 30 años de construida en Cúcuta — octubre 2026](venta-16-a-30-anos-cucuta-octubre-2026/) | 257 | COP 420.000.000 | [10.5281/zenodo.23499763](https://doi.org/10.5281/zenodo.23499763) |
+| [Precio de venta de vivienda en estrato 4 en Cúcuta — octubre 2026](venta-estrato-4-cucuta-octubre-2026/) | 252 | COP 435.000.000 | [10.5281/zenodo.23499776](https://doi.org/10.5281/zenodo.23499776) |
+| [Precio de venta de vivienda en estrato 3 en Cúcuta — octubre 2026](venta-estrato-3-cucuta-octubre-2026/) | 249 | COP 290.000.000 | [10.5281/zenodo.23499788](https://doi.org/10.5281/zenodo.23499788) |
+| [Precio de venta de apartamentos en Cúcuta — octubre 2026](venta-apartamentos-cucuta-octubre-2026/) | 248 | COP 270.000.000 | [10.5281/zenodo.23499833](https://doi.org/10.5281/zenodo.23499833) |
+| [Precio de venta de vivienda de más de 30 años de construida en Cúcuta — octubre 2026](venta-mas-de-30-anos-cucuta-octubre-2026/) | 239 | COP 430.000.000 | [10.5281/zenodo.23499853](https://doi.org/10.5281/zenodo.23499853) |
+| [Qué se vende por entre COP 250 y 400 millones en Cúcuta — octubre 2026](venta-250-a-400-millones-cucuta-octubre-2026/) | 193 | COP 315.000.000 | [10.5281/zenodo.23499917](https://doi.org/10.5281/zenodo.23499917) |
+| [Qué se vende por entre COP 400 y 700 millones en Cúcuta — octubre 2026](venta-400-a-700-millones-cucuta-octubre-2026/) | 190 | COP 480.000.000 | [10.5281/zenodo.23499940](https://doi.org/10.5281/zenodo.23499940) |
+| [Qué se vende por menos de COP 250 millones en Cúcuta — octubre 2026](venta-menos-de-250-millones-cucuta-octubre-2026/) | 172 | COP 180.000.000 | [10.5281/zenodo.23499956](https://doi.org/10.5281/zenodo.23499956) |
+| [Precio de venta de vivienda de 250 m² o más en Cúcuta — octubre 2026](venta-mas-de-250-m2-cucuta-octubre-2026/) | 164 | COP 800.000.000 | [10.5281/zenodo.23499974](https://doi.org/10.5281/zenodo.23499974) |
+| [Precio de venta de apartamentos en Cali — octubre 2026](venta-apartamentos-cali-octubre-2026/) | 155 | COP 270.000.000 | [10.5281/zenodo.23499996](https://doi.org/10.5281/zenodo.23499996) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Cúcuta — octubre 2026](venta-6-a-15-anos-cucuta-octubre-2026/) | 155 | COP 270.000.000 | [10.5281/zenodo.23500012](https://doi.org/10.5281/zenodo.23500012) |
+| [Precio de venta de vivienda de 150 a 250 m² en Cúcuta — octubre 2026](venta-150-a-250-m2-cucuta-octubre-2026/) | 154 | COP 480.000.000 | [10.5281/zenodo.23500078](https://doi.org/10.5281/zenodo.23500078) |
+| [Precio de venta de vivienda en estrato 3 en Soacha — octubre 2026](venta-estrato-3-soacha-octubre-2026/) | 153 | COP 159.000.000 | [10.5281/zenodo.23500087](https://doi.org/10.5281/zenodo.23500087) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Soacha — octubre 2026](venta-6-a-15-anos-soacha-octubre-2026/) | 151 | COP 153.000.000 | [10.5281/zenodo.23500099](https://doi.org/10.5281/zenodo.23500099) |
+| [Precio de venta de vivienda sin parqueadero en Cúcuta — octubre 2026](venta-sin-parqueadero-cucuta-octubre-2026/) | 145 | COP 200.000.000 | [10.5281/zenodo.23500111](https://doi.org/10.5281/zenodo.23500111) |
+| [Precio de venta de vivienda de 45 a 70 m² en Soacha — octubre 2026](venta-45-a-70-m2-soacha-octubre-2026/) | 141 | COP 164.000.000 | [10.5281/zenodo.23500124](https://doi.org/10.5281/zenodo.23500124) |
+| [Precio de venta de vivienda de 100 a 150 m² en Cúcuta — octubre 2026](venta-100-a-150-m2-cucuta-octubre-2026/) | 138 | COP 380.000.000 | [10.5281/zenodo.23500142](https://doi.org/10.5281/zenodo.23500142) |
 | [Precio de venta de vivienda con parqueadero en Tunja — octubre 2026](venta-con-parqueadero-tunja-octubre-2026/) | 134 | COP 430.000.000 |  |
 | [Precio de arriendo de apartamentos en Cúcuta — octubre 2026](arriendo-apartamentos-cucuta-octubre-2026/) | 133 | COP 1.250.000 |  |
 | [Precio de venta de apartamentos en Ibagué — octubre 2026](venta-apartamentos-ibague-octubre-2026/) | 123 | COP 205.000.000 |  |

@@ -30,32 +30,32 @@
 | [Precio de venta de vivienda en la localidad de Suba, Bogotá — octubre 2026](venta-localidad-suba-bogota-octubre-2026/) | 10115 | COP 1.150.000.000 | [10.5281/zenodo.23497358](https://doi.org/10.5281/zenodo.23497358) |
 | [Precio de venta de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](venta-localidad-chapinero-bogota-octubre-2026/) | 6938 | COP 1.600.000.000 | [10.5281/zenodo.23497437](https://doi.org/10.5281/zenodo.23497437) |
 | [Precio de arriendo de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](arriendo-localidad-usaquen-bogota-octubre-2026/) | 5391 | COP 4.600.000 | [10.5281/zenodo.23498324](https://doi.org/10.5281/zenodo.23498324) |
-| [Precio de arriendo de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](arriendo-localidad-chapinero-bogota-octubre-2026/) | 4034 | COP 7.327.000 |  |
-| [Precio de venta de vivienda en la localidad de Engativá, Bogotá — octubre 2026](venta-localidad-engativa-bogota-octubre-2026/) | 2436 | COP 545.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Suba, Bogotá — octubre 2026](arriendo-localidad-suba-bogota-octubre-2026/) | 2387 | COP 3.079.400 |  |
-| [Precio de venta de vivienda en la localidad de Teusaquillo, Bogotá — octubre 2026](venta-localidad-teusaquillo-bogota-octubre-2026/) | 2343 | COP 892.550.000 |  |
-| [Precio de venta de vivienda en la localidad de Kennedy, Bogotá — octubre 2026](venta-localidad-kennedy-bogota-octubre-2026/) | 2180 | COP 450.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Fontibón, Bogotá — octubre 2026](venta-localidad-fontibon-bogota-octubre-2026/) | 1669 | COP 530.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Barrios Unidos, Bogotá — octubre 2026](venta-localidad-barrios-unidos-bogota-octubre-2026/) | 1612 | COP 860.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Teusaquillo, Bogotá — octubre 2026](arriendo-localidad-teusaquillo-bogota-octubre-2026/) | 1080 | COP 2.769.500 |  |
-| [Precio de arriendo de vivienda en la localidad de Barrios Unidos, Bogotá — octubre 2026](arriendo-localidad-barrios-unidos-bogota-octubre-2026/) | 927 | COP 2.700.000 |  |
-| [Precio de venta de vivienda en la localidad de Puente Aranda, Bogotá — octubre 2026](venta-localidad-puente-aranda-bogota-octubre-2026/) | 907 | COP 650.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Bosa, Bogotá — octubre 2026](venta-localidad-bosa-bogota-octubre-2026/) | 802 | COP 224.750.000 |  |
-| [Precio de venta de vivienda en la localidad de Santa Fe, Bogotá — octubre 2026](venta-localidad-santa-fe-bogota-octubre-2026/) | 778 | COP 454.982.760 |  |
-| [Precio de arriendo de vivienda en la localidad de Santa Fe, Bogotá — octubre 2026](arriendo-localidad-santa-fe-bogota-octubre-2026/) | 714 | COP 2.162.225 |  |
-| [Precio de arriendo de vivienda en la localidad de Engativá, Bogotá — octubre 2026](arriendo-localidad-engativa-bogota-octubre-2026/) | 700 | COP 1.734.500 |  |
-| [Precio de venta de vivienda en la localidad de Rafael Uribe Uribe, Bogotá — octubre 2026](venta-localidad-rafael-uribe-uribe-bogota-octubre-2026/) | 667 | COP 450.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Kennedy, Bogotá — octubre 2026](arriendo-localidad-kennedy-bogota-octubre-2026/) | 551 | COP 1.500.000 |  |
-| [Precio de venta de vivienda en la localidad de Los Mártires, Bogotá — octubre 2026](venta-localidad-los-martires-bogota-octubre-2026/) | 544 | COP 350.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Ciudad Bolívar, Bogotá — octubre 2026](venta-localidad-ciudad-bolivar-bogota-octubre-2026/) | 500 | COP 241.000.000 |  |
-| [Precio de venta de vivienda en la localidad de San Cristóbal, Bogotá — octubre 2026](venta-localidad-san-cristobal-bogota-octubre-2026/) | 475 | COP 319.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Antonio Nariño, Bogotá — octubre 2026](venta-localidad-antonio-narino-bogota-octubre-2026/) | 416 | COP 680.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Puente Aranda, Bogotá — octubre 2026](arriendo-localidad-puente-aranda-bogota-octubre-2026/) | 307 | COP 1.800.000 |  |
-| [Precio de venta de vivienda en la localidad de Usme, Bogotá — octubre 2026](venta-localidad-usme-bogota-octubre-2026/) | 262 | COP 200.000.000 |  |
-| [Precio de venta de vivienda en la localidad de Tunjuelito, Bogotá — octubre 2026](venta-localidad-tunjuelito-bogota-octubre-2026/) | 239 | COP 600.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Los Mártires, Bogotá — octubre 2026](arriendo-localidad-los-martires-bogota-octubre-2026/) | 222 | COP 1.600.000 |  |
-| [Precio de venta de vivienda en la localidad de La Candelaria, Bogotá — octubre 2026](venta-localidad-la-candelaria-bogota-octubre-2026/) | 213 | COP 575.000.000 |  |
-| [Precio de arriendo de vivienda en la localidad de Bosa, Bogotá — octubre 2026](arriendo-localidad-bosa-bogota-octubre-2026/) | 161 | COP 1.100.000 |  |
+| [Precio de arriendo de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](arriendo-localidad-chapinero-bogota-octubre-2026/) | 4034 | COP 7.327.000 | [10.5281/zenodo.23498892](https://doi.org/10.5281/zenodo.23498892) |
+| [Precio de venta de vivienda en la localidad de Engativá, Bogotá — octubre 2026](venta-localidad-engativa-bogota-octubre-2026/) | 2436 | COP 545.000.000 | [10.5281/zenodo.23499186](https://doi.org/10.5281/zenodo.23499186) |
+| [Precio de arriendo de vivienda en la localidad de Suba, Bogotá — octubre 2026](arriendo-localidad-suba-bogota-octubre-2026/) | 2387 | COP 3.079.400 | [10.5281/zenodo.23499220](https://doi.org/10.5281/zenodo.23499220) |
+| [Precio de venta de vivienda en la localidad de Teusaquillo, Bogotá — octubre 2026](venta-localidad-teusaquillo-bogota-octubre-2026/) | 2343 | COP 892.550.000 | [10.5281/zenodo.23499245](https://doi.org/10.5281/zenodo.23499245) |
+| [Precio de venta de vivienda en la localidad de Kennedy, Bogotá — octubre 2026](venta-localidad-kennedy-bogota-octubre-2026/) | 2180 | COP 450.000.000 | [10.5281/zenodo.23499277](https://doi.org/10.5281/zenodo.23499277) |
+| [Precio de venta de vivienda en la localidad de Fontibón, Bogotá — octubre 2026](venta-localidad-fontibon-bogota-octubre-2026/) | 1669 | COP 530.000.000 | [10.5281/zenodo.23499311](https://doi.org/10.5281/zenodo.23499311) |
+| [Precio de venta de vivienda en la localidad de Barrios Unidos, Bogotá — octubre 2026](venta-localidad-barrios-unidos-bogota-octubre-2026/) | 1612 | COP 860.000.000 | [10.5281/zenodo.23499326](https://doi.org/10.5281/zenodo.23499326) |
+| [Precio de arriendo de vivienda en la localidad de Teusaquillo, Bogotá — octubre 2026](arriendo-localidad-teusaquillo-bogota-octubre-2026/) | 1080 | COP 2.769.500 | [10.5281/zenodo.23499394](https://doi.org/10.5281/zenodo.23499394) |
+| [Precio de arriendo de vivienda en la localidad de Barrios Unidos, Bogotá — octubre 2026](arriendo-localidad-barrios-unidos-bogota-octubre-2026/) | 927 | COP 2.700.000 | [10.5281/zenodo.23499411](https://doi.org/10.5281/zenodo.23499411) |
+| [Precio de venta de vivienda en la localidad de Puente Aranda, Bogotá — octubre 2026](venta-localidad-puente-aranda-bogota-octubre-2026/) | 907 | COP 650.000.000 | [10.5281/zenodo.23499418](https://doi.org/10.5281/zenodo.23499418) |
+| [Precio de venta de vivienda en la localidad de Bosa, Bogotá — octubre 2026](venta-localidad-bosa-bogota-octubre-2026/) | 802 | COP 224.750.000 | [10.5281/zenodo.23499435](https://doi.org/10.5281/zenodo.23499435) |
+| [Precio de venta de vivienda en la localidad de Santa Fe, Bogotá — octubre 2026](venta-localidad-santa-fe-bogota-octubre-2026/) | 778 | COP 454.982.760 | [10.5281/zenodo.23499453](https://doi.org/10.5281/zenodo.23499453) |
+| [Precio de arriendo de vivienda en la localidad de Santa Fe, Bogotá — octubre 2026](arriendo-localidad-santa-fe-bogota-octubre-2026/) | 714 | COP 2.162.225 | [10.5281/zenodo.23499468](https://doi.org/10.5281/zenodo.23499468) |
+| [Precio de arriendo de vivienda en la localidad de Engativá, Bogotá — octubre 2026](arriendo-localidad-engativa-bogota-octubre-2026/) | 700 | COP 1.734.500 | [10.5281/zenodo.23499482](https://doi.org/10.5281/zenodo.23499482) |
+| [Precio de venta de vivienda en la localidad de Rafael Uribe Uribe, Bogotá — octubre 2026](venta-localidad-rafael-uribe-uribe-bogota-octubre-2026/) | 667 | COP 450.000.000 | [10.5281/zenodo.23499496](https://doi.org/10.5281/zenodo.23499496) |
+| [Precio de arriendo de vivienda en la localidad de Kennedy, Bogotá — octubre 2026](arriendo-localidad-kennedy-bogota-octubre-2026/) | 551 | COP 1.500.000 | [10.5281/zenodo.23499522](https://doi.org/10.5281/zenodo.23499522) |
+| [Precio de venta de vivienda en la localidad de Los Mártires, Bogotá — octubre 2026](venta-localidad-los-martires-bogota-octubre-2026/) | 544 | COP 350.000.000 | [10.5281/zenodo.23499632](https://doi.org/10.5281/zenodo.23499632) |
+| [Precio de venta de vivienda en la localidad de Ciudad Bolívar, Bogotá — octubre 2026](venta-localidad-ciudad-bolivar-bogota-octubre-2026/) | 500 | COP 241.000.000 | [10.5281/zenodo.23499654](https://doi.org/10.5281/zenodo.23499654) |
+| [Precio de venta de vivienda en la localidad de San Cristóbal, Bogotá — octubre 2026](venta-localidad-san-cristobal-bogota-octubre-2026/) | 475 | COP 319.000.000 | [10.5281/zenodo.23499668](https://doi.org/10.5281/zenodo.23499668) |
+| [Precio de venta de vivienda en la localidad de Antonio Nariño, Bogotá — octubre 2026](venta-localidad-antonio-narino-bogota-octubre-2026/) | 416 | COP 680.000.000 | [10.5281/zenodo.23499692](https://doi.org/10.5281/zenodo.23499692) |
+| [Precio de arriendo de vivienda en la localidad de Puente Aranda, Bogotá — octubre 2026](arriendo-localidad-puente-aranda-bogota-octubre-2026/) | 307 | COP 1.800.000 | [10.5281/zenodo.23499718](https://doi.org/10.5281/zenodo.23499718) |
+| [Precio de venta de vivienda en la localidad de Usme, Bogotá — octubre 2026](venta-localidad-usme-bogota-octubre-2026/) | 262 | COP 200.000.000 | [10.5281/zenodo.23499747](https://doi.org/10.5281/zenodo.23499747) |
+| [Precio de venta de vivienda en la localidad de Tunjuelito, Bogotá — octubre 2026](venta-localidad-tunjuelito-bogota-octubre-2026/) | 239 | COP 600.000.000 | [10.5281/zenodo.23499878](https://doi.org/10.5281/zenodo.23499878) |
+| [Precio de arriendo de vivienda en la localidad de Los Mártires, Bogotá — octubre 2026](arriendo-localidad-los-martires-bogota-octubre-2026/) | 222 | COP 1.600.000 | [10.5281/zenodo.23499889](https://doi.org/10.5281/zenodo.23499889) |
+| [Precio de venta de vivienda en la localidad de La Candelaria, Bogotá — octubre 2026](venta-localidad-la-candelaria-bogota-octubre-2026/) | 213 | COP 575.000.000 | [10.5281/zenodo.23499898](https://doi.org/10.5281/zenodo.23499898) |
+| [Precio de arriendo de vivienda en la localidad de Bosa, Bogotá — octubre 2026](arriendo-localidad-bosa-bogota-octubre-2026/) | 161 | COP 1.100.000 | [10.5281/zenodo.23499987](https://doi.org/10.5281/zenodo.23499987) |
 | [Precio de arriendo de vivienda en la localidad de La Candelaria, Bogotá — octubre 2026](arriendo-localidad-la-candelaria-bogota-octubre-2026/) | 125 | COP 1.850.000 |  |
 | [Precio de arriendo de vivienda en la localidad de Ciudad Bolívar, Bogotá — octubre 2026](arriendo-localidad-ciudad-bolivar-bogota-octubre-2026/) | 111 | COP 1.250.000 |  |
 | [Precio de arriendo de vivienda en la localidad de Antonio Nariño, Bogotá — octubre 2026](arriendo-localidad-antonio-narino-bogota-octubre-2026/) | 107 | COP 1.480.000 |  |
