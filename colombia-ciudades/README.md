@@ -120,54 +120,54 @@
 | [Precio de venta de vivienda sin parqueadero en Cúcuta — octubre 2026](venta-sin-parqueadero-cucuta-octubre-2026/) | 145 | COP 200.000.000 | [10.5281/zenodo.23500111](https://doi.org/10.5281/zenodo.23500111) |
 | [Precio de venta de vivienda de 45 a 70 m² en Soacha — octubre 2026](venta-45-a-70-m2-soacha-octubre-2026/) | 141 | COP 164.000.000 | [10.5281/zenodo.23500124](https://doi.org/10.5281/zenodo.23500124) |
 | [Precio de venta de vivienda de 100 a 150 m² en Cúcuta — octubre 2026](venta-100-a-150-m2-cucuta-octubre-2026/) | 138 | COP 380.000.000 | [10.5281/zenodo.23500142](https://doi.org/10.5281/zenodo.23500142) |
-| [Precio de venta de vivienda con parqueadero en Tunja — octubre 2026](venta-con-parqueadero-tunja-octubre-2026/) | 134 | COP 430.000.000 |  |
-| [Precio de arriendo de apartamentos en Cúcuta — octubre 2026](arriendo-apartamentos-cucuta-octubre-2026/) | 133 | COP 1.250.000 |  |
-| [Precio de venta de apartamentos en Ibagué — octubre 2026](venta-apartamentos-ibague-octubre-2026/) | 123 | COP 205.000.000 |  |
-| [Qué se arrienda por menos de COP 1,5 millones en Cúcuta — octubre 2026](arriendo-menos-de-1-5-millones-cucuta-octubre-2026/) | 122 | COP 950.000 |  |
-| [Precio de venta de vivienda con parqueadero en Cali — octubre 2026](venta-con-parqueadero-cali-octubre-2026/) | 116 | COP 595.000.000 |  |
-| [Precio de arriendo de vivienda con parqueadero en Cúcuta — octubre 2026](arriendo-con-parqueadero-cucuta-octubre-2026/) | 116 | COP 1.725.000 |  |
-| [Precio de venta de vivienda con parqueadero en Los Patios — octubre 2026](venta-con-parqueadero-los-patios-octubre-2026/) | 109 | COP 430.000.000 |  |
-| [Precio de venta de vivienda de 70 a 100 m² en Cúcuta — octubre 2026](venta-70-a-100-m2-cucuta-octubre-2026/) | 107 | COP 270.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Cúcuta — octubre 2026](venta-45-a-70-m2-cucuta-octubre-2026/) | 106 | COP 199.000.000 |  |
-| [Precio de venta de vivienda en pisos 4 a 8 en Soacha — octubre 2026](venta-pisos-4-a-8-soacha-octubre-2026/) | 103 | COP 153.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Cúcuta — octubre 2026](arriendo-estrato-3-cucuta-octubre-2026/) | 102 | COP 1.075.000 |  |
-| [Precio de venta de vivienda con parqueadero en Ibagué — octubre 2026](venta-con-parqueadero-ibague-octubre-2026/) | 100 | COP 395.005.000 |  |
-| [Precio de arriendo de vivienda sin parqueadero en Cúcuta — octubre 2026](arriendo-sin-parqueadero-cucuta-octubre-2026/) | 97 | COP 900.000 |  |
-| [Precio de arriendo de vivienda en estrato 1 en Bogotá — octubre 2026](arriendo-estrato-1-bogota-octubre-2026/) | 93 | COP 4.500.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Cúcuta — octubre 2026](venta-estrato-5-cucuta-octubre-2026/) | 90 | COP 650.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Cali — octubre 2026](venta-45-a-70-m2-cali-octubre-2026/) | 88 | COP 245.490.000 |  |
-| [Precio de venta de vivienda en estrato 2 en Cúcuta — octubre 2026](venta-estrato-2-cucuta-octubre-2026/) | 86 | COP 240.000.000 |  |
-| [Precio de venta de vivienda en pisos 4 a 8 en Cali — octubre 2026](venta-pisos-4-a-8-cali-octubre-2026/) | 86 | COP 250.000.000 |  |
-| [Precio de venta de vivienda en pisos 1 a 3 en Soacha — octubre 2026](venta-pisos-1-a-3-soacha-octubre-2026/) | 86 | COP 162.000.000 |  |
-| [Precio de venta de casas en Tunja — octubre 2026](venta-casas-tunja-octubre-2026/) | 85 | COP 550.000.000 |  |
-| [Precio de arriendo de vivienda de 45 a 70 m² en Cúcuta — octubre 2026](arriendo-45-a-70-m2-cucuta-octubre-2026/) | 84 | COP 1.000.000 |  |
-| [Precio de venta de casas en Los Patios — octubre 2026](venta-casas-los-patios-octubre-2026/) | 83 | COP 570.000.000 |  |
-| [Precio de venta de apartamentos en Tunja — octubre 2026](venta-apartamentos-tunja-octubre-2026/) | 82 | COP 325.000.000 |  |
-| [Qué se vende por entre COP 700 y 1.200 millones en Cúcuta — octubre 2026](venta-700-a-1200-millones-cucuta-octubre-2026/) | 82 | COP 800.000.000 |  |
-| [Precio de arriendo de vivienda de 16 a 30 años de construida en Cúcuta — octubre 2026](arriendo-16-a-30-anos-cucuta-octubre-2026/) | 82 | COP 1.400.000 |  |
-| [Precio de venta de vivienda sin parqueadero en Ibagué — octubre 2026](venta-sin-parqueadero-ibague-octubre-2026/) | 81 | COP 200.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Ibagué — octubre 2026](venta-menos-de-250-millones-ibague-octubre-2026/) | 80 | COP 160.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Cali — octubre 2026](venta-estrato-4-cali-octubre-2026/) | 78 | COP 248.750.000 |  |
-| [Precio de arriendo de vivienda de 6 a 15 años de construida en Cúcuta — octubre 2026](arriendo-6-a-15-anos-cucuta-octubre-2026/) | 76 | COP 1.175.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Ibagué — octubre 2026](venta-6-a-15-anos-ibague-octubre-2026/) | 76 | COP 185.000.000 |  |
-| [Precio de venta de vivienda de 250 m² o más en La Calera — octubre 2026](venta-mas-de-250-m2-la-calera-octubre-2026/) | 71 | COP 2.500.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Ibagué — octubre 2026](venta-estrato-3-ibague-octubre-2026/) | 70 | COP 202.500.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Cúcuta — octubre 2026](arriendo-estrato-4-cucuta-octubre-2026/) | 65 | COP 1.900.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Tunja — octubre 2026](venta-estrato-3-tunja-octubre-2026/) | 65 | COP 298.000.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Tunja — octubre 2026](venta-6-a-15-anos-tunja-octubre-2026/) | 64 | COP 395.000.000 |  |
-| [Precio de venta de vivienda en pisos 1 a 3 en Cali — octubre 2026](venta-pisos-1-a-3-cali-octubre-2026/) | 64 | COP 476.000.000 |  |
-| [Precio de venta de vivienda de 45 a 70 m² en Ibagué — octubre 2026](venta-45-a-70-m2-ibague-octubre-2026/) | 62 | COP 170.000.000 |  |
-| [Precio de venta de vivienda de hasta 5 años de construida en Cali — octubre 2026](venta-hasta-5-anos-cali-octubre-2026/) | 62 | COP 276.250.000 |  |
-| [Precio de venta de vivienda en pisos 1 a 3 en Cúcuta — octubre 2026](venta-pisos-1-a-3-cucuta-octubre-2026/) | 62 | COP 385.000.000 |  |
-| [Qué se vende por entre COP 400 y 700 millones en Tunja — octubre 2026](venta-400-a-700-millones-tunja-octubre-2026/) | 59 | COP 495.000.000 |  |
-| [Qué se vende por entre COP 250 y 400 millones en Tunja — octubre 2026](venta-250-a-400-millones-tunja-octubre-2026/) | 58 | COP 320.000.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Los Patios — octubre 2026](venta-6-a-15-anos-los-patios-octubre-2026/) | 58 | COP 350.000.000 |  |
-| [Precio de venta de casas en Ibagué — octubre 2026](venta-casas-ibague-octubre-2026/) | 57 | COP 600.000.000 |  |
-| [Qué se vende por menos de COP 250 millones en Cali — octubre 2026](venta-menos-de-250-millones-cali-octubre-2026/) | 57 | COP 220.000.000 |  |
-| [Precio de arriendo de casas en Cúcuta — octubre 2026](arriendo-casas-cucuta-octubre-2026/) | 56 | COP 1.850.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Tunja — octubre 2026](venta-estrato-5-tunja-octubre-2026/) | 55 | COP 513.170.400 |  |
-| [Qué se arrienda por entre COP 1,5 y 2,5 millones en Cúcuta — octubre 2026](arriendo-1-5-a-2-5-millones-cucuta-octubre-2026/) | 55 | COP 1.800.000 |  |
-| [Precio de venta de vivienda de 6 a 15 años de construida en Madrid — octubre 2026](venta-6-a-15-anos-madrid-octubre-2026/) | 55 | COP 196.000.000 |  |
+| [Precio de venta de vivienda con parqueadero en Tunja — octubre 2026](venta-con-parqueadero-tunja-octubre-2026/) | 134 | COP 430.000.000 | [10.5281/zenodo.23500235](https://doi.org/10.5281/zenodo.23500235) |
+| [Precio de arriendo de apartamentos en Cúcuta — octubre 2026](arriendo-apartamentos-cucuta-octubre-2026/) | 133 | COP 1.250.000 | [10.5281/zenodo.23500250](https://doi.org/10.5281/zenodo.23500250) |
+| [Precio de venta de apartamentos en Ibagué — octubre 2026](venta-apartamentos-ibague-octubre-2026/) | 123 | COP 205.000.000 | [10.5281/zenodo.23500277](https://doi.org/10.5281/zenodo.23500277) |
+| [Qué se arrienda por menos de COP 1,5 millones en Cúcuta — octubre 2026](arriendo-menos-de-1-5-millones-cucuta-octubre-2026/) | 122 | COP 950.000 | [10.5281/zenodo.23500294](https://doi.org/10.5281/zenodo.23500294) |
+| [Precio de venta de vivienda con parqueadero en Cali — octubre 2026](venta-con-parqueadero-cali-octubre-2026/) | 116 | COP 595.000.000 | [10.5281/zenodo.23500309](https://doi.org/10.5281/zenodo.23500309) |
+| [Precio de arriendo de vivienda con parqueadero en Cúcuta — octubre 2026](arriendo-con-parqueadero-cucuta-octubre-2026/) | 116 | COP 1.725.000 | [10.5281/zenodo.23500314](https://doi.org/10.5281/zenodo.23500314) |
+| [Precio de venta de vivienda con parqueadero en Los Patios — octubre 2026](venta-con-parqueadero-los-patios-octubre-2026/) | 109 | COP 430.000.000 | [10.5281/zenodo.23500343](https://doi.org/10.5281/zenodo.23500343) |
+| [Precio de venta de vivienda de 70 a 100 m² en Cúcuta — octubre 2026](venta-70-a-100-m2-cucuta-octubre-2026/) | 107 | COP 270.000.000 | [10.5281/zenodo.23500378](https://doi.org/10.5281/zenodo.23500378) |
+| [Precio de venta de vivienda de 45 a 70 m² en Cúcuta — octubre 2026](venta-45-a-70-m2-cucuta-octubre-2026/) | 106 | COP 199.000.000 | [10.5281/zenodo.23500425](https://doi.org/10.5281/zenodo.23500425) |
+| [Precio de venta de vivienda en pisos 4 a 8 en Soacha — octubre 2026](venta-pisos-4-a-8-soacha-octubre-2026/) | 103 | COP 153.000.000 | [10.5281/zenodo.23500443](https://doi.org/10.5281/zenodo.23500443) |
+| [Precio de arriendo de vivienda en estrato 3 en Cúcuta — octubre 2026](arriendo-estrato-3-cucuta-octubre-2026/) | 102 | COP 1.075.000 | [10.5281/zenodo.23500455](https://doi.org/10.5281/zenodo.23500455) |
+| [Precio de venta de vivienda con parqueadero en Ibagué — octubre 2026](venta-con-parqueadero-ibague-octubre-2026/) | 100 | COP 395.005.000 | [10.5281/zenodo.23500465](https://doi.org/10.5281/zenodo.23500465) |
+| [Precio de arriendo de vivienda sin parqueadero en Cúcuta — octubre 2026](arriendo-sin-parqueadero-cucuta-octubre-2026/) | 97 | COP 900.000 | [10.5281/zenodo.23500520](https://doi.org/10.5281/zenodo.23500520) |
+| [Precio de arriendo de vivienda en estrato 1 en Bogotá — octubre 2026](arriendo-estrato-1-bogota-octubre-2026/) | 93 | COP 4.500.000 | [10.5281/zenodo.23500538](https://doi.org/10.5281/zenodo.23500538) |
+| [Precio de venta de vivienda en estrato 5 en Cúcuta — octubre 2026](venta-estrato-5-cucuta-octubre-2026/) | 90 | COP 650.000.000 | [10.5281/zenodo.23500556](https://doi.org/10.5281/zenodo.23500556) |
+| [Precio de venta de vivienda de 45 a 70 m² en Cali — octubre 2026](venta-45-a-70-m2-cali-octubre-2026/) | 88 | COP 245.490.000 | [10.5281/zenodo.23500572](https://doi.org/10.5281/zenodo.23500572) |
+| [Precio de venta de vivienda en estrato 2 en Cúcuta — octubre 2026](venta-estrato-2-cucuta-octubre-2026/) | 86 | COP 240.000.000 | [10.5281/zenodo.23500616](https://doi.org/10.5281/zenodo.23500616) |
+| [Precio de venta de vivienda en pisos 4 a 8 en Cali — octubre 2026](venta-pisos-4-a-8-cali-octubre-2026/) | 86 | COP 250.000.000 | [10.5281/zenodo.23500634](https://doi.org/10.5281/zenodo.23500634) |
+| [Precio de venta de vivienda en pisos 1 a 3 en Soacha — octubre 2026](venta-pisos-1-a-3-soacha-octubre-2026/) | 86 | COP 162.000.000 | [10.5281/zenodo.23500648](https://doi.org/10.5281/zenodo.23500648) |
+| [Precio de venta de casas en Tunja — octubre 2026](venta-casas-tunja-octubre-2026/) | 85 | COP 550.000.000 | [10.5281/zenodo.23500663](https://doi.org/10.5281/zenodo.23500663) |
+| [Precio de arriendo de vivienda de 45 a 70 m² en Cúcuta — octubre 2026](arriendo-45-a-70-m2-cucuta-octubre-2026/) | 84 | COP 1.000.000 | [10.5281/zenodo.23500672](https://doi.org/10.5281/zenodo.23500672) |
+| [Precio de venta de casas en Los Patios — octubre 2026](venta-casas-los-patios-octubre-2026/) | 83 | COP 570.000.000 | [10.5281/zenodo.23500687](https://doi.org/10.5281/zenodo.23500687) |
+| [Precio de venta de apartamentos en Tunja — octubre 2026](venta-apartamentos-tunja-octubre-2026/) | 82 | COP 325.000.000 | [10.5281/zenodo.23500703](https://doi.org/10.5281/zenodo.23500703) |
+| [Qué se vende por entre COP 700 y 1.200 millones en Cúcuta — octubre 2026](venta-700-a-1200-millones-cucuta-octubre-2026/) | 82 | COP 800.000.000 | [10.5281/zenodo.23500712](https://doi.org/10.5281/zenodo.23500712) |
+| [Precio de arriendo de vivienda de 16 a 30 años de construida en Cúcuta — octubre 2026](arriendo-16-a-30-anos-cucuta-octubre-2026/) | 82 | COP 1.400.000 | [10.5281/zenodo.23500720](https://doi.org/10.5281/zenodo.23500720) |
+| [Precio de venta de vivienda sin parqueadero en Ibagué — octubre 2026](venta-sin-parqueadero-ibague-octubre-2026/) | 81 | COP 200.000.000 | [10.5281/zenodo.23500739](https://doi.org/10.5281/zenodo.23500739) |
+| [Qué se vende por menos de COP 250 millones en Ibagué — octubre 2026](venta-menos-de-250-millones-ibague-octubre-2026/) | 80 | COP 160.000.000 | [10.5281/zenodo.23500787](https://doi.org/10.5281/zenodo.23500787) |
+| [Precio de venta de vivienda en estrato 4 en Cali — octubre 2026](venta-estrato-4-cali-octubre-2026/) | 78 | COP 248.750.000 | [10.5281/zenodo.23500793](https://doi.org/10.5281/zenodo.23500793) |
+| [Precio de arriendo de vivienda de 6 a 15 años de construida en Cúcuta — octubre 2026](arriendo-6-a-15-anos-cucuta-octubre-2026/) | 76 | COP 1.175.000 | [10.5281/zenodo.23501014](https://doi.org/10.5281/zenodo.23501014) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Ibagué — octubre 2026](venta-6-a-15-anos-ibague-octubre-2026/) | 76 | COP 185.000.000 | [10.5281/zenodo.23501035](https://doi.org/10.5281/zenodo.23501035) |
+| [Precio de venta de vivienda de 250 m² o más en La Calera — octubre 2026](venta-mas-de-250-m2-la-calera-octubre-2026/) | 71 | COP 2.500.000.000 | [10.5281/zenodo.23501049](https://doi.org/10.5281/zenodo.23501049) |
+| [Precio de venta de vivienda en estrato 3 en Ibagué — octubre 2026](venta-estrato-3-ibague-octubre-2026/) | 70 | COP 202.500.000 | [10.5281/zenodo.23501085](https://doi.org/10.5281/zenodo.23501085) |
+| [Precio de arriendo de vivienda en estrato 4 en Cúcuta — octubre 2026](arriendo-estrato-4-cucuta-octubre-2026/) | 65 | COP 1.900.000 | [10.5281/zenodo.23501111](https://doi.org/10.5281/zenodo.23501111) |
+| [Precio de venta de vivienda en estrato 3 en Tunja — octubre 2026](venta-estrato-3-tunja-octubre-2026/) | 65 | COP 298.000.000 | [10.5281/zenodo.23501137](https://doi.org/10.5281/zenodo.23501137) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Tunja — octubre 2026](venta-6-a-15-anos-tunja-octubre-2026/) | 64 | COP 395.000.000 | [10.5281/zenodo.23501161](https://doi.org/10.5281/zenodo.23501161) |
+| [Precio de venta de vivienda en pisos 1 a 3 en Cali — octubre 2026](venta-pisos-1-a-3-cali-octubre-2026/) | 64 | COP 476.000.000 | [10.5281/zenodo.23501189](https://doi.org/10.5281/zenodo.23501189) |
+| [Precio de venta de vivienda de 45 a 70 m² en Ibagué — octubre 2026](venta-45-a-70-m2-ibague-octubre-2026/) | 62 | COP 170.000.000 | [10.5281/zenodo.23501227](https://doi.org/10.5281/zenodo.23501227) |
+| [Precio de venta de vivienda de hasta 5 años de construida en Cali — octubre 2026](venta-hasta-5-anos-cali-octubre-2026/) | 62 | COP 276.250.000 | [10.5281/zenodo.23501259](https://doi.org/10.5281/zenodo.23501259) |
+| [Precio de venta de vivienda en pisos 1 a 3 en Cúcuta — octubre 2026](venta-pisos-1-a-3-cucuta-octubre-2026/) | 62 | COP 385.000.000 | [10.5281/zenodo.23501296](https://doi.org/10.5281/zenodo.23501296) |
+| [Qué se vende por entre COP 400 y 700 millones en Tunja — octubre 2026](venta-400-a-700-millones-tunja-octubre-2026/) | 59 | COP 495.000.000 | [10.5281/zenodo.23501571](https://doi.org/10.5281/zenodo.23501571) |
+| [Qué se vende por entre COP 250 y 400 millones en Tunja — octubre 2026](venta-250-a-400-millones-tunja-octubre-2026/) | 58 | COP 320.000.000 | [10.5281/zenodo.23501623](https://doi.org/10.5281/zenodo.23501623) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Los Patios — octubre 2026](venta-6-a-15-anos-los-patios-octubre-2026/) | 58 | COP 350.000.000 | [10.5281/zenodo.23501630](https://doi.org/10.5281/zenodo.23501630) |
+| [Precio de venta de casas en Ibagué — octubre 2026](venta-casas-ibague-octubre-2026/) | 57 | COP 600.000.000 | [10.5281/zenodo.23501634](https://doi.org/10.5281/zenodo.23501634) |
+| [Qué se vende por menos de COP 250 millones en Cali — octubre 2026](venta-menos-de-250-millones-cali-octubre-2026/) | 57 | COP 220.000.000 | [10.5281/zenodo.23501645](https://doi.org/10.5281/zenodo.23501645) |
+| [Precio de arriendo de casas en Cúcuta — octubre 2026](arriendo-casas-cucuta-octubre-2026/) | 56 | COP 1.850.000 | [10.5281/zenodo.23501666](https://doi.org/10.5281/zenodo.23501666) |
+| [Precio de venta de vivienda en estrato 5 en Tunja — octubre 2026](venta-estrato-5-tunja-octubre-2026/) | 55 | COP 513.170.400 | [10.5281/zenodo.23501672](https://doi.org/10.5281/zenodo.23501672) |
+| [Qué se arrienda por entre COP 1,5 y 2,5 millones en Cúcuta — octubre 2026](arriendo-1-5-a-2-5-millones-cucuta-octubre-2026/) | 55 | COP 1.800.000 | [10.5281/zenodo.23501683](https://doi.org/10.5281/zenodo.23501683) |
+| [Precio de venta de vivienda de 6 a 15 años de construida en Madrid — octubre 2026](venta-6-a-15-anos-madrid-octubre-2026/) | 55 | COP 196.000.000 | [10.5281/zenodo.23501966](https://doi.org/10.5281/zenodo.23501966) |
 | [Precio de venta de vivienda de más de 30 años de construida en Cali — octubre 2026](venta-mas-de-30-anos-cali-octubre-2026/) | 54 | COP 770.000.000 |  |
 | [Precio de arriendo de vivienda en pisos 1 a 3 en Cúcuta — octubre 2026](arriendo-pisos-1-a-3-cucuta-octubre-2026/) | 53 | COP 1.100.000 |  |
 | [Qué se vende por COP 2.000 millones o más en La Calera — octubre 2026](venta-mas-de-2000-millones-la-calera-octubre-2026/) | 52 | COP 2.725.000.000 |  |
