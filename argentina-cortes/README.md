@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/argentina-cortes
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-argentina-cortes-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-argentina-cortes-2026
+- OSF: https://osf.io/uqbyr/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

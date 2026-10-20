@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/colombia-parqueo-banos
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-colombia-parqueo-banos-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-colombia-parqueo-banos-2026
+- OSF: https://osf.io/fg34z/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

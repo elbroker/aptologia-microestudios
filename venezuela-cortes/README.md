@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/venezuela-cortes
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-venezuela-cortes-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-venezuela-cortes-2026
+- OSF: https://osf.io/sg8nj/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

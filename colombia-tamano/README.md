@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/colombia-tamano
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-colombia-tamano-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-colombia-tamano-2026
+- OSF: https://osf.io/yjrkp/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

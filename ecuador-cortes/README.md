@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/ecuador-cortes
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-ecuador-cortes-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-ecuador-cortes-2026
+- OSF: https://osf.io/uh6k2/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

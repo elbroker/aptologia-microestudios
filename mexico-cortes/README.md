@@ -10,6 +10,7 @@
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/mexico-cortes
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-mexico-cortes-2026
 - Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-mexico-cortes-2026
+- OSF: https://osf.io/2j6mz/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
 

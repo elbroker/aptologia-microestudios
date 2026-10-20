@@ -9,7 +9,7 @@
 - Comunidad Zenodo: https://zenodo.org/communities/aptologia/
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/colombia-barrios-estrato
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-colombia-barrios-estrato-2026
-- Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-vivienda-colombia-barrios-estrato-2026
+- Kaggle: https://www.kaggle.com/datasets/aptologia/microestudios-colombia-barrio-estrato-2026
 - OSF: https://osf.io/4mueq/
 
 `indice.csv` resume todos los microestudios (mediana, percentiles, precio por m² y moneda, DOI).
