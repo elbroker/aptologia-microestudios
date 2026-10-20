@@ -62,10 +62,10 @@
 | [Precio de arriendo de vivienda en la localidad de Rafael Uribe Uribe, Bogotá — octubre 2026](arriendo-localidad-rafael-uribe-uribe-bogota-octubre-2026/) | 88 | COP 1.200.000 | [10.5281/zenodo.23500596](https://doi.org/10.5281/zenodo.23500596) |
 | [Precio de arriendo de vivienda en la localidad de San Cristóbal, Bogotá — octubre 2026](arriendo-localidad-san-cristobal-bogota-octubre-2026/) | 81 | COP 1.350.000 | [10.5281/zenodo.23500763](https://doi.org/10.5281/zenodo.23500763) |
 | [Precio de arriendo de vivienda en la localidad de Usme, Bogotá — octubre 2026](arriendo-localidad-usme-bogota-octubre-2026/) | 71 | COP 900.000 | [10.5281/zenodo.23501067](https://doi.org/10.5281/zenodo.23501067) |
-| [Precio de venta de apartamentos en la localidad de Usaquén, Bogotá — octubre 2026](venta-apartamentos-localidad-usaquen-bogota-octubre-2026/) | 11138 | COP 950.000.000 |  |
-| [Precio de venta de apartamentos en la localidad de Chapinero, Bogotá — octubre 2026](venta-apartamentos-localidad-chapinero-bogota-octubre-2026/) | 5721 | COP 1.600.000.000 |  |
-| [Precio de venta de vivienda de hasta 5 años de construida en la localidad de Usaquén, Bogotá — octubre 2026](venta-hasta-5-anos-localidad-usaquen-bogota-octubre-2026/) | 5684 | COP 870.000.000 |  |
-| [Precio de venta de casas en la localidad de Suba, Bogotá — octubre 2026](venta-casas-localidad-suba-bogota-octubre-2026/) | 5434 | COP 1.600.000.000 |  |
+| [Precio de venta de apartamentos en la localidad de Usaquén, Bogotá — octubre 2026](venta-apartamentos-localidad-usaquen-bogota-octubre-2026/) | 11138 | COP 950.000.000 | [10.5281/zenodo.23506914](https://doi.org/10.5281/zenodo.23506914) |
+| [Precio de venta de apartamentos en la localidad de Chapinero, Bogotá — octubre 2026](venta-apartamentos-localidad-chapinero-bogota-octubre-2026/) | 5721 | COP 1.600.000.000 | [10.5281/zenodo.23507184](https://doi.org/10.5281/zenodo.23507184) |
+| [Precio de venta de vivienda de hasta 5 años de construida en la localidad de Usaquén, Bogotá — octubre 2026](venta-hasta-5-anos-localidad-usaquen-bogota-octubre-2026/) | 5684 | COP 870.000.000 | [10.5281/zenodo.23507212](https://doi.org/10.5281/zenodo.23507212) |
+| [Precio de venta de casas en la localidad de Suba, Bogotá — octubre 2026](venta-casas-localidad-suba-bogota-octubre-2026/) | 5434 | COP 1.600.000.000 | [10.5281/zenodo.23507257](https://doi.org/10.5281/zenodo.23507257) |
 | [Precio de venta de vivienda de 16 a 30 años de construida en la localidad de Usaquén, Bogotá — octubre 2026](venta-16-a-30-anos-localidad-usaquen-bogota-octubre-2026/) | 4805 | COP 1.180.000.000 |  |
 | [Precio de venta de vivienda en estrato 6 en la localidad de Chapinero, Bogotá — octubre 2026](venta-estrato-6-localidad-chapinero-bogota-octubre-2026/) | 4721 | COP 1.900.000.000 |  |
 | [Precio de venta de apartamentos en la localidad de Suba, Bogotá — octubre 2026](venta-apartamentos-localidad-suba-bogota-octubre-2026/) | 4515 | COP 650.000.000 |  |
