@@ -28,21 +28,21 @@
 | [Precio de arriendo de vivienda en Cúcuta — octubre 2026](arriendo-cucuta-octubre-2026/) | 213 | COP 1.300.000 | [10.5281/zenodo.23487740](https://doi.org/10.5281/zenodo.23487740) |
 | [Precio de venta de vivienda en Cali — octubre 2026](venta-cali-octubre-2026/) | 195 | COP 330.000.000 | [10.5281/zenodo.23487769](https://doi.org/10.5281/zenodo.23487769) |
 | [Precio de venta de vivienda en Soacha — octubre 2026](venta-soacha-octubre-2026/) | 194 | COP 155.935.000 | [10.5281/zenodo.23490003](https://doi.org/10.5281/zenodo.23490003) |
-| [Precio de venta de vivienda en Tunja — octubre 2026](venta-tunja-octubre-2026/) | 185 | COP 390.000.000 |  |
-| [Precio de venta de vivienda en Ibagué — octubre 2026](venta-ibague-octubre-2026/) | 182 | COP 280.000.000 |  |
-| [Precio de venta de vivienda en Los Patios — octubre 2026](venta-los-patios-octubre-2026/) | 134 | COP 380.000.000 |  |
-| [Precio de venta de vivienda en Barranquilla — octubre 2026](venta-barranquilla-octubre-2026/) | 95 | COP 262.000.000 |  |
-| [Precio de venta de vivienda en Madrid — octubre 2026](venta-madrid-octubre-2026/) | 95 | COP 205.000.000 |  |
-| [Precio de venta de vivienda en La Calera — octubre 2026](venta-la-calera-octubre-2026/) | 86 | COP 2.325.000.000 |  |
-| [Precio de arriendo de vivienda en Armenia — octubre 2026](arriendo-armenia-octubre-2026/) | 77 | COP 2.000.000 |  |
-| [Precio de venta de vivienda en Chía — octubre 2026](venta-chia-octubre-2026/) | 77 | COP 390.000.000 |  |
-| [Precio de venta de vivienda en Villa Del Rosario — octubre 2026](venta-villa-del-rosario-octubre-2026/) | 72 | COP 295.000.000 |  |
-| [Precio de venta de vivienda en Zipaquirá — octubre 2026](venta-zipaquira-octubre-2026/) | 60 | COP 225.000.000 |  |
-| [Precio de venta de vivienda en Tocancipa — octubre 2026](venta-tocancipa-octubre-2026/) | 59 | COP 213.000.000 |  |
-| [Precio de arriendo de vivienda en Ibagué — octubre 2026](arriendo-ibague-octubre-2026/) | 57 | COP 999.000 |  |
-| [Precio de venta de vivienda en Santa Marta — octubre 2026](venta-santa-marta-octubre-2026/) | 41 | COP 640.000.000 |  |
-| [Precio de venta de vivienda en Mosquera — octubre 2026](venta-mosquera-octubre-2026/) | 39 | COP 310.000.000 |  |
-| [Precio de venta de vivienda en Bello — octubre 2026](venta-bello-octubre-2026/) | 36 | COP 344.000.000 |  |
+| [Precio de venta de vivienda en Tunja — octubre 2026](venta-tunja-octubre-2026/) | 185 | COP 390.000.000 | [10.5281/zenodo.23490058](https://doi.org/10.5281/zenodo.23490058) |
+| [Precio de venta de vivienda en Ibagué — octubre 2026](venta-ibague-octubre-2026/) | 182 | COP 280.000.000 | [10.5281/zenodo.23490075](https://doi.org/10.5281/zenodo.23490075) |
+| [Precio de venta de vivienda en Los Patios — octubre 2026](venta-los-patios-octubre-2026/) | 134 | COP 380.000.000 | [10.5281/zenodo.23490083](https://doi.org/10.5281/zenodo.23490083) |
+| [Precio de venta de vivienda en Barranquilla — octubre 2026](venta-barranquilla-octubre-2026/) | 95 | COP 262.000.000 | [10.5281/zenodo.23490096](https://doi.org/10.5281/zenodo.23490096) |
+| [Precio de venta de vivienda en Madrid — octubre 2026](venta-madrid-octubre-2026/) | 95 | COP 205.000.000 | [10.5281/zenodo.23490112](https://doi.org/10.5281/zenodo.23490112) |
+| [Precio de venta de vivienda en La Calera — octubre 2026](venta-la-calera-octubre-2026/) | 86 | COP 2.325.000.000 | [10.5281/zenodo.23490157](https://doi.org/10.5281/zenodo.23490157) |
+| [Precio de arriendo de vivienda en Armenia — octubre 2026](arriendo-armenia-octubre-2026/) | 77 | COP 2.000.000 | [10.5281/zenodo.23490168](https://doi.org/10.5281/zenodo.23490168) |
+| [Precio de venta de vivienda en Chía — octubre 2026](venta-chia-octubre-2026/) | 77 | COP 390.000.000 | [10.5281/zenodo.23490193](https://doi.org/10.5281/zenodo.23490193) |
+| [Precio de venta de vivienda en Villa Del Rosario — octubre 2026](venta-villa-del-rosario-octubre-2026/) | 72 | COP 295.000.000 | [10.5281/zenodo.23490218](https://doi.org/10.5281/zenodo.23490218) |
+| [Precio de venta de vivienda en Zipaquirá — octubre 2026](venta-zipaquira-octubre-2026/) | 60 | COP 225.000.000 | [10.5281/zenodo.23490227](https://doi.org/10.5281/zenodo.23490227) |
+| [Precio de venta de vivienda en Tocancipa — octubre 2026](venta-tocancipa-octubre-2026/) | 59 | COP 213.000.000 | [10.5281/zenodo.23490240](https://doi.org/10.5281/zenodo.23490240) |
+| [Precio de arriendo de vivienda en Ibagué — octubre 2026](arriendo-ibague-octubre-2026/) | 57 | COP 999.000 | [10.5281/zenodo.23490254](https://doi.org/10.5281/zenodo.23490254) |
+| [Precio de venta de vivienda en Santa Marta — octubre 2026](venta-santa-marta-octubre-2026/) | 41 | COP 640.000.000 | [10.5281/zenodo.23490277](https://doi.org/10.5281/zenodo.23490277) |
+| [Precio de venta de vivienda en Mosquera — octubre 2026](venta-mosquera-octubre-2026/) | 39 | COP 310.000.000 | [10.5281/zenodo.23490313](https://doi.org/10.5281/zenodo.23490313) |
+| [Precio de venta de vivienda en Bello — octubre 2026](venta-bello-octubre-2026/) | 36 | COP 344.000.000 | [10.5281/zenodo.23493497](https://doi.org/10.5281/zenodo.23493497) |
 | [Precio de venta de vivienda con parqueadero en Bogotá — octubre 2026](venta-con-parqueadero-bogota-octubre-2026/) | 43405 | COP 1.050.000.000 |  |
 | [Precio de venta de apartamentos en Bogotá — octubre 2026](venta-apartamentos-bogota-octubre-2026/) | 33308 | COP 765.000.000 |  |
 | [Precio de venta de vivienda de hasta 5 años de construida en Bogotá — octubre 2026](venta-hasta-5-anos-bogota-octubre-2026/) | 22325 | COP 700.000.000 |  |
