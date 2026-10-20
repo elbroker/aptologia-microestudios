@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,46
+filtro,estrato,4,,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,630000000.0,COP,46
+precio,mediana,740000000.0,COP,46
+precio,p75,972500000.0,COP,46
+precio,minimo,460000000.0,COP,46
+precio,maximo,3200000000.0,COP,46
+m2,mediana_precio_m2,3601694.92,COP,46
+m2,area_mediana_m2,238.0,m2,46
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,83.3,%,36
+estrato,estrato_mas_frecuente,4,,46
+habitaciones,3+,740000000.0,COP,46
+ciudad,mediana_ciudad_referencia,770000000.0,COP,
+ciudad,mediana_m2_ciudad,3846153.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/manizales/chipre,,
+fuente,licencia,CC BY 4.0,,

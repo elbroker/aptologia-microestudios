@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,1,,33
+filtro,area1,"de menos de 45 m²",,33
+precio,p25,1890.0,BRL,33
+precio,mediana,2020.0,BRL,33
+precio,p75,2856.0,BRL,33
+precio,minimo,1220.0,BRL,33
+precio,maximo,6160.0,BRL,33
+m2,mediana_precio_m2,75.21,BRL,32
+m2,area_mediana_m2,27.0,m2,32
+admin,mediana_admin_mes,470.0,BRL,33
+banos,mediana_banos,1.0,,
+habitaciones,1,2020.0,BRL,33
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo,,
+fuente,licencia,CC BY 4.0,,

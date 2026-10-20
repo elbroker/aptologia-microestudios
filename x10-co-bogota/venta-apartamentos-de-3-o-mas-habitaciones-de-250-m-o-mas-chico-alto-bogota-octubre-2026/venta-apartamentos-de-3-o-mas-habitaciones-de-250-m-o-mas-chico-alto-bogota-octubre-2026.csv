@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,110
+filtro,habitaciones,3+,,110
+filtro,area6,"de 250 m² o más",,110
+precio,p25,1982500000.0,COP,110
+precio,mediana,2747500000.0,COP,110
+precio,p75,3075000000.0,COP,110
+precio,minimo,1550000000.0,COP,110
+precio,maximo,4200000000.0,COP,110
+m2,mediana_precio_m2,7985507.25,COP,110
+m2,area_mediana_m2,331.3,m2,110
+admin,mediana_admin_mes,2500000.0,COP,102
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.1,%,110
+estrato,estrato_mas_frecuente,6,,110
+habitaciones,3+,2747500000.0,COP,110
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-alto,,
+fuente,licencia,CC BY 4.0,,

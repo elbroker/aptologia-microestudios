@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,161
+filtro,estrato,3,,161
+precio,p25,170000000.0,COP,161
+precio,mediana,198000000.0,COP,161
+precio,p75,245000000.0,COP,161
+precio,minimo,150000000.0,COP,161
+precio,maximo,490000000.0,COP,161
+m2,mediana_precio_m2,3453333.33,COP,153
+m2,area_mediana_m2,60.0,m2,153
+admin,mediana_admin_mes,160000.0,COP,110
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,104
+estrato,estrato_mas_frecuente,3,,161
+habitaciones,2,209990000.0,COP,35
+habitaciones,3+,190000000.0,COP,126
+ciudad,mediana_ciudad_referencia,217495000.0,COP,
+ciudad,mediana_m2_ciudad,3664235.92,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/piedecuesta,,
+fuente,licencia,CC BY 4.0,,

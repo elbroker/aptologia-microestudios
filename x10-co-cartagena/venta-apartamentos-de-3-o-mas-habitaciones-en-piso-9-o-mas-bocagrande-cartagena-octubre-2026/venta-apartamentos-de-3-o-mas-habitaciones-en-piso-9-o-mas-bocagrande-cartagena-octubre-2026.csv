@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,83
+filtro,habitaciones,3+,,83
+filtro,piso3,"en piso 9 o más",,83
+precio,p25,1195000000.0,COP,83
+precio,mediana,1480000000.0,COP,83
+precio,p75,2100000000.0,COP,83
+precio,minimo,700000000.0,COP,83
+precio,maximo,4020000000.0,COP,83
+m2,mediana_precio_m2,8917910.45,COP,76
+m2,area_mediana_m2,156.0,m2,76
+admin,mediana_admin_mes,1200000.0,COP,73
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.5,%,81
+estrato,estrato_mas_frecuente,6,,83
+habitaciones,3+,1480000000.0,COP,83
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

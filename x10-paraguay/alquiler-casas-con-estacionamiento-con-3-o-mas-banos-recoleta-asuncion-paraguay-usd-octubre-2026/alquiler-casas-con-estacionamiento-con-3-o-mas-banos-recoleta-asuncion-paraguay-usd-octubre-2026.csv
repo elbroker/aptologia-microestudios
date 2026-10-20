@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,parq1,"con estacionamiento",,51
+filtro,ban3,"con 3 o más baños",,51
+precio,p25,2500.0,USD,51
+precio,mediana,3000.0,USD,51
+precio,p75,4250.0,USD,51
+precio,minimo,1500.0,USD,51
+precio,maximo,6000.0,USD,51
+m2,mediana_precio_m2,7.39,USD,49
+m2,area_mediana_m2,442.0,m2,49
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+habitaciones,2,3900.0,USD,5
+habitaciones,3+,2800.0,USD,46
+ciudad,mediana_ciudad_referencia,2800.0,USD,
+ciudad,mediana_m2_ciudad,7.11,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/recoleta,,
+fuente,licencia,CC BY 4.0,,

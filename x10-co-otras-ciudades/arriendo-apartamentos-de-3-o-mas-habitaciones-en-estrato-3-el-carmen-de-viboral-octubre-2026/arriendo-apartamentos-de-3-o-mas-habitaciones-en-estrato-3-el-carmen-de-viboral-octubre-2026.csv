@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,30
+filtro,habitaciones,3+,,30
+filtro,estrato,3,,30
+precio,p25,1300000.0,COP,30
+precio,mediana,1400000.0,COP,30
+precio,p75,1600000.0,COP,30
+precio,minimo,1200000.0,COP,30
+precio,maximo,2000000.0,COP,30
+m2,area_mediana_m2,54.5,m2,29
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,30
+habitaciones,3+,1400000.0,COP,30
+ciudad,mediana_ciudad_referencia,1400000.0,COP,
+ciudad,mediana_m2_ciudad,25390.72,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-carmen-de-viboral,,
+fuente,licencia,CC BY 4.0,,

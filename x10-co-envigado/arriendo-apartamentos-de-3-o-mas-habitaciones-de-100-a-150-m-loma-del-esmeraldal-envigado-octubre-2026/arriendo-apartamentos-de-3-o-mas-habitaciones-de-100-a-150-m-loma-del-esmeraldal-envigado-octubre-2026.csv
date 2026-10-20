@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,82
+filtro,habitaciones,3+,,82
+filtro,area4,"de 100 a 150 m²",,82
+precio,p25,4800000.0,COP,82
+precio,mediana,5600000.0,COP,82
+precio,p75,6500000.0,COP,82
+precio,minimo,3750000.0,COP,82
+precio,maximo,9650000.0,COP,82
+m2,mediana_precio_m2,49565.22,COP,82
+m2,area_mediana_m2,114.0,m2,82
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,80
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,3+,5600000.0,COP,82
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

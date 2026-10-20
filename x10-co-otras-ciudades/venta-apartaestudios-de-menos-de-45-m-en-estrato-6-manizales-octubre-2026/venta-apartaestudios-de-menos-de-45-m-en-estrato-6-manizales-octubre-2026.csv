@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,42
+filtro,estrato,6,,42
+filtro,area1,"de menos de 45 m²",,42
+precio,p25,261250000.0,COP,42
+precio,mediana,306000000.0,COP,42
+precio,p75,365000000.0,COP,42
+precio,minimo,165000000.0,COP,42
+precio,maximo,458000000.0,COP,42
+m2,mediana_precio_m2,8499061.91,COP,42
+m2,area_mediana_m2,39.0,m2,42
+admin,mediana_admin_mes,200000.0,COP,30
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,96.8,%,31
+estrato,estrato_mas_frecuente,6,,42
+ciudad,mediana_ciudad_referencia,300000000.0,COP,
+ciudad,mediana_m2_ciudad,7370155.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales,,
+fuente,licencia,CC BY 4.0,,

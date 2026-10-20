@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,335
+filtro,habitaciones,3+,,335
+filtro,ban3,"con 3 o más baños",,335
+precio,p25,500000000.0,COP,335
+precio,mediana,650000000.0,COP,335
+precio,p75,963171980.5,COP,335
+precio,minimo,220000000.0,COP,335
+precio,maximo,5400000000.0,COP,335
+m2,mediana_precio_m2,2845358.37,COP,316
+m2,area_mediana_m2,240.0,m2,316
+admin,mediana_admin_mes,400000.0,COP,21
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,78.6,%,224
+estrato,estrato_mas_frecuente,3,,333
+habitaciones,3+,650000000.0,COP,335
+ciudad,mediana_ciudad_referencia,562500000.0,COP,
+ciudad,mediana_m2_ciudad,2625000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/monteria,,
+fuente,licencia,CC BY 4.0,,

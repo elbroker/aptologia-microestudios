@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,1,,30
+filtro,area2,"de 45 a 70 m²",,30
+precio,p25,514052950.0,COP,30
+precio,mediana,555000000.0,COP,30
+precio,p75,630000000.25,COP,30
+precio,minimo,240000000.0,COP,30
+precio,maximo,850000000.0,COP,30
+m2,mediana_precio_m2,10381818.18,COP,30
+m2,area_mediana_m2,54.0,m2,30
+admin,mediana_admin_mes,436963.0,COP,23
+banos,mediana_banos,2.0,,
+habitaciones,1,555000000.0,COP,30
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/urbanizacion-salguero,,
+fuente,licencia,CC BY 4.0,,

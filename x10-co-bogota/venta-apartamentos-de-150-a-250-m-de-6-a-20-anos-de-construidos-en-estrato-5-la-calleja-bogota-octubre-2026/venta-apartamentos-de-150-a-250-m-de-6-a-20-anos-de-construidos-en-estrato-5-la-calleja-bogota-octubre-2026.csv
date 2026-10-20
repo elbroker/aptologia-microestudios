@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,33
+filtro,estrato,5,,33
+filtro,area5,"de 150 a 250 m²",,33
+filtro,edad2,"de 6 a 20 años de construidos",,33
+precio,p25,1150000000.0,COP,33
+precio,mediana,1370000000.0,COP,33
+precio,p75,1450000000.0,COP,33
+precio,minimo,950000000.0,COP,33
+precio,maximo,1700000000.0,COP,33
+m2,mediana_precio_m2,6927710.84,COP,33
+m2,area_mediana_m2,185.0,m2,33
+admin,mediana_admin_mes,1235000.0,COP,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,3+,1370000000.0,COP,33
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-calleja,,
+fuente,licencia,CC BY 4.0,,

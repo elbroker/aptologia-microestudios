@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,parq1,"con estacionamiento",,55
+filtro,ban3,"con 3 o más baños",,55
+precio,p25,119500.0,USD,55
+precio,mediana,150000.0,USD,55
+precio,p75,187500.0,USD,55
+precio,minimo,55000.0,USD,55
+precio,maximo,370000.0,USD,55
+m2,mediana_precio_m2,1000.0,USD,53
+m2,area_mediana_m2,147.5,m2,53
+admin,mediana_admin_mes,50.0,USD,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+habitaciones,2,120000.0,USD,7
+habitaciones,3+,155000.0,USD,48
+ciudad,mediana_ciudad_referencia,130000.0,USD,
+ciudad,mediana_m2_ciudad,1098.78,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/la-paz/achumani,,
+fuente,licencia,CC BY 4.0,,

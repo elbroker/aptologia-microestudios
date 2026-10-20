@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,379
+filtro,parq1,"con estacionamiento",,379
+filtro,ban2,"con 2 baños",,379
+precio,p25,240050.0,USD,379
+precio,mediana,297000.0,USD,379
+precio,p75,368000.0,USD,379
+precio,minimo,146180.0,USD,379
+precio,maximo,990000.0,USD,379
+m2,mediana_precio_m2,2735.71,USD,366
+m2,area_mediana_m2,109.0,m2,366
+admin,mediana_admin_mes,395.0,USD,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,379
+habitaciones,1,266500.0,USD,21
+habitaciones,2,278000.0,USD,178
+habitaciones,3+,322000.0,USD,180
+ciudad,mediana_ciudad_referencia,258023.0,USD,
+ciudad,mediana_m2_ciudad,2305.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/miraflores,,
+fuente,licencia,CC BY 4.0,,

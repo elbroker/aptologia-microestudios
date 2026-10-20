@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,78
+filtro,estrato,3,,78
+filtro,parq1,"con parqueadero",,78
+filtro,ban2,"con 2 baños",,78
+precio,p25,210000000.0,COP,78
+precio,mediana,260000000.0,COP,78
+precio,p75,280000000.0,COP,78
+precio,minimo,150000000.0,COP,78
+precio,maximo,650000000.0,COP,78
+m2,mediana_precio_m2,4411764.71,COP,77
+m2,area_mediana_m2,57.0,m2,77
+admin,mediana_admin_mes,215000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,78
+estrato,estrato_mas_frecuente,3,,78
+habitaciones,2,240000000.0,COP,10
+habitaciones,3+,257500000.0,COP,66
+ciudad,mediana_ciudad_referencia,260000000.0,COP,
+ciudad,mediana_m2_ciudad,4634146.34,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas,,
+fuente,licencia,CC BY 4.0,,

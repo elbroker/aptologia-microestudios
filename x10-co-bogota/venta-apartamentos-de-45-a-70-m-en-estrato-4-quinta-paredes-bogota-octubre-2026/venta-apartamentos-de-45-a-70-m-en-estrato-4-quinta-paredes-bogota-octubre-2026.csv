@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,area2,"de 45 a 70 m²",,30
+precio,p25,466250000.0,COP,30
+precio,mediana,515000000.0,COP,30
+precio,p75,585000000.0,COP,30
+precio,minimo,356000000.0,COP,30
+precio,maximo,785000000.0,COP,30
+m2,mediana_precio_m2,8641363.74,COP,30
+m2,area_mediana_m2,61.0,m2,30
+admin,mediana_admin_mes,465000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.3,%,30
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,1,565050000.0,COP,8
+habitaciones,2,510000000.0,COP,18
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/quinta-paredes,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,41
+filtro,habitaciones,3+,,41
+filtro,ban2,"con 2 baños",,41
+precio,p25,450000000.0,COP,41
+precio,mediana,535000000.0,COP,41
+precio,p75,567000000.0,COP,41
+precio,minimo,250000000.0,COP,41
+precio,maximo,928584385.0,COP,41
+m2,mediana_precio_m2,5656565.66,COP,41
+m2,area_mediana_m2,91.0,m2,41
+admin,mediana_admin_mes,427500.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,3+,535000000.0,COP,41
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,5867102.4,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/puerto-colombia,,
+fuente,licencia,CC BY 4.0,,

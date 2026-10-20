@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,102
+filtro,habitaciones,2,,102
+filtro,parq1,"con estacionamiento",,102
+precio,p25,235000.0,USD,102
+precio,mediana,293500.0,USD,102
+precio,p75,433750.0,USD,102
+precio,minimo,75000.0,USD,102
+precio,maximo,1600000.0,USD,102
+m2,mediana_precio_m2,2600.0,USD,97
+m2,area_mediana_m2,120.0,m2,97
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,102
+habitaciones,2,293500.0,USD,102
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

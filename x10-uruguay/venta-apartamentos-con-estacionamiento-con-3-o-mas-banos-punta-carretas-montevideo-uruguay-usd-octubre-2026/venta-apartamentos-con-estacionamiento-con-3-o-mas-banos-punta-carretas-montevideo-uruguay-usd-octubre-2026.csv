@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,66
+filtro,parq1,"con estacionamiento",,66
+filtro,ban3,"con 3 o más baños",,66
+precio,p25,526250.0,USD,66
+precio,mediana,737500.0,USD,66
+precio,p75,990000.0,USD,66
+precio,minimo,335000.0,USD,66
+precio,maximo,1900000.0,USD,66
+m2,mediana_precio_m2,3651.52,USD,64
+m2,area_mediana_m2,195.0,m2,64
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+habitaciones,3+,750000.0,USD,63
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/punta-carretas,,
+fuente,licencia,CC BY 4.0,,

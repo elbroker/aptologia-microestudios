@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,365
+filtro,estrato,4,,365
+filtro,area2,"de 45 a 70 m²",,365
+filtro,ban2,"con 2 baños",,365
+precio,p25,1400000.0,COP,365
+precio,mediana,1600000.0,COP,365
+precio,p75,1750000.0,COP,365
+precio,minimo,950000.0,COP,365
+precio,maximo,4500000.0,COP,365
+m2,mediana_precio_m2,26315.79,COP,365
+m2,area_mediana_m2,60.0,m2,365
+admin,mediana_admin_mes,275000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,77.6,%,245
+estrato,estrato_mas_frecuente,4,,365
+habitaciones,2,1550000.0,COP,245
+habitaciones,3+,1600000.0,COP,120
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

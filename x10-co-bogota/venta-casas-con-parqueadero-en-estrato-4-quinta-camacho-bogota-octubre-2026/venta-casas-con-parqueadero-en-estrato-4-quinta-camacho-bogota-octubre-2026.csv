@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,77
+filtro,estrato,4,,77
+filtro,parq1,"con parqueadero",,77
+precio,p25,1700000000.0,COP,77
+precio,mediana,2400000000.0,COP,77
+precio,p75,3500000000.0,COP,77
+precio,minimo,795000000.0,COP,77
+precio,maximo,7000000000.0,COP,77
+m2,mediana_precio_m2,6143344.71,COP,77
+m2,area_mediana_m2,435.1,m2,77
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,77
+estrato,estrato_mas_frecuente,4,,77
+habitaciones,3+,2400000000.0,COP,72
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/quinta-camacho,,
+fuente,licencia,CC BY 4.0,,

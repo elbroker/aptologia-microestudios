@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,127
+filtro,estrato,6,,127
+filtro,piso2,"en piso 4 a 8",,127
+precio,p25,4385000.0,COP,127
+precio,mediana,7100000.0,COP,127
+precio,p75,10000000.0,COP,127
+precio,minimo,1950000.0,COP,127
+precio,maximo,20200000.0,COP,127
+m2,mediana_precio_m2,67652.97,COP,114
+m2,area_mediana_m2,95.0,m2,114
+admin,mediana_admin_mes,1227500.0,COP,86
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.6,%,127
+estrato,estrato_mas_frecuente,6,,127
+habitaciones,1,4300000.0,COP,45
+habitaciones,2,7500000.0,COP,42
+habitaciones,3+,11500000.0,COP,39
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chico,,
+fuente,licencia,CC BY 4.0,,

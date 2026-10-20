@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,51
+filtro,habitaciones,2,,51
+filtro,area5,"de 150 a 250 m²",,51
+precio,p25,840.0,USD,51
+precio,mediana,1100.0,USD,51
+precio,p75,1400.0,USD,51
+precio,minimo,400.0,USD,51
+precio,maximo,2300.0,USD,51
+m2,mediana_precio_m2,5.74,USD,51
+m2,area_mediana_m2,180.0,m2,51
+banos,mediana_banos,2.5,,
+habitaciones,2,1100.0,USD,51
+ciudad,mediana_ciudad_referencia,800.0,USD,
+ciudad,mediana_m2_ciudad,7.22,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/quito,,
+fuente,licencia,CC BY 4.0,,

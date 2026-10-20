@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,masc,"que aceptan mascotas",,34
+precio,p25,1311750.0,COP,34
+precio,mediana,1600000.0,COP,34
+precio,p75,1787500.0,COP,34
+precio,minimo,1130000.0,COP,34
+precio,maximo,3000000.0,COP,34
+m2,mediana_precio_m2,30170.0,COP,34
+m2,area_mediana_m2,52.0,m2,34
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,3+,1600000.0,COP,34
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,28571.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/mosquera,,
+fuente,licencia,CC BY 4.0,,

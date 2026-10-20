@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,2,,35
+filtro,ban3,"con 3 o más baños",,35
+precio,p25,1150000000.0,COP,35
+precio,mediana,1290000000.0,COP,35
+precio,p75,1350000000.0,COP,35
+precio,minimo,996000000.0,COP,35
+precio,maximo,1450000000.0,COP,35
+m2,mediana_precio_m2,10691706.95,COP,33
+m2,area_mediana_m2,107.6,m2,33
+admin,mediana_admin_mes,851500.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,2,1290000000.0,COP,35
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/sajonia,,
+fuente,licencia,CC BY 4.0,,

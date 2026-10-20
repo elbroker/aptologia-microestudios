@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,141
+filtro,habitaciones,3+,,141
+filtro,parq1,"con parqueadero",,141
+precio,p25,180000000.0,COP,141
+precio,mediana,230000000.0,COP,141
+precio,p75,300000000.0,COP,141
+precio,minimo,150000000.0,COP,141
+precio,maximo,3500000000.0,COP,141
+m2,mediana_precio_m2,3666666.67,COP,137
+m2,area_mediana_m2,62.0,m2,137
+admin,mediana_admin_mes,183000.0,COP,118
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,141
+estrato,estrato_mas_frecuente,3,,140
+habitaciones,3+,230000000.0,COP,141
+ciudad,mediana_ciudad_referencia,217495000.0,COP,
+ciudad,mediana_m2_ciudad,3664235.92,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/piedecuesta,,
+fuente,licencia,CC BY 4.0,,

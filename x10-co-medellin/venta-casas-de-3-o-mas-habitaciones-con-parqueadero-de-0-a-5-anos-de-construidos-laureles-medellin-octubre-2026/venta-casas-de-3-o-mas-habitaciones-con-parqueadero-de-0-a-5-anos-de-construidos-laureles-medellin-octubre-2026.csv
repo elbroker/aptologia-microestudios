@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,203
+filtro,habitaciones,3+,,203
+filtro,parq1,"con parqueadero",,203
+filtro,edad1,"de 0 a 5 años de construidos",,203
+precio,p25,990000000.0,COP,203
+precio,mediana,1400000000.0,COP,203
+precio,p75,2187500000.0,COP,203
+precio,minimo,470000000.0,COP,203
+precio,maximo,5700000000.0,COP,203
+m2,mediana_precio_m2,6122448.98,COP,199
+m2,area_mediana_m2,244.0,m2,199
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,203
+estrato,estrato_mas_frecuente,5,,169
+habitaciones,3+,1400000000.0,COP,203
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

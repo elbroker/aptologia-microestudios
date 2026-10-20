@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,34
+filtro,ban3,"con 3 o más baños",,34
+filtro,piso3,"en piso 9 o más",,34
+precio,p25,585000000.0,COP,34
+precio,mediana,755000000.0,COP,34
+precio,p75,950000000.0,COP,34
+precio,minimo,365000000.0,COP,34
+precio,maximo,2200000000.0,COP,34
+m2,mediana_precio_m2,4217877.09,COP,34
+m2,area_mediana_m2,182.5,m2,34
+admin,mediana_admin_mes,660000.0,COP,30
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,5,,34
+habitaciones,3+,755000000.0,COP,34
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/sotomayor,,
+fuente,licencia,CC BY 4.0,,

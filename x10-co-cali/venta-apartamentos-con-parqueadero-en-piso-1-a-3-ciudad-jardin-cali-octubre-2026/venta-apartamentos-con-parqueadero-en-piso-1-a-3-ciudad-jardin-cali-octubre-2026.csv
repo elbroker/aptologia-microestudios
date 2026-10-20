@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,119
+filtro,parq1,"con parqueadero",,119
+filtro,piso1,"en piso 1 a 3",,119
+precio,p25,530000000.0,COP,119
+precio,mediana,750000000.0,COP,119
+precio,p75,880000000.0,COP,119
+precio,minimo,290000000.0,COP,119
+precio,maximo,3900000000.0,COP,119
+m2,mediana_precio_m2,5495098.04,COP,118
+m2,area_mediana_m2,132.0,m2,118
+admin,mediana_admin_mes,800000.0,COP,98
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,119
+estrato,estrato_mas_frecuente,6,,119
+habitaciones,2,710000000.0,COP,9
+habitaciones,3+,755000000.0,COP,108
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

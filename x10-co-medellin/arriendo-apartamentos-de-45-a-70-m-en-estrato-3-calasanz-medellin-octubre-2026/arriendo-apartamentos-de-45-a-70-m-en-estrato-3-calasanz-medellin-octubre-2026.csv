@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,58
+filtro,estrato,3,,58
+filtro,area2,"de 45 a 70 m²",,58
+precio,p25,2000000.0,COP,58
+precio,mediana,2225000.0,COP,58
+precio,p75,2487500.0,COP,58
+precio,minimo,1000000.0,COP,58
+precio,maximo,3000000.0,COP,58
+m2,mediana_precio_m2,40000.0,COP,58
+m2,area_mediana_m2,57.0,m2,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,50.0,%,54
+estrato,estrato_mas_frecuente,3,,58
+habitaciones,2,2175000.0,COP,40
+habitaciones,3+,2300000.0,COP,17
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

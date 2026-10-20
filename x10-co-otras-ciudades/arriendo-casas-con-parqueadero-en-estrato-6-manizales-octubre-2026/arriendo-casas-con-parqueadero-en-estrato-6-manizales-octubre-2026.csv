@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,56
+filtro,estrato,6,,56
+filtro,parq1,"con parqueadero",,56
+precio,p25,7107142.75,COP,56
+precio,mediana,8749999.5,COP,56
+precio,p75,15000000.0,COP,56
+precio,minimo,2500000.0,COP,56
+precio,maximo,26500000.0,COP,56
+m2,mediana_precio_m2,28708.79,COP,54
+m2,area_mediana_m2,360.0,m2,54
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,3+,8749999.5,COP,56
+ciudad,mediana_ciudad_referencia,7141428.5,COP,
+ciudad,mediana_m2_ciudad,25783.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/manizales,,
+fuente,licencia,CC BY 4.0,,

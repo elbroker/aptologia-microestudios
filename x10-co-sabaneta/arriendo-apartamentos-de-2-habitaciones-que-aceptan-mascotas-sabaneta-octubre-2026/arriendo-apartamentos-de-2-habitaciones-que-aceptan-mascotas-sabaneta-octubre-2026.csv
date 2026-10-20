@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,187
+filtro,habitaciones,2,,187
+filtro,masc,"que aceptan mascotas",,187
+precio,p25,2700000.0,COP,187
+precio,mediana,3100000.0,COP,187
+precio,p75,3500000.0,COP,187
+precio,minimo,1800000.0,COP,187
+precio,maximo,6200000.0,COP,187
+m2,mediana_precio_m2,42857.14,COP,187
+m2,area_mediana_m2,70.0,m2,187
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,174
+estrato,estrato_mas_frecuente,4,,186
+habitaciones,2,3100000.0,COP,187
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

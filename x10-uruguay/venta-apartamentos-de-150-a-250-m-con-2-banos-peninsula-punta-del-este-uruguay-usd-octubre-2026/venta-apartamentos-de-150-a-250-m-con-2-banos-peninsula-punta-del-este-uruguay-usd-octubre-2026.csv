@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area5,"de 150 a 250 m²",,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,387500.0,USD,32
+precio,mediana,643048.5,USD,32
+precio,p75,987500.0,USD,32
+precio,minimo,185000.0,USD,32
+precio,maximo,1276800.0,USD,32
+m2,mediana_precio_m2,3741.75,USD,31
+m2,area_mediana_m2,172.5,m2,31
+banos,mediana_banos,2.0,,
+habitaciones,2,1014000.0,USD,13
+habitaciones,3+,570000.0,USD,19
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,75
+filtro,estrato,6,,75
+filtro,area1,"de menos de 45 m²",,75
+precio,p25,400000000.0,COP,75
+precio,mediana,437000000.0,COP,75
+precio,p75,500000000.0,COP,75
+precio,minimo,270000000.0,COP,75
+precio,maximo,648000000.0,COP,75
+m2,mediana_precio_m2,12349490.58,COP,71
+m2,area_mediana_m2,34.0,m2,71
+admin,mediana_admin_mes,390000.0,COP,52
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,44.0,%,50
+estrato,estrato_mas_frecuente,6,,75
+habitaciones,1,438500000.0,COP,74
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bello-horizonte,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,461
+filtro,habitaciones,3+,,461
+filtro,area2,"de 45 a 70 m²",,461
+precio,p25,195000000.0,COP,461
+precio,mediana,245000000.0,COP,461
+precio,p75,295000000.0,COP,461
+precio,minimo,150000000.0,COP,461
+precio,maximo,3100000000.0,COP,461
+m2,mediana_precio_m2,4166666.67,COP,454
+m2,area_mediana_m2,58.0,m2,454
+admin,mediana_admin_mes,200000.0,COP,331
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,68.4,%,339
+estrato,estrato_mas_frecuente,3,,458
+habitaciones,3+,245000000.0,COP,461
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia,,
+fuente,licencia,CC BY 4.0,,

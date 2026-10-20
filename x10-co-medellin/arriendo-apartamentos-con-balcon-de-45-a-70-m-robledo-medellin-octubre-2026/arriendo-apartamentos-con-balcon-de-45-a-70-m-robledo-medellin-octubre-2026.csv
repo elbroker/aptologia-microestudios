@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,98
+filtro,balc,"con balcón",,98
+filtro,area2,"de 45 a 70 m²",,98
+precio,p25,1600000.0,COP,98
+precio,mediana,1870000.0,COP,98
+precio,p75,2475000.0,COP,98
+precio,minimo,1050000.0,COP,98
+precio,maximo,4100000.0,COP,98
+m2,mediana_precio_m2,35486.11,COP,98
+m2,area_mediana_m2,55.0,m2,98
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,41.5,%,82
+estrato,estrato_mas_frecuente,3,,98
+habitaciones,1,1500000.0,COP,5
+habitaciones,2,2200000.0,COP,39
+habitaciones,3+,1790000.0,COP,54
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

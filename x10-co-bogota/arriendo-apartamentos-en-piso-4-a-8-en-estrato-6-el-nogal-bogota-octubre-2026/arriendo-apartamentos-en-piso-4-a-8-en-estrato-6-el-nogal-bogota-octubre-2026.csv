@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,6,,36
+filtro,piso2,"en piso 4 a 8",,36
+precio,p25,6593125.0,COP,36
+precio,mediana,9650000.0,COP,36
+precio,p75,12250000.0,COP,36
+precio,minimo,2800000.0,COP,36
+precio,maximo,20000000.0,COP,36
+m2,mediana_precio_m2,61797.75,COP,31
+m2,area_mediana_m2,153.6,m2,31
+admin,mediana_admin_mes,1500000.0,COP,25
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,88.2,%,34
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,1,3950000.0,COP,9
+habitaciones,2,10000000.0,COP,7
+habitaciones,3+,11450000.0,COP,20
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/el-nogal,,
+fuente,licencia,CC BY 4.0,,

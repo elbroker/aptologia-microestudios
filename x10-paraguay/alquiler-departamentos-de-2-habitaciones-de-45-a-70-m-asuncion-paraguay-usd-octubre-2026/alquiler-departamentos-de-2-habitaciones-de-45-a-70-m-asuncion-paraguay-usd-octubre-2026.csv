@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,34
+filtro,habitaciones,2,,34
+filtro,area2,"de 45 a 70 m²",,34
+precio,p25,1000.0,USD,34
+precio,mediana,1125.0,USD,34
+precio,p75,1300.0,USD,34
+precio,minimo,720.0,USD,34
+precio,maximo,1500.0,USD,34
+m2,mediana_precio_m2,17.97,USD,34
+m2,area_mediana_m2,65.0,m2,34
+banos,mediana_banos,2.0,,
+habitaciones,2,1125.0,USD,34
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,14.12,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

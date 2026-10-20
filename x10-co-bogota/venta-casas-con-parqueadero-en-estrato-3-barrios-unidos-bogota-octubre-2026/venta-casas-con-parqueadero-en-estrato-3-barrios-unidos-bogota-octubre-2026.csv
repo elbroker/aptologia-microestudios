@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,43
+filtro,estrato,3,,43
+filtro,parq1,"con parqueadero",,43
+precio,p25,900000000.0,COP,43
+precio,mediana,999000000.0,COP,43
+precio,p75,1325000000.0,COP,43
+precio,minimo,450000000.0,COP,43
+precio,maximo,2800000000.0,COP,43
+m2,mediana_precio_m2,4182509.51,COP,43
+m2,area_mediana_m2,263.0,m2,43
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,3,,43
+habitaciones,3+,999500000.0,COP,42
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/barrios-unidos,,
+fuente,licencia,CC BY 4.0,,

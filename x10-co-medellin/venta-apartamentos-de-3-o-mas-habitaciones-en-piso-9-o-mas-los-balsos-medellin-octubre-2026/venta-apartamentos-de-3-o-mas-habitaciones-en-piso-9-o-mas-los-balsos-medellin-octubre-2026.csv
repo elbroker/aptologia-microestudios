@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,piso3,"en piso 9 o más",,58
+precio,p25,1300000000.0,COP,58
+precio,mediana,1610000000.0,COP,58
+precio,p75,3275000000.0,COP,58
+precio,minimo,700000000.0,COP,58
+precio,maximo,3950000000.0,COP,58
+m2,mediana_precio_m2,9202896.24,COP,56
+m2,area_mediana_m2,197.0,m2,56
+admin,mediana_admin_mes,1188500.0,COP,46
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.5,%,57
+estrato,estrato_mas_frecuente,6,,58
+habitaciones,3+,1610000000.0,COP,58
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

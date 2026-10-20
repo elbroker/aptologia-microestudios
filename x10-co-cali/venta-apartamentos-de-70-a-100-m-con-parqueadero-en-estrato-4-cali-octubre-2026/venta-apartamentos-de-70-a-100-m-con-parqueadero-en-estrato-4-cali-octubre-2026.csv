@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,699
+filtro,estrato,4,,699
+filtro,area3,"de 70 a 100 m²",,699
+filtro,parq1,"con parqueadero",,699
+precio,p25,290000000.0,COP,699
+precio,mediana,345000000.0,COP,699
+precio,p75,410000000.0,COP,699
+precio,minimo,180000000.0,COP,699
+precio,maximo,650000000.0,COP,699
+m2,mediana_precio_m2,4400000.0,COP,698
+m2,area_mediana_m2,78.0,m2,698
+admin,mediana_admin_mes,390000.0,COP,558
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,699
+estrato,estrato_mas_frecuente,4,,699
+habitaciones,2,370000000.0,COP,165
+habitaciones,3+,340000000.0,COP,530
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali,,
+fuente,licencia,CC BY 4.0,,

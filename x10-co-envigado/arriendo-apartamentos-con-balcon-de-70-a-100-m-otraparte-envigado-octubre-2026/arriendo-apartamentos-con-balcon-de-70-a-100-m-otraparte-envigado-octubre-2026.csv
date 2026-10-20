@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,128
+filtro,balc,"con balcón",,128
+filtro,area3,"de 70 a 100 m²",,128
+precio,p25,3850000.0,COP,128
+precio,mediana,4150000.0,COP,128
+precio,p75,4600000.0,COP,128
+precio,minimo,2300000.0,COP,128
+precio,maximo,6200000.0,COP,128
+m2,mediana_precio_m2,50685.06,COP,128
+m2,area_mediana_m2,82.5,m2,128
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,124
+estrato,estrato_mas_frecuente,5,,128
+habitaciones,2,3925000.0,COP,30
+habitaciones,3+,4150000.0,COP,97
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/otraparte,,
+fuente,licencia,CC BY 4.0,,

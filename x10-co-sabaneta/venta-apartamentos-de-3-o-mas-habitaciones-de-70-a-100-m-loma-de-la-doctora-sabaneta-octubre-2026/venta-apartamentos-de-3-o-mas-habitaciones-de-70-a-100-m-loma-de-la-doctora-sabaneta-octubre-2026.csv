@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,area3,"de 70 a 100 m²",,37
+precio,p25,515000000.0,COP,37
+precio,mediana,569000000.0,COP,37
+precio,p75,637370000.0,COP,37
+precio,minimo,340000000.0,COP,37
+precio,maximo,700000000.0,COP,37
+m2,mediana_precio_m2,6971428.57,COP,37
+m2,area_mediana_m2,80.0,m2,37
+admin,mediana_admin_mes,399840.5,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,3+,569000000.0,COP,37
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-la-doctora,,
+fuente,licencia,CC BY 4.0,,

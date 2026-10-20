@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,34
+filtro,ban2,"con 2 baños",,34
+filtro,piso3,"en piso 9 o más",,34
+precio,p25,777250000.0,COP,34
+precio,mediana,825000000.0,COP,34
+precio,p75,897500000.0,COP,34
+precio,minimo,370000000.0,COP,34
+precio,maximo,1200000000.0,COP,34
+m2,mediana_precio_m2,9267857.14,COP,34
+m2,area_mediana_m2,91.5,m2,34
+admin,mediana_admin_mes,506000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,5,,34
+habitaciones,2,800000000.0,COP,17
+habitaciones,3+,890000000.0,COP,15
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-de-las-brujas,,
+fuente,licencia,CC BY 4.0,,

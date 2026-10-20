@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,6,,35
+filtro,area6,"de 250 m² o más",,35
+precio,p25,2049500000.0,COP,35
+precio,mediana,2600000000.0,COP,35
+precio,p75,2800000000.0,COP,35
+precio,minimo,1399999000.0,COP,35
+precio,maximo,4700000000.0,COP,35
+m2,mediana_precio_m2,6528189.91,COP,35
+m2,area_mediana_m2,385.0,m2,35
+admin,mediana_admin_mes,1414338.0,COP,30
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,3+,2600000000.0,COP,35
+ciudad,mediana_ciudad_referencia,2200000000.0,COP,
+ciudad,mediana_m2_ciudad,6052631.58,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/la-calera/san-jose-de-la-concepcion,,
+fuente,licencia,CC BY 4.0,,

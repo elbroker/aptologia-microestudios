@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,106
+filtro,habitaciones,1,,106
+filtro,area2,"de 45 a 70 m²",,106
+precio,p25,26500.0,UYU,106
+precio,mediana,28000.0,UYU,106
+precio,p75,30419.0,UYU,106
+precio,minimo,19500.0,UYU,106
+precio,maximo,54000.0,UYU,106
+m2,mediana_precio_m2,556.62,UYU,106
+m2,area_mediana_m2,50.0,m2,106
+admin,mediana_admin_mes,4200.0,UYU,96
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,1,28000.0,UYU,106
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/cordon,,
+fuente,licencia,CC BY 4.0,,

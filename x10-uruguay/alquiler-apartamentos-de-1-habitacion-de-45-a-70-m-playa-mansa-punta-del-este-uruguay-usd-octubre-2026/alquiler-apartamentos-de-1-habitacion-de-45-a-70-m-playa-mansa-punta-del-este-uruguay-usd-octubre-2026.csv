@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,1,,33
+filtro,area2,"de 45 a 70 m²",,33
+precio,p25,1300.0,USD,33
+precio,mediana,2500.0,USD,33
+precio,p75,3900.0,USD,33
+precio,minimo,850.0,USD,33
+precio,maximo,7500.0,USD,33
+m2,mediana_precio_m2,44.64,USD,33
+m2,area_mediana_m2,55.0,m2,33
+banos,mediana_banos,1.0,,
+habitaciones,1,2500.0,USD,33
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/playa-mansa,,
+fuente,licencia,CC BY 4.0,,

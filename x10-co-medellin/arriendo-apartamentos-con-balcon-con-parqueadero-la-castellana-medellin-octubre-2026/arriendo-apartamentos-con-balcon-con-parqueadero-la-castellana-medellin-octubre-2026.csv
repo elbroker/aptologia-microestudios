@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,76
+filtro,balc,"con balcón",,76
+filtro,parq1,"con parqueadero",,76
+precio,p25,3345000.0,COP,76
+precio,mediana,3975000.0,COP,76
+precio,p75,4500000.0,COP,76
+precio,minimo,2100000.0,COP,76
+precio,maximo,8000000.0,COP,76
+m2,mediana_precio_m2,36643.36,COP,76
+m2,area_mediana_m2,110.0,m2,76
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+estrato,estrato_mas_frecuente,5,,76
+habitaciones,2,3400000.0,COP,18
+habitaciones,3+,4000000.0,COP,56
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

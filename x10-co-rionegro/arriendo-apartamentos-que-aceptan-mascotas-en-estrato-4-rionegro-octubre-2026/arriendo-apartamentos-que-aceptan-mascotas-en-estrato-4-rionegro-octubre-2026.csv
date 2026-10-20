@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,147
+filtro,estrato,4,,147
+filtro,masc,"que aceptan mascotas",,147
+precio,p25,1700000.0,COP,147
+precio,mediana,1850000.0,COP,147
+precio,p75,2600000.0,COP,147
+precio,minimo,1300000.0,COP,147
+precio,maximo,10500000.0,COP,147
+m2,mediana_precio_m2,33493.59,COP,146
+m2,area_mediana_m2,58.0,m2,146
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.9,%,127
+estrato,estrato_mas_frecuente,4,,147
+habitaciones,2,1800000.0,COP,79
+habitaciones,3+,2000000.0,COP,65
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

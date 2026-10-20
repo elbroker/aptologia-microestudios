@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,area5,"de 150 a 250 m²",,32
+precio,p25,1095000000.0,COP,32
+precio,mediana,1150000000.0,COP,32
+precio,p75,1300000000.0,COP,32
+precio,minimo,685000000.0,COP,32
+precio,maximo,1450000000.0,COP,32
+m2,mediana_precio_m2,6485017.78,COP,32
+m2,area_mediana_m2,177.5,m2,32
+admin,mediana_admin_mes,1011450.0,COP,20
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,1150000000.0,COP,32
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cajica/vda-canelon,,
+fuente,licencia,CC BY 4.0,,

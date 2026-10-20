@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,241
+filtro,habitaciones,2,,241
+filtro,ban2,"con 2 baños",,241
+precio,p25,120000.0,USD,241
+precio,mediana,160000.0,USD,241
+precio,p75,194000.0,USD,241
+precio,minimo,45000.0,USD,241
+precio,maximo,600000.0,USD,241
+m2,mediana_precio_m2,1655.61,USD,230
+m2,area_mediana_m2,90.6,m2,230
+admin,mediana_admin_mes,92.5,USD,18
+banos,mediana_banos,2.0,,
+habitaciones,2,160000.0,USD,241
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,1363.64,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/guayaquil,,
+fuente,licencia,CC BY 4.0,,

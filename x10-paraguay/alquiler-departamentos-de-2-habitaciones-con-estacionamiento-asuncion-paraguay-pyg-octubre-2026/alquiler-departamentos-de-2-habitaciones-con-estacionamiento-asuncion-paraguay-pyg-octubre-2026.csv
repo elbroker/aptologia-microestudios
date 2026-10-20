@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,902
+filtro,habitaciones,2,,902
+filtro,parq1,"con estacionamiento",,902
+precio,p25,5000000.0,PYG,902
+precio,mediana,5950000.0,PYG,902
+precio,p75,6800000.0,PYG,902
+precio,minimo,1800000.0,PYG,902
+precio,maximo,12000000.0,PYG,902
+m2,mediana_precio_m2,70000.0,PYG,821
+m2,area_mediana_m2,83.0,m2,821
+admin,mediana_admin_mes,250500.0,PYG,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,902
+habitaciones,2,5950000.0,PYG,902
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

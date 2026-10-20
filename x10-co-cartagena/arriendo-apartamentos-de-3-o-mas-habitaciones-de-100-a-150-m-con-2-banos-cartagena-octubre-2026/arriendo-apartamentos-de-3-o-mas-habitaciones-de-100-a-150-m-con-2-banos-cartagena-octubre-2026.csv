@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,161
+filtro,habitaciones,3+,,161
+filtro,area4,"de 100 a 150 m²",,161
+filtro,ban2,"con 2 baños",,161
+precio,p25,3800000.0,COP,161
+precio,mediana,4700000.0,COP,161
+precio,p75,6000000.0,COP,161
+precio,minimo,1600000.0,COP,161
+precio,maximo,11500000.0,COP,161
+m2,mediana_precio_m2,40909.09,COP,159
+m2,area_mediana_m2,116.0,m2,159
+admin,mediana_admin_mes,850000.0,COP,69
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.4,%,140
+estrato,estrato_mas_frecuente,5,,161
+habitaciones,3+,4700000.0,COP,161
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena,,
+fuente,licencia,CC BY 4.0,,

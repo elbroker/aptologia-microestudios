@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,31
+filtro,estrato,2,,31
+filtro,parq1,"con parqueadero",,31
+precio,p25,167500000.0,COP,31
+precio,mediana,197000000.0,COP,31
+precio,p75,262500000.0,COP,31
+precio,minimo,150000000.0,COP,31
+precio,maximo,820000000.0,COP,31
+m2,mediana_precio_m2,4177083.33,COP,30
+m2,area_mediana_m2,48.0,m2,30
+admin,mediana_admin_mes,74104.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,2,,31
+habitaciones,2,215000000.0,COP,8
+habitaciones,3+,195000000.0,COP,22
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,6,,34
+filtro,balc,"con balcón",,34
+precio,p25,2795684.25,COP,34
+precio,mediana,3740000.0,COP,34
+precio,p75,4800000.0,COP,34
+precio,minimo,1700000.0,COP,34
+precio,maximo,12020000.0,COP,34
+m2,mediana_precio_m2,37500.0,COP,33
+m2,area_mediana_m2,115.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,2,3433000.0,COP,10
+habitaciones,3+,4093500.0,COP,22
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/villa-country,,
+fuente,licencia,CC BY 4.0,,

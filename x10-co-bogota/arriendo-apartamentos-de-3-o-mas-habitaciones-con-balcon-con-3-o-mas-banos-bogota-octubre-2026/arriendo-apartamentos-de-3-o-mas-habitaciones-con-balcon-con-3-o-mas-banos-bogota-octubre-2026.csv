@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,2183
+filtro,habitaciones,3+,,2183
+filtro,balc,"con balcón",,2183
+filtro,ban3,"con 3 o más baños",,2183
+precio,p25,7900000.0,COP,2183
+precio,mediana,11500000.0,COP,2183
+precio,p75,15000000.0,COP,2183
+precio,minimo,2000000.0,COP,2183
+precio,maximo,20500000.0,COP,2183
+m2,mediana_precio_m2,52027.03,COP,2167
+m2,area_mediana_m2,203.0,m2,2167
+admin,mediana_admin_mes,1800000.0,COP,1470
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.4,%,2177
+estrato,estrato_mas_frecuente,6,,2176
+habitaciones,3+,11500000.0,COP,2183
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

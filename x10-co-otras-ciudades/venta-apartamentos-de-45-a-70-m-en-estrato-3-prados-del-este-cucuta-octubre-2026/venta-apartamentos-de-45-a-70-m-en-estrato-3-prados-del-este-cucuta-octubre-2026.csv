@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,42
+filtro,estrato,3,,42
+filtro,area2,"de 45 a 70 m²",,42
+precio,p25,200000000.0,COP,42
+precio,mediana,220000000.0,COP,42
+precio,p75,270000000.0,COP,42
+precio,minimo,160000000.0,COP,42
+precio,maximo,290000000.0,COP,42
+m2,mediana_precio_m2,4213106.3,COP,42
+m2,area_mediana_m2,53.0,m2,42
+admin,mediana_admin_mes,200000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.5,%,34
+estrato,estrato_mas_frecuente,3,,42
+habitaciones,2,222500000.0,COP,8
+habitaciones,3+,219000000.0,COP,34
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,3551857.11,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cucuta/prados-del-este,,
+fuente,licencia,CC BY 4.0,,

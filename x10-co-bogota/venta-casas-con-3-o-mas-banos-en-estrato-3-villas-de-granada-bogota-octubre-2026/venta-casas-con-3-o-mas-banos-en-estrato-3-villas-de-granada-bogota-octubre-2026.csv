@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,3,,32
+filtro,ban3,"con 3 o más baños",,32
+precio,p25,390000000.0,COP,32
+precio,mediana,435000000.0,COP,32
+precio,p75,562500000.0,COP,32
+precio,minimo,320000000.0,COP,32
+precio,maximo,900000000.0,COP,32
+m2,mediana_precio_m2,3541958.04,COP,32
+m2,area_mediana_m2,125.9,m2,32
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,3+,435000000.0,COP,32
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/villas-de-granada,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,3+,,45
+filtro,area3,"de 70 a 100 m²",,45
+precio,p25,300000000.0,COP,45
+precio,mediana,323737500.0,COP,45
+precio,p75,460000000.0,COP,45
+precio,minimo,230000000.0,COP,45
+precio,maximo,520000000.0,COP,45
+m2,mediana_precio_m2,4383561.64,COP,45
+m2,area_mediana_m2,78.0,m2,45
+admin,mediana_admin_mes,295000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.2,%,37
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,323737500.0,COP,45
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-pacifica,,
+fuente,licencia,CC BY 4.0,,

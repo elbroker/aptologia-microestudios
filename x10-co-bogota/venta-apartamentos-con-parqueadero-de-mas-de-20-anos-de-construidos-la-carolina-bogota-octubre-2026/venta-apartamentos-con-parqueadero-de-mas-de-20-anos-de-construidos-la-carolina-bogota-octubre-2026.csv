@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,165
+filtro,parq1,"con parqueadero",,165
+filtro,edad3,"de más de 20 años de construidos",,165
+precio,p25,1080000000.0,COP,165
+precio,mediana,1350000000.0,COP,165
+precio,p75,1995000000.0,COP,165
+precio,minimo,400000000.0,COP,165
+precio,maximo,4100000000.0,COP,165
+m2,mediana_precio_m2,7082053.95,COP,164
+m2,area_mediana_m2,199.3,m2,164
+admin,mediana_admin_mes,1500000.0,COP,152
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,165
+estrato,estrato_mas_frecuente,6,,164
+habitaciones,2,735000000.0,COP,20
+habitaciones,3+,1450000000.0,COP,143
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-carolina,,
+fuente,licencia,CC BY 4.0,,

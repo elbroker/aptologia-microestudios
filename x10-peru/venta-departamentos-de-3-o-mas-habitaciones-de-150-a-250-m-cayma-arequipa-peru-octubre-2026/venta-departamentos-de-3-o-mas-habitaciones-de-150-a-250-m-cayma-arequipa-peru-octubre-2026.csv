@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,area5,"de 150 a 250 m²",,33
+precio,p25,731500.0,PEN,33
+precio,mediana,865800.0,PEN,33
+precio,p75,955181.0,PEN,33
+precio,minimo,420000.0,PEN,33
+precio,maximo,1092551.0,PEN,33
+m2,mediana_precio_m2,4781.05,PEN,33
+m2,area_mediana_m2,180.0,m2,33
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+habitaciones,3+,865800.0,PEN,33
+ciudad,mediana_ciudad_referencia,501350.0,PEN,
+ciudad,mediana_m2_ciudad,4214.57,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/arequipa/cayma,,
+fuente,licencia,CC BY 4.0,,

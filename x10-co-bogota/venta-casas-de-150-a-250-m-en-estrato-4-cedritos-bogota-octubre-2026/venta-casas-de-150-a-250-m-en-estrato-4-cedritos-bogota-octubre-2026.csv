@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,126
+filtro,estrato,4,,126
+filtro,area5,"de 150 a 250 m²",,126
+precio,p25,829250000.0,COP,126
+precio,mediana,899000000.0,COP,126
+precio,p75,1100000000.0,COP,126
+precio,minimo,600000000.0,COP,126
+precio,maximo,4000000000.0,COP,126
+m2,mediana_precio_m2,4904336.73,COP,124
+m2,area_mediana_m2,189.5,m2,124
+admin,mediana_admin_mes,650000.0,COP,85
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.2,%,124
+estrato,estrato_mas_frecuente,4,,126
+habitaciones,3+,899000000.0,COP,126
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

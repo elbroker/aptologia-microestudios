@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,area6,"de 250 m² o más",,32
+precio,p25,1312500000.5,COP,32
+precio,mediana,1850000000.0,COP,32
+precio,p75,2548000000.0,COP,32
+precio,minimo,960000000.0,COP,32
+precio,maximo,4950000000.0,COP,32
+m2,mediana_precio_m2,4957795.43,COP,32
+m2,area_mediana_m2,377.5,m2,32
+banos,mediana_banos,4.5,,
+parqueadero,pct_con_parqueadero,96.9,%,32
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,1850000000.0,COP,32
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/puente-largo,,
+fuente,licencia,CC BY 4.0,,

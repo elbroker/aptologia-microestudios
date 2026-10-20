@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,area4,"de 100 a 150 m²",,60
+filtro,ban3,"con 3 o más baños",,60
+precio,p25,660000000.0,COP,60
+precio,mediana,750000000.0,COP,60
+precio,p75,900000000.0,COP,60
+precio,minimo,320000000.0,COP,60
+precio,maximo,1600000000.0,COP,60
+m2,mediana_precio_m2,6250000.0,COP,59
+m2,area_mediana_m2,126.5,m2,59
+admin,mediana_admin_mes,872000.0,COP,47
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,2,697000000.0,COP,16
+habitaciones,3+,760000000.0,COP,44
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/bellavista,,
+fuente,licencia,CC BY 4.0,,

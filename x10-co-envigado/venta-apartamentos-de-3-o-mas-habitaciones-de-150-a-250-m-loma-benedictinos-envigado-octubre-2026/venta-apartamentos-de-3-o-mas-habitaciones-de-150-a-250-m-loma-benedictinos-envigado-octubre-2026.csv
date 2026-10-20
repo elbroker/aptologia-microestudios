@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,47
+filtro,habitaciones,3+,,47
+filtro,area5,"de 150 a 250 m²",,47
+precio,p25,1300000000.0,COP,47
+precio,mediana,1480000000.0,COP,47
+precio,p75,1725000000.0,COP,47
+precio,minimo,820000000.0,COP,47
+precio,maximo,2300000000.0,COP,47
+m2,mediana_precio_m2,8409090.91,COP,47
+m2,area_mediana_m2,172.0,m2,47
+admin,mediana_admin_mes,929800.0,COP,20
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,5,,44
+habitaciones,3+,1480000000.0,COP,47
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-benedictinos,,
+fuente,licencia,CC BY 4.0,,

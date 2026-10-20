@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,45
+filtro,estrato,6,,45
+filtro,ban3,"con 3 o más baños",,45
+precio,p25,1200000000.0,COP,45
+precio,mediana,1600000000.0,COP,45
+precio,p75,1800000000.0,COP,45
+precio,minimo,760000000.0,COP,45
+precio,maximo,3230000000.0,COP,45
+m2,mediana_precio_m2,7619047.62,COP,43
+m2,area_mediana_m2,193.0,m2,43
+admin,mediana_admin_mes,1271025.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,2,1550000000.0,COP,7
+habitaciones,3+,1600000000.0,COP,38
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-florida,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,area3,"de 70 a 100 m²",,47
+filtro,ban1,"con 1 baño",,47
+precio,p25,148000.0,USD,47
+precio,mediana,163600.0,USD,47
+precio,p75,182145.0,USD,47
+precio,minimo,114000.0,USD,47
+precio,maximo,299000.0,USD,47
+m2,mediana_precio_m2,2105.26,USD,46
+m2,area_mediana_m2,78.0,m2,46
+banos,mediana_banos,1.0,,
+habitaciones,1,151900.0,USD,13
+habitaciones,2,170450.0,USD,28
+habitaciones,3+,146000.0,USD,6
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/centro,,
+fuente,licencia,CC BY 4.0,,

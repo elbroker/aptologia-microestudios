@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,parq1,"con parqueadero",,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,315000000.0,COP,55
+precio,mediana,370000000.0,COP,55
+precio,p75,429000000.0,COP,55
+precio,minimo,230000000.0,COP,55
+precio,maximo,780000000.0,COP,55
+m2,mediana_precio_m2,4044117.65,COP,55
+m2,area_mediana_m2,91.0,m2,55
+admin,mediana_admin_mes,480350.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,54
+habitaciones,2,305000000.0,COP,18
+habitaciones,3+,400000000.0,COP,35
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/san-vicente,,
+fuente,licencia,CC BY 4.0,,

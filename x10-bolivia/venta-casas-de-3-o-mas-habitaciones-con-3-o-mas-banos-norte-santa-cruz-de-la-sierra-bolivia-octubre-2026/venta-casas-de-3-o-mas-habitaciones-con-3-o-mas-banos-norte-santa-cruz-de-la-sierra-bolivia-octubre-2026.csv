@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,847
+filtro,habitaciones,3+,,847
+filtro,ban3,"con 3 o más baños",,847
+precio,p25,125000.0,USD,847
+precio,mediana,179000.0,USD,847
+precio,p75,275000.0,USD,847
+precio,minimo,49000.0,USD,847
+precio,maximo,1600000.0,USD,847
+m2,mediana_precio_m2,803.83,USD,807
+m2,area_mediana_m2,220.0,m2,807
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,738
+habitaciones,3+,179000.0,USD,847
+ciudad,mediana_ciudad_referencia,160000.0,USD,
+ciudad,mediana_m2_ciudad,790.1,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

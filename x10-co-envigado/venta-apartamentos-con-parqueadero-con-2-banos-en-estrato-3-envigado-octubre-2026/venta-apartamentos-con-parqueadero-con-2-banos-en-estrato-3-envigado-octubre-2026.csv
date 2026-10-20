@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,203
+filtro,estrato,3,,203
+filtro,parq1,"con parqueadero",,203
+filtro,ban2,"con 2 baños",,203
+precio,p25,443500000.0,COP,203
+precio,mediana,500000000.0,COP,203
+precio,p75,660000000.0,COP,203
+precio,minimo,275000000.0,COP,203
+precio,maximo,1764225351.0,COP,203
+m2,mediana_precio_m2,7020280.81,COP,201
+m2,area_mediana_m2,75.0,m2,201
+admin,mediana_admin_mes,370000.0,COP,141
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,203
+estrato,estrato_mas_frecuente,3,,203
+habitaciones,2,525000000.0,COP,46
+habitaciones,3+,485000000.0,COP,155
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,48
+filtro,habitaciones,3+,,48
+filtro,masc,"que aceptan mascotas",,48
+filtro,area6,"de 250 m² o más",,48
+precio,p25,6987500.0,COP,48
+precio,mediana,8750000.0,COP,48
+precio,p75,11000000.0,COP,48
+precio,minimo,4200000.0,COP,48
+precio,maximo,20000000.0,COP,48
+m2,mediana_precio_m2,26289.68,COP,48
+m2,area_mediana_m2,338.0,m2,48
+admin,mediana_admin_mes,1500000.0,COP,40
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,3+,8750000.0,COP,48
+ciudad,mediana_ciudad_referencia,7000000.0,COP,
+ciudad,mediana_m2_ciudad,32034.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cajica,,
+fuente,licencia,CC BY 4.0,,

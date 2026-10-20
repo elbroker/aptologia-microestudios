@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,102
+filtro,habitaciones,3+,,102
+filtro,area5,"de 150 a 250 m²",,102
+precio,p25,275000.0,USD,102
+precio,mediana,325000.0,USD,102
+precio,p75,408880.25,USD,102
+precio,minimo,177000.0,USD,102
+precio,maximo,880000.0,USD,102
+m2,mediana_precio_m2,1613.64,USD,102
+m2,area_mediana_m2,196.0,m2,102
+banos,mediana_banos,3.0,,
+habitaciones,3+,325000.0,USD,102
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/bella-vista,,
+fuente,licencia,CC BY 4.0,,

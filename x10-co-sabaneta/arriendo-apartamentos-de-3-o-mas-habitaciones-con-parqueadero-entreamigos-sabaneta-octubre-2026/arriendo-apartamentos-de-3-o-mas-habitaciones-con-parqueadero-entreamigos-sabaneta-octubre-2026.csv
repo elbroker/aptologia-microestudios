@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,79
+filtro,habitaciones,3+,,79
+filtro,parq1,"con parqueadero",,79
+precio,p25,2725000.0,COP,79
+precio,mediana,3100000.0,COP,79
+precio,p75,3675000.0,COP,79
+precio,minimo,2300000.0,COP,79
+precio,maximo,8000000.0,COP,79
+m2,mediana_precio_m2,40000.0,COP,79
+m2,area_mediana_m2,77.0,m2,79
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+estrato,estrato_mas_frecuente,4,,79
+habitaciones,3+,3100000.0,COP,79
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

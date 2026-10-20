@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,44
+filtro,parq1,"con parqueadero",,44
+filtro,edad1,"de 0 a 5 años de construidos",,44
+precio,p25,400000000.0,COP,44
+precio,mediana,625000000.0,COP,44
+precio,p75,755000000.0,COP,44
+precio,minimo,340000000.0,COP,44
+precio,maximo,2450000000.0,COP,44
+m2,mediana_precio_m2,3789473.68,COP,41
+m2,area_mediana_m2,173.0,m2,41
+admin,mediana_admin_mes,805000.0,COP,37
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,4,,44
+habitaciones,2,525000000.0,COP,10
+habitaciones,3+,650000000.0,COP,33
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/granada,,
+fuente,licencia,CC BY 4.0,,

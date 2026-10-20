@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,3+,,45
+filtro,area3,"de 70 a 100 m²",,45
+precio,p25,215879.0,USD,45
+precio,mediana,245000.0,USD,45
+precio,p75,265000.0,USD,45
+precio,minimo,190000.0,USD,45
+precio,maximo,420000.0,USD,45
+m2,mediana_precio_m2,2736.84,USD,45
+m2,area_mediana_m2,90.0,m2,45
+banos,mediana_banos,2.0,,
+habitaciones,3+,245000.0,USD,45
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/roosevelt,,
+fuente,licencia,CC BY 4.0,,

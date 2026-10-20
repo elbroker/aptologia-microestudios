@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,77
+filtro,habitaciones,2,,77
+filtro,ban2,"con 2 baños",,77
+precio,p25,11.17,UF,77
+precio,mediana,11.95,UF,77
+precio,p75,13.85,UF,77
+precio,minimo,8.5,UF,77
+precio,maximo,24.29,UF,77
+m2,mediana_precio_m2,0.22,UF,59
+m2,area_mediana_m2,55.0,m2,59
+banos,mediana_banos,2.0,,
+habitaciones,2,11.95,UF,77
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/san-miguel,,
+fuente,licencia,CC BY 4.0,,

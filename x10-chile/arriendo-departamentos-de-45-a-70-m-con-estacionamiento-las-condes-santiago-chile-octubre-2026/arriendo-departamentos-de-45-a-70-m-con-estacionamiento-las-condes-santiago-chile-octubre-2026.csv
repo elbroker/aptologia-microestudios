@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,39
+filtro,area2,"de 45 a 70 m²",,39
+filtro,parq1,"con estacionamiento",,39
+precio,p25,809500.0,CLP,39
+precio,mediana,1000000.0,CLP,39
+precio,p75,1250000.0,CLP,39
+precio,minimo,600000.0,CLP,39
+precio,maximo,2400000.0,CLP,39
+m2,mediana_precio_m2,16153.85,CLP,35
+m2,area_mediana_m2,60.0,m2,35
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+habitaciones,1,819000.0,CLP,21
+habitaciones,2,1150000.0,CLP,18
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1279
+filtro,habitaciones,3+,,1279
+filtro,ban3,"con 3 o más baños",,1279
+precio,p25,360000.0,USD,1279
+precio,mediana,590000.0,USD,1279
+precio,p75,872500.0,USD,1279
+precio,minimo,67000.0,USD,1279
+precio,maximo,5000000.0,USD,1279
+m2,mediana_precio_m2,2023.81,USD,1251
+m2,area_mediana_m2,302.0,m2,1251
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,949
+habitaciones,3+,590000.0,USD,1279
+ciudad,mediana_ciudad_referencia,269000.0,USD,
+ciudad,mediana_m2_ciudad,1625.85,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo,,
+fuente,licencia,CC BY 4.0,,

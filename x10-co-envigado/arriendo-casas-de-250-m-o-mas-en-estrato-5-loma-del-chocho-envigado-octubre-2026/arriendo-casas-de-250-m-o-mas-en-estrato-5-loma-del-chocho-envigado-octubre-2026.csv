@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,54
+filtro,estrato,5,,54
+filtro,area6,"de 250 m² o más",,54
+precio,p25,11500000.0,COP,54
+precio,mediana,12900000.0,COP,54
+precio,p75,18000000.0,COP,54
+precio,minimo,8000000.0,COP,54
+precio,maximo,29000000.0,COP,54
+m2,mediana_precio_m2,40159.86,COP,54
+m2,area_mediana_m2,377.5,m2,54
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.1,%,54
+estrato,estrato_mas_frecuente,5,,54
+habitaciones,3+,12900000.0,COP,52
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

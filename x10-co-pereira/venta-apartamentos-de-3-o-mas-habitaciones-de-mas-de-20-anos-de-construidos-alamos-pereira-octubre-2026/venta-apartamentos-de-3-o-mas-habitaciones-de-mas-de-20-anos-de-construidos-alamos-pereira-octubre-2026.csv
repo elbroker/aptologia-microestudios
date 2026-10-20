@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,85
+filtro,habitaciones,3+,,85
+filtro,edad3,"de más de 20 años de construidos",,85
+precio,p25,400000000.0,COP,85
+precio,mediana,600000000.0,COP,85
+precio,p75,749000000.0,COP,85
+precio,minimo,255000000.0,COP,85
+precio,maximo,1900000000.0,COP,85
+m2,mediana_precio_m2,4320987.65,COP,83
+m2,area_mediana_m2,121.0,m2,83
+admin,mediana_admin_mes,650000.0,COP,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.3,%,85
+estrato,estrato_mas_frecuente,6,,85
+habitaciones,3+,600000000.0,COP,85
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/alamos,,
+fuente,licencia,CC BY 4.0,,

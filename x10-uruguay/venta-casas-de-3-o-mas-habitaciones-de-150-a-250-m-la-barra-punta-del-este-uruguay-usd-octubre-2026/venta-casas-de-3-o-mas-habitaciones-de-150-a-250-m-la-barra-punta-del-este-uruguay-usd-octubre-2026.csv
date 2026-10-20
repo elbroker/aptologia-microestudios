@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,178
+filtro,habitaciones,3+,,178
+filtro,area5,"de 150 a 250 m²",,178
+precio,p25,475000.0,USD,178
+precio,mediana,600000.0,USD,178
+precio,p75,790000.0,USD,178
+precio,minimo,210000.0,USD,178
+precio,maximo,1600000.0,USD,178
+m2,mediana_precio_m2,3155.19,USD,178
+m2,area_mediana_m2,195.0,m2,178
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+habitaciones,3+,600000.0,USD,178
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/la-barra,,
+fuente,licencia,CC BY 4.0,,

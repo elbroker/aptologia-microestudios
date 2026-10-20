@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,100
+filtro,habitaciones,3+,,100
+filtro,area4,"de 100 a 150 m²",,100
+precio,p25,30000.0,DOP,100
+precio,mediana,38250.0,DOP,100
+precio,p75,50000.0,DOP,100
+precio,minimo,15000.0,DOP,100
+precio,maximo,144000.0,DOP,100
+m2,mediana_precio_m2,320.45,DOP,100
+m2,area_mediana_m2,123.5,m2,100
+banos,mediana_banos,2.0,,
+habitaciones,3+,38250.0,DOP,100
+ciudad,mediana_ciudad_referencia,38500.0,DOP,
+ciudad,mediana_m2_ciudad,360.0,DOP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

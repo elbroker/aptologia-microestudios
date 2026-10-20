@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,69
+filtro,balc,"con balcón",,69
+filtro,ban2,"con 2 baños",,69
+precio,p25,3800000.0,COP,69
+precio,mediana,4800000.0,COP,69
+precio,p75,5900000.0,COP,69
+precio,minimo,2600000.0,COP,69
+precio,maximo,8600000.0,COP,69
+m2,mediana_precio_m2,48275.86,COP,69
+m2,area_mediana_m2,101.1,m2,69
+admin,mediana_admin_mes,835000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.4,%,64
+estrato,estrato_mas_frecuente,5,,69
+habitaciones,1,3500000.0,COP,6
+habitaciones,2,4000000.0,COP,19
+habitaciones,3+,5300000.0,COP,44
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

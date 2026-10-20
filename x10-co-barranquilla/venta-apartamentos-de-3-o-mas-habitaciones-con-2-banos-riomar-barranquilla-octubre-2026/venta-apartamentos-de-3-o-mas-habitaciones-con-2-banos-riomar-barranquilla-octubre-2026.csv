@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,89
+filtro,habitaciones,3+,,89
+filtro,ban2,"con 2 baños",,89
+precio,p25,360000000.0,COP,89
+precio,mediana,440000000.0,COP,89
+precio,p75,540000000.0,COP,89
+precio,minimo,258062000.0,COP,89
+precio,maximo,790000000.0,COP,89
+m2,mediana_precio_m2,3585714.29,COP,84
+m2,area_mediana_m2,111.0,m2,84
+admin,mediana_admin_mes,550000.0,COP,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.4,%,89
+estrato,estrato_mas_frecuente,6,,89
+habitaciones,3+,440000000.0,COP,89
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/riomar,,
+fuente,licencia,CC BY 4.0,,

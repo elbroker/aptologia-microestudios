@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,55
+filtro,habitaciones,2,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,7.77,UF,55
+precio,mediana,8.99,UF,55
+precio,p75,10.2,UF,55
+precio,minimo,4.49,UF,55
+precio,maximo,12.15,UF,55
+m2,mediana_precio_m2,0.19,UF,36
+m2,area_mediana_m2,50.0,m2,36
+banos,mediana_banos,2.0,,
+habitaciones,2,8.99,UF,55
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/estacion-central,,
+fuente,licencia,CC BY 4.0,,

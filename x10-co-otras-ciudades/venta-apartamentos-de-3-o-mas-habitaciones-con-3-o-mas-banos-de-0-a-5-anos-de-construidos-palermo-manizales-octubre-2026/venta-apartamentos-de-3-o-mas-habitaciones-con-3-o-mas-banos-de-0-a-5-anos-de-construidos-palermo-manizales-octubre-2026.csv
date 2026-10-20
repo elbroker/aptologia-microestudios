@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,119
+filtro,habitaciones,3+,,119
+filtro,ban3,"con 3 o más baños",,119
+filtro,edad1,"de 0 a 5 años de construidos",,119
+precio,p25,550000000.0,COP,119
+precio,mediana,680000000.0,COP,119
+precio,p75,850000000.0,COP,119
+precio,minimo,380000000.0,COP,119
+precio,maximo,3800000000.0,COP,119
+m2,mediana_precio_m2,4545454.55,COP,119
+m2,area_mediana_m2,160.0,m2,119
+admin,mediana_admin_mes,469000.0,COP,93
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,118
+estrato,estrato_mas_frecuente,6,,119
+habitaciones,3+,680000000.0,COP,119
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/palermo,,
+fuente,licencia,CC BY 4.0,,

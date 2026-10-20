@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,210
+filtro,parq1,"con parqueadero",,210
+filtro,ban2,"con 2 baños",,210
+precio,p25,3900000.0,COP,210
+precio,mediana,4450000.0,COP,210
+precio,p75,5000000.0,COP,210
+precio,minimo,2750000.0,COP,210
+precio,maximo,8500000.0,COP,210
+m2,mediana_precio_m2,52052.63,COP,210
+m2,area_mediana_m2,86.0,m2,210
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,210
+estrato,estrato_mas_frecuente,5,,210
+habitaciones,1,3850000.0,COP,14
+habitaciones,2,4200000.0,COP,101
+habitaciones,3+,4700000.0,COP,95
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

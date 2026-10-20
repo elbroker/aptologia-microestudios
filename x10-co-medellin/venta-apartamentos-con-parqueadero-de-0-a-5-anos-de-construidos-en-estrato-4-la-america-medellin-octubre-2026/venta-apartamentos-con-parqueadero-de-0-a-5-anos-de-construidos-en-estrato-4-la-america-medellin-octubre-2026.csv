@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,38
+filtro,estrato,4,,38
+filtro,parq1,"con parqueadero",,38
+filtro,edad1,"de 0 a 5 años de construidos",,38
+precio,p25,432500000.0,COP,38
+precio,mediana,533000000.0,COP,38
+precio,p75,697500000.0,COP,38
+precio,minimo,310000000.0,COP,38
+precio,maximo,965000000.0,COP,38
+m2,mediana_precio_m2,6358108.11,COP,38
+m2,area_mediana_m2,89.0,m2,38
+admin,mediana_admin_mes,395000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,4,,38
+habitaciones,3+,592500000.0,COP,32
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

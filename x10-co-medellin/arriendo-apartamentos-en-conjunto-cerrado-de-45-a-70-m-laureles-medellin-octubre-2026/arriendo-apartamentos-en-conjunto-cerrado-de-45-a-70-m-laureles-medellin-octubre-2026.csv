@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,70
+filtro,conj,"en conjunto cerrado",,70
+filtro,area2,"de 45 a 70 m²",,70
+precio,p25,2650000.0,COP,70
+precio,mediana,2975000.0,COP,70
+precio,p75,3700000.0,COP,70
+precio,minimo,1050000.0,COP,70
+precio,maximo,11111111.0,COP,70
+m2,mediana_precio_m2,52679.43,COP,68
+m2,area_mediana_m2,57.5,m2,68
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.5,%,61
+estrato,estrato_mas_frecuente,5,,70
+habitaciones,1,3000000.0,COP,15
+habitaciones,2,3000000.0,COP,40
+habitaciones,3+,2900000.0,COP,15
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

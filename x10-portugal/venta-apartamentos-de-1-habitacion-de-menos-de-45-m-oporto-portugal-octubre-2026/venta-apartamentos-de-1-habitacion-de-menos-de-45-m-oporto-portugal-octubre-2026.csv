@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,31
+filtro,habitaciones,1,,31
+filtro,area1,"de menos de 45 m²",,31
+precio,p25,235000.0,EUR,31
+precio,mediana,242000.0,EUR,31
+precio,p75,274500.0,EUR,31
+precio,minimo,217500.0,EUR,31
+precio,maximo,399500.0,EUR,31
+m2,mediana_precio_m2,6527.78,EUR,31
+m2,area_mediana_m2,40.0,m2,31
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,25.8,%,31
+habitaciones,1,242000.0,EUR,31
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,66
+filtro,habitaciones,3+,,66
+filtro,estrato,6,,66
+precio,p25,970000000.0,COP,66
+precio,mediana,1550000000.0,COP,66
+precio,p75,2100000000.0,COP,66
+precio,minimo,540000000.0,COP,66
+precio,maximo,3300000000.0,COP,66
+m2,mediana_precio_m2,9379457.47,COP,64
+m2,area_mediana_m2,155.0,m2,64
+admin,mediana_admin_mes,1083000.0,COP,47
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,96.9,%,64
+estrato,estrato_mas_frecuente,6,,66
+habitaciones,3+,1550000000.0,COP,66
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

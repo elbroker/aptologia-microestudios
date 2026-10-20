@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,46
+filtro,masc,"que aceptan mascotas",,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,7887500.0,COP,46
+precio,mediana,9445000.0,COP,46
+precio,p75,11980000.0,COP,46
+precio,minimo,3600000.0,COP,46
+precio,maximo,18500000.0,COP,46
+m2,mediana_precio_m2,68420.29,COP,44
+m2,area_mediana_m2,150.0,m2,44
+admin,mediana_admin_mes,1500000.0,COP,36
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,6,,46
+habitaciones,2,9000000.0,COP,17
+habitaciones,3+,11000000.0,COP,29
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

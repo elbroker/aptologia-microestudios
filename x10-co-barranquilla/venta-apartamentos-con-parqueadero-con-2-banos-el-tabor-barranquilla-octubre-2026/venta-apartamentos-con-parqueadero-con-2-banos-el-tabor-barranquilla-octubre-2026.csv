@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,62
+filtro,parq1,"con parqueadero",,62
+filtro,ban2,"con 2 baños",,62
+precio,p25,311250000.0,COP,62
+precio,mediana,380000000.0,COP,62
+precio,p75,427500000.0,COP,62
+precio,minimo,210000000.0,COP,62
+precio,maximo,1100000000.0,COP,62
+m2,mediana_precio_m2,3833333.33,COP,55
+m2,area_mediana_m2,105.0,m2,55
+admin,mediana_admin_mes,425000.0,COP,59
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,4,,60
+habitaciones,2,350000000.0,COP,11
+habitaciones,3+,380000000.0,COP,48
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-tabor,,
+fuente,licencia,CC BY 4.0,,

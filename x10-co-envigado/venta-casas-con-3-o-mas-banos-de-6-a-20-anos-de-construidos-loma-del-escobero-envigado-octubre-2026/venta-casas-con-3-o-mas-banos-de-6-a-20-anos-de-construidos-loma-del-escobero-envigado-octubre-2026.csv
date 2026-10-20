@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,ban3,"con 3 o más baños",,51
+filtro,edad2,"de 6 a 20 años de construidos",,51
+precio,p25,1950000000.0,COP,51
+precio,mediana,2480000000.0,COP,51
+precio,p75,3600000000.0,COP,51
+precio,minimo,1050000000.0,COP,51
+precio,maximo,7000000000.0,COP,51
+m2,mediana_precio_m2,6673077.65,COP,40
+m2,area_mediana_m2,422.0,m2,40
+admin,mediana_admin_mes,725000.0,COP,35
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,5,,51
+habitaciones,3+,2490000000.0,COP,50
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

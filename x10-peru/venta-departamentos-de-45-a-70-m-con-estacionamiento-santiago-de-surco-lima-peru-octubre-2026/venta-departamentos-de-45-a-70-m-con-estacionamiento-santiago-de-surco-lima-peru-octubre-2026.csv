@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,71
+filtro,area2,"de 45 a 70 m²",,71
+filtro,parq1,"con estacionamiento",,71
+precio,p25,414994.0,PEN,71
+precio,mediana,461491.0,PEN,71
+precio,p75,539100.0,PEN,71
+precio,minimo,240000.0,PEN,71
+precio,maximo,727000.0,PEN,71
+m2,mediana_precio_m2,8022.73,PEN,71
+m2,area_mediana_m2,60.0,m2,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+habitaciones,1,357000.0,PEN,15
+habitaciones,2,490440.0,PEN,47
+habitaciones,3+,350000.0,PEN,9
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/santiago-de-surco,,
+fuente,licencia,CC BY 4.0,,

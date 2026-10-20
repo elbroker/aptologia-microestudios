@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,39
+filtro,habitaciones,1,,39
+filtro,balc,"con balcón",,39
+precio,p25,2100000.0,COP,39
+precio,mediana,2850000.0,COP,39
+precio,p75,3200000.0,COP,39
+precio,minimo,1300000.0,COP,39
+precio,maximo,4200000.0,COP,39
+m2,mediana_precio_m2,63157.89,COP,39
+m2,area_mediana_m2,45.0,m2,39
+admin,mediana_admin_mes,427100.0,COP,17
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,66.7,%,30
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,1,2850000.0,COP,39
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/centro-internacional,,
+fuente,licencia,CC BY 4.0,,

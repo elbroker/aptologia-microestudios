@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,199
+filtro,estrato,3,,199
+filtro,parq0,"sin parqueadero",,199
+precio,p25,160000000.0,COP,199
+precio,mediana,170000000.0,COP,199
+precio,p75,191500000.0,COP,199
+precio,minimo,150000000.0,COP,199
+precio,maximo,300000000.0,COP,199
+m2,mediana_precio_m2,3428571.43,COP,199
+m2,area_mediana_m2,52.0,m2,199
+admin,mediana_admin_mes,104000.0,COP,163
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,199
+estrato,estrato_mas_frecuente,3,,199
+habitaciones,2,165500000.0,COP,42
+habitaciones,3+,175000000.0,COP,157
+ciudad,mediana_ciudad_referencia,170000000.0,COP,
+ciudad,mediana_m2_ciudad,3393617.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/soacha,,
+fuente,licencia,CC BY 4.0,,

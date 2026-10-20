@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,parq0,"sin estacionamiento",,51
+filtro,ban1,"con 1 baño",,51
+precio,p25,310924.5,EUR,51
+precio,mediana,385000.0,EUR,51
+precio,p75,477500.0,EUR,51
+precio,minimo,235000.0,EUR,51
+precio,maximo,899000.0,EUR,51
+m2,mediana_precio_m2,6477.48,EUR,51
+m2,area_mediana_m2,59.0,m2,51
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,51
+habitaciones,1,359000.0,EUR,25
+habitaciones,2,430000.0,EUR,21
+habitaciones,3+,390000.0,EUR,5
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/santa-maria-maior,,
+fuente,licencia,CC BY 4.0,,

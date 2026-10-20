@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,area2,"de 45 a 70 m²",,30
+filtro,parq1,"con estacionamiento",,30
+precio,p25,31625.0,UYU,30
+precio,mediana,33450.0,UYU,30
+precio,p75,38875.0,UYU,30
+precio,minimo,24000.0,UYU,30
+precio,maximo,42000.0,UYU,30
+m2,mediana_precio_m2,633.66,UYU,30
+m2,area_mediana_m2,55.0,m2,30
+admin,mediana_admin_mes,5250.0,UYU,24
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+habitaciones,1,29950.0,UYU,10
+habitaciones,2,36800.0,UYU,15
+habitaciones,3+,39000.0,UYU,5
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/la-blanqueada,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,52
+filtro,estrato,4,,52
+filtro,area2,"de 45 a 70 m²",,52
+precio,p25,1500000.0,COP,52
+precio,mediana,1630000.0,COP,52
+precio,p75,1800000.0,COP,52
+precio,minimo,1142395.0,COP,52
+precio,maximo,2300000.0,COP,52
+m2,mediana_precio_m2,30555.56,COP,52
+m2,area_mediana_m2,51.5,m2,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,2,1300000.0,COP,5
+habitaciones,3+,1650000.0,COP,46
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,28571.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/mosquera,,
+fuente,licencia,CC BY 4.0,,

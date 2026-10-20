@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,209
+filtro,estrato,6,,209
+filtro,balc,"con balcón",,209
+filtro,ban3,"con 3 o más baños",,209
+precio,p25,3650000.0,COP,209
+precio,mediana,4700000.0,COP,209
+precio,p75,6000000.0,COP,209
+precio,minimo,1750000.0,COP,209
+precio,maximo,13000000.0,COP,209
+m2,mediana_precio_m2,35562.27,COP,204
+m2,area_mediana_m2,138.0,m2,204
+admin,mediana_admin_mes,682000.0,COP,105
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,207
+estrato,estrato_mas_frecuente,6,,209
+habitaciones,2,3800000.0,COP,33
+habitaciones,3+,4850000.0,COP,176
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira,,
+fuente,licencia,CC BY 4.0,,

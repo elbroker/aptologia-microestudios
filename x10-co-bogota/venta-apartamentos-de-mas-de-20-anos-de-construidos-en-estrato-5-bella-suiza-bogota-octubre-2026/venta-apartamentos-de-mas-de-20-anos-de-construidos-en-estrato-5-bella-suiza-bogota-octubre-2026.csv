@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,80
+filtro,estrato,5,,80
+filtro,edad3,"de más de 20 años de construidos",,80
+precio,p25,615000000.0,COP,80
+precio,mediana,795000000.0,COP,80
+precio,p75,950000000.0,COP,80
+precio,minimo,310000000.0,COP,80
+precio,maximo,1850000000.0,COP,80
+m2,mediana_precio_m2,6535897.44,COP,80
+m2,area_mediana_m2,123.9,m2,80
+admin,mediana_admin_mes,935000.0,COP,78
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.5,%,80
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,2,577500000.0,COP,24
+habitaciones,3+,845000000.0,COP,54
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/bella-suiza,,
+fuente,licencia,CC BY 4.0,,

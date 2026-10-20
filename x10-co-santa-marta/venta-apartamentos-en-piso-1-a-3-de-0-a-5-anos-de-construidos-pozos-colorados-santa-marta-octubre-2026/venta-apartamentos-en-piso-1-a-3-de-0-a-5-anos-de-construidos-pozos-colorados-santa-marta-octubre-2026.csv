@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,65
+filtro,piso1,"en piso 1 a 3",,65
+filtro,edad1,"de 0 a 5 años de construidos",,65
+precio,p25,380000000.0,COP,65
+precio,mediana,460000000.0,COP,65
+precio,p75,800000000.0,COP,65
+precio,minimo,240000000.0,COP,65
+precio,maximo,1900000000.0,COP,65
+m2,mediana_precio_m2,9583333.33,COP,64
+m2,area_mediana_m2,48.0,m2,64
+admin,mediana_admin_mes,400000.0,COP,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.0,%,41
+estrato,estrato_mas_frecuente,6,,65
+habitaciones,1,425000000.0,COP,37
+habitaciones,2,765000000.0,COP,20
+habitaciones,3+,1335000000.0,COP,8
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/pozos-colorados,,
+fuente,licencia,CC BY 4.0,,

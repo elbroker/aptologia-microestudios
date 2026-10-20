@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,36
+filtro,habitaciones,2,,36
+filtro,estrato,5,,36
+precio,p25,687500000.0,COP,36
+precio,mediana,765000000.0,COP,36
+precio,p75,952500000.0,COP,36
+precio,minimo,385000000.0,COP,36
+precio,maximo,1250000000.0,COP,36
+m2,mediana_precio_m2,7978951.89,COP,34
+m2,area_mediana_m2,94.5,m2,34
+admin,mediana_admin_mes,798150.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,765000000.0,COP,36
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-cabrero,,
+fuente,licencia,CC BY 4.0,,

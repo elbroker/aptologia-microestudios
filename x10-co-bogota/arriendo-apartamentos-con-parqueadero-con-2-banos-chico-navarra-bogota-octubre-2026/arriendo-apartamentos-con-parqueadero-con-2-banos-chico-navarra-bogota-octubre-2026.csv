@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,76
+filtro,parq1,"con parqueadero",,76
+filtro,ban2,"con 2 baños",,76
+precio,p25,3500000.0,COP,76
+precio,mediana,4600000.0,COP,76
+precio,p75,5850000.0,COP,76
+precio,minimo,1900000.0,COP,76
+precio,maximo,11500000.0,COP,76
+m2,mediana_precio_m2,60357.14,COP,74
+m2,area_mediana_m2,72.0,m2,74
+admin,mediana_admin_mes,734000.0,COP,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+estrato,estrato_mas_frecuente,6,,76
+habitaciones,1,3500000.0,COP,24
+habitaciones,2,5350000.0,COP,48
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chico-navarra,,
+fuente,licencia,CC BY 4.0,,

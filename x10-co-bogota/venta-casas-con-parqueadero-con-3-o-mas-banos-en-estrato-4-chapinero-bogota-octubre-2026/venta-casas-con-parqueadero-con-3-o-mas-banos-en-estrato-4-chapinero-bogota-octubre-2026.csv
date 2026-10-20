@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,67
+filtro,estrato,4,,67
+filtro,parq1,"con parqueadero",,67
+filtro,ban3,"con 3 o más baños",,67
+precio,p25,1350000000.0,COP,67
+precio,mediana,1820000000.0,COP,67
+precio,p75,2550000000.0,COP,67
+precio,minimo,700000000.0,COP,67
+precio,maximo,6000000000.0,COP,67
+m2,mediana_precio_m2,4937629.94,COP,67
+m2,area_mediana_m2,380.0,m2,67
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,67
+estrato,estrato_mas_frecuente,4,,67
+habitaciones,3+,1700000000.0,COP,62
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

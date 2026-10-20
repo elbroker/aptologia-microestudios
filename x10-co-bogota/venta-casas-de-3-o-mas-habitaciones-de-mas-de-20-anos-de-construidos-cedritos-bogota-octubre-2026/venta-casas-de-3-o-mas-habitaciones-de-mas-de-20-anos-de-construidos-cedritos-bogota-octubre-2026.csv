@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,153
+filtro,habitaciones,3+,,153
+filtro,edad3,"de más de 20 años de construidos",,153
+precio,p25,780000000.0,COP,153
+precio,mediana,898000000.0,COP,153
+precio,p75,1150000000.0,COP,153
+precio,minimo,450000000.0,COP,153
+precio,maximo,5000000000.0,COP,153
+m2,mediana_precio_m2,5049895.44,COP,150
+m2,area_mediana_m2,179.0,m2,150
+admin,mediana_admin_mes,639250.0,COP,94
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.7,%,153
+estrato,estrato_mas_frecuente,4,,153
+habitaciones,3+,898000000.0,COP,153
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,76
+filtro,habitaciones,1,,76
+filtro,area1,"de menos de 45 m²",,76
+precio,p25,2164.25,BRL,76
+precio,mediana,2510.0,BRL,76
+precio,p75,3075.0,BRL,76
+precio,minimo,1200.0,BRL,76
+precio,maximo,6000.0,BRL,76
+m2,mediana_precio_m2,75.97,BRL,76
+m2,area_mediana_m2,36.0,m2,76
+admin,mediana_admin_mes,669.0,BRL,75
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,72.4,%,58
+habitaciones,1,2510.0,BRL,76
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/bela-vista,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,606
+filtro,balc,"con balcón",,606
+filtro,ban2,"con 2 baños",,606
+precio,p25,3300000.0,COP,606
+precio,mediana,3900000.0,COP,606
+precio,p75,4600000.0,COP,606
+precio,minimo,1111111.0,COP,606
+precio,maximo,13500000.0,COP,606
+m2,mediana_precio_m2,42307.69,COP,599
+m2,area_mediana_m2,91.0,m2,599
+admin,mediana_admin_mes,400000.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.3,%,577
+estrato,estrato_mas_frecuente,5,,606
+habitaciones,1,3100000.0,COP,19
+habitaciones,2,3500000.0,COP,186
+habitaciones,3+,4100000.0,COP,400
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

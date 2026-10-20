@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,84
+filtro,habitaciones,3+,,84
+filtro,area3,"de 70 a 100 m²",,84
+precio,p25,450000000.0,COP,84
+precio,mediana,512500000.0,COP,84
+precio,p75,559250000.0,COP,84
+precio,minimo,278100000.0,COP,84
+precio,maximo,800000000.0,COP,84
+m2,mediana_precio_m2,6602188.78,COP,84
+m2,area_mediana_m2,76.0,m2,84
+admin,mediana_admin_mes,345500.0,COP,62
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.7,%,81
+estrato,estrato_mas_frecuente,4,,79
+habitaciones,3+,512500000.0,COP,84
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/ditaires,,
+fuente,licencia,CC BY 4.0,,

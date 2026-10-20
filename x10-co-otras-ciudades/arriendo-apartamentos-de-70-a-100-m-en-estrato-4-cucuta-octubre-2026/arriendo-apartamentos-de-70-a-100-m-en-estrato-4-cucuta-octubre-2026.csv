@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,area3,"de 70 a 100 m²",,40
+precio,p25,1240727.75,COP,40
+precio,mediana,1515000.0,COP,40
+precio,p75,2000000.0,COP,40
+precio,minimo,900000.0,COP,40
+precio,maximo,3800000.0,COP,40
+m2,mediana_precio_m2,21005.46,COP,31
+m2,area_mediana_m2,80.0,m2,31
+admin,mediana_admin_mes,370000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.9,%,39
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,2,1800000.0,COP,14
+habitaciones,3+,1500000.0,COP,26
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,22007.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cucuta,,
+fuente,licencia,CC BY 4.0,,

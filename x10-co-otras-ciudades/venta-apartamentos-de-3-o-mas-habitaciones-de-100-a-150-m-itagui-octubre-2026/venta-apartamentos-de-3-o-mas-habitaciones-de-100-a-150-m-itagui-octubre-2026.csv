@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,146
+filtro,habitaciones,3+,,146
+filtro,area4,"de 100 a 150 m²",,146
+precio,p25,490000000.0,COP,146
+precio,mediana,669500000.0,COP,146
+precio,p75,825000000.0,COP,146
+precio,minimo,290000000.0,COP,146
+precio,maximo,1150000000.0,COP,146
+m2,mediana_precio_m2,5760576.92,COP,146
+m2,area_mediana_m2,109.0,m2,146
+admin,mediana_admin_mes,484103.0,COP,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.9,%,121
+estrato,estrato_mas_frecuente,4,,142
+habitaciones,3+,669500000.0,COP,146
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui,,
+fuente,licencia,CC BY 4.0,,

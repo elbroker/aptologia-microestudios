@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,ban2,"con 2 baños",,55
+filtro,piso2,"en piso 4 a 8",,55
+precio,p25,2400000.0,COP,55
+precio,mediana,2600000.0,COP,55
+precio,p75,3050000.0,COP,55
+precio,minimo,1520000.0,COP,55
+precio,maximo,5830000.0,COP,55
+m2,mediana_precio_m2,32716.05,COP,55
+m2,area_mediana_m2,85.0,m2,55
+admin,mediana_admin_mes,420000.0,COP,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,2,2500000.0,COP,23
+habitaciones,3+,2965000.0,COP,30
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/alamos,,
+fuente,licencia,CC BY 4.0,,

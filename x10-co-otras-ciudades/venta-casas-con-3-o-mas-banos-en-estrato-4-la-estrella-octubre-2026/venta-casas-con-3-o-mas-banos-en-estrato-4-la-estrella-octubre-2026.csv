@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,48
+filtro,estrato,4,,48
+filtro,ban3,"con 3 o más baños",,48
+precio,p25,945000000.0,COP,48
+precio,mediana,1125000000.0,COP,48
+precio,p75,1757500000.0,COP,48
+precio,minimo,760000000.0,COP,48
+precio,maximo,2700000000.0,COP,48
+m2,mediana_precio_m2,5501479.29,COP,48
+m2,area_mediana_m2,209.0,m2,48
+admin,mediana_admin_mes,450000.0,COP,27
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,3+,1125000000.0,COP,48
+ciudad,mediana_ciudad_referencia,1480000000.0,COP,
+ciudad,mediana_m2_ciudad,5544407.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-estrella,,
+fuente,licencia,CC BY 4.0,,

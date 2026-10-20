@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,107
+filtro,parq1,"con parqueadero",,107
+filtro,ban3,"con 3 o más baños",,107
+precio,p25,3625000.0,COP,107
+precio,mediana,5600000.0,COP,107
+precio,p75,8000000.0,COP,107
+precio,minimo,1900000.0,COP,107
+precio,maximo,19300000.0,COP,107
+m2,mediana_precio_m2,32303.37,COP,105
+m2,area_mediana_m2,171.0,m2,105
+admin,mediana_admin_mes,1380000.0,COP,18
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,107
+estrato,estrato_mas_frecuente,6,,106
+habitaciones,2,3950000.0,COP,11
+habitaciones,3+,5775000.0,COP,96
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/altos-del-prado,,
+fuente,licencia,CC BY 4.0,,

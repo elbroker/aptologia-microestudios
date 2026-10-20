@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,50
+filtro,habitaciones,2,,50
+filtro,conj,"en conjunto cerrado",,50
+precio,p25,1500000.0,COP,50
+precio,mediana,1700000.0,COP,50
+precio,p75,2197500.0,COP,50
+precio,minimo,1241853.0,COP,50
+precio,maximo,2700000.0,COP,50
+m2,mediana_precio_m2,29179.57,COP,50
+m2,area_mediana_m2,57.0,m2,50
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,50
+habitaciones,2,1700000.0,COP,50
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/ciudad-mallorquin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,174
+filtro,habitaciones,2,,174
+filtro,parq1,"con parqueadero",,174
+precio,p25,2500000.0,COP,174
+precio,mediana,2800000.0,COP,174
+precio,p75,3250000.0,COP,174
+precio,minimo,1500000.0,COP,174
+precio,maximo,6100000.0,COP,174
+m2,mediana_precio_m2,42857.14,COP,174
+m2,area_mediana_m2,66.0,m2,174
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,174
+estrato,estrato_mas_frecuente,4,,172
+habitaciones,2,2800000.0,COP,174
+ciudad,mediana_ciudad_referencia,2725000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/itagui,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,parq1,"con parqueadero",,41
+filtro,ban3,"con 3 o más baños",,41
+precio,p25,680000000.0,COP,41
+precio,mediana,760000000.0,COP,41
+precio,p75,850000000.0,COP,41
+precio,minimo,528000000.0,COP,41
+precio,maximo,1350000000.0,COP,41
+m2,mediana_precio_m2,6518518.52,COP,41
+m2,area_mediana_m2,122.0,m2,41
+admin,mediana_admin_mes,560000.0,COP,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,5,,39
+habitaciones,2,644000000.0,COP,10
+habitaciones,3+,800000000.0,COP,31
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/portal-de-genoves,,
+fuente,licencia,CC BY 4.0,,

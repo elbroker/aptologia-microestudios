@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,piso1,"en piso 1 a 3",,35
+precio,p25,595000000.0,COP,35
+precio,mediana,940000000.0,COP,35
+precio,p75,1325000000.0,COP,35
+precio,minimo,295000000.0,COP,35
+precio,maximo,2868320000.0,COP,35
+m2,mediana_precio_m2,5270467.84,COP,34
+m2,area_mediana_m2,179.3,m2,34
+admin,mediana_admin_mes,1000000.0,COP,25
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,940000000.0,COP,35
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/santa-monica,,
+fuente,licencia,CC BY 4.0,,

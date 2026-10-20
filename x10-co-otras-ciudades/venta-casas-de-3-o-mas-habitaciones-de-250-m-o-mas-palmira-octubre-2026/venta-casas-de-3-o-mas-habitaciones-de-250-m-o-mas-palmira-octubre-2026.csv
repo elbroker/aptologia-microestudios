@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,171
+filtro,habitaciones,3+,,171
+filtro,area6,"de 250 m² o más",,171
+precio,p25,603928500.0,COP,171
+precio,mediana,950000000.0,COP,171
+precio,p75,1400000000.0,COP,171
+precio,minimo,240000000.0,COP,171
+precio,maximo,7564800000.0,COP,171
+m2,mediana_precio_m2,2400000.0,COP,151
+m2,area_mediana_m2,364.0,m2,151
+admin,mediana_admin_mes,590000.0,COP,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.3,%,161
+estrato,estrato_mas_frecuente,3,,165
+habitaciones,3+,950000000.0,COP,171
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,2453416.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/palmira,,
+fuente,licencia,CC BY 4.0,,

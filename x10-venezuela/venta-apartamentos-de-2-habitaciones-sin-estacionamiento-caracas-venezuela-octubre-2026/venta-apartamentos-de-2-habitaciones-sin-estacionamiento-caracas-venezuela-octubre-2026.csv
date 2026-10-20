@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,parq0,"sin estacionamiento",,32
+precio,p25,62000.0,USD,32
+precio,mediana,72500.0,USD,32
+precio,p75,87000.0,USD,32
+precio,minimo,50000.0,USD,32
+precio,maximo,115000.0,USD,32
+m2,mediana_precio_m2,1031.56,USD,32
+m2,area_mediana_m2,70.0,m2,32
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,32
+habitaciones,2,72500.0,USD,32
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas,,
+fuente,licencia,CC BY 4.0,,

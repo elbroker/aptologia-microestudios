@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,84
+filtro,parq1,"con parqueadero",,84
+filtro,edad1,"de 0 a 5 años de construidos",,84
+precio,p25,1391000000.0,COP,84
+precio,mediana,2035000000.0,COP,84
+precio,p75,2960000000.0,COP,84
+precio,minimo,304000000.0,COP,84
+precio,maximo,4200000000.0,COP,84
+m2,mediana_precio_m2,8958679.3,COP,82
+m2,area_mediana_m2,241.0,m2,82
+admin,mediana_admin_mes,2100000.0,COP,67
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+estrato,estrato_mas_frecuente,6,,82
+habitaciones,1,680411481.0,COP,8
+habitaciones,2,1535000000.0,COP,16
+habitaciones,3+,2600000000.0,COP,60
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-refugio,,
+fuente,licencia,CC BY 4.0,,

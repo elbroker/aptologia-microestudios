@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,100
+filtro,estrato,6,,100
+filtro,area6,"de 250 m² o más",,100
+precio,p25,2400000000.0,COP,100
+precio,mediana,2800000000.0,COP,100
+precio,p75,3300000000.0,COP,100
+precio,minimo,780000000.0,COP,100
+precio,maximo,4250000000.0,COP,100
+m2,mediana_precio_m2,9365994.24,COP,99
+m2,area_mediana_m2,287.0,m2,99
+admin,mediana_admin_mes,2400000.0,COP,94
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,100
+estrato,estrato_mas_frecuente,6,,100
+habitaciones,3+,2800000000.0,COP,97
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-reservado,,
+fuente,licencia,CC BY 4.0,,

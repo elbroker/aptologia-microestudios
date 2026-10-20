@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,68
+filtro,estrato,6,,68
+filtro,area6,"de 250 m² o más",,68
+precio,p25,1915000000.0,COP,68
+precio,mediana,3110000000.0,COP,68
+precio,p75,4400000000.0,COP,68
+precio,minimo,1380000000.0,COP,68
+precio,maximo,6500000000.0,COP,68
+m2,mediana_precio_m2,7013975.16,COP,68
+m2,area_mediana_m2,400.0,m2,68
+admin,mediana_admin_mes,1520000.0,COP,38
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+estrato,estrato_mas_frecuente,6,,68
+habitaciones,3+,3110000000.0,COP,68
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/altos-del-poblado,,
+fuente,licencia,CC BY 4.0,,

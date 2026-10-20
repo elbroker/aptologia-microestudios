@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,49
+filtro,estrato,3,,49
+filtro,ban2,"con 2 baños",,49
+precio,p25,290000000.0,COP,49
+precio,mediana,315000000.0,COP,49
+precio,p75,340000000.0,COP,49
+precio,minimo,192000000.0,COP,49
+precio,maximo,440000000.0,COP,49
+m2,mediana_precio_m2,5166666.67,COP,49
+m2,area_mediana_m2,59.0,m2,49
+admin,mediana_admin_mes,240695.5,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,62.2,%,45
+estrato,estrato_mas_frecuente,3,,49
+habitaciones,3+,315000000.0,COP,47
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/madera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,84
+filtro,parq1,"con parqueadero",,84
+filtro,ban2,"con 2 baños",,84
+precio,p25,222275750.0,COP,84
+precio,mediana,290000000.0,COP,84
+precio,p75,356250000.0,COP,84
+precio,minimo,184000000.0,COP,84
+precio,maximo,498000000.0,COP,84
+m2,mediana_precio_m2,4112689.39,COP,84
+m2,area_mediana_m2,70.7,m2,84
+admin,mediana_admin_mes,403500.0,COP,66
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+estrato,estrato_mas_frecuente,4,,84
+habitaciones,2,212000000.0,COP,21
+habitaciones,3+,340000000.0,COP,63
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

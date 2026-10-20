@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,90
+filtro,habitaciones,2,,90
+filtro,area2,"de 45 a 70 m²",,90
+precio,p25,1700000.0,COP,90
+precio,mediana,2300000.0,COP,90
+precio,p75,2700000.0,COP,90
+precio,minimo,900000.0,COP,90
+precio,maximo,5000000.0,COP,90
+m2,mediana_precio_m2,37313.43,COP,90
+m2,area_mediana_m2,60.0,m2,90
+admin,mediana_admin_mes,395000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,83.3,%,72
+estrato,estrato_mas_frecuente,3,,90
+habitaciones,2,2300000.0,COP,90
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,45000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/santa-marta,,
+fuente,licencia,CC BY 4.0,,

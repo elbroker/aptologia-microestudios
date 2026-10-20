@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,36
+filtro,habitaciones,3+,,36
+filtro,area5,"de 150 a 250 m²",,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,195000.0,USD,36
+precio,mediana,232500.0,USD,36
+precio,p75,264250.0,USD,36
+precio,minimo,149000.0,USD,36
+precio,maximo,375000.0,USD,36
+m2,mediana_precio_m2,1335.47,USD,36
+m2,area_mediana_m2,167.0,m2,36
+banos,mediana_banos,2.0,,
+habitaciones,3+,232500.0,USD,36
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/el-millon,,
+fuente,licencia,CC BY 4.0,,

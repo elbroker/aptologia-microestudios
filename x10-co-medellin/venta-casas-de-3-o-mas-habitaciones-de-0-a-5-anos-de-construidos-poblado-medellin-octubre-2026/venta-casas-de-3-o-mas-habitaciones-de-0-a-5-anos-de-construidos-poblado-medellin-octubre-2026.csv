@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,48
+filtro,habitaciones,3+,,48
+filtro,edad1,"de 0 a 5 años de construidos",,48
+precio,p25,1837500000.0,COP,48
+precio,mediana,2900000000.0,COP,48
+precio,p75,4500000000.0,COP,48
+precio,minimo,840000000.0,COP,48
+precio,maximo,6900000000.0,COP,48
+m2,mediana_precio_m2,6023255.81,COP,46
+m2,area_mediana_m2,441.0,m2,46
+admin,mediana_admin_mes,1300000.0,COP,27
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,93.8,%,48
+estrato,estrato_mas_frecuente,6,,48
+habitaciones,3+,2900000000.0,COP,48
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

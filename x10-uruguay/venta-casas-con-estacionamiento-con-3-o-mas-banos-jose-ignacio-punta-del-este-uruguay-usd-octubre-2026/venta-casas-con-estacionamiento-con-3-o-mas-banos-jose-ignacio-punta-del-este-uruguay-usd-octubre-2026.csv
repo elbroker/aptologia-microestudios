@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,120
+filtro,parq1,"con estacionamiento",,120
+filtro,ban3,"con 3 o más baños",,120
+precio,p25,897500.0,USD,120
+precio,mediana,1365000.0,USD,120
+precio,p75,2000000.0,USD,120
+precio,minimo,370000.0,USD,120
+precio,maximo,4850000.0,USD,120
+m2,mediana_precio_m2,3916.67,USD,101
+m2,area_mediana_m2,350.0,m2,101
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,120
+habitaciones,3+,1400000.0,USD,117
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/jose-ignacio,,
+fuente,licencia,CC BY 4.0,,

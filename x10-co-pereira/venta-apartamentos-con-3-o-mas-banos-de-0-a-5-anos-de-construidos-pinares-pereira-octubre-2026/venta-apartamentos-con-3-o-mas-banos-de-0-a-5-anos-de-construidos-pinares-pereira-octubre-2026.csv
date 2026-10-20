@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,210
+filtro,ban3,"con 3 o más baños",,210
+filtro,edad1,"de 0 a 5 años de construidos",,210
+precio,p25,661250000.0,COP,210
+precio,mediana,920000000.0,COP,210
+precio,p75,1300000000.0,COP,210
+precio,minimo,300000000.0,COP,210
+precio,maximo,2800000000.0,COP,210
+m2,mediana_precio_m2,6000000.0,COP,209
+m2,area_mediana_m2,164.0,m2,209
+admin,mediana_admin_mes,750000.0,COP,130
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,99.0,%,206
+estrato,estrato_mas_frecuente,6,,206
+habitaciones,2,620000000.0,COP,12
+habitaciones,3+,950000000.0,COP,197
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

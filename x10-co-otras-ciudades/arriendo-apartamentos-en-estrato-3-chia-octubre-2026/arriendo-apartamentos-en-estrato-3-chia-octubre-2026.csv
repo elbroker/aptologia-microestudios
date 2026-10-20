@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,233
+filtro,estrato,3,,233
+precio,p25,1350000.0,COP,233
+precio,mediana,1500000.0,COP,233
+precio,p75,1650000.0,COP,233
+precio,minimo,990000.0,COP,233
+precio,maximo,5500000.0,COP,233
+m2,mediana_precio_m2,30000.0,COP,230
+m2,area_mediana_m2,50.0,m2,230
+admin,mediana_admin_mes,200000.0,COP,101
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,53.9,%,165
+estrato,estrato_mas_frecuente,3,,233
+habitaciones,1,1450000.0,COP,43
+habitaciones,2,1500000.0,COP,148
+habitaciones,3+,1470000.0,COP,41
+ciudad,mediana_ciudad_referencia,1767250.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/chia,,
+fuente,licencia,CC BY 4.0,,

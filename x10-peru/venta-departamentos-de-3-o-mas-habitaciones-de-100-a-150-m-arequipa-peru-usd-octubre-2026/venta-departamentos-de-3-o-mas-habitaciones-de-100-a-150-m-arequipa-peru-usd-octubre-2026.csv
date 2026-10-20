@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,49
+filtro,habitaciones,3+,,49
+filtro,area4,"de 100 a 150 m²",,49
+precio,p25,121000.0,USD,49
+precio,mediana,142000.0,USD,49
+precio,p75,180000.0,USD,49
+precio,minimo,80000.0,USD,49
+precio,maximo,345000.0,USD,49
+m2,mediana_precio_m2,1150.44,USD,47
+m2,area_mediana_m2,122.0,m2,47
+banos,mediana_banos,2.0,,
+habitaciones,3+,142000.0,USD,49
+ciudad,mediana_ciudad_referencia,145000.0,USD,
+ciudad,mediana_m2_ciudad,1150.44,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/arequipa,,
+fuente,licencia,CC BY 4.0,,

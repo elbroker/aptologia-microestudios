@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,110
+filtro,area4,"de 100 a 150 m²",,110
+filtro,ban3,"con 3 o más baños",,110
+precio,p25,3499.25,PEN,110
+precio,mediana,4075.0,PEN,110
+precio,p75,4881.75,PEN,110
+precio,minimo,2660.0,PEN,110
+precio,maximo,12100.0,PEN,110
+m2,mediana_precio_m2,34.66,PEN,108
+m2,area_mediana_m2,120.0,m2,108
+admin,mediana_admin_mes,490.0,PEN,18
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,104
+habitaciones,2,4298.0,PEN,32
+habitaciones,3+,4020.0,PEN,73
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/miraflores,,
+fuente,licencia,CC BY 4.0,,

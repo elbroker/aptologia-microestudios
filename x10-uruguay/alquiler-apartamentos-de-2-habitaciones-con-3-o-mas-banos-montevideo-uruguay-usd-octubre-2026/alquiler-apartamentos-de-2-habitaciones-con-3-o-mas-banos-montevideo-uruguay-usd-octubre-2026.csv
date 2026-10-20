@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,46
+filtro,habitaciones,2,,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,1990.0,USD,46
+precio,mediana,2390.0,USD,46
+precio,p75,2990.0,USD,46
+precio,minimo,1400.0,USD,46
+precio,maximo,4500.0,USD,46
+m2,mediana_precio_m2,20.35,USD,44
+m2,area_mediana_m2,119.0,m2,44
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+habitaciones,2,2390.0,USD,46
+ciudad,mediana_ciudad_referencia,1990.0,USD,
+ciudad,mediana_m2_ciudad,20.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

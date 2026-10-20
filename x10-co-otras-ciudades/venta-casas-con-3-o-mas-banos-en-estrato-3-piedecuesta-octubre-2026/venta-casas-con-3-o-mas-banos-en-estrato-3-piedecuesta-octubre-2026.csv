@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,50
+filtro,estrato,3,,50
+filtro,ban3,"con 3 o más baños",,50
+precio,p25,427425000.0,COP,50
+precio,mediana,830000000.0,COP,50
+precio,p75,1026250000.0,COP,50
+precio,minimo,250000000.0,COP,50
+precio,maximo,2500000000.0,COP,50
+m2,mediana_precio_m2,3200000.0,COP,37
+m2,area_mediana_m2,180.0,m2,37
+admin,mediana_admin_mes,290000.0,COP,18
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,3,,50
+habitaciones,3+,830000000.0,COP,50
+ciudad,mediana_ciudad_referencia,1350000000.0,COP,
+ciudad,mediana_m2_ciudad,3880000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/piedecuesta,,
+fuente,licencia,CC BY 4.0,,

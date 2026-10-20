@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,30
+filtro,habitaciones,2,,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,292500000.0,COP,30
+precio,mediana,347500000.0,COP,30
+precio,p75,518750000.0,COP,30
+precio,minimo,225000000.0,COP,30
+precio,maximo,1290000000.0,COP,30
+m2,area_mediana_m2,80.0,m2,29
+banos,mediana_banos,2.0,,
+habitaciones,2,347500000.0,COP,30
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,229
+filtro,habitaciones,3+,,229
+filtro,edad1,"de 0 a 5 años de construidos",,229
+precio,p25,500000000.0,COP,229
+precio,mediana,580000000.0,COP,229
+precio,p75,735000000.0,COP,229
+precio,minimo,308000000.0,COP,229
+precio,maximo,1100000000.0,COP,229
+m2,mediana_precio_m2,7152777.78,COP,229
+m2,area_mediana_m2,87.0,m2,229
+admin,mediana_admin_mes,450000.0,COP,165
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.2,%,219
+estrato,estrato_mas_frecuente,4,,216
+habitaciones,3+,580000000.0,COP,229
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/suramerica,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,59
+filtro,habitaciones,3+,,59
+filtro,piso2,"en piso 4 a 8",,59
+precio,p25,244000000.0,COP,59
+precio,mediana,262000000.0,COP,59
+precio,p75,377000000.0,COP,59
+precio,minimo,165000000.0,COP,59
+precio,maximo,550000000.0,COP,59
+m2,mediana_precio_m2,4246153.85,COP,59
+m2,area_mediana_m2,65.0,m2,59
+admin,mediana_admin_mes,304769.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.6,%,39
+estrato,estrato_mas_frecuente,4,,59
+habitaciones,3+,262000000.0,COP,59
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-melendez,,
+fuente,licencia,CC BY 4.0,,

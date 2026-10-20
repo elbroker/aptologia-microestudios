@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,parq1,"con parqueadero",,34
+precio,p25,757500000.0,COP,34
+precio,mediana,860000000.0,COP,34
+precio,p75,1200000000.0,COP,34
+precio,minimo,620000000.0,COP,34
+precio,maximo,3500000000.0,COP,34
+m2,mediana_precio_m2,2785714.29,COP,34
+m2,area_mediana_m2,322.0,m2,34
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,3+,860000000.0,COP,34
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/san-fernando-viejo,,
+fuente,licencia,CC BY 4.0,,

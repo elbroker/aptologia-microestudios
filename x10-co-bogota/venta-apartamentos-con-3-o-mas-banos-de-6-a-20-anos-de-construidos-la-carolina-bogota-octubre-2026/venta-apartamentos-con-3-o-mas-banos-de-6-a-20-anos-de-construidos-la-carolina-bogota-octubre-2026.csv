@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,ban3,"con 3 o más baños",,51
+filtro,edad2,"de 6 a 20 años de construidos",,51
+precio,p25,1350000000.0,COP,51
+precio,mediana,1750000000.0,COP,51
+precio,p75,2275000000.0,COP,51
+precio,minimo,650000000.0,COP,51
+precio,maximo,4100000000.0,COP,51
+m2,mediana_precio_m2,7769356.6,COP,48
+m2,area_mediana_m2,187.0,m2,48
+admin,mediana_admin_mes,1400000.0,COP,49
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,2,1150000000.0,COP,5
+habitaciones,3+,1800000000.0,COP,46
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-carolina,,
+fuente,licencia,CC BY 4.0,,

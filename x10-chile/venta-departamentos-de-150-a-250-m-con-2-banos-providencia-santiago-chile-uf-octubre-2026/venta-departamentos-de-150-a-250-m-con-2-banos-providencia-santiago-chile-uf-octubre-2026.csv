@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,area5,"de 150 a 250 m²",,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,8175.0,UF,30
+precio,mediana,10818.0,UF,30
+precio,p75,14375.0,UF,30
+precio,minimo,5500.0,UF,30
+precio,maximo,21500.0,UF,30
+m2,mediana_precio_m2,67.63,UF,30
+m2,area_mediana_m2,170.0,m2,30
+banos,mediana_banos,2.0,,
+habitaciones,2,9367.5,UF,10
+habitaciones,3+,12300.0,UF,19
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

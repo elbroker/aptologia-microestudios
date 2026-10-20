@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,50
+filtro,parq1,"con parqueadero",,50
+filtro,piso1,"en piso 1 a 3",,50
+precio,p25,1503750000.0,COP,50
+precio,mediana,2034760151.0,COP,50
+precio,p75,2590000000.0,COP,50
+precio,minimo,870000000.0,COP,50
+precio,maximo,4200000000.0,COP,50
+m2,mediana_precio_m2,10000000.0,COP,49
+m2,area_mediana_m2,200.0,m2,49
+admin,mediana_admin_mes,1870000.0,COP,45
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,2,1400000000.0,COP,6
+habitaciones,3+,2300000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-ana-oriental,,
+fuente,licencia,CC BY 4.0,,

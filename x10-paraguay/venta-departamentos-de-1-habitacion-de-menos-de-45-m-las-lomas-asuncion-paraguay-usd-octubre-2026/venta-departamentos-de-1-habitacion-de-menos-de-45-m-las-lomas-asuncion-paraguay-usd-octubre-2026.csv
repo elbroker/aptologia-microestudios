@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,99
+filtro,habitaciones,1,,99
+filtro,area1,"de menos de 45 m²",,99
+precio,p25,68480.0,USD,99
+precio,mediana,80100.0,USD,99
+precio,p75,90776.0,USD,99
+precio,minimo,55230.0,USD,99
+precio,maximo,143000.0,USD,99
+m2,mediana_precio_m2,2237.55,USD,99
+m2,area_mediana_m2,35.0,m2,99
+banos,mediana_banos,1.0,,
+habitaciones,1,80100.0,USD,99
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-lomas,,
+fuente,licencia,CC BY 4.0,,

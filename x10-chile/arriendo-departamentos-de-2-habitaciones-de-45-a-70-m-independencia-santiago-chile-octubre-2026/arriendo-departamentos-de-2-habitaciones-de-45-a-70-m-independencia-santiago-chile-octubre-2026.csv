@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,73
+filtro,habitaciones,2,,73
+filtro,area2,"de 45 a 70 m²",,73
+precio,p25,350000.0,CLP,73
+precio,mediana,400000.0,CLP,73
+precio,p75,435000.0,CLP,73
+precio,minimo,175000.0,CLP,73
+precio,maximo,600000.0,CLP,73
+m2,mediana_precio_m2,7981.48,CLP,68
+m2,area_mediana_m2,50.0,m2,68
+banos,mediana_banos,1.0,,
+habitaciones,2,400000.0,CLP,73
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/independencia,,
+fuente,licencia,CC BY 4.0,,

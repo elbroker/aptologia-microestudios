@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area4,"de 100 a 150 m²",,35
+precio,p25,969500000.0,COP,35
+precio,mediana,1050000000.0,COP,35
+precio,p75,1210000000.0,COP,35
+precio,minimo,790000000.0,COP,35
+precio,maximo,1440000000.0,COP,35
+m2,mediana_precio_m2,8380281.69,COP,35
+m2,area_mediana_m2,135.0,m2,35
+admin,mediana_admin_mes,900000.0,COP,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,3+,1050000000.0,COP,35
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,57
+filtro,estrato,4,,57
+filtro,ban2,"con 2 baños",,57
+precio,p25,3500000.0,COP,57
+precio,mediana,3900000.0,COP,57
+precio,p75,4500000.0,COP,57
+precio,minimo,2400000.0,COP,57
+precio,maximo,8000000.0,COP,57
+m2,mediana_precio_m2,46666.67,COP,57
+m2,area_mediana_m2,82.0,m2,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.1,%,53
+estrato,estrato_mas_frecuente,4,,57
+habitaciones,2,3675000.0,COP,24
+habitaciones,3+,3950000.0,COP,33
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/cumbres,,
+fuente,licencia,CC BY 4.0,,

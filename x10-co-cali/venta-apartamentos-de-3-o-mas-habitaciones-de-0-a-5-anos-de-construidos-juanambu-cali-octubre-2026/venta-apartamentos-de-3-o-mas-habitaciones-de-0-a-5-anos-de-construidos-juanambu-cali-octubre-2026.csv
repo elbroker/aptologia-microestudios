@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,edad1,"de 0 a 5 años de construidos",,36
+precio,p25,722500000.0,COP,36
+precio,mediana,880000000.0,COP,36
+precio,p75,1150000000.0,COP,36
+precio,minimo,370000000.0,COP,36
+precio,maximo,2700000000.0,COP,36
+m2,mediana_precio_m2,4509944.75,COP,36
+m2,area_mediana_m2,170.0,m2,36
+admin,mediana_admin_mes,1432500.0,COP,24
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,880000000.0,COP,36
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/juanambu,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,area5,"de 150 a 250 m²",,58
+precio,p25,493250.0,USD,58
+precio,mediana,596705.0,USD,58
+precio,p75,751912.5,USD,58
+precio,minimo,429700.0,USD,58
+precio,maximo,2431000.0,USD,58
+m2,mediana_precio_m2,3250.0,USD,57
+m2,area_mediana_m2,182.0,m2,57
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,3+,596705.0,USD,58
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/carrasco,,
+fuente,licencia,CC BY 4.0,,

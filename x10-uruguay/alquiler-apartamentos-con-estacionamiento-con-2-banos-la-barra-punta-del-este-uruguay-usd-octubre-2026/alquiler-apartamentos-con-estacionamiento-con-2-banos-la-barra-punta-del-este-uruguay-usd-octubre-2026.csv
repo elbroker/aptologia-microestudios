@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,38
+filtro,parq1,"con estacionamiento",,38
+filtro,ban2,"con 2 baños",,38
+precio,p25,3637.5,USD,38
+precio,mediana,6700.0,USD,38
+precio,p75,9300.0,USD,38
+precio,minimo,1600.0,USD,38
+precio,maximo,25000.0,USD,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,2,6200.0,USD,19
+habitaciones,3+,7500.0,USD,17
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/la-barra,,
+fuente,licencia,CC BY 4.0,,

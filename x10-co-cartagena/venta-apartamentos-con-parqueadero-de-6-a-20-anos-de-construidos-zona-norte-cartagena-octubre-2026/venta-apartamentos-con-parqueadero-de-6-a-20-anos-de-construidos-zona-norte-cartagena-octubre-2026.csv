@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,parq1,"con parqueadero",,60
+filtro,edad2,"de 6 a 20 años de construidos",,60
+precio,p25,650000000.0,COP,60
+precio,mediana,825000000.0,COP,60
+precio,p75,1312500000.0,COP,60
+precio,minimo,300000000.0,COP,60
+precio,maximo,3100000000.0,COP,60
+m2,mediana_precio_m2,6808510.64,COP,59
+m2,area_mediana_m2,119.5,m2,59
+admin,mediana_admin_mes,897500.0,COP,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,1,670000000.0,COP,7
+habitaciones,2,745000000.0,COP,26
+habitaciones,3+,1150000000.0,COP,27
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/zona-norte,,
+fuente,licencia,CC BY 4.0,,

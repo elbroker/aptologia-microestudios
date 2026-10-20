@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,38
+filtro,estrato,3,,38
+filtro,edad1,"de 0 a 5 años de construidos",,38
+precio,p25,285000000.0,COP,38
+precio,mediana,345000000.0,COP,38
+precio,p75,380000000.0,COP,38
+precio,minimo,206000000.0,COP,38
+precio,maximo,450000000.0,COP,38
+m2,mediana_precio_m2,5697115.38,COP,38
+m2,area_mediana_m2,57.0,m2,38
+admin,mediana_admin_mes,244000.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,90.6,%,32
+estrato,estrato_mas_frecuente,3,,38
+habitaciones,2,300000000.0,COP,21
+habitaciones,3+,380000000.0,COP,17
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/fontibon,,
+fuente,licencia,CC BY 4.0,,

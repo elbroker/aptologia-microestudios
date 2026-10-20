@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,30
+filtro,habitaciones,2,,30
+filtro,estrato,4,,30
+precio,p25,2062500.0,COP,30
+precio,mediana,2175000.0,COP,30
+precio,p75,2500000.0,COP,30
+precio,minimo,1800000.0,COP,30
+precio,maximo,2800000.0,COP,30
+m2,mediana_precio_m2,35916.67,COP,30
+m2,area_mediana_m2,60.0,m2,30
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,2175000.0,COP,30
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/santa-monica,,
+fuente,licencia,CC BY 4.0,,

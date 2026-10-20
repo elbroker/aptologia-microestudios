@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,60
+filtro,estrato,5,,60
+filtro,edad3,"de más de 20 años de construidos",,60
+precio,p25,1387500000.0,COP,60
+precio,mediana,1825000000.0,COP,60
+precio,p75,2492500000.0,COP,60
+precio,minimo,615000000.0,COP,60
+precio,maximo,3828200000.0,COP,60
+m2,mediana_precio_m2,6018867.92,COP,58
+m2,area_mediana_m2,300.0,m2,58
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,83.3,%,60
+estrato,estrato_mas_frecuente,5,,60
+habitaciones,3+,1825000000.0,COP,60
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

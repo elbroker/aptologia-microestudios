@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,54
+filtro,conj,"en conjunto cerrado",,54
+filtro,area2,"de 45 a 70 m²",,54
+precio,p25,2612500.0,COP,54
+precio,mediana,2880000.0,COP,54
+precio,p75,3675000.0,COP,54
+precio,minimo,1950000.0,COP,54
+precio,maximo,4800000.0,COP,54
+m2,mediana_precio_m2,50926.24,COP,54
+m2,area_mediana_m2,60.0,m2,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.0,%,50
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,1,3200000.0,COP,5
+habitaciones,2,3000000.0,COP,36
+habitaciones,3+,2650000.0,COP,13
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

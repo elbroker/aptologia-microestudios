@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,52
+filtro,parq1,"con parqueadero",,52
+filtro,ban3,"con 3 o más baños",,52
+precio,p25,850000000.0,COP,52
+precio,mediana,1197155000.0,COP,52
+precio,p75,1515000000.0,COP,52
+precio,minimo,388000000.0,COP,52
+precio,maximo,3490000000.0,COP,52
+m2,mediana_precio_m2,5275410.47,COP,52
+m2,area_mediana_m2,196.0,m2,52
+admin,mediana_admin_mes,1668000.0,COP,44
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+estrato,estrato_mas_frecuente,6,,52
+habitaciones,2,840000000.0,COP,8
+habitaciones,3+,1200000000.0,COP,44
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/la-arboleda,,
+fuente,licencia,CC BY 4.0,,

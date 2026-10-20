@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,70
+filtro,estrato,3,,70
+filtro,edad1,"de 0 a 5 años de construidos",,70
+precio,p25,252362500.0,COP,70
+precio,mediana,315000000.0,COP,70
+precio,p75,407500000.0,COP,70
+precio,minimo,190000000.0,COP,70
+precio,maximo,510000000.0,COP,70
+m2,mediana_precio_m2,5769230.75,COP,69
+m2,area_mediana_m2,60.7,m2,69
+admin,mediana_admin_mes,237500.0,COP,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.5,%,46
+estrato,estrato_mas_frecuente,3,,70
+habitaciones,2,248000000.0,COP,19
+habitaciones,3+,390000000.0,COP,50
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/castilla,,
+fuente,licencia,CC BY 4.0,,

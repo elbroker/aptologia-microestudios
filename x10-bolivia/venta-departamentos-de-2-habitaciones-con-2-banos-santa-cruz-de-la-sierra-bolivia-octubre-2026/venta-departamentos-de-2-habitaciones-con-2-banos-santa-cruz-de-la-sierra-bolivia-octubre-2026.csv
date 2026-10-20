@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,472
+filtro,habitaciones,2,,472
+filtro,ban2,"con 2 baños",,472
+precio,p25,85000.0,USD,472
+precio,mediana,108595.0,USD,472
+precio,p75,137775.0,USD,472
+precio,minimo,35000.0,USD,472
+precio,maximo,504505.0,USD,472
+m2,mediana_precio_m2,1284.56,USD,419
+m2,area_mediana_m2,84.0,m2,419
+admin,mediana_admin_mes,50.0,USD,223
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,246
+habitaciones,2,108595.0,USD,472
+ciudad,mediana_ciudad_referencia,100000.0,USD,
+ciudad,mediana_m2_ciudad,1240.6,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

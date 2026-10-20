@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,59
+filtro,area1,"de menos de 45 m²",,59
+filtro,ban2,"con 2 baños",,59
+precio,p25,359035.0,CLP,59
+precio,mediana,395000.0,CLP,59
+precio,p75,457500.0,CLP,59
+precio,minimo,278244.0,CLP,59
+precio,maximo,585000.0,CLP,59
+m2,mediana_precio_m2,10000.0,CLP,59
+m2,area_mediana_m2,41.0,m2,59
+banos,mediana_banos,2.0,,
+habitaciones,1,330000.0,CLP,6
+habitaciones,2,405000.0,CLP,52
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

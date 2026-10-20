@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,area2,"de 45 a 70 m²",,40
+filtro,edad2,"de 6 a 20 años de construidos",,40
+precio,p25,240000000.0,COP,40
+precio,mediana,257500000.0,COP,40
+precio,p75,280000000.0,COP,40
+precio,minimo,200000000.0,COP,40
+precio,maximo,415000000.0,COP,40
+m2,mediana_precio_m2,4796694.21,COP,40
+m2,area_mediana_m2,55.0,m2,40
+admin,mediana_admin_mes,184000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,33.3,%,39
+estrato,estrato_mas_frecuente,3,,40
+habitaciones,2,251000000.0,COP,6
+habitaciones,3+,257500000.0,COP,34
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/madelena,,
+fuente,licencia,CC BY 4.0,,

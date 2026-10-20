@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,96
+filtro,estrato,3,,96
+filtro,area3,"de 70 a 100 m²",,96
+precio,p25,2000000.0,COP,96
+precio,mediana,2300000.0,COP,96
+precio,p75,2650000.0,COP,96
+precio,minimo,1200000.0,COP,96
+precio,maximo,3900000.0,COP,96
+m2,mediana_precio_m2,29864.86,COP,96
+m2,area_mediana_m2,76.0,m2,96
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,68.1,%,72
+estrato,estrato_mas_frecuente,3,,96
+habitaciones,2,2000000.0,COP,10
+habitaciones,3+,2300000.0,COP,86
+ciudad,mediana_ciudad_referencia,2000000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello,,
+fuente,licencia,CC BY 4.0,,

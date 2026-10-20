@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,49
+filtro,habitaciones,3+,,49
+filtro,area6,"de 250 m² o más",,49
+precio,p25,10000000.0,COP,49
+precio,mediana,16500000.0,COP,49
+precio,p75,19900000.0,COP,49
+precio,minimo,8500000.0,COP,49
+precio,maximo,29000000.0,COP,49
+m2,mediana_precio_m2,38740.92,COP,49
+m2,area_mediana_m2,380.0,m2,49
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+estrato,estrato_mas_frecuente,5,,47
+habitaciones,3+,16500000.0,COP,49
+ciudad,mediana_ciudad_referencia,11500000.0,COP,
+ciudad,mediana_m2_ciudad,40625.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-retiro,,
+fuente,licencia,CC BY 4.0,,

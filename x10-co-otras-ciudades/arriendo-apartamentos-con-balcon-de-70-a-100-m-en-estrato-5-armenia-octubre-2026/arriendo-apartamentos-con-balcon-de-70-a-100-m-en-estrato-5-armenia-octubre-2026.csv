@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,49
+filtro,estrato,5,,49
+filtro,balc,"con balcón",,49
+filtro,area3,"de 70 a 100 m²",,49
+precio,p25,2400000.0,COP,49
+precio,mediana,2556514.0,COP,49
+precio,p75,2970000.0,COP,49
+precio,minimo,2000000.0,COP,49
+precio,maximo,3890000.0,COP,49
+m2,mediana_precio_m2,34213.42,COP,49
+m2,area_mediana_m2,80.0,m2,49
+admin,mediana_admin_mes,450000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,5,,49
+habitaciones,2,2556514.0,COP,19
+habitaciones,3+,2500000.0,COP,29
+ciudad,mediana_ciudad_referencia,2500000.0,COP,
+ciudad,mediana_m2_ciudad,32222.22,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/armenia,,
+fuente,licencia,CC BY 4.0,,

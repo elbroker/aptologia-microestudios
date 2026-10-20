@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,97
+filtro,parq1,"con parqueadero",,97
+filtro,edad2,"de 6 a 20 años de construidos",,97
+precio,p25,750000000.0,COP,97
+precio,mediana,980000000.0,COP,97
+precio,p75,1250000000.0,COP,97
+precio,minimo,370000000.0,COP,97
+precio,maximo,2050000000.0,COP,97
+m2,mediana_precio_m2,6711850.65,COP,96
+m2,area_mediana_m2,142.0,m2,96
+admin,mediana_admin_mes,875000.0,COP,88
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,97
+estrato,estrato_mas_frecuente,6,,97
+habitaciones,1,600000000.0,COP,5
+habitaciones,2,700000000.0,COP,5
+habitaciones,3+,1030000000.0,COP,87
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

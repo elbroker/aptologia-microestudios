@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,area5,"de 150 a 250 m²",,42
+precio,p25,4400000.0,COP,42
+precio,mediana,6600000.0,COP,42
+precio,p75,8156500.0,COP,42
+precio,minimo,2500000.0,COP,42
+precio,maximo,17500000.0,COP,42
+m2,mediana_precio_m2,35000.0,COP,41
+m2,area_mediana_m2,169.5,m2,41
+admin,mediana_admin_mes,1080000.0,COP,15
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,6600000.0,COP,42
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/altos-de-riomar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,72
+filtro,habitaciones,3+,,72
+filtro,area3,"de 70 a 100 m²",,72
+filtro,ban2,"con 2 baños",,72
+precio,p25,2687500.0,COP,72
+precio,mediana,3000000.0,COP,72
+precio,p75,3400000.0,COP,72
+precio,minimo,1550000.0,COP,72
+precio,maximo,7000000.0,COP,72
+m2,mediana_precio_m2,37720.06,COP,72
+m2,area_mediana_m2,78.0,m2,72
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,64
+estrato,estrato_mas_frecuente,5,,72
+habitaciones,3+,3000000.0,COP,72
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

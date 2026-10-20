@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,75
+filtro,conj,"en conjunto cerrado",,75
+filtro,parq1,"con parqueadero",,75
+precio,p25,1800000.0,COP,75
+precio,mediana,2600000.0,COP,75
+precio,p75,2975000.0,COP,75
+precio,minimo,1550000.0,COP,75
+precio,maximo,6200000.0,COP,75
+m2,mediana_precio_m2,36764.71,COP,75
+m2,area_mediana_m2,68.0,m2,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,75
+estrato,estrato_mas_frecuente,5,,75
+habitaciones,1,2200000.0,COP,5
+habitaciones,2,2600000.0,COP,43
+habitaciones,3+,2900000.0,COP,27
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

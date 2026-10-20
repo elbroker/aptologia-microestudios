@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,34
+filtro,parq1,"con parqueadero",,34
+filtro,edad1,"de 0 a 5 años de construidos",,34
+precio,p25,1000000000.0,COP,34
+precio,mediana,1315000000.0,COP,34
+precio,p75,1537500000.0,COP,34
+precio,minimo,739000000.0,COP,34
+precio,maximo,2400000000.0,COP,34
+m2,mediana_precio_m2,5074562.82,COP,34
+m2,area_mediana_m2,239.5,m2,34
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,3+,1300000000.0,COP,33
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/el-contador,,
+fuente,licencia,CC BY 4.0,,

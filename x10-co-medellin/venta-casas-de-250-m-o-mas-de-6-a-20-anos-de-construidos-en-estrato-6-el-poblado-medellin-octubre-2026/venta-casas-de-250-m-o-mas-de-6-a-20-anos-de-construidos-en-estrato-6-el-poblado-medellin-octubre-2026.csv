@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,125
+filtro,estrato,6,,125
+filtro,area6,"de 250 m² o más",,125
+filtro,edad2,"de 6 a 20 años de construidos",,125
+precio,p25,1920000000.0,COP,125
+precio,mediana,2600000000.0,COP,125
+precio,p75,4250000000.0,COP,125
+precio,minimo,880000000.0,COP,125
+precio,maximo,8000000000.0,COP,125
+m2,mediana_precio_m2,6080000.0,COP,123
+m2,area_mediana_m2,425.0,m2,123
+admin,mediana_admin_mes,1119200.0,COP,104
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,125
+estrato,estrato_mas_frecuente,6,,125
+habitaciones,3+,2600000000.0,COP,123
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

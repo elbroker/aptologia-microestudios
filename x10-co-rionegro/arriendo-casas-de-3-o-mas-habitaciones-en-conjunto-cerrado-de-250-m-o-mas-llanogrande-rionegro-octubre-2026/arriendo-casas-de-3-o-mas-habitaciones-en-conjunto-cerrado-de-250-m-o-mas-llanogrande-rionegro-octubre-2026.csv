@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,59
+filtro,habitaciones,3+,,59
+filtro,conj,"en conjunto cerrado",,59
+filtro,area6,"de 250 m² o más",,59
+precio,p25,13300000.0,COP,59
+precio,mediana,16500000.0,COP,59
+precio,p75,22000000.0,COP,59
+precio,minimo,5800000.0,COP,59
+precio,maximo,27800000.0,COP,59
+m2,mediana_precio_m2,32000.0,COP,57
+m2,area_mediana_m2,500.0,m2,57
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.3,%,59
+estrato,estrato_mas_frecuente,5,,59
+habitaciones,3+,16500000.0,COP,59
+ciudad,mediana_ciudad_referencia,10500000.0,COP,
+ciudad,mediana_m2_ciudad,36784.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/rionegro/llanogrande,,
+fuente,licencia,CC BY 4.0,,

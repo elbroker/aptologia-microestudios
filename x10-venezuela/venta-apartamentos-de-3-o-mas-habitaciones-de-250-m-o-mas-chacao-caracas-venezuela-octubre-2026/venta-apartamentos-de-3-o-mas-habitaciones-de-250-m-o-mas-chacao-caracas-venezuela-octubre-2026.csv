@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,68
+filtro,habitaciones,3+,,68
+filtro,area6,"de 250 m² o más",,68
+precio,p25,550000.0,USD,68
+precio,mediana,869000.0,USD,68
+precio,p75,1250000.0,USD,68
+precio,minimo,180000.0,USD,68
+precio,maximo,1850000.0,USD,68
+m2,mediana_precio_m2,1995.21,USD,68
+m2,area_mediana_m2,364.0,m2,68
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.5,%,68
+habitaciones,3+,869000.0,USD,68
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/chacao,,
+fuente,licencia,CC BY 4.0,,

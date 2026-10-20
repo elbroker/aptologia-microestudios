@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,2,,38
+filtro,edad1,"de 0 a 5 años de construidos",,38
+precio,p25,300000000.0,COP,38
+precio,mediana,330000000.0,COP,38
+precio,p75,360000000.0,COP,38
+precio,minimo,240000000.0,COP,38
+precio,maximo,450000000.0,COP,38
+m2,mediana_precio_m2,6516683.52,COP,38
+m2,area_mediana_m2,53.0,m2,38
+admin,mediana_admin_mes,307800.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,36
+habitaciones,2,330000000.0,COP,38
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/torices,,
+fuente,licencia,CC BY 4.0,,

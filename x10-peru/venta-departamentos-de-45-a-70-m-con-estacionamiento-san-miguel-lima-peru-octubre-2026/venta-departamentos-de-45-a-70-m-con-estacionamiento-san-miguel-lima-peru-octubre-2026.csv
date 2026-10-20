@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,76
+filtro,area2,"de 45 a 70 m²",,76
+filtro,parq1,"con estacionamiento",,76
+precio,p25,338925.0,PEN,76
+precio,mediana,388500.0,PEN,76
+precio,p75,427750.0,PEN,76
+precio,minimo,256343.0,PEN,76
+precio,maximo,563342.0,PEN,76
+m2,mediana_precio_m2,6430.14,PEN,76
+m2,area_mediana_m2,59.0,m2,76
+admin,mediana_admin_mes,1.0,PEN,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+habitaciones,1,329000.0,PEN,11
+habitaciones,2,383400.5,PEN,42
+habitaciones,3+,393600.0,PEN,22
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-miguel,,
+fuente,licencia,CC BY 4.0,,

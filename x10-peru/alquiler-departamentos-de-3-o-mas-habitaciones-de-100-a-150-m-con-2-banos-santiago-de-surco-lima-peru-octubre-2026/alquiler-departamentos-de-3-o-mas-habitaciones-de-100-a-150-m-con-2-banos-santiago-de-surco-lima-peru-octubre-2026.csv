@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,56
+filtro,habitaciones,3+,,56
+filtro,area4,"de 100 a 150 m²",,56
+filtro,ban2,"con 2 baños",,56
+precio,p25,2876.75,PEN,56
+precio,mediana,3250.0,PEN,56
+precio,p75,3947.25,PEN,56
+precio,minimo,2000.0,PEN,56
+precio,maximo,5625.0,PEN,56
+m2,mediana_precio_m2,27.79,PEN,56
+m2,area_mediana_m2,115.0,m2,56
+admin,mediana_admin_mes,250.0,PEN,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,53
+habitaciones,3+,3250.0,PEN,56
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/santiago-de-surco,,
+fuente,licencia,CC BY 4.0,,

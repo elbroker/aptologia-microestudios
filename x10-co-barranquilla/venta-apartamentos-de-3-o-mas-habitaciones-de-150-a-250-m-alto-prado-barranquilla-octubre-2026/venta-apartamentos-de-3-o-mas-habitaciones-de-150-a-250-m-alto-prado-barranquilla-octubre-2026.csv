@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,179
+filtro,habitaciones,3+,,179
+filtro,area5,"de 150 a 250 m²",,179
+precio,p25,564500000.0,COP,179
+precio,mediana,650000000.0,COP,179
+precio,p75,800000000.0,COP,179
+precio,minimo,330000000.0,COP,179
+precio,maximo,1950000000.0,COP,179
+m2,mediana_precio_m2,3569436.7,COP,169
+m2,area_mediana_m2,183.0,m2,169
+admin,mediana_admin_mes,1083000.0,COP,150
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.9,%,179
+estrato,estrato_mas_frecuente,6,,179
+habitaciones,3+,650000000.0,COP,179
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/alto-prado,,
+fuente,licencia,CC BY 4.0,,

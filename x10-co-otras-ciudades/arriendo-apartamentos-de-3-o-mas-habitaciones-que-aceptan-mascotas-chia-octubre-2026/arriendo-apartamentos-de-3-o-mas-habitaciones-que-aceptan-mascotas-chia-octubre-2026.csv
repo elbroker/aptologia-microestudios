@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,masc,"que aceptan mascotas",,33
+precio,p25,1450000.0,COP,33
+precio,mediana,2825000.0,COP,33
+precio,p75,3400000.0,COP,33
+precio,minimo,1119728.0,COP,33
+precio,maximo,11000000.0,COP,33
+m2,mediana_precio_m2,30500.0,COP,33
+m2,area_mediana_m2,90.3,m2,33
+admin,mediana_admin_mes,351000.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,33
+habitaciones,3+,2825000.0,COP,33
+ciudad,mediana_ciudad_referencia,1767250.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/chia,,
+fuente,licencia,CC BY 4.0,,

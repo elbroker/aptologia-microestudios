@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,78
+filtro,habitaciones,2,,78
+filtro,estrato,4,,78
+precio,p25,250000000.0,COP,78
+precio,mediana,342500000.0,COP,78
+precio,p75,383750000.0,COP,78
+precio,minimo,160000000.0,COP,78
+precio,maximo,430000000.0,COP,78
+m2,mediana_precio_m2,5462523.72,COP,78
+m2,area_mediana_m2,62.0,m2,78
+admin,mediana_admin_mes,267234.0,COP,52
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,67
+estrato,estrato_mas_frecuente,4,,78
+habitaciones,2,342500000.0,COP,78
+ciudad,mediana_ciudad_referencia,260000000.0,COP,
+ciudad,mediana_m2_ciudad,4634146.34,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas,,
+fuente,licencia,CC BY 4.0,,

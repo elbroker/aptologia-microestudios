@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,90
+filtro,balc,"con balcón",,90
+filtro,area3,"de 70 a 100 m²",,90
+precio,p25,2800000.0,COP,90
+precio,mediana,3100000.0,COP,90
+precio,p75,3400000.0,COP,90
+precio,minimo,2000000.0,COP,90
+precio,maximo,5500000.0,COP,90
+m2,mediana_precio_m2,39405.81,COP,90
+m2,area_mediana_m2,77.0,m2,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,87
+estrato,estrato_mas_frecuente,4,,90
+habitaciones,2,3200000.0,COP,24
+habitaciones,3+,3000000.0,COP,65
+ciudad,mediana_ciudad_referencia,2725000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/itagui,,
+fuente,licencia,CC BY 4.0,,

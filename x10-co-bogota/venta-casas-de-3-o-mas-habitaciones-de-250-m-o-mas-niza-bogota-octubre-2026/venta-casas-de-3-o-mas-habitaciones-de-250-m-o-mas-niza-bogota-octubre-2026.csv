@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,177
+filtro,habitaciones,3+,,177
+filtro,area6,"de 250 m² o más",,177
+precio,p25,1300000000.0,COP,177
+precio,mediana,1500000000.0,COP,177
+precio,p75,1720000000.0,COP,177
+precio,minimo,850000000.0,COP,177
+precio,maximo,4200000000.0,COP,177
+m2,mediana_precio_m2,4285714.29,COP,177
+m2,area_mediana_m2,338.0,m2,177
+admin,mediana_admin_mes,350000.0,COP,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.7,%,175
+estrato,estrato_mas_frecuente,5,,175
+habitaciones,3+,1500000000.0,COP,177
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/niza,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,ban3,"con 3 o más baños",,42
+filtro,piso1,"en piso 1 a 3",,42
+precio,p25,420000000.0,COP,42
+precio,mediana,497500000.0,COP,42
+precio,p75,590000000.0,COP,42
+precio,minimo,300000000.0,COP,42
+precio,maximo,980000000.0,COP,42
+m2,mediana_precio_m2,4027027.03,COP,40
+m2,area_mediana_m2,121.0,m2,40
+admin,mediana_admin_mes,630000.0,COP,37
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,2,450000000.0,COP,5
+habitaciones,3+,515000000.0,COP,37
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-santos,,
+fuente,licencia,CC BY 4.0,,

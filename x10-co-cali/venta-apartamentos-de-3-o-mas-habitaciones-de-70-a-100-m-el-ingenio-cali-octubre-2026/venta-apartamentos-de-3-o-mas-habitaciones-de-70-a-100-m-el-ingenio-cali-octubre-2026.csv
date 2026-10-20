@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,60
+filtro,habitaciones,3+,,60
+filtro,area3,"de 70 a 100 m²",,60
+precio,p25,368750000.0,COP,60
+precio,mediana,430000000.0,COP,60
+precio,p75,471250000.0,COP,60
+precio,minimo,260000000.0,COP,60
+precio,maximo,600000000.0,COP,60
+m2,mediana_precio_m2,4721368.72,COP,60
+m2,area_mediana_m2,88.0,m2,60
+admin,mediana_admin_mes,520000.0,COP,47
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.3,%,58
+estrato,estrato_mas_frecuente,5,,60
+habitaciones,3+,430000000.0,COP,60
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/el-ingenio,,
+fuente,licencia,CC BY 4.0,,

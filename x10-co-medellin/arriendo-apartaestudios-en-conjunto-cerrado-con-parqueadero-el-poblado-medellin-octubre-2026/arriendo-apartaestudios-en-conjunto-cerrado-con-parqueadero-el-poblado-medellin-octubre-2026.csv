@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,125
+filtro,conj,"en conjunto cerrado",,125
+filtro,parq1,"con parqueadero",,125
+precio,p25,3700000.0,COP,125
+precio,mediana,4150000.0,COP,125
+precio,p75,5000000.0,COP,125
+precio,minimo,2350000.0,COP,125
+precio,maximo,7500000.0,COP,125
+m2,mediana_precio_m2,67272.73,COP,124
+m2,area_mediana_m2,64.0,m2,124
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,125
+estrato,estrato_mas_frecuente,6,,125
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,60000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

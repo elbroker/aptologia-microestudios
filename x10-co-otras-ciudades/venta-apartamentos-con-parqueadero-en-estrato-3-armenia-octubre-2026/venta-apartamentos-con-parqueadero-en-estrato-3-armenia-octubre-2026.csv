@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,224
+filtro,estrato,3,,224
+filtro,parq1,"con parqueadero",,224
+precio,p25,210000000.0,COP,224
+precio,mediana,250000000.0,COP,224
+precio,p75,295000000.0,COP,224
+precio,minimo,150000000.0,COP,224
+precio,maximo,1600000000.0,COP,224
+m2,mediana_precio_m2,4062500.0,COP,221
+m2,area_mediana_m2,61.0,m2,221
+admin,mediana_admin_mes,223000.0,COP,149
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,224
+estrato,estrato_mas_frecuente,3,,224
+habitaciones,2,225000000.0,COP,61
+habitaciones,3+,255000000.0,COP,160
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia,,
+fuente,licencia,CC BY 4.0,,

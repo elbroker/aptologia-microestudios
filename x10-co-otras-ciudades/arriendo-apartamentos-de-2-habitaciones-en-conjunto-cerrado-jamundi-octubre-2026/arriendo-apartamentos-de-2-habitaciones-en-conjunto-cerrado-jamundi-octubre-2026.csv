@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,62
+filtro,habitaciones,2,,62
+filtro,conj,"en conjunto cerrado",,62
+precio,p25,1100000.0,COP,62
+precio,mediana,1300000.0,COP,62
+precio,p75,1457500.0,COP,62
+precio,minimo,850000.0,COP,62
+precio,maximo,4500000.0,COP,62
+m2,mediana_precio_m2,21628.79,COP,56
+m2,area_mediana_m2,60.0,m2,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,4,,61
+habitaciones,2,1300000.0,COP,62
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20689.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/jamundi,,
+fuente,licencia,CC BY 4.0,,

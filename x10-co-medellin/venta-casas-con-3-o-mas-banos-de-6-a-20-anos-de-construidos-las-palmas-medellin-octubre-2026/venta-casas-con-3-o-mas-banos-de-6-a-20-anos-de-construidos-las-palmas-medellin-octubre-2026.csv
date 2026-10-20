@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,65
+filtro,ban3,"con 3 o más baños",,65
+filtro,edad2,"de 6 a 20 años de construidos",,65
+precio,p25,3800000000.0,COP,65
+precio,mediana,4999000000.0,COP,65
+precio,p75,5900000000.0,COP,65
+precio,minimo,1300000000.0,COP,65
+precio,maximo,7000000000.0,COP,65
+m2,mediana_precio_m2,8439068.92,COP,52
+m2,area_mediana_m2,500.0,m2,52
+admin,mediana_admin_mes,1211950.0,COP,46
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.5,%,65
+estrato,estrato_mas_frecuente,6,,65
+habitaciones,3+,4999000000.0,COP,65
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

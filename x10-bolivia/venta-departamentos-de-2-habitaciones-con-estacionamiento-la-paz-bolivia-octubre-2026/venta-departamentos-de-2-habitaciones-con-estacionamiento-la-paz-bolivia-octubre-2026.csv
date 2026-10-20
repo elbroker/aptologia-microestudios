@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,58
+filtro,habitaciones,2,,58
+filtro,parq1,"con estacionamiento",,58
+precio,p25,100110.0,USD,58
+precio,mediana,119000.0,USD,58
+precio,p75,128875.0,USD,58
+precio,minimo,55000.0,USD,58
+precio,maximo,540000.0,USD,58
+m2,mediana_precio_m2,1192.77,USD,55
+m2,area_mediana_m2,99.5,m2,55
+admin,mediana_admin_mes,45.0,USD,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+habitaciones,2,119000.0,USD,58
+ciudad,mediana_ciudad_referencia,130000.0,USD,
+ciudad,mediana_m2_ciudad,1098.78,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/la-paz,,
+fuente,licencia,CC BY 4.0,,

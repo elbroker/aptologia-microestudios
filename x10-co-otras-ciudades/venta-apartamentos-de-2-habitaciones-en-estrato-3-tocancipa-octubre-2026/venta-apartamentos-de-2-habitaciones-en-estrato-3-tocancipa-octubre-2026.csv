@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,34
+filtro,habitaciones,2,,34
+filtro,estrato,3,,34
+precio,p25,171250000.0,COP,34
+precio,mediana,190000000.0,COP,34
+precio,p75,232500000.0,COP,34
+precio,minimo,155000000.0,COP,34
+precio,maximo,280000000.0,COP,34
+m2,mediana_precio_m2,3695652.17,COP,33
+m2,area_mediana_m2,53.5,m2,33
+admin,mediana_admin_mes,159550.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,34
+habitaciones,2,190000000.0,COP,34
+ciudad,mediana_ciudad_referencia,215000000.0,COP,
+ciudad,mediana_m2_ciudad,3644067.8,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/tocancipa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,43
+filtro,habitaciones,2,,43
+filtro,parq1,"con parqueadero",,43
+precio,p25,330000000.0,COP,43
+precio,mediana,368000000.0,COP,43
+precio,p75,475000000.0,COP,43
+precio,minimo,240000000.0,COP,43
+precio,maximo,820000000.0,COP,43
+m2,mediana_precio_m2,6181818.18,COP,42
+m2,area_mediana_m2,62.5,m2,42
+admin,mediana_admin_mes,286000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,2,368000000.0,COP,43
+ciudad,mediana_ciudad_referencia,347000000.0,COP,
+ciudad,mediana_m2_ciudad,5649750.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/marinilla,,
+fuente,licencia,CC BY 4.0,,

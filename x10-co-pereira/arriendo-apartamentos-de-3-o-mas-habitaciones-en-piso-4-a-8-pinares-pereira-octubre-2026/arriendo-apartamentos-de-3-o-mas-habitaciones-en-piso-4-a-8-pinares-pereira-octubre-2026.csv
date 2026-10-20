@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,83
+filtro,habitaciones,3+,,83
+filtro,piso2,"en piso 4 a 8",,83
+precio,p25,3125000.0,COP,83
+precio,mediana,3680000.0,COP,83
+precio,p75,4636500.0,COP,83
+precio,minimo,1800000.0,COP,83
+precio,maximo,10000000.0,COP,83
+m2,mediana_precio_m2,29411.76,COP,83
+m2,area_mediana_m2,118.0,m2,83
+admin,mediana_admin_mes,589000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,83
+estrato,estrato_mas_frecuente,6,,82
+habitaciones,3+,3680000.0,COP,83
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

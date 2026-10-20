@@ -1,0 +1,24 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,118
+filtro,estrato,3,,118
+filtro,area2,"de 45 a 70 m²",,118
+filtro,parq1,"con parqueadero",,118
+precio,p25,238506000.0,COP,118
+precio,mediana,300000000.0,COP,118
+precio,p75,355000000.0,COP,118
+precio,minimo,160000000.0,COP,118
+precio,maximo,1260000000.0,COP,118
+m2,mediana_precio_m2,5087719.3,COP,117
+m2,area_mediana_m2,58.0,m2,117
+admin,mediana_admin_mes,250000.0,COP,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,118
+estrato,estrato_mas_frecuente,3,,118
+habitaciones,1,420000000.0,COP,7
+habitaciones,2,300000000.0,COP,75
+habitaciones,3+,250000000.0,COP,36
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena,,
+fuente,licencia,CC BY 4.0,,

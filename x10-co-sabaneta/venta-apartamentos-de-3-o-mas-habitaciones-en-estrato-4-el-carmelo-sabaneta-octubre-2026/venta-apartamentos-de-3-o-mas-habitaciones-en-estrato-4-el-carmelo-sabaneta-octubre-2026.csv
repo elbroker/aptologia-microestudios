@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,30
+filtro,habitaciones,3+,,30
+filtro,estrato,4,,30
+precio,p25,532500000.0,COP,30
+precio,mediana,682500000.0,COP,30
+precio,p75,745000000.0,COP,30
+precio,minimo,440000000.0,COP,30
+precio,maximo,850000000.0,COP,30
+m2,mediana_precio_m2,7478070.18,COP,30
+m2,area_mediana_m2,88.5,m2,30
+admin,mediana_admin_mes,432000.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,682500000.0,COP,30
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/el-carmelo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,5,,39
+filtro,ban2,"con 2 baños",,39
+precio,p25,340000000.0,COP,39
+precio,mediana,375000000.0,COP,39
+precio,p75,450000000.0,COP,39
+precio,minimo,230000000.0,COP,39
+precio,maximo,650000000.0,COP,39
+m2,mediana_precio_m2,5228070.18,COP,39
+m2,area_mediana_m2,80.0,m2,39
+admin,mediana_admin_mes,419000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,5,,39
+habitaciones,2,350000000.0,COP,11
+habitaciones,3+,387500000.0,COP,28
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/la-hacienda,,
+fuente,licencia,CC BY 4.0,,

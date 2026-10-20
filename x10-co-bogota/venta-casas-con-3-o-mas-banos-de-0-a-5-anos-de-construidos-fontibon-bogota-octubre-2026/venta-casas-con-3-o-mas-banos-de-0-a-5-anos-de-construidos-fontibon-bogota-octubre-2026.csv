@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,101
+filtro,ban3,"con 3 o más baños",,101
+filtro,edad1,"de 0 a 5 años de construidos",,101
+precio,p25,650000000.0,COP,101
+precio,mediana,950000000.0,COP,101
+precio,p75,1290000000.0,COP,101
+precio,minimo,275000000.0,COP,101
+precio,maximo,6500000000.0,COP,101
+m2,mediana_precio_m2,3676470.59,COP,97
+m2,area_mediana_m2,258.9,m2,97
+admin,mediana_admin_mes,150000.0,COP,15
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.4,%,77
+estrato,estrato_mas_frecuente,3,,92
+habitaciones,3+,942500000.0,COP,98
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/fontibon,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,6,,30
+filtro,edad2,"de 6 a 20 años de construidos",,30
+precio,p25,492500000.0,COP,30
+precio,mediana,887500000.0,COP,30
+precio,p75,1145000000.0,COP,30
+precio,minimo,370000000.0,COP,30
+precio,maximo,2500000000.0,COP,30
+m2,mediana_precio_m2,10000000.0,COP,30
+m2,area_mediana_m2,100.3,m2,30
+admin,mediana_admin_mes,831000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.3,%,30
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,1,440000000.0,COP,9
+habitaciones,2,900000000.0,COP,11
+habitaciones,3+,1290000000.0,COP,10
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,,
+fuente,licencia,CC BY 4.0,,

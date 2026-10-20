@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,126
+filtro,habitaciones,3+,,126
+filtro,area3,"de 70 a 100 m²",,126
+precio,p25,492375.0,PEN,126
+precio,mediana,641000.0,PEN,126
+precio,p75,705825.0,PEN,126
+precio,minimo,255000.0,PEN,126
+precio,maximo,1071000.0,PEN,126
+m2,mediana_precio_m2,7583.37,PEN,126
+m2,area_mediana_m2,83.0,m2,126
+admin,mediana_admin_mes,1.0,PEN,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+habitaciones,3+,641000.0,PEN,126
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/santiago-de-surco,,
+fuente,licencia,CC BY 4.0,,

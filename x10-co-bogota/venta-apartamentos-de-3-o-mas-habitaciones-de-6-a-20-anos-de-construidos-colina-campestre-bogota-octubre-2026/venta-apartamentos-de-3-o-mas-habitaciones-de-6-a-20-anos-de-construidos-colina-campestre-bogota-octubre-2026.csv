@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,221
+filtro,habitaciones,3+,,221
+filtro,edad2,"de 6 a 20 años de construidos",,221
+precio,p25,760000000.0,COP,221
+precio,mediana,930000000.0,COP,221
+precio,p75,1300000000.0,COP,221
+precio,minimo,330000000.0,COP,221
+precio,maximo,3100000000.0,COP,221
+m2,mediana_precio_m2,6976744.19,COP,221
+m2,area_mediana_m2,138.0,m2,221
+admin,mediana_admin_mes,740000.0,COP,201
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.6,%,221
+estrato,estrato_mas_frecuente,5,,220
+habitaciones,3+,930000000.0,COP,221
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

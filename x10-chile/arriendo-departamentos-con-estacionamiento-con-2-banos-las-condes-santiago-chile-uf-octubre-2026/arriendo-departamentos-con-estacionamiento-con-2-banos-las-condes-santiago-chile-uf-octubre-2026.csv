@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,parq1,"con estacionamiento",,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,29.75,UF,30
+precio,mediana,34.5,UF,30
+precio,p75,42.0,UF,30
+precio,minimo,20.6,UF,30
+precio,maximo,75.0,UF,30
+m2,mediana_precio_m2,0.38,UF,30
+m2,area_mediana_m2,97.0,m2,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+habitaciones,2,33.5,UF,20
+habitaciones,3+,40.0,UF,9
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

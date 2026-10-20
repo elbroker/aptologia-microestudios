@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,46
+filtro,habitaciones,3+,,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,785000000.0,COP,46
+precio,mediana,940000000.0,COP,46
+precio,p75,1637500000.0,COP,46
+precio,minimo,495000000.0,COP,46
+precio,maximo,2250000000.0,COP,46
+m2,mediana_precio_m2,6411007.03,COP,46
+m2,area_mediana_m2,143.5,m2,46
+admin,mediana_admin_mes,970000.0,COP,40
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.8,%,46
+estrato,estrato_mas_frecuente,5,,46
+habitaciones,3+,940000000.0,COP,46
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/lisboa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,109
+filtro,estrato,6,,109
+filtro,area4,"de 100 a 150 m²",,109
+filtro,edad1,"de 0 a 5 años de construidos",,109
+precio,p25,700000000.0,COP,109
+precio,mediana,1000000000.0,COP,109
+precio,p75,1400000000.0,COP,109
+precio,minimo,390000000.0,COP,109
+precio,maximo,3600000000.0,COP,109
+m2,mediana_precio_m2,7857142.86,COP,99
+m2,area_mediana_m2,120.0,m2,99
+admin,mediana_admin_mes,900000.0,COP,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,99
+estrato,estrato_mas_frecuente,6,,109
+habitaciones,2,1100000000.0,COP,41
+habitaciones,3+,850000000.0,COP,67
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,73
+filtro,habitaciones,3+,,73
+filtro,area3,"de 70 a 100 m²",,73
+precio,p25,530000.0,CLP,73
+precio,mediana,600000.0,CLP,73
+precio,p75,690000.0,CLP,73
+precio,minimo,380000.0,CLP,73
+precio,maximo,1400000.0,CLP,73
+m2,mediana_precio_m2,7750.0,CLP,73
+m2,area_mediana_m2,78.0,m2,73
+banos,mediana_banos,2.0,,
+habitaciones,3+,600000.0,CLP,73
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

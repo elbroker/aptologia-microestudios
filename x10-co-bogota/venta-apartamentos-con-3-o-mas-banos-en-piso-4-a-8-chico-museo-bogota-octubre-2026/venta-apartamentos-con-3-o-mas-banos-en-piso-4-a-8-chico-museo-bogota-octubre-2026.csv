@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,ban3,"con 3 o más baños",,36
+filtro,piso2,"en piso 4 a 8",,36
+precio,p25,1842500000.0,COP,36
+precio,mediana,2400000000.0,COP,36
+precio,p75,3412500000.0,COP,36
+precio,minimo,1250000000.0,COP,36
+precio,maximo,4200000000.0,COP,36
+m2,mediana_precio_m2,10853123.86,COP,36
+m2,area_mediana_m2,228.8,m2,36
+admin,mediana_admin_mes,1800000.0,COP,33
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,2400000000.0,COP,35
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-museo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,84
+filtro,estrato,3,,84
+filtro,area2,"de 45 a 70 m²",,84
+filtro,parq1,"con parqueadero",,84
+precio,p25,180000000.0,COP,84
+precio,mediana,217500000.0,COP,84
+precio,p75,241912435.0,COP,84
+precio,minimo,150000000.0,COP,84
+precio,maximo,366000000.0,COP,84
+m2,mediana_precio_m2,3736792.45,COP,84
+m2,area_mediana_m2,57.0,m2,84
+admin,mediana_admin_mes,219000.0,COP,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+estrato,estrato_mas_frecuente,3,,84
+habitaciones,2,217500000.0,COP,18
+habitaciones,3+,217500000.0,COP,66
+ciudad,mediana_ciudad_referencia,280000000.0,COP,
+ciudad,mediana_m2_ciudad,3551857.11,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cucuta,,
+fuente,licencia,CC BY 4.0,,

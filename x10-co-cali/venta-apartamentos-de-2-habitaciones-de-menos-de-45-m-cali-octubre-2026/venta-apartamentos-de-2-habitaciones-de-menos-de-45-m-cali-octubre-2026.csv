@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,area1,"de menos de 45 m²",,32
+precio,p25,174997500.0,COP,32
+precio,mediana,187000000.0,COP,32
+precio,p75,217750000.0,COP,32
+precio,minimo,153000000.0,COP,32
+precio,maximo,310000000.0,COP,32
+m2,mediana_precio_m2,4506097.56,COP,32
+m2,area_mediana_m2,43.0,m2,32
+admin,mediana_admin_mes,199450.0,COP,22
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,2,187000000.0,COP,32
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali,,
+fuente,licencia,CC BY 4.0,,

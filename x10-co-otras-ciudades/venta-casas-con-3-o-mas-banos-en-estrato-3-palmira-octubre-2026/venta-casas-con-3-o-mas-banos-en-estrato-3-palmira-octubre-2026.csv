@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,104
+filtro,estrato,3,,104
+filtro,ban3,"con 3 o más baños",,104
+precio,p25,340000000.0,COP,104
+precio,mediana,492450000.0,COP,104
+precio,p75,800000000.0,COP,104
+precio,minimo,225000000.0,COP,104
+precio,maximo,4800000000.0,COP,104
+m2,mediana_precio_m2,2350877.19,COP,94
+m2,area_mediana_m2,228.0,m2,94
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,95.0,%,100
+estrato,estrato_mas_frecuente,3,,104
+habitaciones,3+,500000000.0,COP,99
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,2453416.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/palmira,,
+fuente,licencia,CC BY 4.0,,

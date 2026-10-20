@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,area6,"de 250 m² o más",,42
+precio,p25,2012500000.0,COP,42
+precio,mediana,2700000000.0,COP,42
+precio,p75,3225000000.0,COP,42
+precio,minimo,450000000.0,COP,42
+precio,maximo,6900000000.0,COP,42
+m2,mediana_precio_m2,6205568.72,COP,42
+m2,area_mediana_m2,405.0,m2,42
+admin,mediana_admin_mes,2075500.0,COP,34
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,2700000000.0,COP,42
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/casa-blanca,,
+fuente,licencia,CC BY 4.0,,

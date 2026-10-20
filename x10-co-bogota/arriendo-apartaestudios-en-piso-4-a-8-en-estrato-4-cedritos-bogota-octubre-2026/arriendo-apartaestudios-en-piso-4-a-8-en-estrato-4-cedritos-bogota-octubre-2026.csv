@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,31
+filtro,estrato,4,,31
+filtro,piso2,"en piso 4 a 8",,31
+precio,p25,2025000.0,COP,31
+precio,mediana,2475000.0,COP,31
+precio,p75,2675000.0,COP,31
+precio,minimo,1553000.0,COP,31
+precio,maximo,3700000.0,COP,31
+m2,mediana_precio_m2,54545.45,COP,31
+m2,area_mediana_m2,42.0,m2,31
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,31
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

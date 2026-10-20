@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,31
+filtro,area3,"de 70 a 100 m²",,31
+filtro,piso2,"en piso 4 a 8",,31
+precio,p25,3200000.0,COP,31
+precio,mediana,3700000.0,COP,31
+precio,p75,4325000.0,COP,31
+precio,minimo,2500000.0,COP,31
+precio,maximo,6000000.0,COP,31
+m2,mediana_precio_m2,47191.01,COP,31
+m2,area_mediana_m2,80.0,m2,31
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,3+,3750000.0,COP,26
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/camino-verde,,
+fuente,licencia,CC BY 4.0,,

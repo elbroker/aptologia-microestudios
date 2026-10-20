@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,99
+filtro,habitaciones,3+,,99
+filtro,area5,"de 150 a 250 m²",,99
+precio,p25,700000000.0,COP,99
+precio,mediana,930000000.0,COP,99
+precio,p75,1325000000.0,COP,99
+precio,minimo,360000000.0,COP,99
+precio,maximo,2390000000.0,COP,99
+m2,mediana_precio_m2,5405405.41,COP,97
+m2,area_mediana_m2,178.0,m2,97
+admin,mediana_admin_mes,992000.0,COP,76
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.0,%,98
+estrato,estrato_mas_frecuente,6,,98
+habitaciones,3+,930000000.0,COP,99
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/riomar,,
+fuente,licencia,CC BY 4.0,,

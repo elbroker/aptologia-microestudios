@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,1,,34
+filtro,parq1,"con parqueadero",,34
+precio,p25,430000000.0,COP,34
+precio,mediana,504500000.0,COP,34
+precio,p75,660000000.0,COP,34
+precio,minimo,225000000.0,COP,34
+precio,maximo,835000000.0,COP,34
+m2,mediana_precio_m2,10769230.77,COP,33
+m2,area_mediana_m2,50.5,m2,33
+admin,mediana_admin_mes,612000.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,1,504500000.0,COP,34
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-candelaria,,
+fuente,licencia,CC BY 4.0,,

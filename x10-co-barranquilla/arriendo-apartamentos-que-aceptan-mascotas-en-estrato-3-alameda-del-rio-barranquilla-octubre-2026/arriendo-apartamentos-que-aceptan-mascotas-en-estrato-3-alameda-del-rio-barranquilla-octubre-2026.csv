@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,3,,32
+filtro,masc,"que aceptan mascotas",,32
+precio,p25,1109750.0,COP,32
+precio,mediana,1262900.0,COP,32
+precio,p75,1512500.0,COP,32
+precio,minimo,1000000.0,COP,32
+precio,maximo,2300000.0,COP,32
+m2,mediana_precio_m2,23136.68,COP,32
+m2,area_mediana_m2,56.0,m2,32
+admin,mediana_admin_mes,198000.0,COP,25
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,2,1272000.0,COP,20
+habitaciones,3+,1262900.0,COP,12
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/alameda-del-rio,,
+fuente,licencia,CC BY 4.0,,

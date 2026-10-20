@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,77
+filtro,habitaciones,3+,,77
+filtro,estrato,5,,77
+precio,p25,4100000.0,COP,77
+precio,mediana,4600000.0,COP,77
+precio,p75,5500000.0,COP,77
+precio,minimo,2750000.0,COP,77
+precio,maximo,10500000.0,COP,77
+m2,mediana_precio_m2,45555.56,COP,77
+m2,area_mediana_m2,100.0,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.1,%,76
+estrato,estrato_mas_frecuente,5,,77
+habitaciones,3+,4600000.0,COP,77
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/la-abadia,,
+fuente,licencia,CC BY 4.0,,

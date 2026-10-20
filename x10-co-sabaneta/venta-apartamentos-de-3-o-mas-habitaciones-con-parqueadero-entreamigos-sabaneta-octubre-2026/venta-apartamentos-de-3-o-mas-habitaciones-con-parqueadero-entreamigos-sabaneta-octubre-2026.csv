@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,72
+filtro,habitaciones,3+,,72
+filtro,parq1,"con parqueadero",,72
+precio,p25,507250000.0,COP,72
+precio,mediana,635000000.0,COP,72
+precio,p75,745000000.0,COP,72
+precio,minimo,280000000.0,COP,72
+precio,maximo,1810000000.0,COP,72
+m2,mediana_precio_m2,7142857.14,COP,70
+m2,area_mediana_m2,81.0,m2,70
+admin,mediana_admin_mes,392074.5,COP,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,3+,635000000.0,COP,72
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/entreamigos,,
+fuente,licencia,CC BY 4.0,,

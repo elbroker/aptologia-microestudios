@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,92
+filtro,estrato,3,,92
+filtro,area3,"de 70 a 100 m²",,92
+filtro,parq0,"sin parqueadero",,92
+precio,p25,1497500.0,COP,92
+precio,mediana,1825000.0,COP,92
+precio,p75,2325000.0,COP,92
+precio,minimo,950000.0,COP,92
+precio,maximo,4850000.0,COP,92
+m2,mediana_precio_m2,23383.12,COP,88
+m2,area_mediana_m2,77.0,m2,88
+admin,mediana_admin_mes,227000.0,COP,18
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,92
+estrato,estrato_mas_frecuente,3,,92
+habitaciones,2,1700000.0,COP,41
+habitaciones,3+,1835000.0,COP,48
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

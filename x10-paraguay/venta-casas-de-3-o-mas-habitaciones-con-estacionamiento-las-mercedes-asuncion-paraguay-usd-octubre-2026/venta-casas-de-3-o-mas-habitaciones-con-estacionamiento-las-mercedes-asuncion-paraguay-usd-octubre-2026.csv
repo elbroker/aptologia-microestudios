@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,56
+filtro,habitaciones,3+,,56
+filtro,parq1,"con estacionamiento",,56
+precio,p25,277500.0,USD,56
+precio,mediana,380000.0,USD,56
+precio,p75,541250.0,USD,56
+precio,minimo,145257.0,USD,56
+precio,maximo,1400000.0,USD,56
+m2,mediana_precio_m2,1019.42,USD,51
+m2,area_mediana_m2,475.0,m2,51
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+habitaciones,3+,380000.0,USD,56
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-mercedes,,
+fuente,licencia,CC BY 4.0,,

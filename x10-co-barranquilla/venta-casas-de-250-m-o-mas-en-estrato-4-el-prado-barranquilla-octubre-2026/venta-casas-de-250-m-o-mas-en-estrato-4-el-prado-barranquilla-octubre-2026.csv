@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,4,,39
+filtro,area6,"de 250 m² o más",,39
+precio,p25,993000000.0,COP,39
+precio,mediana,1396000000.0,COP,39
+precio,p75,2925000000.0,COP,39
+precio,minimo,580000000.0,COP,39
+precio,maximo,6000000000.0,COP,39
+m2,mediana_precio_m2,3230769.23,COP,39
+m2,area_mediana_m2,538.0,m2,39
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,93.8,%,32
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,3+,1275000000.0,COP,28
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

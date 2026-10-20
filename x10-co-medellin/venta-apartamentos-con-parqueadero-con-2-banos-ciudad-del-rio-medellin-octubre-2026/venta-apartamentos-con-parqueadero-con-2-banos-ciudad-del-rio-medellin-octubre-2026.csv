@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,178
+filtro,parq1,"con parqueadero",,178
+filtro,ban2,"con 2 baños",,178
+precio,p25,700000000.0,COP,178
+precio,mediana,799000000.0,COP,178
+precio,p75,920000000.0,COP,178
+precio,minimo,375000000.0,COP,178
+precio,maximo,1500000000.0,COP,178
+m2,mediana_precio_m2,10493827.16,COP,175
+m2,area_mediana_m2,77.5,m2,175
+admin,mediana_admin_mes,450000.0,COP,100
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,178
+estrato,estrato_mas_frecuente,5,,173
+habitaciones,1,655000000.0,COP,30
+habitaciones,2,800000000.0,COP,73
+habitaciones,3+,830000000.0,COP,75
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

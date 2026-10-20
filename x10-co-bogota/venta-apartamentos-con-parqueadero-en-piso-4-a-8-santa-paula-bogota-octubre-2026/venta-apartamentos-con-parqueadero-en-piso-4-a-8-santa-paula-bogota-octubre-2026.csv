@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,161
+filtro,parq1,"con parqueadero",,161
+filtro,piso2,"en piso 4 a 8",,161
+precio,p25,875000000.0,COP,161
+precio,mediana,1200000000.0,COP,161
+precio,p75,1850000000.0,COP,161
+precio,minimo,434000000.0,COP,161
+precio,maximo,3400000000.0,COP,161
+m2,mediana_precio_m2,8596700.68,COP,160
+m2,area_mediana_m2,159.0,m2,160
+admin,mediana_admin_mes,1300000.0,COP,149
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,161
+estrato,estrato_mas_frecuente,6,,161
+habitaciones,1,469000000.0,COP,7
+habitaciones,2,890000000.0,COP,37
+habitaciones,3+,1450000000.0,COP,116
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-paula,,
+fuente,licencia,CC BY 4.0,,

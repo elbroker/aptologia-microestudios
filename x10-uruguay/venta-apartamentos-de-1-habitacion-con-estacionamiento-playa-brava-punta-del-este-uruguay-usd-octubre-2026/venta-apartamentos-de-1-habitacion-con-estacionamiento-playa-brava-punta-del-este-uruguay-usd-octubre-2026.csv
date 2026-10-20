@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,87
+filtro,habitaciones,1,,87
+filtro,parq1,"con estacionamiento",,87
+precio,p25,195000.0,USD,87
+precio,mediana,230000.0,USD,87
+precio,p75,290000.0,USD,87
+precio,minimo,125000.0,USD,87
+precio,maximo,945000.0,USD,87
+m2,mediana_precio_m2,3773.63,USD,78
+m2,area_mediana_m2,70.0,m2,78
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+habitaciones,1,230000.0,USD,87
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/playa-brava,,
+fuente,licencia,CC BY 4.0,,

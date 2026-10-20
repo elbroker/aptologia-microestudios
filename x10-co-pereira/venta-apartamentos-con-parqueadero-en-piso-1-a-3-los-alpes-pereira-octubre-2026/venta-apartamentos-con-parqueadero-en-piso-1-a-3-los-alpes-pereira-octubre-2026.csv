@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,56
+filtro,parq1,"con parqueadero",,56
+filtro,piso1,"en piso 1 a 3",,56
+precio,p25,387500000.0,COP,56
+precio,mediana,488000000.0,COP,56
+precio,p75,550000000.0,COP,56
+precio,minimo,245000000.0,COP,56
+precio,maximo,980000000.0,COP,56
+m2,mediana_precio_m2,5352112.68,COP,55
+m2,area_mediana_m2,98.5,m2,55
+admin,mediana_admin_mes,483000.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,2,445000000.0,COP,24
+habitaciones,3+,520000000.0,COP,30
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alpes,,
+fuente,licencia,CC BY 4.0,,

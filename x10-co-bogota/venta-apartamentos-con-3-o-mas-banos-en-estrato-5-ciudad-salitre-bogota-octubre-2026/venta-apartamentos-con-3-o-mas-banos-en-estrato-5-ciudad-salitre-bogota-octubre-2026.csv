@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,38
+filtro,estrato,5,,38
+filtro,ban3,"con 3 o más baños",,38
+precio,p25,1537500000.0,COP,38
+precio,mediana,2087500000.0,COP,38
+precio,p75,2379250000.0,COP,38
+precio,minimo,949000000.0,COP,38
+precio,maximo,2550000000.0,COP,38
+m2,mediana_precio_m2,11138061.33,COP,38
+m2,area_mediana_m2,170.0,m2,38
+admin,mediana_admin_mes,964000.0,COP,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,5,,38
+habitaciones,3+,2087500000.0,COP,38
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/ciudad-salitre,,
+fuente,licencia,CC BY 4.0,,

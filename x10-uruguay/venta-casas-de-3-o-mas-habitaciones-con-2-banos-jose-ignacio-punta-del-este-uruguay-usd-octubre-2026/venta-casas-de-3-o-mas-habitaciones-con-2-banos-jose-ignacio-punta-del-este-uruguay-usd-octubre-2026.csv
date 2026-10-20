@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,72
+filtro,habitaciones,3+,,72
+filtro,ban2,"con 2 baños",,72
+precio,p25,350000.0,USD,72
+precio,mediana,507500.0,USD,72
+precio,p75,875000.0,USD,72
+precio,minimo,140000.0,USD,72
+precio,maximo,3000000.0,USD,72
+m2,mediana_precio_m2,3052.17,USD,54
+m2,area_mediana_m2,177.0,m2,54
+banos,mediana_banos,2.0,,
+habitaciones,3+,507500.0,USD,72
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/jose-ignacio,,
+fuente,licencia,CC BY 4.0,,

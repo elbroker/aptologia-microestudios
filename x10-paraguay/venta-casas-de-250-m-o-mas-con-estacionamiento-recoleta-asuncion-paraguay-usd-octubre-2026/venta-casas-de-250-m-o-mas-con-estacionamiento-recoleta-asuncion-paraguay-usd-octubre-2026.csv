@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,91
+filtro,area6,"de 250 m² o más",,91
+filtro,parq1,"con estacionamiento",,91
+precio,p25,335000.0,USD,91
+precio,mediana,450000.0,USD,91
+precio,p75,690000.0,USD,91
+precio,minimo,155000.0,USD,91
+precio,maximo,2000000.0,USD,91
+m2,mediana_precio_m2,1014.49,USD,91
+m2,area_mediana_m2,400.0,m2,91
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,91
+habitaciones,2,472000.0,USD,5
+habitaciones,3+,450000.0,USD,85
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/recoleta,,
+fuente,licencia,CC BY 4.0,,

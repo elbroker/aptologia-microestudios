@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,73
+filtro,habitaciones,3+,,73
+filtro,area5,"de 150 a 250 m²",,73
+filtro,parq0,"sin estacionamiento",,73
+precio,p25,890000.0,EUR,73
+precio,mediana,1100000.0,EUR,73
+precio,p75,1495000.0,EUR,73
+precio,minimo,450000.0,EUR,73
+precio,maximo,1990000.0,EUR,73
+m2,mediana_precio_m2,6174.16,EUR,73
+m2,area_mediana_m2,178.0,m2,73
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,0.0,%,73
+habitaciones,3+,1100000.0,EUR,73
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa,,
+fuente,licencia,CC BY 4.0,,

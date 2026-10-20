@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area4,"de 100 a 150 m²",,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,770000000.0,COP,32
+precio,mediana,880000000.0,COP,32
+precio,p75,982500000.0,COP,32
+precio,minimo,710000000.0,COP,32
+precio,maximo,1260000000.0,COP,32
+m2,mediana_precio_m2,8380686.27,COP,32
+m2,area_mediana_m2,102.0,m2,32
+admin,mediana_admin_mes,890000.0,COP,18
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+habitaciones,2,960000000.0,COP,7
+habitaciones,3+,860000000.0,COP,23
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

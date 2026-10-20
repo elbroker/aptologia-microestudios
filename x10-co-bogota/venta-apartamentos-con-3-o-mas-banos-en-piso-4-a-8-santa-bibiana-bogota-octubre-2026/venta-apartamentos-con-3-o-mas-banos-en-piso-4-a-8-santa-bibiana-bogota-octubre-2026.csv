@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,61
+filtro,ban3,"con 3 o más baños",,61
+filtro,piso2,"en piso 4 a 8",,61
+precio,p25,1100000000.0,COP,61
+precio,mediana,1650000000.0,COP,61
+precio,p75,2100000000.0,COP,61
+precio,minimo,650000000.0,COP,61
+precio,maximo,3400000000.0,COP,61
+m2,mediana_precio_m2,7713956.89,COP,60
+m2,area_mediana_m2,200.0,m2,60
+admin,mediana_admin_mes,1560000.0,COP,59
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,61
+estrato,estrato_mas_frecuente,6,,61
+habitaciones,3+,1750000000.0,COP,57
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-bibiana,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,66
+filtro,habitaciones,2,,66
+filtro,parq1,"con estacionamiento",,66
+precio,p25,21.25,UF,66
+precio,mediana,32.5,UF,66
+precio,p75,40.0,UF,66
+precio,minimo,7.6,UF,66
+precio,maximo,90.0,UF,66
+m2,mediana_precio_m2,0.37,UF,66
+m2,area_mediana_m2,86.0,m2,66
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+habitaciones,2,32.5,UF,66
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,68
+filtro,estrato,4,,68
+filtro,area2,"de 45 a 70 m²",,68
+precio,p25,185000000.0,COP,68
+precio,mediana,205000000.0,COP,68
+precio,p75,226250000.0,COP,68
+precio,minimo,150000000.0,COP,68
+precio,maximo,330000000.0,COP,68
+m2,mediana_precio_m2,3699056.6,COP,68
+m2,area_mediana_m2,56.0,m2,68
+admin,mediana_admin_mes,220000.0,COP,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+estrato,estrato_mas_frecuente,4,,68
+habitaciones,2,209000000.0,COP,56
+habitaciones,3+,187500000.0,COP,12
+ciudad,mediana_ciudad_referencia,210000000.0,COP,
+ciudad,mediana_m2_ciudad,3582207.21,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/jamundi/parque-natura,,
+fuente,licencia,CC BY 4.0,,

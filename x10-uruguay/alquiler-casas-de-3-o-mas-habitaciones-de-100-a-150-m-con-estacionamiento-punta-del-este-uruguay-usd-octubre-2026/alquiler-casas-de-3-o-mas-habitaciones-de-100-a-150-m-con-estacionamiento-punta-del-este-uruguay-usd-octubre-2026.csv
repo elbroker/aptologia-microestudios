@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,33
+filtro,habitaciones,3+,,33
+filtro,area4,"de 100 a 150 m²",,33
+filtro,parq1,"con estacionamiento",,33
+precio,p25,3100.0,USD,33
+precio,mediana,6600.0,USD,33
+precio,p75,10000.0,USD,33
+precio,minimo,750.0,USD,33
+precio,maximo,26500.0,USD,33
+m2,mediana_precio_m2,41.67,USD,31
+m2,area_mediana_m2,130.0,m2,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,3+,6600.0,USD,33
+ciudad,mediana_ciudad_referencia,7300.0,USD,
+ciudad,mediana_m2_ciudad,28.7,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

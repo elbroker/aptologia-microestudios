@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,64
+filtro,habitaciones,3+,,64
+filtro,area6,"de 250 m² o más",,64
+precio,p25,260000.0,USD,64
+precio,mediana,400000.0,USD,64
+precio,p75,506250.0,USD,64
+precio,minimo,135000.0,USD,64
+precio,maximo,2300000.0,USD,64
+m2,mediana_precio_m2,831.68,USD,63
+m2,area_mediana_m2,449.0,m2,63
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+habitaciones,3+,400000.0,USD,64
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/jara,,
+fuente,licencia,CC BY 4.0,,

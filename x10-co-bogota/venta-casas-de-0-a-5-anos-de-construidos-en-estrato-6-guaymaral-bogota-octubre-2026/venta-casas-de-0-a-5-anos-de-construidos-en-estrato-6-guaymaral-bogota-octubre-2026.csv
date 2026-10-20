@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,183
+filtro,estrato,6,,183
+filtro,edad1,"de 0 a 5 años de construidos",,183
+precio,p25,2300000000.0,COP,183
+precio,mediana,2700000000.0,COP,183
+precio,p75,3200000000.0,COP,183
+precio,minimo,1300000000.0,COP,183
+precio,maximo,6800000000.0,COP,183
+m2,mediana_precio_m2,6457643.49,COP,176
+m2,area_mediana_m2,420.0,m2,176
+admin,mediana_admin_mes,1765000.0,COP,152
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,182
+estrato,estrato_mas_frecuente,6,,183
+habitaciones,3+,2700000000.0,COP,182
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/guaymaral,,
+fuente,licencia,CC BY 4.0,,

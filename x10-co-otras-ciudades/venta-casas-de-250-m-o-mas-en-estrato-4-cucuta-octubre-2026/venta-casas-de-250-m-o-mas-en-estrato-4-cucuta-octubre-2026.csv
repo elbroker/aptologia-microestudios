@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,165
+filtro,estrato,4,,165
+filtro,area6,"de 250 m² o más",,165
+precio,p25,620000000.0,COP,165
+precio,mediana,800000000.0,COP,165
+precio,p75,1100000000.0,COP,165
+precio,minimo,380000000.0,COP,165
+precio,maximo,5000000000.0,COP,165
+m2,mediana_precio_m2,2392145.86,COP,164
+m2,area_mediana_m2,313.0,m2,164
+admin,mediana_admin_mes,250000.0,COP,19
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,92.2,%,154
+estrato,estrato_mas_frecuente,4,,165
+habitaciones,3+,800000000.0,COP,162
+ciudad,mediana_ciudad_referencia,500000000.0,COP,
+ciudad,mediana_m2_ciudad,2924953.1,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cucuta,,
+fuente,licencia,CC BY 4.0,,

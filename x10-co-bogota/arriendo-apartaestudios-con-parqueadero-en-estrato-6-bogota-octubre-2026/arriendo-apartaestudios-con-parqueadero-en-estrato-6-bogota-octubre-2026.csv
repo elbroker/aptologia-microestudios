@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,305
+filtro,estrato,6,,305
+filtro,parq1,"con parqueadero",,305
+precio,p25,2900000.0,COP,305
+precio,mediana,3500000.0,COP,305
+precio,p75,4500000.0,COP,305
+precio,minimo,1500000.0,COP,305
+precio,maximo,7150000.0,COP,305
+m2,mediana_precio_m2,77779.27,COP,293
+m2,area_mediana_m2,49.0,m2,293
+admin,mediana_admin_mes,510000.0,COP,146
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,305
+estrato,estrato_mas_frecuente,6,,305
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,125
+filtro,ban3,"con 3 o más baños",,125
+filtro,edad1,"de 0 a 5 años de construidos",,125
+precio,p25,1250000000.0,COP,125
+precio,mediana,1800000000.0,COP,125
+precio,p75,2500000000.0,COP,125
+precio,minimo,350000000.0,COP,125
+precio,maximo,6000000000.0,COP,125
+m2,mediana_precio_m2,5230263.16,COP,124
+m2,area_mediana_m2,322.0,m2,124
+admin,mediana_admin_mes,1067607.5,COP,92
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,121
+estrato,estrato_mas_frecuente,6,,123
+habitaciones,3+,1800000000.0,COP,125
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/villa-campestre,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,123
+filtro,habitaciones,1,,123
+filtro,area1,"de menos de 45 m²",,123
+precio,p25,83900.0,USD,123
+precio,mediana,109215.0,USD,123
+precio,p75,137020.0,USD,123
+precio,minimo,58120.0,USD,123
+precio,maximo,187000.0,USD,123
+m2,mediana_precio_m2,2716.41,USD,123
+m2,area_mediana_m2,40.0,m2,123
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,1,109215.0,USD,123
+ciudad,mediana_ciudad_referencia,258023.0,USD,
+ciudad,mediana_m2_ciudad,2305.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

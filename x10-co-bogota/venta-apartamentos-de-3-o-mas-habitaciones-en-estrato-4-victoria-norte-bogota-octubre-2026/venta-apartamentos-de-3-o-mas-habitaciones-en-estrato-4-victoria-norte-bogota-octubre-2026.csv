@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,32
+filtro,habitaciones,3+,,32
+filtro,estrato,4,,32
+precio,p25,409750000.0,COP,32
+precio,mediana,461750000.0,COP,32
+precio,p75,580000000.0,COP,32
+precio,minimo,325000000.0,COP,32
+precio,maximo,2200000000.0,COP,32
+m2,mediana_precio_m2,5934782.61,COP,32
+m2,area_mediana_m2,79.0,m2,32
+admin,mediana_admin_mes,507000.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.5,%,31
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,461750000.0,COP,32
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/victoria-norte,,
+fuente,licencia,CC BY 4.0,,

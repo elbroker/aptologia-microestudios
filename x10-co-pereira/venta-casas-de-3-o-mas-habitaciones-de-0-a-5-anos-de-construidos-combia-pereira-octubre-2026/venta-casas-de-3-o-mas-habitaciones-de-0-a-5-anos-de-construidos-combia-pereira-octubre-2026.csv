@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,139
+filtro,habitaciones,3+,,139
+filtro,edad1,"de 0 a 5 años de construidos",,139
+precio,p25,1350000000.0,COP,139
+precio,mediana,1600000000.0,COP,139
+precio,p75,2000000000.0,COP,139
+precio,minimo,340000000.0,COP,139
+precio,maximo,3900000000.0,COP,139
+m2,mediana_precio_m2,4500000.0,COP,105
+m2,area_mediana_m2,427.0,m2,105
+admin,mediana_admin_mes,480750.0,COP,64
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,99.2,%,133
+estrato,estrato_mas_frecuente,6,,128
+habitaciones,3+,1600000000.0,COP,139
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/combia,,
+fuente,licencia,CC BY 4.0,,

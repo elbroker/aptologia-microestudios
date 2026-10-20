@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,509
+filtro,habitaciones,2,,509
+filtro,parq1,"con parqueadero",,509
+precio,p25,325000000.0,COP,509
+precio,mediana,420000000.0,COP,509
+precio,p75,531880500.0,COP,509
+precio,minimo,160000000.0,COP,509
+precio,maximo,1500000000.0,COP,509
+m2,mediana_precio_m2,6440677.97,COP,509
+m2,area_mediana_m2,64.7,m2,509
+admin,mediana_admin_mes,298000.0,COP,349
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,509
+estrato,estrato_mas_frecuente,6,,508
+habitaciones,2,420000000.0,COP,509
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales,,
+fuente,licencia,CC BY 4.0,,

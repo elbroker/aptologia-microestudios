@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,142
+filtro,habitaciones,2,,142
+filtro,estrato,5,,142
+precio,p25,536250000.0,COP,142
+precio,mediana,600000000.0,COP,142
+precio,p75,690000000.0,COP,142
+precio,minimo,320000000.0,COP,142
+precio,maximo,1785000000.0,COP,142
+m2,mediana_precio_m2,7575235.11,COP,142
+m2,area_mediana_m2,78.1,m2,142
+admin,mediana_admin_mes,538000.0,COP,92
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,141
+estrato,estrato_mas_frecuente,5,,142
+habitaciones,2,600000000.0,COP,142
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/serena-del-mar,,
+fuente,licencia,CC BY 4.0,,

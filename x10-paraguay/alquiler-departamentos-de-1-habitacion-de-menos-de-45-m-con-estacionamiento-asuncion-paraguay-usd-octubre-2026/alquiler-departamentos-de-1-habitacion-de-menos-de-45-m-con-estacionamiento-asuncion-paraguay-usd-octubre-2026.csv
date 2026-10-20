@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,43
+filtro,habitaciones,1,,43
+filtro,area1,"de menos de 45 m²",,43
+filtro,parq1,"con estacionamiento",,43
+precio,p25,750.0,USD,43
+precio,mediana,890.0,USD,43
+precio,p75,950.0,USD,43
+precio,minimo,660.0,USD,43
+precio,maximo,1400.0,USD,43
+m2,mediana_precio_m2,21.94,USD,40
+m2,area_mediana_m2,42.0,m2,40
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+habitaciones,1,890.0,USD,43
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,14.12,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

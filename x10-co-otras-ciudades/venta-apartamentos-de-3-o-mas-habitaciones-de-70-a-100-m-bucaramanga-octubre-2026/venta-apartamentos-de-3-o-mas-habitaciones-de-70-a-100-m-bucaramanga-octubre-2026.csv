@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,808
+filtro,habitaciones,3+,,808
+filtro,area3,"de 70 a 100 m²",,808
+precio,p25,330000000.0,COP,808
+precio,mediana,385000000.0,COP,808
+precio,p75,490000000.0,COP,808
+precio,minimo,150000000.0,COP,808
+precio,maximo,870000000.0,COP,808
+m2,mediana_precio_m2,4745334.23,COP,804
+m2,area_mediana_m2,83.0,m2,804
+admin,mediana_admin_mes,403000.0,COP,687
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.7,%,739
+estrato,estrato_mas_frecuente,4,,805
+habitaciones,3+,385000000.0,COP,808
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga,,
+fuente,licencia,CC BY 4.0,,

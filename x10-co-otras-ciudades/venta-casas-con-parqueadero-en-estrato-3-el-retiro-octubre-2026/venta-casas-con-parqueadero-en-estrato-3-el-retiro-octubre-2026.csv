@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,32
+filtro,estrato,3,,32
+filtro,parq1,"con parqueadero",,32
+precio,p25,1221250000.0,COP,32
+precio,mediana,2224500000.0,COP,32
+precio,p75,3037500000.0,COP,32
+precio,minimo,600000000.0,COP,32
+precio,maximo,4500000000.0,COP,32
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,2,850000000.0,COP,5
+habitaciones,3+,2800000000.0,COP,27
+ciudad,mediana_ciudad_referencia,2500000000.0,COP,
+ciudad,mediana_m2_ciudad,7842105.26,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro,,
+fuente,licencia,CC BY 4.0,,

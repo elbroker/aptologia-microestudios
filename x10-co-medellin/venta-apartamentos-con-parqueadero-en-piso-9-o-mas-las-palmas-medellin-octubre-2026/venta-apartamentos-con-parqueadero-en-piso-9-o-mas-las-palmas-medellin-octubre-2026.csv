@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,100
+filtro,parq1,"con parqueadero",,100
+filtro,piso3,"en piso 9 o más",,100
+precio,p25,730000000.0,COP,100
+precio,mediana,930000000.0,COP,100
+precio,p75,1250000000.0,COP,100
+precio,minimo,520000000.0,COP,100
+precio,maximo,3550000000.0,COP,100
+m2,mediana_precio_m2,10436141.3,COP,100
+m2,area_mediana_m2,87.0,m2,100
+admin,mediana_admin_mes,530000.0,COP,69
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,100
+estrato,estrato_mas_frecuente,6,,100
+habitaciones,1,670000000.0,COP,5
+habitaciones,2,950000000.0,COP,41
+habitaciones,3+,909500000.0,COP,54
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,62
+filtro,habitaciones,1,,62
+filtro,area1,"de menos de 45 m²",,62
+precio,p25,3110.0,BRL,62
+precio,mediana,3655.0,BRL,62
+precio,p75,4800.0,BRL,62
+precio,minimo,1960.0,BRL,62
+precio,maximo,6200.0,BRL,62
+m2,mediana_precio_m2,120.95,BRL,62
+m2,area_mediana_m2,34.5,m2,62
+admin,mediana_admin_mes,821.0,BRL,61
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,86.1,%,36
+habitaciones,1,3655.0,BRL,62
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/moema,,
+fuente,licencia,CC BY 4.0,,

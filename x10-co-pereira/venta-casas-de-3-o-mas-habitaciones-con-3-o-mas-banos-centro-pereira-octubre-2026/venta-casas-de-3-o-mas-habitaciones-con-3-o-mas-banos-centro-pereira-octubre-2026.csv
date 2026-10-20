@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,72
+filtro,habitaciones,3+,,72
+filtro,ban3,"con 3 o más baños",,72
+precio,p25,500000000.0,COP,72
+precio,mediana,700000000.0,COP,72
+precio,p75,950000000.0,COP,72
+precio,minimo,315000000.0,COP,72
+precio,maximo,2900000000.0,COP,72
+m2,mediana_precio_m2,3240740.74,COP,69
+m2,area_mediana_m2,225.0,m2,69
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,35.7,%,70
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,3+,700000000.0,COP,72
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/centro,,
+fuente,licencia,CC BY 4.0,,

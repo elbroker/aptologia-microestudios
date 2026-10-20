@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,97
+filtro,estrato,4,,97
+filtro,parq1,"con parqueadero",,97
+precio,p25,269000000.0,COP,97
+precio,mediana,295000000.0,COP,97
+precio,p75,330000000.0,COP,97
+precio,minimo,225000000.0,COP,97
+precio,maximo,620000000.0,COP,97
+m2,mediana_precio_m2,4573643.41,COP,97
+m2,area_mediana_m2,65.0,m2,97
+admin,mediana_admin_mes,281220.0,COP,81
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,97
+estrato,estrato_mas_frecuente,4,,97
+habitaciones,2,290000000.0,COP,48
+habitaciones,3+,300000000.0,COP,49
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-melendez,,
+fuente,licencia,CC BY 4.0,,

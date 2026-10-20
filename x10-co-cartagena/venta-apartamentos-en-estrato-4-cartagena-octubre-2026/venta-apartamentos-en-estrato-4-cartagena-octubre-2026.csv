@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,828
+filtro,estrato,4,,828
+precio,p25,340000000.0,COP,828
+precio,mediana,420000000.0,COP,828
+precio,p75,650000000.0,COP,828
+precio,minimo,150000000.0,COP,828
+precio,maximo,4000000000.0,COP,828
+m2,mediana_precio_m2,5454545.45,COP,783
+m2,area_mediana_m2,84.6,m2,783
+admin,mediana_admin_mes,400000.0,COP,511
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.2,%,697
+estrato,estrato_mas_frecuente,4,,828
+habitaciones,1,440000000.0,COP,81
+habitaciones,2,430000000.0,COP,332
+habitaciones,3+,410000000.0,COP,411
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena,,
+fuente,licencia,CC BY 4.0,,

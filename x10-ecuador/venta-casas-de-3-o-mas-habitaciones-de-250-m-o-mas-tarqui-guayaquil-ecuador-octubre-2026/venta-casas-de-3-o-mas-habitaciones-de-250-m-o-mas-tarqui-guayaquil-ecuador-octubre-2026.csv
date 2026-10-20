@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,259
+filtro,habitaciones,3+,,259
+filtro,area6,"de 250 m² o más",,259
+precio,p25,175000.0,USD,259
+precio,mediana,260000.0,USD,259
+precio,p75,362500.0,USD,259
+precio,minimo,71000.0,USD,259
+precio,maximo,1500000.0,USD,259
+m2,mediana_precio_m2,615.38,USD,255
+m2,area_mediana_m2,400.0,m2,255
+banos,mediana_banos,5.0,,
+habitaciones,3+,260000.0,USD,259
+ciudad,mediana_ciudad_referencia,220000.0,USD,
+ciudad,mediana_m2_ciudad,945.97,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/guayaquil/tarqui,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,45
+filtro,parq0,"sin parqueadero",,45
+filtro,piso1,"en piso 1 a 3",,45
+precio,p25,180000000.0,COP,45
+precio,mediana,250000000.0,COP,45
+precio,p75,350000000.0,COP,45
+precio,minimo,160000000.0,COP,45
+precio,maximo,650000000.0,COP,45
+m2,mediana_precio_m2,4069767.44,COP,41
+m2,area_mediana_m2,55.0,m2,41
+admin,mediana_admin_mes,143500.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,0.0,%,45
+estrato,estrato_mas_frecuente,3,,45
+habitaciones,2,185000000.0,COP,11
+habitaciones,3+,280000000.0,COP,33
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

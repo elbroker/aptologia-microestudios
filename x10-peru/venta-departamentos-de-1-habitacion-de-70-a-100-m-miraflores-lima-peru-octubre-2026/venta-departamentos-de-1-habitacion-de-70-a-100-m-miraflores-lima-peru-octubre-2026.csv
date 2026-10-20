@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,56
+filtro,habitaciones,1,,56
+filtro,area3,"de 70 a 100 m²",,56
+precio,p25,705253.5,PEN,56
+precio,mediana,782050.0,PEN,56
+precio,p75,858867.5,PEN,56
+precio,minimo,473600.0,PEN,56
+precio,maximo,1273900.0,PEN,56
+m2,mediana_precio_m2,9455.5,PEN,56
+m2,area_mediana_m2,80.0,m2,56
+admin,mediana_admin_mes,250.0,PEN,19
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+habitaciones,1,782050.0,PEN,56
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/miraflores,,
+fuente,licencia,CC BY 4.0,,

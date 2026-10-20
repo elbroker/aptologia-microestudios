@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,89
+filtro,parq1,"con parqueadero",,89
+filtro,ban2,"con 2 baños",,89
+precio,p25,440000000.0,COP,89
+precio,mediana,550000000.0,COP,89
+precio,p75,660000000.0,COP,89
+precio,minimo,315000000.0,COP,89
+precio,maximo,897000000.0,COP,89
+m2,mediana_precio_m2,6057692.31,COP,87
+m2,area_mediana_m2,93.8,m2,87
+admin,mediana_admin_mes,545000.0,COP,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,89
+estrato,estrato_mas_frecuente,5,,89
+habitaciones,2,550000000.0,COP,21
+habitaciones,3+,550000000.0,COP,68
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/sotomayor,,
+fuente,licencia,CC BY 4.0,,

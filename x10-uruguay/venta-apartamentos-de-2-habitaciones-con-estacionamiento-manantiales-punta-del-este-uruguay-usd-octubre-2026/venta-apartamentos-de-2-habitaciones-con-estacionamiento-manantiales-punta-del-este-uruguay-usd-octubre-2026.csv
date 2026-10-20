@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,parq1,"con estacionamiento",,32
+precio,p25,565000.0,USD,32
+precio,mediana,675000.0,USD,32
+precio,p75,750000.0,USD,32
+precio,minimo,119000.0,USD,32
+precio,maximo,1100000.0,USD,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,2,675000.0,USD,32
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/manantiales,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,400
+filtro,habitaciones,2,,400
+filtro,masc,"que aceptan mascotas",,400
+precio,p25,3100000.0,COP,400
+precio,mediana,4300000.0,COP,400
+precio,p75,6000000.0,COP,400
+precio,minimo,1250000.0,COP,400
+precio,maximo,20000000.0,COP,400
+m2,mediana_precio_m2,54939.02,COP,394
+m2,area_mediana_m2,76.0,m2,394
+admin,mediana_admin_mes,640000.0,COP,46
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.0,%,373
+estrato,estrato_mas_frecuente,6,,397
+habitaciones,2,4300000.0,COP,400
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin,,
+fuente,licencia,CC BY 4.0,,

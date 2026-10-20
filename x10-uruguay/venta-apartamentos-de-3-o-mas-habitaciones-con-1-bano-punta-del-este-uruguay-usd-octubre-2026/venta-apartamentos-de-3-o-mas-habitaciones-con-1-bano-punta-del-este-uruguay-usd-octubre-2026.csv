@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,ban1,"con 1 baño",,31
+precio,p25,311629.0,USD,31
+precio,mediana,433700.0,USD,31
+precio,p75,970000.0,USD,31
+precio,minimo,149000.0,USD,31
+precio,maximo,1780000.0,USD,31
+banos,mediana_banos,1.0,,
+habitaciones,3+,433700.0,USD,31
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

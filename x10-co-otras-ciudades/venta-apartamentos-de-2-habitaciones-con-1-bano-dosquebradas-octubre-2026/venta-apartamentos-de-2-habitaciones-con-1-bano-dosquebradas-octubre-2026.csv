@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,51
+filtro,habitaciones,2,,51
+filtro,ban1,"con 1 baño",,51
+precio,p25,196000000.0,COP,51
+precio,mediana,220000000.0,COP,51
+precio,p75,247500000.0,COP,51
+precio,minimo,155000000.0,COP,51
+precio,maximo,360000000.0,COP,51
+m2,mediana_precio_m2,4423076.92,COP,51
+m2,area_mediana_m2,48.0,m2,51
+admin,mediana_admin_mes,203071.5,COP,26
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,3,,48
+habitaciones,2,220000000.0,COP,51
+ciudad,mediana_ciudad_referencia,260000000.0,COP,
+ciudad,mediana_m2_ciudad,4634146.34,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas,,
+fuente,licencia,CC BY 4.0,,

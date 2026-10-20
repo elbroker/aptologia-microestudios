@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,area5,"de 150 a 250 m²",,47
+filtro,parq1,"con estacionamiento",,47
+precio,p25,1750.0,USD,47
+precio,mediana,2200.0,USD,47
+precio,p75,2800.0,USD,47
+precio,minimo,900.0,USD,47
+precio,maximo,4000.0,USD,47
+m2,mediana_precio_m2,11.88,USD,47
+m2,area_mediana_m2,178.0,m2,47
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+habitaciones,2,1800.0,USD,11
+habitaciones,3+,2550.0,USD,34
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo/naco,,
+fuente,licencia,CC BY 4.0,,

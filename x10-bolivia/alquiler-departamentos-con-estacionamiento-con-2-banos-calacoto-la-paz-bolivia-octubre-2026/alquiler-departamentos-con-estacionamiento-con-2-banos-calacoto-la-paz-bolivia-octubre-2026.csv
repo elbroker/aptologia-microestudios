@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,37
+filtro,parq1,"con estacionamiento",,37
+filtro,ban2,"con 2 baños",,37
+precio,p25,550.0,USD,37
+precio,mediana,795.0,USD,37
+precio,p75,1056.0,USD,37
+precio,minimo,352.0,USD,37
+precio,maximo,1600.0,USD,37
+m2,mediana_precio_m2,7.79,USD,37
+m2,area_mediana_m2,90.0,m2,37
+admin,mediana_admin_mes,50.0,USD,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+habitaciones,1,1056.0,USD,13
+habitaciones,2,615.0,USD,14
+habitaciones,3+,900.0,USD,10
+ciudad,mediana_ciudad_referencia,600.0,USD,
+ciudad,mediana_m2_ciudad,5.62,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/alquiler/la-paz/calacoto,,
+fuente,licencia,CC BY 4.0,,

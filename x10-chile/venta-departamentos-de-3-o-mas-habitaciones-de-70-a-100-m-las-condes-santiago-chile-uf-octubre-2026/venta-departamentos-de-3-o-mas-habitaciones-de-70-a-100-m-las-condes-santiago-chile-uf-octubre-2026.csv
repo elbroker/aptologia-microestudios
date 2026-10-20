@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,187
+filtro,habitaciones,3+,,187
+filtro,area3,"de 70 a 100 m²",,187
+precio,p25,6550.0,UF,187
+precio,mediana,7590.0,UF,187
+precio,p75,8495.0,UF,187
+precio,minimo,4600.0,UF,187
+precio,maximo,15465.0,UF,187
+m2,mediana_precio_m2,85.74,UF,186
+m2,area_mediana_m2,89.0,m2,186
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,3+,7590.0,UF,187
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,91
+filtro,habitaciones,3+,,91
+filtro,ban1,"con 1 baño",,91
+precio,p25,165000000.0,COP,91
+precio,mediana,190000000.0,COP,91
+precio,p75,242500000.0,COP,91
+precio,minimo,150000000.0,COP,91
+precio,maximo,840000000.0,COP,91
+m2,mediana_precio_m2,3571428.57,COP,85
+m2,area_mediana_m2,56.0,m2,85
+admin,mediana_admin_mes,157777.5,COP,60
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,44.2,%,52
+estrato,estrato_mas_frecuente,3,,90
+habitaciones,3+,190000000.0,COP,91
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,58
+filtro,conj,"en conjunto cerrado",,58
+filtro,parq1,"con parqueadero",,58
+precio,p25,2200000.0,COP,58
+precio,mediana,2925000.0,COP,58
+precio,p75,3500000.0,COP,58
+precio,minimo,1500000.0,COP,58
+precio,maximo,5800000.0,COP,58
+m2,mediana_precio_m2,37917.13,COP,58
+m2,area_mediana_m2,66.0,m2,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,4,,58
+habitaciones,2,3000000.0,COP,19
+habitaciones,3+,2900000.0,COP,39
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

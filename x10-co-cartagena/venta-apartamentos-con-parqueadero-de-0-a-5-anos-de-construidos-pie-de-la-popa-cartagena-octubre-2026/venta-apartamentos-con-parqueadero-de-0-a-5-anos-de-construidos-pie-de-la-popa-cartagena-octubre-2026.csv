@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,54
+filtro,parq1,"con parqueadero",,54
+filtro,edad1,"de 0 a 5 años de construidos",,54
+precio,p25,342500000.0,COP,54
+precio,mediana,400000000.0,COP,54
+precio,p75,457500000.0,COP,54
+precio,minimo,245000000.0,COP,54
+precio,maximo,950000000.0,COP,54
+m2,mediana_precio_m2,4281585.47,COP,52
+m2,area_mediana_m2,95.0,m2,52
+admin,mediana_admin_mes,440000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,54
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,2,297228000.0,COP,17
+habitaciones,3+,450000000.0,COP,37
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/pie-de-la-popa,,
+fuente,licencia,CC BY 4.0,,

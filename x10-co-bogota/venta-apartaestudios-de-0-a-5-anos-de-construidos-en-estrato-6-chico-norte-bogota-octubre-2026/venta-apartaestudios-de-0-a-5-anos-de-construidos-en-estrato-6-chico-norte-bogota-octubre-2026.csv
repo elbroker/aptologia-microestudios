@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,79
+filtro,estrato,6,,79
+filtro,edad1,"de 0 a 5 años de construidos",,79
+precio,p25,387500000.0,COP,79
+precio,mediana,477659000.0,COP,79
+precio,p75,616000000.0,COP,79
+precio,minimo,250000000.0,COP,79
+precio,maximo,1200000000.0,COP,79
+m2,mediana_precio_m2,15139860.14,COP,74
+m2,area_mediana_m2,31.0,m2,74
+admin,mediana_admin_mes,390000.0,COP,56
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,63.5,%,63
+estrato,estrato_mas_frecuente,6,,79
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,10000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,68
+filtro,conj,"en conjunto cerrado",,68
+filtro,area3,"de 70 a 100 m²",,68
+precio,p25,4200000.0,COP,68
+precio,mediana,4650000.0,COP,68
+precio,p75,5300000.0,COP,68
+precio,minimo,2400000.0,COP,68
+precio,maximo,8300000.0,COP,68
+m2,mediana_precio_m2,57333.33,COP,67
+m2,area_mediana_m2,80.0,m2,67
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,6,,67
+habitaciones,2,4550000.0,COP,20
+habitaciones,3+,4650000.0,COP,48
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/via-las-palmas,,
+fuente,licencia,CC BY 4.0,,

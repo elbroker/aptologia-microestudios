@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,2,,33
+filtro,ban2,"con 2 baños",,33
+precio,p25,232000.0,USD,33
+precio,mediana,282700.0,USD,33
+precio,p75,366400.0,USD,33
+precio,minimo,140000.0,USD,33
+precio,maximo,635800.0,USD,33
+m2,mediana_precio_m2,3599.99,USD,33
+m2,area_mediana_m2,75.0,m2,33
+banos,mediana_banos,2.0,,
+habitaciones,2,282700.0,USD,33
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,parq1,"con parqueadero",,41
+filtro,edad1,"de 0 a 5 años de construidos",,41
+precio,p25,1238100000.0,COP,41
+precio,mediana,1800000000.0,COP,41
+precio,p75,2650000000.0,COP,41
+precio,minimo,830000000.0,COP,41
+precio,maximo,5400000000.0,COP,41
+m2,mediana_precio_m2,4731861.2,COP,41
+m2,area_mediana_m2,380.0,m2,41
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,3+,1725000000.0,COP,40
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/teusaquillo,,
+fuente,licencia,CC BY 4.0,,

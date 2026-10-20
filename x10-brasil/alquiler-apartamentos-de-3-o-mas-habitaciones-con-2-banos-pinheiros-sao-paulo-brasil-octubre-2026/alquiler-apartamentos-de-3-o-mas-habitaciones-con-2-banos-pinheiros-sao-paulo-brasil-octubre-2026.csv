@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,ban2,"con 2 baños",,34
+precio,p25,6085.0,BRL,34
+precio,mediana,8750.0,BRL,34
+precio,p75,12965.0,BRL,34
+precio,minimo,4650.0,BRL,34
+precio,maximo,22000.0,BRL,34
+m2,mediana_precio_m2,91.43,BRL,34
+m2,area_mediana_m2,110.0,m2,34
+admin,mediana_admin_mes,2195.0,BRL,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+habitaciones,3+,8750.0,BRL,34
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/pinheiros,,
+fuente,licencia,CC BY 4.0,,

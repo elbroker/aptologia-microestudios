@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,62
+filtro,habitaciones,2,,62
+filtro,area3,"de 70 a 100 m²",,62
+precio,p25,6625.0,BRL,62
+precio,mediana,8975.0,BRL,62
+precio,p75,11500.0,BRL,62
+precio,minimo,3300.0,BRL,62
+precio,maximo,16000.0,BRL,62
+m2,mediana_precio_m2,109.45,BRL,62
+m2,area_mediana_m2,80.0,m2,62
+admin,mediana_admin_mes,1472.0,BRL,61
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+habitaciones,2,8975.0,BRL,62
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/brooklin,,
+fuente,licencia,CC BY 4.0,,

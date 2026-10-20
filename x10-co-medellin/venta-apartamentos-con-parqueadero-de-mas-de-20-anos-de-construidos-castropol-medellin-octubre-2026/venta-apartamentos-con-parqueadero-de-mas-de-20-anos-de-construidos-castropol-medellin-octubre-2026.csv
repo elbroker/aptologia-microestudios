@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,44
+filtro,parq1,"con parqueadero",,44
+filtro,edad3,"de más de 20 años de construidos",,44
+precio,p25,852500000.0,COP,44
+precio,mediana,1145000000.0,COP,44
+precio,p75,1462250000.0,COP,44
+precio,minimo,620000000.0,COP,44
+precio,maximo,2200000000.0,COP,44
+m2,mediana_precio_m2,6919642.86,COP,43
+m2,area_mediana_m2,195.5,m2,43
+admin,mediana_admin_mes,1200000.0,COP,36
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,6,,44
+habitaciones,2,750000000.0,COP,5
+habitaciones,3+,1190000000.0,COP,39
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

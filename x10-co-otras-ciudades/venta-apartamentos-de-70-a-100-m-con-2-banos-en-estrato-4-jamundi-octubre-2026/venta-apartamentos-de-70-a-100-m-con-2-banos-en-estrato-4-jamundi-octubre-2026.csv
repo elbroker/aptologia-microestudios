@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,46
+filtro,estrato,4,,46
+filtro,area3,"de 70 a 100 m²",,46
+filtro,ban2,"con 2 baños",,46
+precio,p25,284500000.0,COP,46
+precio,mediana,322500000.0,COP,46
+precio,p75,350000006.75,COP,46
+precio,minimo,235000000.0,COP,46
+precio,maximo,450000000.0,COP,46
+m2,mediana_precio_m2,4183185.24,COP,46
+m2,area_mediana_m2,77.0,m2,46
+admin,mediana_admin_mes,270000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,4,,46
+habitaciones,2,320000000.0,COP,33
+habitaciones,3+,325000000.0,COP,13
+ciudad,mediana_ciudad_referencia,210000000.0,COP,
+ciudad,mediana_m2_ciudad,3582207.21,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/jamundi,,
+fuente,licencia,CC BY 4.0,,

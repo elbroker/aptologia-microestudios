@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,101
+filtro,habitaciones,2,,101
+filtro,parq1,"con parqueadero",,101
+precio,p25,450000000.0,COP,101
+precio,mediana,525000000.0,COP,101
+precio,p75,620000000.0,COP,101
+precio,minimo,225000000.0,COP,101
+precio,maximo,760000000.0,COP,101
+m2,mediana_precio_m2,7763157.89,COP,101
+m2,area_mediana_m2,70.0,m2,101
+admin,mediana_admin_mes,330000.0,COP,62
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,101
+estrato,estrato_mas_frecuente,4,,101
+habitaciones,2,525000000.0,COP,101
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/san-jose,,
+fuente,licencia,CC BY 4.0,,

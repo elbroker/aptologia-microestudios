@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,238
+filtro,habitaciones,3+,,238
+filtro,masc,"que aceptan mascotas",,238
+filtro,area3,"de 70 a 100 m²",,238
+precio,p25,3662500.0,COP,238
+precio,mediana,4200000.0,COP,238
+precio,p75,4700000.0,COP,238
+precio,minimo,2800000.0,COP,238
+precio,maximo,6900000.0,COP,238
+m2,mediana_precio_m2,48750.0,COP,238
+m2,area_mediana_m2,85.0,m2,238
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.1,%,230
+estrato,estrato_mas_frecuente,5,,233
+habitaciones,3+,4200000.0,COP,238
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado,,
+fuente,licencia,CC BY 4.0,,

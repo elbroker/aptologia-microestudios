@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,ban2,"con 2 baños",,35
+precio,p25,322500000.0,COP,35
+precio,mediana,375000000.0,COP,35
+precio,p75,420000000.0,COP,35
+precio,minimo,268000000.0,COP,35
+precio,maximo,630000000.0,COP,35
+m2,mediana_precio_m2,4290640.39,COP,34
+m2,area_mediana_m2,86.5,m2,34
+admin,mediana_admin_mes,461500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,375000000.0,COP,35
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/quintas-de-don-simon,,
+fuente,licencia,CC BY 4.0,,

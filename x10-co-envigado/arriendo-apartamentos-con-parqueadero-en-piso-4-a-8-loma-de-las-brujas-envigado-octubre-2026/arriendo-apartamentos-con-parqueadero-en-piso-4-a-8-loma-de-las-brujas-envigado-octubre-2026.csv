@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,parq1,"con parqueadero",,33
+filtro,piso2,"en piso 4 a 8",,33
+precio,p25,4000000.0,COP,33
+precio,mediana,4600000.0,COP,33
+precio,p75,5600000.0,COP,33
+precio,minimo,2551257.0,COP,33
+precio,maximo,12500000.0,COP,33
+m2,mediana_precio_m2,50000.0,COP,33
+m2,area_mediana_m2,92.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,2,4250000.0,COP,13
+habitaciones,3+,5400000.0,COP,18
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-de-las-brujas,,
+fuente,licencia,CC BY 4.0,,

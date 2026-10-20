@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,42
+filtro,habitaciones,3+,,42
+filtro,balc,"con balcón",,42
+filtro,area5,"de 150 a 250 m²",,42
+precio,p25,4450000.0,COP,42
+precio,mediana,5550000.0,COP,42
+precio,p75,6387500.0,COP,42
+precio,minimo,2500000.0,COP,42
+precio,maximo,12500000.0,COP,42
+m2,mediana_precio_m2,28905.5,COP,42
+m2,area_mediana_m2,189.0,m2,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,94.4,%,36
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,3+,5550000.0,COP,42
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,60
+filtro,habitaciones,3+,,60
+filtro,ban2,"con 2 baños",,60
+precio,p25,345000000.0,COP,60
+precio,mediana,449500000.0,COP,60
+precio,p75,520000000.0,COP,60
+precio,minimo,195000000.0,COP,60
+precio,maximo,900000000.0,COP,60
+m2,mediana_precio_m2,4558441.56,COP,60
+m2,area_mediana_m2,97.5,m2,60
+admin,mediana_admin_mes,370000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.3,%,60
+estrato,estrato_mas_frecuente,4,,60
+habitaciones,3+,449500000.0,COP,60
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-campestre,,
+fuente,licencia,CC BY 4.0,,

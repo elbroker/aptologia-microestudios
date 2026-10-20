@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,176
+filtro,estrato,5,,176
+filtro,edad1,"de 0 a 5 años de construidos",,176
+precio,p25,540000000.0,COP,176
+precio,mediana,732175000.0,COP,176
+precio,p75,980000000.0,COP,176
+precio,minimo,330000000.0,COP,176
+precio,maximo,3600000000.0,COP,176
+m2,mediana_precio_m2,6552425.67,COP,176
+m2,area_mediana_m2,118.0,m2,176
+admin,mediana_admin_mes,744000.0,COP,122
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,155
+estrato,estrato_mas_frecuente,5,,176
+habitaciones,2,630000000.0,COP,37
+habitaciones,3+,800000000.0,COP,136
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

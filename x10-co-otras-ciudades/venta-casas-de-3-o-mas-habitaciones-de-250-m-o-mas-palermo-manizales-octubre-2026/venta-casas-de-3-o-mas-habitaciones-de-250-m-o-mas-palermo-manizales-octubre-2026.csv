@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,57
+filtro,habitaciones,3+,,57
+filtro,area6,"de 250 m² o más",,57
+precio,p25,1300000000.0,COP,57
+precio,mediana,1800000000.0,COP,57
+precio,p75,2300000000.0,COP,57
+precio,minimo,740000000.0,COP,57
+precio,maximo,5000000000.0,COP,57
+m2,mediana_precio_m2,4264705.88,COP,57
+m2,area_mediana_m2,353.0,m2,57
+admin,mediana_admin_mes,1025000.0,COP,16
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.2,%,55
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,3+,1800000000.0,COP,57
+ciudad,mediana_ciudad_referencia,770000000.0,COP,
+ciudad,mediana_m2_ciudad,3846153.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/manizales/palermo,,
+fuente,licencia,CC BY 4.0,,

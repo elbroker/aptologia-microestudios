@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,50
+filtro,habitaciones,1,,50
+filtro,area2,"de 45 a 70 m²",,50
+precio,p25,18122.5,UYU,50
+precio,mediana,22000.0,UYU,50
+precio,p75,27500.0,UYU,50
+precio,minimo,14000.0,UYU,50
+precio,maximo,47000.0,UYU,50
+m2,mediana_precio_m2,426.11,UYU,50
+m2,area_mediana_m2,54.0,m2,50
+banos,mediana_banos,1.0,,
+habitaciones,1,22000.0,UYU,50
+ciudad,mediana_ciudad_referencia,38500.0,UYU,
+ciudad,mediana_m2_ciudad,400.0,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

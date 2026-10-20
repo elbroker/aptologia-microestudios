@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,6,,32
+filtro,area3,"de 70 a 100 m²",,32
+precio,p25,4770750.0,COP,32
+precio,mediana,5900000.0,COP,32
+precio,p75,7200000.0,COP,32
+precio,minimo,3700000.0,COP,32
+precio,maximo,12500000.0,COP,32
+m2,mediana_precio_m2,72289.16,COP,31
+m2,area_mediana_m2,83.0,m2,31
+admin,mediana_admin_mes,899000.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,32
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,1,5400000.0,COP,14
+habitaciones,2,6500000.0,COP,17
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/los-rosales,,
+fuente,licencia,CC BY 4.0,,

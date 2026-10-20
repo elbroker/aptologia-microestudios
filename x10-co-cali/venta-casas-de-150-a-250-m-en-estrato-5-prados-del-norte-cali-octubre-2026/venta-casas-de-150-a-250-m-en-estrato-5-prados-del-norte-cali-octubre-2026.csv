@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,33
+filtro,estrato,5,,33
+filtro,area5,"de 150 a 250 m²",,33
+precio,p25,620000000.0,COP,33
+precio,mediana,695000000.0,COP,33
+precio,p75,790000000.0,COP,33
+precio,minimo,550000000.0,COP,33
+precio,maximo,1066000000.0,COP,33
+m2,mediana_precio_m2,3263157.89,COP,33
+m2,area_mediana_m2,220.0,m2,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,3+,695000000.0,COP,33
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/prados-del-norte,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,50
+filtro,habitaciones,3+,,50
+filtro,area2,"de 45 a 70 m²",,50
+filtro,ban2,"con 2 baños",,50
+precio,p25,114250.0,USD,50
+precio,mediana,132500.0,USD,50
+precio,p75,170000.0,USD,50
+precio,minimo,43000.0,USD,50
+precio,maximo,312000.0,USD,50
+m2,mediana_precio_m2,1985.29,USD,49
+m2,area_mediana_m2,66.0,m2,49
+banos,mediana_banos,2.0,,
+habitaciones,3+,132500.0,USD,50
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,91
+filtro,habitaciones,2,,91
+filtro,area4,"de 100 a 150 m²",,91
+filtro,parq1,"con estacionamiento",,91
+precio,p25,294100.0,USD,91
+precio,mediana,355000.0,USD,91
+precio,p75,422500.0,USD,91
+precio,minimo,159755.0,USD,91
+precio,maximo,970000.0,USD,91
+m2,mediana_precio_m2,3143.74,USD,90
+m2,area_mediana_m2,113.0,m2,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,91
+habitaciones,2,355000.0,USD,91
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo,,
+fuente,licencia,CC BY 4.0,,

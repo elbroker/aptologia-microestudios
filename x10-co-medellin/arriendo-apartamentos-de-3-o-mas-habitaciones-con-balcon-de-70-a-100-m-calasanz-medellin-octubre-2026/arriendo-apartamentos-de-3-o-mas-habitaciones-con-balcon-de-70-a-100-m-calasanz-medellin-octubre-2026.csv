@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,69
+filtro,habitaciones,3+,,69
+filtro,balc,"con balcón",,69
+filtro,area3,"de 70 a 100 m²",,69
+precio,p25,2800000.0,COP,69
+precio,mediana,3300000.0,COP,69
+precio,p75,3500000.0,COP,69
+precio,minimo,1800000.0,COP,69
+precio,maximo,11111111.0,COP,69
+m2,mediana_precio_m2,39928.57,COP,68
+m2,area_mediana_m2,80.0,m2,68
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.8,%,66
+estrato,estrato_mas_frecuente,4,,69
+habitaciones,3+,3300000.0,COP,69
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

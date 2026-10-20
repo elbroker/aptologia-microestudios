@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,824
+filtro,habitaciones,2,,824
+filtro,area3,"de 70 a 100 m²",,824
+precio,p25,21500.0,MXN,824
+precio,mediana,27500.0,MXN,824
+precio,p75,35006.75,MXN,824
+precio,minimo,8000.0,MXN,824
+precio,maximo,78595.0,MXN,824
+m2,mediana_precio_m2,327.78,MXN,815
+m2,area_mediana_m2,83.0,m2,815
+banos,mediana_banos,2.0,,
+habitaciones,2,27500.0,MXN,824
+ciudad,mediana_ciudad_referencia,32000.0,MXN,
+ciudad,mediana_m2_ciudad,333.33,MXN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/,,
+fuente,licencia,CC BY 4.0,,

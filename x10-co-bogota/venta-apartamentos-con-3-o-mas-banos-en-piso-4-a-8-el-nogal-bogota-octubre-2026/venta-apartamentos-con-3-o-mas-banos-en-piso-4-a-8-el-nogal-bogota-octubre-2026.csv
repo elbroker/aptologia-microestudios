@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,50
+filtro,ban3,"con 3 o más baños",,50
+filtro,piso2,"en piso 4 a 8",,50
+precio,p25,1802500000.0,COP,50
+precio,mediana,2200000000.0,COP,50
+precio,p75,2590000000.0,COP,50
+precio,minimo,828000000.0,COP,50
+precio,maximo,3980000000.0,COP,50
+m2,mediana_precio_m2,8897245.47,COP,50
+m2,area_mediana_m2,262.5,m2,50
+admin,mediana_admin_mes,2032000.0,COP,45
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.0,%,50
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,3+,2250000000.0,COP,48
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-nogal,,
+fuente,licencia,CC BY 4.0,,

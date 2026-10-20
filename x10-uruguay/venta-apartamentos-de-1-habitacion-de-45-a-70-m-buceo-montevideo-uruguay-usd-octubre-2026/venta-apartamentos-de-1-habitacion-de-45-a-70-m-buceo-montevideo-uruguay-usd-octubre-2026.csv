@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,63
+filtro,habitaciones,1,,63
+filtro,area2,"de 45 a 70 m²",,63
+precio,p25,151900.0,USD,63
+precio,mediana,165934.0,USD,63
+precio,p75,179396.5,USD,63
+precio,minimo,120000.0,USD,63
+precio,maximo,339000.0,USD,63
+m2,mediana_precio_m2,2906.25,USD,63
+m2,area_mediana_m2,55.0,m2,63
+banos,mediana_banos,1.0,,
+habitaciones,1,165934.0,USD,63
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/buceo,,
+fuente,licencia,CC BY 4.0,,

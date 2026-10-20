@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,234
+filtro,habitaciones,3+,,234
+filtro,area2,"de 45 a 70 m²",,234
+precio,p25,2300000.0,COP,234
+precio,mediana,2600000.0,COP,234
+precio,p75,3000000.0,COP,234
+precio,minimo,1300000.0,COP,234
+precio,maximo,11111111.0,COP,234
+m2,mediana_precio_m2,40322.58,COP,233
+m2,area_mediana_m2,64.5,m2,233
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,82.3,%,192
+estrato,estrato_mas_frecuente,3,,230
+habitaciones,3+,2600000.0,COP,234
+ciudad,mediana_ciudad_referencia,2725000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/itagui,,
+fuente,licencia,CC BY 4.0,,

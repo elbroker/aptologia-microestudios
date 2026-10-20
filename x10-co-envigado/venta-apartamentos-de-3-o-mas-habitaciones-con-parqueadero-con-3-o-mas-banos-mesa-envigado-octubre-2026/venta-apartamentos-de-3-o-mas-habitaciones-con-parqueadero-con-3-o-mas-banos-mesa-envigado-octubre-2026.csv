@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,50
+filtro,habitaciones,3+,,50
+filtro,parq1,"con parqueadero",,50
+filtro,ban3,"con 3 o más baños",,50
+precio,p25,830000000.0,COP,50
+precio,mediana,954750000.0,COP,50
+precio,p75,1387500000.0,COP,50
+precio,minimo,500000000.0,COP,50
+precio,maximo,2880000000.0,COP,50
+m2,mediana_precio_m2,7575187.97,COP,50
+m2,area_mediana_m2,133.5,m2,50
+admin,mediana_admin_mes,536550.0,COP,36
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,3+,954750000.0,COP,50
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,210
+filtro,habitaciones,3+,,210
+filtro,parq1,"con parqueadero",,210
+precio,p25,1300000000.0,COP,210
+precio,mediana,2000000000.0,COP,210
+precio,p75,2900000000.0,COP,210
+precio,minimo,280000000.0,COP,210
+precio,maximo,6100000000.0,COP,210
+m2,mediana_precio_m2,5732142.86,COP,162
+m2,area_mediana_m2,350.0,m2,162
+admin,mediana_admin_mes,500000.0,COP,47
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,210
+estrato,estrato_mas_frecuente,3,,186
+habitaciones,3+,2000000000.0,COP,210
+ciudad,mediana_ciudad_referencia,1850000000.0,COP,
+ciudad,mediana_m2_ciudad,5400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-carmen-de-viboral,,
+fuente,licencia,CC BY 4.0,,

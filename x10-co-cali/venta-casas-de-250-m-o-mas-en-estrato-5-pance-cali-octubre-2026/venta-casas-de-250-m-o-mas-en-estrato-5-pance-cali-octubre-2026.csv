@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,area6,"de 250 m² o más",,32
+precio,p25,1573750000.0,COP,32
+precio,mediana,2050000045.0,COP,32
+precio,p75,2787500000.0,COP,32
+precio,minimo,880000000.0,COP,32
+precio,maximo,7560000000.0,COP,32
+m2,mediana_precio_m2,4251098.9,COP,32
+m2,area_mediana_m2,475.0,m2,32
+admin,mediana_admin_mes,1050000.0,COP,21
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,2050000045.0,COP,32
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

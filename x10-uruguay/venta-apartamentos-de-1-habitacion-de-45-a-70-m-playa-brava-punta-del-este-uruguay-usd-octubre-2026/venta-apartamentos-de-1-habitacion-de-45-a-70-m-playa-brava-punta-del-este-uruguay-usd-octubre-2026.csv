@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,68
+filtro,habitaciones,1,,68
+filtro,area2,"de 45 a 70 m²",,68
+precio,p25,195000.0,USD,68
+precio,mediana,220000.0,USD,68
+precio,p75,242000.0,USD,68
+precio,minimo,140000.0,USD,68
+precio,maximo,850000.0,USD,68
+m2,mediana_precio_m2,3826.09,USD,67
+m2,area_mediana_m2,57.0,m2,67
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+habitaciones,1,220000.0,USD,68
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/playa-brava,,
+fuente,licencia,CC BY 4.0,,

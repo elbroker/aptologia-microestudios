@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,2,,38
+filtro,ban1,"con 1 baño",,38
+precio,p25,2000.0,USD,38
+precio,mediana,4475.0,USD,38
+precio,p75,8025.0,USD,38
+precio,minimo,750.0,USD,38
+precio,maximo,19600.0,USD,38
+banos,mediana_banos,1.0,,
+habitaciones,2,4475.0,USD,38
+ciudad,mediana_ciudad_referencia,7300.0,USD,
+ciudad,mediana_m2_ciudad,28.7,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

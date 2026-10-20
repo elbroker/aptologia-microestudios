@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,71
+filtro,parq1,"con parqueadero",,71
+filtro,ban2,"con 2 baños",,71
+precio,p25,435000000.0,COP,71
+precio,mediana,520000000.0,COP,71
+precio,p75,650000000.0,COP,71
+precio,minimo,250000000.0,COP,71
+precio,maximo,1900000000.0,COP,71
+m2,mediana_precio_m2,6329113.92,COP,71
+m2,area_mediana_m2,82.0,m2,71
+admin,mediana_admin_mes,525000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+estrato,estrato_mas_frecuente,6,,69
+habitaciones,2,497500000.0,COP,26
+habitaciones,3+,554000000.0,COP,43
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alamos,,
+fuente,licencia,CC BY 4.0,,

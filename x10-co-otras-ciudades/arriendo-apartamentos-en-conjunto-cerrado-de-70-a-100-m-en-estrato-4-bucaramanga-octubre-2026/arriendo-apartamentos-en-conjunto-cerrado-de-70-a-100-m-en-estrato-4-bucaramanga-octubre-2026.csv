@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,39
+filtro,estrato,4,,39
+filtro,conj,"en conjunto cerrado",,39
+filtro,area3,"de 70 a 100 m²",,39
+precio,p25,2250000.0,COP,39
+precio,mediana,2880000.0,COP,39
+precio,p75,3225000.0,COP,39
+precio,minimo,1700000.0,COP,39
+precio,maximo,4500000.0,COP,39
+m2,mediana_precio_m2,34090.91,COP,39
+m2,area_mediana_m2,80.0,m2,39
+admin,mediana_admin_mes,407500.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,2,2900000.0,COP,10
+habitaciones,3+,2800000.0,COP,29
+ciudad,mediana_ciudad_referencia,2350000.0,COP,
+ciudad,mediana_m2_ciudad,29588.48,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bucaramanga,,
+fuente,licencia,CC BY 4.0,,

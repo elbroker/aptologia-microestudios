@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,257
+filtro,parq1,"con parqueadero",,257
+filtro,ban3,"con 3 o más baños",,257
+precio,p25,940000000.0,COP,257
+precio,mediana,1190000000.0,COP,257
+precio,p75,1500000000.0,COP,257
+precio,minimo,535000000.0,COP,257
+precio,maximo,3470000000.0,COP,257
+m2,mediana_precio_m2,6955082.06,COP,256
+m2,area_mediana_m2,166.0,m2,256
+admin,mediana_admin_mes,1266000.0,COP,250
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,257
+estrato,estrato_mas_frecuente,5,,257
+habitaciones,2,860000000.0,COP,38
+habitaciones,3+,1250000000.0,COP,219
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara-occidental,,
+fuente,licencia,CC BY 4.0,,

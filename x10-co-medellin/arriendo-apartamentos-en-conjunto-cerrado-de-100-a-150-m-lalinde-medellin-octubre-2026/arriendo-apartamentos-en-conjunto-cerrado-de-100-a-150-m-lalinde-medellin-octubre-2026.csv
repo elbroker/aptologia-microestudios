@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,conj,"en conjunto cerrado",,40
+filtro,area4,"de 100 a 150 m²",,40
+precio,p25,6500000.0,COP,40
+precio,mediana,7675000.0,COP,40
+precio,p75,8700000.0,COP,40
+precio,minimo,5000000.0,COP,40
+precio,maximo,15100000.0,COP,40
+m2,mediana_precio_m2,65000.0,COP,40
+m2,area_mediana_m2,115.0,m2,40
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,2,8000000.0,COP,21
+habitaciones,3+,7525000.0,COP,18
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

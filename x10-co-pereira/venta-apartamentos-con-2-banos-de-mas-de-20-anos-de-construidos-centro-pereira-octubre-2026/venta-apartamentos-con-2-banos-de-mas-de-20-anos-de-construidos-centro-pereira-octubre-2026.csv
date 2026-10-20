@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,ban2,"con 2 baños",,60
+filtro,edad3,"de más de 20 años de construidos",,60
+precio,p25,297500000.0,COP,60
+precio,mediana,370000000.0,COP,60
+precio,p75,476250000.0,COP,60
+precio,minimo,170000000.0,COP,60
+precio,maximo,1200000000.0,COP,60
+m2,mediana_precio_m2,3719147.47,COP,56
+m2,area_mediana_m2,101.5,m2,56
+admin,mediana_admin_mes,396000.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,71.7,%,60
+estrato,estrato_mas_frecuente,5,,60
+habitaciones,2,330000000.0,COP,10
+habitaciones,3+,390000000.0,COP,49
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/centro,,
+fuente,licencia,CC BY 4.0,,

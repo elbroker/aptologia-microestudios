@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,ban3,"con 3 o más baños",,32
+precio,p25,3987500.0,COP,32
+precio,mediana,5250000.0,COP,32
+precio,p75,7175000.0,COP,32
+precio,minimo,2000000.0,COP,32
+precio,maximo,13000000.0,COP,32
+m2,mediana_precio_m2,41553.29,COP,32
+m2,area_mediana_m2,131.0,m2,32
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,5250000.0,COP,32
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,37323.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-ceja,,
+fuente,licencia,CC BY 4.0,,

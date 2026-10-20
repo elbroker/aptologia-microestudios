@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,112
+filtro,habitaciones,3+,,112
+filtro,balc,"con balcón",,112
+filtro,ban2,"con 2 baños",,112
+precio,p25,1200000.0,COP,112
+precio,mediana,1500000.0,COP,112
+precio,p75,1900000.0,COP,112
+precio,minimo,850000.0,COP,112
+precio,maximo,3800000.0,COP,112
+m2,mediana_precio_m2,22794.12,COP,105
+m2,area_mediana_m2,67.0,m2,105
+admin,mediana_admin_mes,307600.0,COP,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,96
+estrato,estrato_mas_frecuente,3,,112
+habitaciones,3+,1500000.0,COP,112
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,22007.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cucuta,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,2,,38
+filtro,area2,"de 45 a 70 m²",,38
+precio,p25,67750.0,USD,38
+precio,mediana,87500.0,USD,38
+precio,p75,115000.0,USD,38
+precio,minimo,49000.0,USD,38
+precio,maximo,310000.0,USD,38
+m2,mediana_precio_m2,1423.24,USD,38
+m2,area_mediana_m2,62.5,m2,38
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,62.2,%,37
+habitaciones,2,87500.0,USD,38
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas,,
+fuente,licencia,CC BY 4.0,,

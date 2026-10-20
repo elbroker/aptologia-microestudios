@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,balc,"con balcón",,60
+filtro,area4,"de 100 a 150 m²",,60
+precio,p25,6500000.0,COP,60
+precio,mediana,7000000.0,COP,60
+precio,p75,8050000.0,COP,60
+precio,minimo,4200000.0,COP,60
+precio,maximo,12000000.0,COP,60
+m2,mediana_precio_m2,62992.13,COP,59
+m2,area_mediana_m2,116.5,m2,59
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,2,7500000.0,COP,22
+habitaciones,3+,7000000.0,COP,37
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/altos-del-poblado,,
+fuente,licencia,CC BY 4.0,,

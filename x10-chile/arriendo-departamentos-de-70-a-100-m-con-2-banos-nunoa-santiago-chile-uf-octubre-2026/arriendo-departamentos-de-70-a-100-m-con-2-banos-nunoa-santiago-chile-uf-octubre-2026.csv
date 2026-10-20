@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,area3,"de 70 a 100 m²",,48
+filtro,ban2,"con 2 baños",,48
+precio,p25,19.86,UF,48
+precio,mediana,22.43,UF,48
+precio,p75,28.2,UF,48
+precio,minimo,15.79,UF,48
+precio,maximo,48.58,UF,48
+m2,mediana_precio_m2,0.29,UF,48
+m2,area_mediana_m2,80.0,m2,48
+banos,mediana_banos,2.0,,
+habitaciones,2,21.62,UF,21
+habitaciones,3+,23.0,UF,27
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/nunoa,,
+fuente,licencia,CC BY 4.0,,

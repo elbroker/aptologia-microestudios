@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,44
+filtro,habitaciones,3+,,44
+filtro,balc,"con balcón",,44
+filtro,area4,"de 100 a 150 m²",,44
+precio,p25,4100000.0,COP,44
+precio,mediana,5050000.0,COP,44
+precio,p75,5775000.0,COP,44
+precio,minimo,2300000.0,COP,44
+precio,maximo,14400000.0,COP,44
+m2,mediana_precio_m2,43218.39,COP,44
+m2,area_mediana_m2,115.0,m2,44
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,82.9,%,41
+estrato,estrato_mas_frecuente,5,,44
+habitaciones,3+,5050000.0,COP,44
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

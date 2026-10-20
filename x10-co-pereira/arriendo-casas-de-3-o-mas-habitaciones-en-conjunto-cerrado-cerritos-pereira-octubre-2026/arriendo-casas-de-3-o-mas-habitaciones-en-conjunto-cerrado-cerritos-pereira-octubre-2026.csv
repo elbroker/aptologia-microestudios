@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,112
+filtro,habitaciones,3+,,112
+filtro,conj,"en conjunto cerrado",,112
+precio,p25,5850000.0,COP,112
+precio,mediana,7900000.0,COP,112
+precio,p75,11650000.0,COP,112
+precio,minimo,2100000.0,COP,112
+precio,maximo,23000000.0,COP,112
+m2,mediana_precio_m2,25000.0,COP,99
+m2,area_mediana_m2,380.0,m2,99
+admin,mediana_admin_mes,606304.0,COP,53
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,108
+estrato,estrato_mas_frecuente,6,,109
+habitaciones,3+,7900000.0,COP,112
+ciudad,mediana_ciudad_referencia,6460000.0,COP,
+ciudad,mediana_m2_ciudad,22058.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

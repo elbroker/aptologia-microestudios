@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,67
+filtro,habitaciones,3+,,67
+filtro,edad1,"de 0 a 5 años de construidos",,67
+precio,p25,610000000.0,COP,67
+precio,mediana,670000000.0,COP,67
+precio,p75,737500000.0,COP,67
+precio,minimo,437000000.0,COP,67
+precio,maximo,1200000000.0,COP,67
+m2,mediana_precio_m2,8297619.05,COP,67
+m2,area_mediana_m2,83.0,m2,67
+admin,mediana_admin_mes,501089.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.5,%,67
+estrato,estrato_mas_frecuente,4,,67
+habitaciones,3+,670000000.0,COP,67
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-chingui,,
+fuente,licencia,CC BY 4.0,,

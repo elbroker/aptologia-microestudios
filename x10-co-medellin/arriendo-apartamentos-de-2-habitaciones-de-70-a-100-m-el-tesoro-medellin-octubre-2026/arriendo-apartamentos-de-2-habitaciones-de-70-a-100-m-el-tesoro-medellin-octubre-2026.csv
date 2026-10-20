@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,2,,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,5000000.0,COP,30
+precio,mediana,5750000.0,COP,30
+precio,p75,6575000.0,COP,30
+precio,minimo,3550000.0,COP,30
+precio,maximo,7500000.0,COP,30
+m2,mediana_precio_m2,67816.09,COP,30
+m2,area_mediana_m2,87.0,m2,30
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,93.3,%,30
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,2,5750000.0,COP,30
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,62
+filtro,habitaciones,3+,,62
+filtro,balc,"con balcón",,62
+filtro,area3,"de 70 a 100 m²",,62
+precio,p25,2522500.0,COP,62
+precio,mediana,3050000.0,COP,62
+precio,p75,3500000.0,COP,62
+precio,minimo,1750000.0,COP,62
+precio,maximo,4500000.0,COP,62
+m2,mediana_precio_m2,36660.21,COP,62
+m2,area_mediana_m2,82.0,m2,62
+admin,mediana_admin_mes,430564.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,4,,62
+habitaciones,3+,3050000.0,COP,62
+ciudad,mediana_ciudad_referencia,2100000.0,COP,
+ciudad,mediana_m2_ciudad,33928.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cajica,,
+fuente,licencia,CC BY 4.0,,

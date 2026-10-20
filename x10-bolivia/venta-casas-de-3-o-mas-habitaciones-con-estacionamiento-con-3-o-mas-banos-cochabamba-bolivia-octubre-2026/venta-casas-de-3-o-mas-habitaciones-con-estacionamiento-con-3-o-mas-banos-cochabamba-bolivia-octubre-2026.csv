@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,173
+filtro,habitaciones,3+,,173
+filtro,parq1,"con estacionamiento",,173
+filtro,ban3,"con 3 o más baños",,173
+precio,p25,159500.0,USD,173
+precio,mediana,205000.0,USD,173
+precio,p75,310000.0,USD,173
+precio,minimo,44500.0,USD,173
+precio,maximo,1000000.0,USD,173
+m2,mediana_precio_m2,748.04,USD,160
+m2,area_mediana_m2,273.0,m2,160
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,173
+habitaciones,3+,205000.0,USD,173
+ciudad,mediana_ciudad_referencia,205500.0,USD,
+ciudad,mediana_m2_ciudad,775.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/cochabamba,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area5,"de 150 a 250 m²",,35
+precio,p25,163850.0,USD,35
+precio,mediana,185000.0,USD,35
+precio,p75,224674.5,USD,35
+precio,minimo,130000.0,USD,35
+precio,maximo,580000.0,USD,35
+m2,mediana_precio_m2,1023.81,USD,35
+m2,area_mediana_m2,179.0,m2,35
+banos,mediana_banos,3.0,,
+habitaciones,3+,185000.0,USD,35
+ciudad,mediana_ciudad_referencia,145000.0,USD,
+ciudad,mediana_m2_ciudad,1000.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/inaquito,,
+fuente,licencia,CC BY 4.0,,

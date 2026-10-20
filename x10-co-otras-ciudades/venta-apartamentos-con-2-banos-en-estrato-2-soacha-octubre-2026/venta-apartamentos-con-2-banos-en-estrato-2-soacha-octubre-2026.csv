@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,40
+filtro,estrato,2,,40
+filtro,ban2,"con 2 baños",,40
+precio,p25,159500000.0,COP,40
+precio,mediana,175000000.0,COP,40
+precio,p75,190750000.0,COP,40
+precio,minimo,150000000.0,COP,40
+precio,maximo,340000000.0,COP,40
+m2,mediana_precio_m2,3420877.66,COP,40
+m2,area_mediana_m2,54.0,m2,40
+admin,mediana_admin_mes,107352.0,COP,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,2,,40
+habitaciones,3+,175000000.0,COP,38
+ciudad,mediana_ciudad_referencia,170000000.0,COP,
+ciudad,mediana_m2_ciudad,3393617.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/soacha,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,50
+filtro,habitaciones,1,,50
+filtro,parq1,"con estacionamiento",,50
+precio,p25,162750.0,USD,50
+precio,mediana,205500.0,USD,50
+precio,p75,287883.0,USD,50
+precio,minimo,110590.0,USD,50
+precio,maximo,800000.0,USD,50
+m2,mediana_precio_m2,3239.13,USD,49
+m2,area_mediana_m2,55.0,m2,49
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+habitaciones,1,205500.0,USD,50
+ciudad,mediana_ciudad_referencia,258023.0,USD,
+ciudad,mediana_m2_ciudad,2305.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

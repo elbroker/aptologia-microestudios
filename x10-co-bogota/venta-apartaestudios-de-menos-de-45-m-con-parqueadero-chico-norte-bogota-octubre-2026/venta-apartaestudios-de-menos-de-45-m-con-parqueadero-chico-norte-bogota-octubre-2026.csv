@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,area1,"de menos de 45 m²",,36
+filtro,parq1,"con parqueadero",,36
+precio,p25,428750000.0,COP,36
+precio,mediana,465598000.0,COP,36
+precio,p75,532750000.0,COP,36
+precio,minimo,350000000.0,COP,36
+precio,maximo,720000000.0,COP,36
+m2,mediana_precio_m2,14938645.16,COP,36
+m2,area_mediana_m2,31.5,m2,36
+admin,mediana_admin_mes,367000.0,COP,28
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,10000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

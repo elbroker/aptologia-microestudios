@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,139
+filtro,habitaciones,3+,,139
+filtro,area6,"de 250 m² o más",,139
+precio,p25,1500000000.0,COP,139
+precio,mediana,1800000000.0,COP,139
+precio,p75,2200000000.0,COP,139
+precio,minimo,900000000.0,COP,139
+precio,maximo,3850000000.0,COP,139
+m2,mediana_precio_m2,4729729.73,COP,135
+m2,area_mediana_m2,400.0,m2,135
+admin,mediana_admin_mes,541000.0,COP,99
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,136
+estrato,estrato_mas_frecuente,6,,134
+habitaciones,3+,1800000000.0,COP,139
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/pueblito-cafetero,,
+fuente,licencia,CC BY 4.0,,

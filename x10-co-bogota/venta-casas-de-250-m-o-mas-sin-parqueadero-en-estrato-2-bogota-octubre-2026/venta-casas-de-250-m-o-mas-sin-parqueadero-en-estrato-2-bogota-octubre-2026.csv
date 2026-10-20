@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,120
+filtro,estrato,2,,120
+filtro,area6,"de 250 m² o más",,120
+filtro,parq0,"sin parqueadero",,120
+precio,p25,514999999.75,COP,120
+precio,mediana,685000000.0,COP,120
+precio,p75,998125000.0,COP,120
+precio,minimo,200000000.0,COP,120
+precio,maximo,4300000000.0,COP,120
+m2,mediana_precio_m2,2046225.94,COP,116
+m2,area_mediana_m2,320.0,m2,116
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,0.0,%,120
+estrato,estrato_mas_frecuente,2,,120
+habitaciones,3+,690000000.0,COP,119
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,area3,"de 70 a 100 m²",,48
+filtro,edad2,"de 6 a 20 años de construidos",,48
+precio,p25,337500000.0,COP,48
+precio,mediana,380000000.0,COP,48
+precio,p75,420000000.0,COP,48
+precio,minimo,220000000.0,COP,48
+precio,maximo,580000000.0,COP,48
+m2,mediana_precio_m2,4662878.79,COP,48
+m2,area_mediana_m2,83.0,m2,48
+admin,mediana_admin_mes,430000.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.9,%,48
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,2,420000000.0,COP,5
+habitaciones,3+,380000000.0,COP,43
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/valle-del-lili,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,132
+filtro,habitaciones,3+,,132
+filtro,ban3,"con 3 o más baños",,132
+filtro,edad1,"de 0 a 5 años de construidos",,132
+precio,p25,1373750000.0,COP,132
+precio,mediana,1900000000.0,COP,132
+precio,p75,2900000000.0,COP,132
+precio,minimo,620000000.0,COP,132
+precio,maximo,4200000000.0,COP,132
+m2,mediana_precio_m2,9500000.0,COP,118
+m2,area_mediana_m2,190.0,m2,118
+admin,mediana_admin_mes,1612500.0,COP,98
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,127
+estrato,estrato_mas_frecuente,6,,129
+habitaciones,3+,1900000000.0,COP,132
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/castillogrande,,
+fuente,licencia,CC BY 4.0,,

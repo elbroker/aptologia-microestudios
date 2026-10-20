@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,area1,"de menos de 45 m²",,30
+precio,p25,299250000.0,COP,30
+precio,mediana,362500000.0,COP,30
+precio,p75,394500000.25,COP,30
+precio,minimo,255000000.0,COP,30
+precio,maximo,580000000.0,COP,30
+m2,mediana_precio_m2,9788709.68,COP,30
+m2,area_mediana_m2,37.2,m2,30
+admin,mediana_admin_mes,470000.0,COP,27
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,1,355000000.0,COP,28
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chapinero-alto,,
+fuente,licencia,CC BY 4.0,,

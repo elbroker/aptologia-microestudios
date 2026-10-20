@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,6,,36
+filtro,amob,"amoblados",,36
+precio,p25,6000000.0,COP,36
+precio,mediana,7509312.5,COP,36
+precio,p75,9725000.0,COP,36
+precio,minimo,3000000.0,COP,36
+precio,maximo,16950000.0,COP,36
+m2,mediana_precio_m2,78961.69,COP,34
+m2,area_mediana_m2,99.0,m2,34
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,1,4800000.0,COP,5
+habitaciones,2,7509312.5,COP,22
+habitaciones,3+,12500000.0,COP,9
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

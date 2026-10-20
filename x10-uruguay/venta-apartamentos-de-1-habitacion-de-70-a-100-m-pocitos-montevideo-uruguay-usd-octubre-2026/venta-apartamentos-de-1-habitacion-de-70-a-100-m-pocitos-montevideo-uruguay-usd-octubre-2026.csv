@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,1,,32
+filtro,area3,"de 70 a 100 m²",,32
+precio,p25,188750.0,USD,32
+precio,mediana,254800.0,USD,32
+precio,p75,290500.0,USD,32
+precio,minimo,174500.0,USD,32
+precio,maximo,368000.0,USD,32
+m2,mediana_precio_m2,3233.47,USD,32
+m2,area_mediana_m2,78.0,m2,32
+banos,mediana_banos,1.0,,
+habitaciones,1,254800.0,USD,32
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/pocitos,,
+fuente,licencia,CC BY 4.0,,

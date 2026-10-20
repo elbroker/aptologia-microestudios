@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,parq1,"con parqueadero",,41
+filtro,piso2,"en piso 4 a 8",,41
+precio,p25,2650000.0,COP,41
+precio,mediana,3600000.0,COP,41
+precio,p75,4700000.0,COP,41
+precio,minimo,1400000.0,COP,41
+precio,maximo,12300000.0,COP,41
+m2,mediana_precio_m2,55263.16,COP,41
+m2,area_mediana_m2,60.0,m2,41
+admin,mediana_admin_mes,650000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,1,2800000.0,COP,19
+habitaciones,2,3826700.0,COP,15
+habitaciones,3+,5200000.0,COP,7
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chapinero-alto,,
+fuente,licencia,CC BY 4.0,,

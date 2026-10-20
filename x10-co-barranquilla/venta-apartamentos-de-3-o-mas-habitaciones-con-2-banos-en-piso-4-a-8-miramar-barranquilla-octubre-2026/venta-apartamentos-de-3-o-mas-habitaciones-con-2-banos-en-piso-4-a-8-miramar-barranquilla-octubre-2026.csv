@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,66
+filtro,habitaciones,3+,,66
+filtro,ban2,"con 2 baños",,66
+filtro,piso2,"en piso 4 a 8",,66
+precio,p25,295000000.0,COP,66
+precio,mediana,372500000.0,COP,66
+precio,p75,478750000.0,COP,66
+precio,minimo,210000000.0,COP,66
+precio,maximo,614000000.0,COP,66
+m2,mediana_precio_m2,4859126.98,COP,66
+m2,area_mediana_m2,74.5,m2,66
+admin,mediana_admin_mes,303000.0,COP,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+estrato,estrato_mas_frecuente,4,,66
+habitaciones,3+,372500000.0,COP,66
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

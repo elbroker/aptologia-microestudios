@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,57
+filtro,parq1,"con parqueadero",,57
+filtro,edad1,"de 0 a 5 años de construidos",,57
+precio,p25,1199000000.0,COP,57
+precio,mediana,1580000000.0,COP,57
+precio,p75,2200000000.0,COP,57
+precio,minimo,420000000.0,COP,57
+precio,maximo,3888000000.0,COP,57
+m2,mediana_precio_m2,12564102.56,COP,53
+m2,area_mediana_m2,136.0,m2,53
+admin,mediana_admin_mes,1508380.0,COP,47
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,6,,57
+habitaciones,1,700000000.0,COP,8
+habitaciones,2,1415000000.0,COP,24
+habitaciones,3+,2100000000.0,COP,22
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-virrey,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,area5,"de 150 a 250 m²",,30
+precio,p25,720000000.0,PYG,30
+precio,mediana,815000000.0,PYG,30
+precio,p75,1155000000.0,PYG,30
+precio,minimo,480000000.0,PYG,30
+precio,maximo,1600000000.0,PYG,30
+m2,mediana_precio_m2,4418962.08,PYG,30
+m2,area_mediana_m2,183.0,m2,30
+banos,mediana_banos,3.0,,
+habitaciones,3+,815000000.0,PYG,30
+ciudad,mediana_ciudad_referencia,975000000.0,PYG,
+ciudad,mediana_m2_ciudad,3815000.0,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/san-vicente,,
+fuente,licencia,CC BY 4.0,,

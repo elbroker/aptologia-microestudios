@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,34
+filtro,piso2,"en piso 4 a 8",,34
+filtro,edad1,"de 0 a 5 años de construidos",,34
+precio,p25,1355000000.0,COP,34
+precio,mediana,2025000000.0,COP,34
+precio,p75,2875000000.0,COP,34
+precio,minimo,225000000.0,COP,34
+precio,maximo,4200000000.0,COP,34
+m2,mediana_precio_m2,9010536.4,COP,34
+m2,area_mediana_m2,235.5,m2,34
+admin,mediana_admin_mes,2100000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,2,1345000000.0,COP,10
+habitaciones,3+,2600000000.0,COP,23
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-refugio,,
+fuente,licencia,CC BY 4.0,,

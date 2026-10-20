@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,36
+filtro,habitaciones,3+,,36
+filtro,area2,"de 45 a 70 m²",,36
+filtro,parq1,"con estacionamiento",,36
+precio,p25,2575.0,UF,36
+precio,mediana,2995.0,UF,36
+precio,p75,3412.5,UF,36
+precio,minimo,1342.0,UF,36
+precio,maximo,4900.0,UF,36
+m2,mediana_precio_m2,51.64,UF,35
+m2,area_mediana_m2,60.0,m2,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+habitaciones,3+,2995.0,UF,36
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area2,"de 45 a 70 m²",,36
+precio,p25,368750000.0,COP,36
+precio,mediana,475000000.0,COP,36
+precio,p75,550000000.0,COP,36
+precio,minimo,250000000.0,COP,36
+precio,maximo,620000000.0,COP,36
+m2,mediana_precio_m2,7498274.67,COP,36
+m2,area_mediana_m2,61.0,m2,36
+admin,mediana_admin_mes,340000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,475000000.0,COP,36
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,6438356.16,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-estrella/la-aldea,,
+fuente,licencia,CC BY 4.0,,

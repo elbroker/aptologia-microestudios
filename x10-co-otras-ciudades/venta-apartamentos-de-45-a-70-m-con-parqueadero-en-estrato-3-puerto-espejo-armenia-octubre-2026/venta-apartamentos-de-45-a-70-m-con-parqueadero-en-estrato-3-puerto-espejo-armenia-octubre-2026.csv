@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,56
+filtro,estrato,3,,56
+filtro,area2,"de 45 a 70 m²",,56
+filtro,parq1,"con parqueadero",,56
+precio,p25,220000000.0,COP,56
+precio,mediana,247250000.0,COP,56
+precio,p75,262500000.0,COP,56
+precio,minimo,180000000.0,COP,56
+precio,maximo,355000000.0,COP,56
+m2,mediana_precio_m2,4086013.26,COP,56
+m2,area_mediana_m2,60.0,m2,56
+admin,mediana_admin_mes,209100.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,3,,56
+habitaciones,2,290000000.0,COP,5
+habitaciones,3+,245000000.0,COP,51
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia/puerto-espejo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,59
+filtro,habitaciones,3+,,59
+filtro,edad1,"de 0 a 5 años de construidos",,59
+precio,p25,2300000000.0,COP,59
+precio,mediana,2800000000.0,COP,59
+precio,p75,3500000000.0,COP,59
+precio,minimo,450000000.0,COP,59
+precio,maximo,6000000000.0,COP,59
+m2,mediana_precio_m2,6250000.0,COP,57
+m2,area_mediana_m2,450.0,m2,57
+admin,mediana_admin_mes,2000000.0,COP,52
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+estrato,estrato_mas_frecuente,6,,58
+habitaciones,3+,2800000000.0,COP,59
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,5059882.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/chia/fusca,,
+fuente,licencia,CC BY 4.0,,

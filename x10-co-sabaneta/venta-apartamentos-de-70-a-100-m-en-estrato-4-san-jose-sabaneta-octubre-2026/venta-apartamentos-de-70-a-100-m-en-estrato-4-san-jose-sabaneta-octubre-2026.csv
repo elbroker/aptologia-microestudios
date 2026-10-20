@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,158
+filtro,estrato,4,,158
+filtro,area3,"de 70 a 100 m²",,158
+precio,p25,560000000.0,COP,158
+precio,mediana,611000000.0,COP,158
+precio,p75,665000000.0,COP,158
+precio,minimo,295000000.0,COP,158
+precio,maximo,800000000.0,COP,158
+m2,mediana_precio_m2,7374686.72,COP,158
+m2,area_mediana_m2,84.0,m2,158
+admin,mediana_admin_mes,400000.0,COP,106
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,90.4,%,157
+estrato,estrato_mas_frecuente,4,,158
+habitaciones,2,595000000.0,COP,54
+habitaciones,3+,620000000.0,COP,104
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/san-jose,,
+fuente,licencia,CC BY 4.0,,

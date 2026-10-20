@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,5,,40
+filtro,parq0,"sin parqueadero",,40
+precio,p25,365000000.0,COP,40
+precio,mediana,425000000.0,COP,40
+precio,p75,450000000.0,COP,40
+precio,minimo,180000000.0,COP,40
+precio,maximo,670000000.0,COP,40
+m2,mediana_precio_m2,12800000.0,COP,37
+m2,area_mediana_m2,33.0,m2,37
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,40
+estrato,estrato_mas_frecuente,5,,40
+ciudad,mediana_ciudad_referencia,475000000.0,COP,
+ciudad,mediana_m2_ciudad,10317460.32,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios-en-venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,78
+filtro,habitaciones,3+,,78
+filtro,ban2,"con 2 baños",,78
+precio,p25,300000000.0,COP,78
+precio,mediana,340000000.0,COP,78
+precio,p75,395250000.0,COP,78
+precio,minimo,230000000.0,COP,78
+precio,maximo,1200000000.0,COP,78
+m2,mediana_precio_m2,4887481.55,COP,76
+m2,area_mediana_m2,74.6,m2,76
+admin,mediana_admin_mes,303000.0,COP,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.8,%,72
+estrato,estrato_mas_frecuente,4,,77
+habitaciones,3+,340000000.0,COP,78
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/paraiso,,
+fuente,licencia,CC BY 4.0,,

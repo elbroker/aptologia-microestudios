@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,117
+filtro,conj,"en conjunto cerrado",,117
+filtro,area3,"de 70 a 100 m²",,117
+precio,p25,4650000.0,COP,117
+precio,mediana,5200000.0,COP,117
+precio,p75,6000000.0,COP,117
+precio,minimo,2500000.0,COP,117
+precio,maximo,11500000.0,COP,117
+m2,mediana_precio_m2,61483.52,COP,116
+m2,area_mediana_m2,89.0,m2,116
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.3,%,117
+estrato,estrato_mas_frecuente,6,,116
+habitaciones,1,4725000.0,COP,8
+habitaciones,2,5400000.0,COP,72
+habitaciones,3+,5200000.0,COP,37
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

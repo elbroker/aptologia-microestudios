@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,57
+filtro,habitaciones,3+,,57
+filtro,ban3,"con 3 o más baños",,57
+precio,p25,5600000.0,COP,57
+precio,mediana,7300000.0,COP,57
+precio,p75,9800000.0,COP,57
+precio,minimo,3600000.0,COP,57
+precio,maximo,16900000.0,COP,57
+m2,mediana_precio_m2,31764.71,COP,57
+m2,area_mediana_m2,234.0,m2,57
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,82.2,%,45
+estrato,estrato_mas_frecuente,5,,54
+habitaciones,3+,7300000.0,COP,57
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

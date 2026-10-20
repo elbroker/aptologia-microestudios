@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,53
+filtro,habitaciones,1,,53
+filtro,parq1,"con estacionamiento",,53
+filtro,ban1,"con 1 baño",,53
+precio,p25,2100.0,USD,53
+precio,mediana,3300.0,USD,53
+precio,p75,6000.0,USD,53
+precio,minimo,550.0,USD,53
+precio,maximo,25000.0,USD,53
+m2,mediana_precio_m2,43.75,USD,45
+m2,area_mediana_m2,72.5,m2,45
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,53
+habitaciones,1,3300.0,USD,53
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/playa-brava,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,balc,"con balcón",,32
+filtro,piso2,"en piso 4 a 8",,32
+precio,p25,3250000.0,COP,32
+precio,mediana,5000000.0,COP,32
+precio,p75,8250000.0,COP,32
+precio,minimo,2500000.0,COP,32
+precio,maximo,20000000.0,COP,32
+m2,mediana_precio_m2,65275.19,COP,32
+m2,area_mediana_m2,80.0,m2,32
+admin,mediana_admin_mes,1100000.0,COP,18
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,1,3050000.0,COP,14
+habitaciones,2,7100000.0,COP,8
+habitaciones,3+,9500000.0,COP,10
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-paula,,
+fuente,licencia,CC BY 4.0,,

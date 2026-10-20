@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,74
+filtro,estrato,3,,74
+filtro,area5,"de 150 a 250 m²",,74
+precio,p25,562000000.0,COP,74
+precio,mediana,687500000.0,COP,74
+precio,p75,830000000.0,COP,74
+precio,minimo,390000000.0,COP,74
+precio,maximo,1800000000.0,COP,74
+m2,mediana_precio_m2,3519548.16,COP,74
+m2,area_mediana_m2,202.5,m2,74
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.2,%,57
+estrato,estrato_mas_frecuente,3,,74
+habitaciones,3+,680000000.0,COP,71
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/engativa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,945
+filtro,habitaciones,3+,,945
+filtro,ban2,"con 2 baños",,945
+precio,p25,5750000.0,DOP,945
+precio,mediana,7600000.0,DOP,945
+precio,p75,9600000.0,DOP,945
+precio,minimo,3000000.0,DOP,945
+precio,maximo,29526000.0,DOP,945
+m2,mediana_precio_m2,61327.04,DOP,860
+m2,area_mediana_m2,124.0,m2,860
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+habitaciones,3+,7600000.0,DOP,945
+ciudad,mediana_ciudad_referencia,8000000.0,DOP,
+ciudad,mediana_m2_ciudad,65028.9,DOP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

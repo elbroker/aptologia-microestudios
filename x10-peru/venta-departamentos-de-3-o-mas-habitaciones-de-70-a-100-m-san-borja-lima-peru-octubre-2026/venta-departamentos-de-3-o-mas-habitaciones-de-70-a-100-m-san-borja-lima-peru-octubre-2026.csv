@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area3,"de 70 a 100 m²",,36
+precio,p25,654123.75,PEN,36
+precio,mediana,720500.0,PEN,36
+precio,p75,764000.0,PEN,36
+precio,minimo,525000.0,PEN,36
+precio,maximo,985000.0,PEN,36
+m2,mediana_precio_m2,8628.44,PEN,36
+m2,area_mediana_m2,90.0,m2,36
+banos,mediana_banos,2.0,,
+habitaciones,3+,720500.0,PEN,36
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-borja,,
+fuente,licencia,CC BY 4.0,,

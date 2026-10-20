@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,234
+filtro,estrato,6,,234
+filtro,ban3,"con 3 o más baños",,234
+precio,p25,9250000.0,COP,234
+precio,mediana,12000000.0,COP,234
+precio,p75,15000000.0,COP,234
+precio,minimo,3500000.0,COP,234
+precio,maximo,20400000.0,COP,234
+m2,mediana_precio_m2,52197.8,COP,233
+m2,area_mediana_m2,220.0,m2,233
+admin,mediana_admin_mes,2000000.0,COP,182
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.7,%,234
+estrato,estrato_mas_frecuente,6,,234
+habitaciones,2,9000000.0,COP,45
+habitaciones,3+,12144000.0,COP,186
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/los-rosales,,
+fuente,licencia,CC BY 4.0,,

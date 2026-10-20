@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,31
+filtro,conj,"en conjunto cerrado",,31
+filtro,area4,"de 100 a 150 m²",,31
+precio,p25,5950000.0,COP,31
+precio,mediana,7000000.0,COP,31
+precio,p75,7900000.0,COP,31
+precio,minimo,4000000.0,COP,31
+precio,maximo,11000000.0,COP,31
+m2,mediana_precio_m2,61904.76,COP,31
+m2,area_mediana_m2,115.0,m2,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,93.5,%,31
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,2,7500000.0,COP,13
+habitaciones,3+,6100000.0,COP,18
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

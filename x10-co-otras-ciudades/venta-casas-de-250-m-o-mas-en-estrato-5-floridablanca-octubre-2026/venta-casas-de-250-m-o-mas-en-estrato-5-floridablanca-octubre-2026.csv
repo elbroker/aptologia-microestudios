@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,70
+filtro,estrato,5,,70
+filtro,area6,"de 250 m² o más",,70
+precio,p25,1250000000.0,COP,70
+precio,mediana,1500000000.0,COP,70
+precio,p75,1990000000.0,COP,70
+precio,minimo,799000000.0,COP,70
+precio,maximo,4900000000.0,COP,70
+m2,mediana_precio_m2,4516129.03,COP,69
+m2,area_mediana_m2,308.5,m2,69
+admin,mediana_admin_mes,660000.0,COP,56
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,5,,70
+habitaciones,3+,1500000000.0,COP,70
+ciudad,mediana_ciudad_referencia,950000000.0,COP,
+ciudad,mediana_m2_ciudad,4800000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/floridablanca,,
+fuente,licencia,CC BY 4.0,,

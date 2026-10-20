@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1365
+filtro,habitaciones,2,,1365
+filtro,area2,"de 45 a 70 m²",,1365
+precio,p25,94000.0,USD,1365
+precio,mediana,134000.0,USD,1365
+precio,p75,178000.0,USD,1365
+precio,minimo,42000.0,USD,1365
+precio,maximo,888888.0,USD,1365
+m2,mediana_precio_m2,2321.43,USD,1359
+m2,area_mediana_m2,59.0,m2,1359
+banos,mediana_banos,1.0,,
+habitaciones,2,134000.0,USD,1365
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

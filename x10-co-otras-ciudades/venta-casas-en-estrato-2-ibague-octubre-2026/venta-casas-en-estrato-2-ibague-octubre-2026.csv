@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,86
+filtro,estrato,2,,86
+precio,p25,290000000.0,COP,86
+precio,mediana,370000000.0,COP,86
+precio,p75,590000000.0,COP,86
+precio,minimo,200000000.0,COP,86
+precio,maximo,4000000000.0,COP,86
+m2,mediana_precio_m2,2126498.8,COP,80
+m2,area_mediana_m2,174.0,m2,80
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,75.0,%,72
+estrato,estrato_mas_frecuente,2,,86
+habitaciones,2,270000000.0,COP,5
+habitaciones,3+,370000000.0,COP,80
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,3316372.06,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/ibague,,
+fuente,licencia,CC BY 4.0,,

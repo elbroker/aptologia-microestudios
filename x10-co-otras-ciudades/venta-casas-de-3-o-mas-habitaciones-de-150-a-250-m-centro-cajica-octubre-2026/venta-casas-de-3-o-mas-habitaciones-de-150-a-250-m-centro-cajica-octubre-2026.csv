@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,48
+filtro,habitaciones,3+,,48
+filtro,area5,"de 150 a 250 m²",,48
+precio,p25,815000000.0,COP,48
+precio,mediana,990000000.0,COP,48
+precio,p75,1282500000.0,COP,48
+precio,minimo,680000000.0,COP,48
+precio,maximo,2000000000.0,COP,48
+m2,mediana_precio_m2,5348684.21,COP,48
+m2,area_mediana_m2,197.5,m2,48
+admin,mediana_admin_mes,850000.0,COP,39
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.8,%,46
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,990000000.0,COP,48
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cajica/centro,,
+fuente,licencia,CC BY 4.0,,

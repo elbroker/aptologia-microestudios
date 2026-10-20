@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,46
+filtro,estrato,3,,46
+filtro,conj,"en conjunto cerrado",,46
+precio,p25,1060000.0,COP,46
+precio,mediana,1265000.0,COP,46
+precio,p75,1475000.0,COP,46
+precio,minimo,850000.0,COP,46
+precio,maximo,2940000.0,COP,46
+m2,mediana_precio_m2,23275.86,COP,43
+m2,area_mediana_m2,55.0,m2,43
+admin,mediana_admin_mes,230000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.2,%,39
+estrato,estrato_mas_frecuente,3,,46
+habitaciones,2,1350000.0,COP,9
+habitaciones,3+,1236000.0,COP,37
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,22007.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cucuta,,
+fuente,licencia,CC BY 4.0,,

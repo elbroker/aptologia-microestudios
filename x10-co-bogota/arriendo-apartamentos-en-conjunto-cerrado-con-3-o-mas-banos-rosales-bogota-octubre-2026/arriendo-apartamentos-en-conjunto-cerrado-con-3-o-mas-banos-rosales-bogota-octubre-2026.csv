@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,87
+filtro,conj,"en conjunto cerrado",,87
+filtro,ban3,"con 3 o más baños",,87
+precio,p25,9500000.0,COP,87
+precio,mediana,11500000.0,COP,87
+precio,p75,15500000.0,COP,87
+precio,minimo,5500000.0,COP,87
+precio,maximo,20100000.0,COP,87
+m2,mediana_precio_m2,52197.8,COP,87
+m2,area_mediana_m2,220.0,m2,87
+admin,mediana_admin_mes,2310000.0,COP,61
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.9,%,87
+estrato,estrato_mas_frecuente,6,,86
+habitaciones,2,9250000.0,COP,14
+habitaciones,3+,12450000.0,COP,72
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/los-rosales,,
+fuente,licencia,CC BY 4.0,,

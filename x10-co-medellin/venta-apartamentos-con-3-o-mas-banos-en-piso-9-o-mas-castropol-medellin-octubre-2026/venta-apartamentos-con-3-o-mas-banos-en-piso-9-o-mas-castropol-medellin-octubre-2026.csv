@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,68
+filtro,ban3,"con 3 o más baños",,68
+filtro,piso3,"en piso 9 o más",,68
+precio,p25,972500000.0,COP,68
+precio,mediana,1225000000.0,COP,68
+precio,p75,1462500000.0,COP,68
+precio,minimo,720000000.0,COP,68
+precio,maximo,3500000000.0,COP,68
+m2,mediana_precio_m2,9516755.08,COP,68
+m2,area_mediana_m2,134.0,m2,68
+admin,mediana_admin_mes,903500.0,COP,54
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.5,%,67
+estrato,estrato_mas_frecuente,6,,67
+habitaciones,2,1150000000.0,COP,11
+habitaciones,3+,1250000000.0,COP,57
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

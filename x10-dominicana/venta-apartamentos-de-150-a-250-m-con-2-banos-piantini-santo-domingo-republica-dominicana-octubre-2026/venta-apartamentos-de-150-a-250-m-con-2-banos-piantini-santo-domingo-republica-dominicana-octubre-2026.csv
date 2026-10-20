@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,61
+filtro,area5,"de 150 a 250 m²",,61
+filtro,ban2,"con 2 baños",,61
+precio,p25,295000.0,USD,61
+precio,mediana,351705.0,USD,61
+precio,p75,425000.0,USD,61
+precio,minimo,245000.0,USD,61
+precio,maximo,530000.0,USD,61
+m2,mediana_precio_m2,2031.25,USD,61
+m2,area_mediana_m2,170.0,m2,61
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,2,375400.0,USD,44
+habitaciones,3+,295000.0,USD,17
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/piantini,,
+fuente,licencia,CC BY 4.0,,

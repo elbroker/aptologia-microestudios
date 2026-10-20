@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,142000.0,USD,55
+precio,mediana,220000.0,USD,55
+precio,p75,275000.0,USD,55
+precio,minimo,68000.0,USD,55
+precio,maximo,850000.0,USD,55
+m2,mediana_precio_m2,1485.37,USD,54
+m2,area_mediana_m2,150.0,m2,54
+banos,mediana_banos,2.0,,
+habitaciones,3+,220000.0,USD,55
+ciudad,mediana_ciudad_referencia,169500.0,USD,
+ciudad,mediana_m2_ciudad,1233.33,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/rosario,,
+fuente,licencia,CC BY 4.0,,

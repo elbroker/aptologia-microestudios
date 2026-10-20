@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,63
+filtro,estrato,4,,63
+filtro,ban2,"con 2 baños",,63
+precio,p25,300000000.0,COP,63
+precio,mediana,340000000.0,COP,63
+precio,p75,390000000.0,COP,63
+precio,minimo,230000000.0,COP,63
+precio,maximo,2600000000.0,COP,63
+m2,mediana_precio_m2,3277310.92,COP,57
+m2,area_mediana_m2,96.0,m2,57
+admin,mediana_admin_mes,437000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,63
+estrato,estrato_mas_frecuente,4,,63
+habitaciones,2,300000000.0,COP,19
+habitaciones,3+,365000000.0,COP,44
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

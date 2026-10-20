@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,34
+filtro,habitaciones,3+,,34
+filtro,area4,"de 100 a 150 m²",,34
+filtro,parq1,"con estacionamiento",,34
+precio,p25,59250.0,UYU,34
+precio,mediana,65000.0,UYU,34
+precio,p75,70000.0,UYU,34
+precio,minimo,35500.0,UYU,34
+precio,maximo,78000.0,UYU,34
+m2,mediana_precio_m2,576.92,UYU,34
+m2,area_mediana_m2,114.0,m2,34
+admin,mediana_admin_mes,14750.0,UYU,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+habitaciones,3+,65000.0,UYU,34
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,43
+filtro,area2,"de 45 a 70 m²",,43
+filtro,parq1,"con estacionamiento",,43
+precio,p25,2310.0,PEN,43
+precio,mediana,2500.0,PEN,43
+precio,p75,3000.0,PEN,43
+precio,minimo,1600.0,PEN,43
+precio,maximo,4800.0,PEN,43
+m2,mediana_precio_m2,47.47,PEN,42
+m2,area_mediana_m2,58.0,m2,42
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+habitaciones,1,2400.0,PEN,26
+habitaciones,2,3100.0,PEN,14
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

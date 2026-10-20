@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,42
+filtro,estrato,6,,42
+filtro,area6,"de 250 m² o más",,42
+precio,p25,1450000000.0,COP,42
+precio,mediana,1791500000.0,COP,42
+precio,p75,2875000000.0,COP,42
+precio,minimo,1059100000.0,COP,42
+precio,maximo,6000000000.0,COP,42
+m2,mediana_precio_m2,5327487.14,COP,42
+m2,area_mediana_m2,328.4,m2,42
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.6,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,1791500000.0,COP,42
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/santa-barbara-central,,
+fuente,licencia,CC BY 4.0,,

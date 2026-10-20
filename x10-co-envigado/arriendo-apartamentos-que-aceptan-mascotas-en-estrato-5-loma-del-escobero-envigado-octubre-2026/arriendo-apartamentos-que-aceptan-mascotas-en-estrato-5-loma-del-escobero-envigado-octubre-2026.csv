@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,73
+filtro,estrato,5,,73
+filtro,masc,"que aceptan mascotas",,73
+precio,p25,4200000.0,COP,73
+precio,mediana,4600000.0,COP,73
+precio,p75,5200000.0,COP,73
+precio,minimo,3100000.0,COP,73
+precio,maximo,11000000.0,COP,73
+m2,mediana_precio_m2,50588.24,COP,73
+m2,area_mediana_m2,90.0,m2,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+estrato,estrato_mas_frecuente,5,,73
+habitaciones,2,4300000.0,COP,29
+habitaciones,3+,5000000.0,COP,40
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

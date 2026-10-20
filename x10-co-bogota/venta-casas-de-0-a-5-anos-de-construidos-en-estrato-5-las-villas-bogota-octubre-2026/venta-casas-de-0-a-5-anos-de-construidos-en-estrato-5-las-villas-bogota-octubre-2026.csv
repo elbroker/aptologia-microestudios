@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,edad1,"de 0 a 5 años de construidos",,32
+precio,p25,1057500000.0,COP,32
+precio,mediana,1167500000.0,COP,32
+precio,p75,1400000000.0,COP,32
+precio,minimo,850000000.0,COP,32
+precio,maximo,1930000000.0,COP,32
+m2,mediana_precio_m2,4451244.47,COP,32
+m2,area_mediana_m2,259.1,m2,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,93.5,%,31
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,1167500000.0,COP,32
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/las-villas,,
+fuente,licencia,CC BY 4.0,,

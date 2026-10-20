@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,38
+filtro,parq1,"con parqueadero",,38
+filtro,piso2,"en piso 4 a 8",,38
+precio,p25,3812500.0,COP,38
+precio,mediana,4950000.0,COP,38
+precio,p75,6225000.0,COP,38
+precio,minimo,2900000.0,COP,38
+precio,maximo,13000000.0,COP,38
+m2,mediana_precio_m2,51724.14,COP,37
+m2,area_mediana_m2,82.5,m2,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,2,3950000.0,COP,18
+habitaciones,3+,6249500.0,COP,16
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/santa-maria-de-los-angeles,,
+fuente,licencia,CC BY 4.0,,

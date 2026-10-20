@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,144
+filtro,habitaciones,3+,,144
+filtro,ban2,"con 2 baños",,144
+precio,p25,4000000.0,COP,144
+precio,mediana,4500000.0,COP,144
+precio,p75,5000000.0,COP,144
+precio,minimo,1111111.0,COP,144
+precio,maximo,7000000.0,COP,144
+m2,mediana_precio_m2,56382.98,COP,141
+m2,area_mediana_m2,79.2,m2,141
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.0,%,144
+estrato,estrato_mas_frecuente,5,,139
+habitaciones,3+,4500000.0,COP,144
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

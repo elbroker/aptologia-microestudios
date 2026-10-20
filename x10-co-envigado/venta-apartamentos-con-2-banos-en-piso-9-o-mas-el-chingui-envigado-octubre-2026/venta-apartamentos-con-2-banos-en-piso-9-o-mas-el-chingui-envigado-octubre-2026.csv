@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,53
+filtro,ban2,"con 2 baños",,53
+filtro,piso3,"en piso 9 o más",,53
+precio,p25,550000000.0,COP,53
+precio,mediana,630000000.0,COP,53
+precio,p75,685000000.0,COP,53
+precio,minimo,350000000.0,COP,53
+precio,maximo,853000000.0,COP,53
+m2,mediana_precio_m2,8064516.13,COP,53
+m2,area_mediana_m2,80.0,m2,53
+admin,mediana_admin_mes,500000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.2,%,53
+estrato,estrato_mas_frecuente,4,,53
+habitaciones,2,575000000.0,COP,11
+habitaciones,3+,630000000.0,COP,42
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-chingui,,
+fuente,licencia,CC BY 4.0,,

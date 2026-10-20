@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,130
+filtro,habitaciones,1,,130
+filtro,area1,"de menos de 45 m²",,130
+precio,p25,371250000.0,COP,130
+precio,mediana,450000000.0,COP,130
+precio,p75,552130000.0,COP,130
+precio,minimo,220000000.0,COP,130
+precio,maximo,795000000.0,COP,130
+m2,mediana_precio_m2,10792000.0,COP,115
+m2,area_mediana_m2,40.6,m2,115
+admin,mediana_admin_mes,366000.0,COP,89
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,71.3,%,101
+estrato,estrato_mas_frecuente,6,,126
+habitaciones,1,450000000.0,COP,130
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena,,
+fuente,licencia,CC BY 4.0,,

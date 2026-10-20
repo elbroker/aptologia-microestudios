@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,88
+filtro,estrato,5,,88
+filtro,masc,"que aceptan mascotas",,88
+precio,p25,3500000.0,COP,88
+precio,mediana,3900000.0,COP,88
+precio,p75,4600000.0,COP,88
+precio,minimo,2500000.0,COP,88
+precio,maximo,7000000.0,COP,88
+m2,mediana_precio_m2,49176.79,COP,88
+m2,area_mediana_m2,78.5,m2,88
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,86
+estrato,estrato_mas_frecuente,5,,88
+habitaciones,1,3700000.0,COP,15
+habitaciones,2,3800000.0,COP,59
+habitaciones,3+,4450000.0,COP,14
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,49253.73,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-retiro,,
+fuente,licencia,CC BY 4.0,,

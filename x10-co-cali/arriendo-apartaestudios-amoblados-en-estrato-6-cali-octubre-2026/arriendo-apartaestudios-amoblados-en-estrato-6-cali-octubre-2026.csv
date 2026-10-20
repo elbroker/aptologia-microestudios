@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,40
+filtro,estrato,6,,40
+filtro,amob,"amoblados",,40
+precio,p25,2000000.0,COP,40
+precio,mediana,2500000.0,COP,40
+precio,p75,2725000.0,COP,40
+precio,minimo,1250000.0,COP,40
+precio,maximo,4000000.0,COP,40
+m2,mediana_precio_m2,69730.64,COP,38
+m2,area_mediana_m2,30.0,m2,38
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,62.5,%,32
+estrato,estrato_mas_frecuente,6,,40
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

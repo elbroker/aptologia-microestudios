@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,139
+filtro,habitaciones,3+,,139
+filtro,area3,"de 70 a 100 m²",,139
+filtro,edad1,"de 0 a 5 años de construidos",,139
+precio,p25,499500000.0,COP,139
+precio,mediana,610000000.0,COP,139
+precio,p75,690000000.0,COP,139
+precio,minimo,315000000.0,COP,139
+precio,maximo,1440880000.0,COP,139
+m2,mediana_precio_m2,7151898.73,COP,139
+m2,area_mediana_m2,85.0,m2,139
+admin,mediana_admin_mes,460000.0,COP,85
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.6,%,113
+estrato,estrato_mas_frecuente,5,,120
+habitaciones,3+,610000000.0,COP,139
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

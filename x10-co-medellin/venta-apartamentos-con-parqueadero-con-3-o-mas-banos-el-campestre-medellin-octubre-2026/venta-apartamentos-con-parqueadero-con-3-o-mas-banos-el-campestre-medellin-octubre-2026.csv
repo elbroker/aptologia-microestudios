@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,93
+filtro,parq1,"con parqueadero",,93
+filtro,ban3,"con 3 o más baños",,93
+precio,p25,1200000000.0,COP,93
+precio,mediana,1700000000.0,COP,93
+precio,p75,2200000000.0,COP,93
+precio,minimo,680000000.0,COP,93
+precio,maximo,3980000000.0,COP,93
+m2,mediana_precio_m2,8249773.14,COP,92
+m2,area_mediana_m2,190.3,m2,92
+admin,mediana_admin_mes,1300000.0,COP,63
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+estrato,estrato_mas_frecuente,6,,92
+habitaciones,2,2300000000.0,COP,15
+habitaciones,3+,1592500000.0,COP,78
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-campestre,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,75
+filtro,habitaciones,3+,,75
+filtro,area4,"de 100 a 150 m²",,75
+precio,p25,1100000000.0,COP,75
+precio,mediana,1450000000.0,COP,75
+precio,p75,1800463586.0,COP,75
+precio,minimo,260000000.0,COP,75
+precio,maximo,2100000000.0,COP,75
+m2,mediana_precio_m2,11396103.9,COP,72
+m2,area_mediana_m2,129.5,m2,72
+admin,mediana_admin_mes,577859.5,COP,32
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,93.2,%,73
+estrato,estrato_mas_frecuente,6,,74
+habitaciones,3+,1450000000.0,COP,75
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

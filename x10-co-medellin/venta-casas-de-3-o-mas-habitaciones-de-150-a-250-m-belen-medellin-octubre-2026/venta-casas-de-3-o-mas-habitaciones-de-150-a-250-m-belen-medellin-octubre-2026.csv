@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,121
+filtro,habitaciones,3+,,121
+filtro,area5,"de 150 a 250 m²",,121
+precio,p25,760000000.0,COP,121
+precio,mediana,885000000.0,COP,121
+precio,p75,1100000000.0,COP,121
+precio,minimo,360000000.0,COP,121
+precio,maximo,2200000000.0,COP,121
+m2,mediana_precio_m2,4797687.86,COP,121
+m2,area_mediana_m2,183.0,m2,121
+admin,mediana_admin_mes,420000.0,COP,39
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,91.1,%,112
+estrato,estrato_mas_frecuente,5,,116
+habitaciones,3+,885000000.0,COP,121
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,49
+filtro,balc,"con balcón",,49
+filtro,ban3,"con 3 o más baños",,49
+precio,p25,5300000.0,COP,49
+precio,mediana,5900000.0,COP,49
+precio,p75,7500000.0,COP,49
+precio,minimo,3500000.0,COP,49
+precio,maximo,20000000.0,COP,49
+m2,mediana_precio_m2,42307.69,COP,49
+m2,area_mediana_m2,145.0,m2,49
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,6,,49
+habitaciones,3+,5900000.0,COP,48
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali/pance,,
+fuente,licencia,CC BY 4.0,,

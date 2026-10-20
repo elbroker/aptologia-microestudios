@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,56
+filtro,habitaciones,3+,,56
+filtro,ban2,"con 2 baños",,56
+filtro,edad1,"de 0 a 5 años de construidos",,56
+precio,p25,714250000.0,COP,56
+precio,mediana,810000000.0,COP,56
+precio,p75,988750000.0,COP,56
+precio,minimo,520000000.0,COP,56
+precio,maximo,1760000000.0,COP,56
+m2,mediana_precio_m2,7013513.51,COP,56
+m2,area_mediana_m2,120.0,m2,56
+admin,mediana_admin_mes,600000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.2,%,56
+estrato,estrato_mas_frecuente,5,,56
+habitaciones,3+,810000000.0,COP,56
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/conquistadores,,
+fuente,licencia,CC BY 4.0,,

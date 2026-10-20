@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,214
+filtro,habitaciones,3+,,214
+filtro,area2,"de 45 a 70 m²",,214
+filtro,parq1,"con parqueadero",,214
+precio,p25,2700000.0,COP,214
+precio,mediana,2925000.0,COP,214
+precio,p75,3200000.0,COP,214
+precio,minimo,1900000.0,COP,214
+precio,maximo,11111111.0,COP,214
+m2,mediana_precio_m2,44776.12,COP,213
+m2,area_mediana_m2,65.0,m2,213
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,214
+estrato,estrato_mas_frecuente,4,,213
+habitaciones,3+,2925000.0,COP,214
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado,,
+fuente,licencia,CC BY 4.0,,

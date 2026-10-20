@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,86
+filtro,parq1,"con parqueadero",,86
+filtro,ban3,"con 3 o más baños",,86
+precio,p25,7816250.0,COP,86
+precio,mediana,10600000.0,COP,86
+precio,p75,14510750.0,COP,86
+precio,minimo,3700000.0,COP,86
+precio,maximo,20000000.0,COP,86
+m2,mediana_precio_m2,52321.52,COP,86
+m2,area_mediana_m2,185.0,m2,86
+admin,mediana_admin_mes,1760000.0,COP,55
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,86
+estrato,estrato_mas_frecuente,6,,85
+habitaciones,2,6900000.0,COP,11
+habitaciones,3+,12000000.0,COP,75
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/la-carolina,,
+fuente,licencia,CC BY 4.0,,

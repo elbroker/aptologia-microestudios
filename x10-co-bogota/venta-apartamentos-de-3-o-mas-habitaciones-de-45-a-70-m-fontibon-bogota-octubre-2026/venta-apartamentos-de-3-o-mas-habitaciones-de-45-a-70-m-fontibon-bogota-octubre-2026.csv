@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,86
+filtro,habitaciones,3+,,86
+filtro,area2,"de 45 a 70 m²",,86
+precio,p25,225000000.0,COP,86
+precio,mediana,270000000.0,COP,86
+precio,p75,380000000.0,COP,86
+precio,minimo,165000000.0,COP,86
+precio,maximo,680000000.0,COP,86
+m2,mediana_precio_m2,5203703.7,COP,86
+m2,area_mediana_m2,54.0,m2,86
+admin,mediana_admin_mes,209000.0,COP,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,79.3,%,58
+estrato,estrato_mas_frecuente,3,,79
+habitaciones,3+,270000000.0,COP,86
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/fontibon,,
+fuente,licencia,CC BY 4.0,,

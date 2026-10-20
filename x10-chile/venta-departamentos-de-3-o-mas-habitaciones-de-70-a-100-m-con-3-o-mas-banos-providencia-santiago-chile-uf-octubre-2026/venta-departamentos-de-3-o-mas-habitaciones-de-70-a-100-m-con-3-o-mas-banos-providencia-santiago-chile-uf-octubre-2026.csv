@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,55
+filtro,habitaciones,3+,,55
+filtro,area3,"de 70 a 100 m²",,55
+filtro,ban3,"con 3 o más baños",,55
+precio,p25,7200.0,UF,55
+precio,mediana,8501.6,UF,55
+precio,p75,10050.0,UF,55
+precio,minimo,5490.0,UF,55
+precio,maximo,15326.0,UF,55
+m2,mediana_precio_m2,92.41,UF,53
+m2,area_mediana_m2,93.0,m2,53
+banos,mediana_banos,3.0,,
+habitaciones,3+,8501.6,UF,55
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

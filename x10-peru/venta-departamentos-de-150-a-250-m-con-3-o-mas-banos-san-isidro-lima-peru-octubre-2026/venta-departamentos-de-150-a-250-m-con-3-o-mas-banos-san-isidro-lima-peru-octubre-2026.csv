@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,95
+filtro,area5,"de 150 a 250 m²",,95
+filtro,ban3,"con 3 o más baños",,95
+precio,p25,1498665.0,PEN,95
+precio,mediana,1773800.0,PEN,95
+precio,p75,2305000.0,PEN,95
+precio,minimo,809800.0,PEN,95
+precio,maximo,3896893.0,PEN,95
+m2,mediana_precio_m2,8769.56,PEN,78
+m2,area_mediana_m2,200.0,m2,78
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+habitaciones,2,2232000.0,PEN,13
+habitaciones,3+,1759295.0,PEN,80
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,39
+filtro,habitaciones,1,,39
+filtro,area6,"de 250 m² o más",,39
+precio,p25,850000000.0,PYG,39
+precio,mediana,999000000.0,PYG,39
+precio,p75,1286500000.0,PYG,39
+precio,minimo,500000000.0,PYG,39
+precio,maximo,3060000000.0,PYG,39
+m2,mediana_precio_m2,2567513.37,PYG,38
+m2,area_mediana_m2,425.0,m2,38
+banos,mediana_banos,1.0,,
+habitaciones,1,999000000.0,PYG,39
+ciudad,mediana_ciudad_referencia,975000000.0,PYG,
+ciudad,mediana_m2_ciudad,3815000.0,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

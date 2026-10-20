@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,46
+filtro,habitaciones,3+,,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,780000000.0,COP,46
+precio,mediana,860000000.0,COP,46
+precio,p75,1037500000.0,COP,46
+precio,minimo,650000000.0,COP,46
+precio,maximo,2650000000.0,COP,46
+m2,mediana_precio_m2,6549135.22,COP,46
+m2,area_mediana_m2,144.0,m2,46
+admin,mediana_admin_mes,555140.0,COP,32
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.7,%,46
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,3+,860000000.0,COP,46
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-portal,,
+fuente,licencia,CC BY 4.0,,

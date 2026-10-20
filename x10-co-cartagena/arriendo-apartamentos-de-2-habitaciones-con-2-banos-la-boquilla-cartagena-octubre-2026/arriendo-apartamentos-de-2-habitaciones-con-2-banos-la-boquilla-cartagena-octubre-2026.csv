@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,50
+filtro,habitaciones,2,,50
+filtro,ban2,"con 2 baños",,50
+precio,p25,3681000.0,COP,50
+precio,mediana,4275000.0,COP,50
+precio,p75,5083750.0,COP,50
+precio,minimo,2000000.0,COP,50
+precio,maximo,8000000.0,COP,50
+m2,mediana_precio_m2,48613.95,COP,50
+m2,area_mediana_m2,91.4,m2,50
+admin,mediana_admin_mes,965000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,2,4275000.0,COP,50
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/la-boquilla,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,67
+filtro,parq0,"sin parqueadero",,67
+filtro,edad3,"de más de 20 años de construidos",,67
+precio,p25,192500000.0,COP,67
+precio,mediana,255000000.0,COP,67
+precio,p75,315000000.0,COP,67
+precio,minimo,160000000.0,COP,67
+precio,maximo,580000000.0,COP,67
+m2,mediana_precio_m2,4690828.76,COP,66
+m2,area_mediana_m2,51.0,m2,66
+admin,mediana_admin_mes,180000.0,COP,49
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,0.0,%,67
+estrato,estrato_mas_frecuente,3,,67
+habitaciones,2,230000000.0,COP,21
+habitaciones,3+,270000000.0,COP,45
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

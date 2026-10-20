@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,31
+filtro,area2,"de 45 a 70 m²",,31
+filtro,edad2,"de 6 a 20 años de construidos",,31
+precio,p25,361000000.0,COP,31
+precio,mediana,443000000.0,COP,31
+precio,p75,480000000.0,COP,31
+precio,minimo,268000000.0,COP,31
+precio,maximo,649000000.0,COP,31
+m2,mediana_precio_m2,7121407.12,COP,31
+m2,area_mediana_m2,58.5,m2,31
+admin,mediana_admin_mes,240000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,71.0,%,31
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,2,470000000.0,COP,16
+habitaciones,3+,410000000.0,COP,15
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/la-doctora,,
+fuente,licencia,CC BY 4.0,,

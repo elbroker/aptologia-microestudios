@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,76
+filtro,estrato,5,,76
+filtro,balc,"con balcón",,76
+filtro,area5,"de 150 a 250 m²",,76
+precio,p25,4900000.0,COP,76
+precio,mediana,5650000.0,COP,76
+precio,p75,7200000.0,COP,76
+precio,minimo,3300000.0,COP,76
+precio,maximo,15000000.0,COP,76
+m2,mediana_precio_m2,29880.95,COP,76
+m2,area_mediana_m2,200.0,m2,76
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,87.7,%,57
+estrato,estrato_mas_frecuente,5,,76
+habitaciones,3+,5650000.0,COP,72
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,271
+filtro,habitaciones,3+,,271
+filtro,piso2,"en piso 4 a 8",,271
+precio,p25,980000000.0,COP,271
+precio,mediana,1280000000.0,COP,271
+precio,p75,1700000000.0,COP,271
+precio,minimo,459000000.0,COP,271
+precio,maximo,4000000000.0,COP,271
+m2,mediana_precio_m2,6752358.49,COP,270
+m2,area_mediana_m2,185.0,m2,270
+admin,mediana_admin_mes,1300000.0,COP,247
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,269
+estrato,estrato_mas_frecuente,6,,270
+habitaciones,3+,1280000000.0,COP,271
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

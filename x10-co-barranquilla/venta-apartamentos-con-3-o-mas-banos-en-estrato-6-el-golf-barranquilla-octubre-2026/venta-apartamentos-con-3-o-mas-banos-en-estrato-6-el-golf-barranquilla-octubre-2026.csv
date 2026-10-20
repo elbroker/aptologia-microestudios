@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,119
+filtro,estrato,6,,119
+filtro,ban3,"con 3 o más baños",,119
+precio,p25,1200000000.0,COP,119
+precio,mediana,1700000000.0,COP,119
+precio,p75,2400000000.0,COP,119
+precio,minimo,445000000.0,COP,119
+precio,maximo,4250000000.0,COP,119
+m2,mediana_precio_m2,5588235.29,COP,109
+m2,area_mediana_m2,340.0,m2,109
+admin,mediana_admin_mes,2068500.0,COP,100
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.5,%,119
+estrato,estrato_mas_frecuente,6,,119
+habitaciones,2,1089855500.0,COP,6
+habitaciones,3+,1800000000.0,COP,113
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-golf,,
+fuente,licencia,CC BY 4.0,,

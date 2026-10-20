@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,74
+filtro,habitaciones,3+,,74
+filtro,edad1,"de 0 a 5 años de construidos",,74
+precio,p25,1210000000.0,COP,74
+precio,mediana,1470000000.0,COP,74
+precio,p75,2275000000.0,COP,74
+precio,minimo,670000000.0,COP,74
+precio,maximo,4000000000.0,COP,74
+m2,mediana_precio_m2,7416666.67,COP,73
+m2,area_mediana_m2,218.5,m2,73
+admin,mediana_admin_mes,1720000.0,COP,69
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,6,,72
+habitaciones,3+,1470000000.0,COP,74
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-carolina,,
+fuente,licencia,CC BY 4.0,,

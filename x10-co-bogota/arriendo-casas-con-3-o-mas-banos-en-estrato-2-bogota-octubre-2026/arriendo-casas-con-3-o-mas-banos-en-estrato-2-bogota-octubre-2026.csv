@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,30
+filtro,estrato,2,,30
+filtro,ban3,"con 3 o más baños",,30
+precio,p25,2157500.0,COP,30
+precio,mediana,3550000.0,COP,30
+precio,p75,7875000.0,COP,30
+precio,minimo,1600000.0,COP,30
+precio,maximo,19500000.0,COP,30
+m2,area_mediana_m2,252.5,m2,29
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,2,,30
+habitaciones,3+,3250000.0,COP,28
+ciudad,mediana_ciudad_referencia,10000000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

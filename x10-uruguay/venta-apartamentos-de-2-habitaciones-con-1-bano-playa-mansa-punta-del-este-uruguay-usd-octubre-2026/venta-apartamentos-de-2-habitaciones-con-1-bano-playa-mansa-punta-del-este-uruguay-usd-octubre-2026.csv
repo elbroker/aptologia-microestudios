@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,2,,33
+filtro,ban1,"con 1 baño",,33
+precio,p25,198000.0,USD,33
+precio,mediana,270000.0,USD,33
+precio,p75,305000.0,USD,33
+precio,minimo,140000.0,USD,33
+precio,maximo,570000.0,USD,33
+banos,mediana_banos,1.0,,
+habitaciones,2,270000.0,USD,33
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/playa-mansa,,
+fuente,licencia,CC BY 4.0,,

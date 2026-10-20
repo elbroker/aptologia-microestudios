@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,balc,"con balcón",,36
+precio,p25,6500000.0,COP,36
+precio,mediana,7900000.0,COP,36
+precio,p75,10575000.0,COP,36
+precio,minimo,4000000.0,COP,36
+precio,maximo,16000000.0,COP,36
+m2,mediana_precio_m2,52272.73,COP,35
+m2,area_mediana_m2,160.0,m2,35
+admin,mediana_admin_mes,1350000.0,COP,19
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,7900000.0,COP,36
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/bella-suiza,,
+fuente,licencia,CC BY 4.0,,

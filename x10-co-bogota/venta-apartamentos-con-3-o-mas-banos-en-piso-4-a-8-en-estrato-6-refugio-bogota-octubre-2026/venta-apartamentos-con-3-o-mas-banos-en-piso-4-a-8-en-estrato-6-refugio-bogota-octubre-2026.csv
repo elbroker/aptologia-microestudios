@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,34
+filtro,estrato,6,,34
+filtro,ban3,"con 3 o más baños",,34
+filtro,piso2,"en piso 4 a 8",,34
+precio,p25,1605000000.0,COP,34
+precio,mediana,2090000000.0,COP,34
+precio,p75,2987500000.0,COP,34
+precio,minimo,850000000.0,COP,34
+precio,maximo,3950000000.0,COP,34
+m2,mediana_precio_m2,9177022.42,COP,34
+m2,area_mediana_m2,223.5,m2,34
+admin,mediana_admin_mes,1931000.0,COP,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,2,1325000000.0,COP,6
+habitaciones,3+,2335000000.0,COP,28
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/refugio,,
+fuente,licencia,CC BY 4.0,,

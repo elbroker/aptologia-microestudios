@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,134
+filtro,estrato,6,,134
+filtro,ban3,"con 3 o más baños",,134
+precio,p25,1163750000.0,COP,134
+precio,mediana,1500000000.0,COP,134
+precio,p75,2579250000.0,COP,134
+precio,minimo,320000000.0,COP,134
+precio,maximo,4200000000.0,COP,134
+m2,mediana_precio_m2,8128078.82,COP,133
+m2,area_mediana_m2,200.0,m2,133
+admin,mediana_admin_mes,1295000.0,COP,96
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.2,%,133
+estrato,estrato_mas_frecuente,6,,134
+habitaciones,2,1700000000.0,COP,25
+habitaciones,3+,1450000000.0,COP,108
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

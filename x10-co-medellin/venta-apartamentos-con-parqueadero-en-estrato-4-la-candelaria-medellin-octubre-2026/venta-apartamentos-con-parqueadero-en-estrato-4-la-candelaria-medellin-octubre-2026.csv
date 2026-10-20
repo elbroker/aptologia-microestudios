@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,68
+filtro,estrato,4,,68
+filtro,parq1,"con parqueadero",,68
+precio,p25,487687083.0,COP,68
+precio,mediana,610000000.0,COP,68
+precio,p75,685750000.0,COP,68
+precio,minimo,260000000.0,COP,68
+precio,maximo,2000000000.0,COP,68
+m2,mediana_precio_m2,4041821.95,COP,62
+m2,area_mediana_m2,150.0,m2,62
+admin,mediana_admin_mes,744500.0,COP,40
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,68
+estrato,estrato_mas_frecuente,4,,68
+habitaciones,1,390000000.0,COP,5
+habitaciones,2,454000000.0,COP,5
+habitaciones,3+,650000000.0,COP,58
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-candelaria,,
+fuente,licencia,CC BY 4.0,,

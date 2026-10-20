@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,48
+filtro,habitaciones,2,,48
+filtro,area3,"de 70 a 100 m²",,48
+precio,p25,2637500.0,COP,48
+precio,mediana,3000000.0,COP,48
+precio,p75,4000000.0,COP,48
+precio,minimo,1700000.0,COP,48
+precio,maximo,5200000.0,COP,48
+m2,mediana_precio_m2,38813.85,COP,48
+m2,area_mediana_m2,74.0,m2,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,2,3000000.0,COP,48
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,37323.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-ceja,,
+fuente,licencia,CC BY 4.0,,

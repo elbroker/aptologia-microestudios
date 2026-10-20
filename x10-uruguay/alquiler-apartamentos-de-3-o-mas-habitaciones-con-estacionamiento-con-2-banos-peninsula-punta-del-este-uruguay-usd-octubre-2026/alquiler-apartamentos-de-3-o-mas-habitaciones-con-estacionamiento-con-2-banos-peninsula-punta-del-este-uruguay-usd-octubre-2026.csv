@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,36
+filtro,habitaciones,3+,,36
+filtro,parq1,"con estacionamiento",,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,2480.0,USD,36
+precio,mediana,4250.0,USD,36
+precio,p75,7845.0,USD,36
+precio,minimo,1100.0,USD,36
+precio,maximo,19500.0,USD,36
+m2,mediana_precio_m2,42.91,USD,30
+m2,area_mediana_m2,91.0,m2,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+habitaciones,3+,4250.0,USD,36
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

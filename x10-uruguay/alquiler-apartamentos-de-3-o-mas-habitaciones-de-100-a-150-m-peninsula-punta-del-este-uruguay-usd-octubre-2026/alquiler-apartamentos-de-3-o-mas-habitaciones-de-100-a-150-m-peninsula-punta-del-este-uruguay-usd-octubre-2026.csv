@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area4,"de 100 a 150 m²",,38
+precio,p25,2850.0,USD,38
+precio,mediana,4750.0,USD,38
+precio,p75,9875.0,USD,38
+precio,minimo,700.0,USD,38
+precio,maximo,18000.0,USD,38
+m2,mediana_precio_m2,40.91,USD,37
+m2,area_mediana_m2,117.5,m2,37
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,3+,4750.0,USD,38
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

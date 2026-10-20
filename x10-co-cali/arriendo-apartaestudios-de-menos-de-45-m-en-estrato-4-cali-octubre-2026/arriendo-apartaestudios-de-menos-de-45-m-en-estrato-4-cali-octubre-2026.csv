@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,78
+filtro,estrato,4,,78
+filtro,area1,"de menos de 45 m²",,78
+precio,p25,892500.0,COP,78
+precio,mediana,1100000.0,COP,78
+precio,p75,1500000.0,COP,78
+precio,minimo,690000.0,COP,78
+precio,maximo,3000000.0,COP,78
+m2,mediana_precio_m2,37500.0,COP,78
+m2,area_mediana_m2,30.0,m2,78
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,67.5,%,40
+estrato,estrato_mas_frecuente,4,,78
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

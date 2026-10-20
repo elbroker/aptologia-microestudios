@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,30
+filtro,habitaciones,2,,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,446250.0,PEN,30
+precio,mediana,646875.0,PEN,30
+precio,p75,919810.0,PEN,30
+precio,minimo,220400.0,PEN,30
+precio,maximo,2832500.0,PEN,30
+banos,mediana_banos,2.0,,
+habitaciones,2,646875.0,PEN,30
+ciudad,mediana_ciudad_referencia,2173590.0,PEN,
+ciudad,mediana_m2_ciudad,5926.03,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

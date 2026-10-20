@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,54
+filtro,habitaciones,3+,,54
+filtro,area2,"de 45 a 70 m²",,54
+precio,p25,7.83,UF,54
+precio,mediana,9.84,UF,54
+precio,p75,13.36,UF,54
+precio,minimo,4.62,UF,54
+precio,maximo,17.97,UF,54
+m2,mediana_precio_m2,0.19,UF,49
+m2,area_mediana_m2,55.5,m2,49
+banos,mediana_banos,1.0,,
+habitaciones,3+,9.84,UF,54
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/san-miguel,,
+fuente,licencia,CC BY 4.0,,

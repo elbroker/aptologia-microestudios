@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,87
+filtro,habitaciones,3+,,87
+filtro,ban3,"con 3 o más baños",,87
+precio,p25,2900.0,USD,87
+precio,mediana,4400.0,USD,87
+precio,p75,7050.0,USD,87
+precio,minimo,1700.0,USD,87
+precio,maximo,17000.0,USD,87
+m2,mediana_precio_m2,14.42,USD,85
+m2,area_mediana_m2,300.0,m2,85
+banos,mediana_banos,4.0,,
+habitaciones,3+,4400.0,USD,87
+ciudad,mediana_ciudad_referencia,3750.0,USD,
+ciudad,mediana_m2_ciudad,14.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/alquiler/tigre,,
+fuente,licencia,CC BY 4.0,,

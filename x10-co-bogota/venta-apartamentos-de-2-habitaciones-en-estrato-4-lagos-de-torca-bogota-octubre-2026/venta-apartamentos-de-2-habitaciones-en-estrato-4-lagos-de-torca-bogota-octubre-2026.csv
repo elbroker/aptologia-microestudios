@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,45
+filtro,habitaciones,2,,45
+filtro,estrato,4,,45
+precio,p25,300000000.0,COP,45
+precio,mediana,482000000.0,COP,45
+precio,p75,550000000.0,COP,45
+precio,minimo,205000000.0,COP,45
+precio,maximo,690000000.0,COP,45
+m2,mediana_precio_m2,7920912.72,COP,44
+m2,area_mediana_m2,58.5,m2,44
+admin,mediana_admin_mes,260000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,80.6,%,36
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,2,482000000.0,COP,45
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/lagos-de-torca,,
+fuente,licencia,CC BY 4.0,,

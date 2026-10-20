@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,90
+filtro,habitaciones,3+,,90
+filtro,ban2,"con 2 baños",,90
+precio,p25,1689500.0,COP,90
+precio,mediana,2200000.0,COP,90
+precio,p75,3000000.0,COP,90
+precio,minimo,950000.0,COP,90
+precio,maximo,7000000.0,COP,90
+m2,mediana_precio_m2,30545.45,COP,89
+m2,area_mediana_m2,76.0,m2,89
+admin,mediana_admin_mes,264700.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.7,%,71
+estrato,estrato_mas_frecuente,6,,90
+habitaciones,3+,2200000.0,COP,90
+ciudad,mediana_ciudad_referencia,2050000.0,COP,
+ciudad,mediana_m2_ciudad,31198.77,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/manizales,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,119
+filtro,estrato,4,,119
+precio,p25,380000000.0,COP,119
+precio,mediana,460000000.0,COP,119
+precio,p75,520000000.0,COP,119
+precio,minimo,250000000.0,COP,119
+precio,maximo,1250000000.0,COP,119
+m2,mediana_precio_m2,6516666.67,COP,118
+m2,area_mediana_m2,67.0,m2,118
+admin,mediana_admin_mes,220000.0,COP,47
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+estrato,estrato_mas_frecuente,4,,119
+habitaciones,1,350000000.0,COP,10
+habitaciones,2,440000000.0,COP,49
+habitaciones,3+,480000000.0,COP,59
+ciudad,mediana_ciudad_referencia,420000000.0,COP,
+ciudad,mediana_m2_ciudad,5922146.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-ceja,,
+fuente,licencia,CC BY 4.0,,

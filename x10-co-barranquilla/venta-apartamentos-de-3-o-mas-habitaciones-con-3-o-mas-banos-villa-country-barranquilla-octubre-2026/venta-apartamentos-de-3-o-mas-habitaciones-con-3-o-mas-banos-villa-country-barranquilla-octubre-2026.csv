@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,98
+filtro,habitaciones,3+,,98
+filtro,ban3,"con 3 o más baños",,98
+precio,p25,496250000.0,COP,98
+precio,mediana,685000000.0,COP,98
+precio,p75,1320000000.0,COP,98
+precio,minimo,330000000.0,COP,98
+precio,maximo,3188069280.0,COP,98
+m2,mediana_precio_m2,4107142.86,COP,93
+m2,area_mediana_m2,183.5,m2,93
+admin,mediana_admin_mes,1000000.0,COP,78
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,98
+estrato,estrato_mas_frecuente,6,,98
+habitaciones,3+,685000000.0,COP,98
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-country,,
+fuente,licencia,CC BY 4.0,,

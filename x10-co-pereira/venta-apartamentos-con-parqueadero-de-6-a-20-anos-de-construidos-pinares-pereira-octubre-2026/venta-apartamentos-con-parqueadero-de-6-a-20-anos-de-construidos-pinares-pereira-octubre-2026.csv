@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,126
+filtro,parq1,"con parqueadero",,126
+filtro,edad2,"de 6 a 20 años de construidos",,126
+precio,p25,442500000.0,COP,126
+precio,mediana,600000000.0,COP,126
+precio,p75,772500000.0,COP,126
+precio,minimo,264000000.0,COP,126
+precio,maximo,2800000000.0,COP,126
+m2,mediana_precio_m2,5645833.33,COP,124
+m2,area_mediana_m2,115.0,m2,124
+admin,mediana_admin_mes,500000.0,COP,112
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,126
+estrato,estrato_mas_frecuente,6,,126
+habitaciones,1,395000000.0,COP,9
+habitaciones,2,455000000.0,COP,35
+habitaciones,3+,682500000.0,COP,82
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

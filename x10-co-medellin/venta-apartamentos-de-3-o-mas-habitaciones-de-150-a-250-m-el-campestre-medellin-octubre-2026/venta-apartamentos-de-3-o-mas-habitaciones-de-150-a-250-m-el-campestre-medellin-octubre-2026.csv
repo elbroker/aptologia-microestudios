@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area5,"de 150 a 250 m²",,38
+precio,p25,1250000000.0,COP,38
+precio,mediana,1455000000.0,COP,38
+precio,p75,2018750000.0,COP,38
+precio,minimo,980000000.0,COP,38
+precio,maximo,3210000000.0,COP,38
+m2,mediana_precio_m2,9197368.42,COP,38
+m2,area_mediana_m2,185.5,m2,38
+admin,mediana_admin_mes,1080000.0,COP,27
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.4,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,3+,1455000000.0,COP,38
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-campestre,,
+fuente,licencia,CC BY 4.0,,

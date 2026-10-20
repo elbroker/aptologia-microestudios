@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,81
+filtro,habitaciones,3+,,81
+filtro,estrato,5,,81
+precio,p25,900000000.0,COP,81
+precio,mediana,980000000.0,COP,81
+precio,p75,1100000000.0,COP,81
+precio,minimo,495000000.0,COP,81
+precio,maximo,1600000000.0,COP,81
+m2,mediana_precio_m2,8730158.73,COP,81
+m2,area_mediana_m2,116.0,m2,81
+admin,mediana_admin_mes,700000.0,COP,51
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,81
+estrato,estrato_mas_frecuente,5,,81
+habitaciones,3+,980000000.0,COP,81
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

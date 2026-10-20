@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,47
+filtro,habitaciones,2,,47
+filtro,estrato,4,,47
+precio,p25,1250000.0,COP,47
+precio,mediana,1620600.0,COP,47
+precio,p75,2230000.0,COP,47
+precio,minimo,870000.0,COP,47
+precio,maximo,3500000.0,COP,47
+m2,mediana_precio_m2,35000.0,COP,45
+m2,area_mediana_m2,51.0,m2,45
+admin,mediana_admin_mes,225000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,73.7,%,38
+estrato,estrato_mas_frecuente,4,,47
+habitaciones,2,1620600.0,COP,47
+ciudad,mediana_ciudad_referencia,2050000.0,COP,
+ciudad,mediana_m2_ciudad,31198.77,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/manizales,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,balc,"con balcón",,32
+filtro,piso2,"en piso 4 a 8",,32
+precio,p25,10375000.0,COP,32
+precio,mediana,13155000.0,COP,32
+precio,p75,19000000.0,COP,32
+precio,minimo,4000000.0,COP,32
+precio,maximo,20120000.0,COP,32
+m2,mediana_precio_m2,62500.0,COP,30
+m2,area_mediana_m2,202.0,m2,30
+admin,mediana_admin_mes,1830000.0,COP,28
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,2,12500000.0,COP,7
+habitaciones,3+,16500000.0,COP,22
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/cabrera,,
+fuente,licencia,CC BY 4.0,,

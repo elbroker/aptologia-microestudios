@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area6,"de 250 m² o más",,36
+precio,p25,980000000.0,COP,36
+precio,mediana,1420000000.0,COP,36
+precio,p75,2500000000.0,COP,36
+precio,minimo,420000000.0,COP,36
+precio,maximo,5800000000.0,COP,36
+m2,mediana_precio_m2,3923076.92,COP,36
+m2,area_mediana_m2,365.5,m2,36
+banos,mediana_banos,5.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,1420000000.0,COP,36
+ciudad,mediana_ciudad_referencia,670000000.0,COP,
+ciudad,mediana_m2_ciudad,3490168.7,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/santa-marta/centro,,
+fuente,licencia,CC BY 4.0,,

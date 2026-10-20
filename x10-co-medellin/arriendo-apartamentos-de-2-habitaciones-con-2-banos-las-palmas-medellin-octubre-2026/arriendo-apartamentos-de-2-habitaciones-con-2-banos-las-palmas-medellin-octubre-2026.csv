@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,98
+filtro,habitaciones,2,,98
+filtro,ban2,"con 2 baños",,98
+precio,p25,3700000.0,COP,98
+precio,mediana,4050000.0,COP,98
+precio,p75,5000000.0,COP,98
+precio,minimo,1500000.0,COP,98
+precio,maximo,9500000.0,COP,98
+m2,mediana_precio_m2,58397.44,COP,98
+m2,area_mediana_m2,70.0,m2,98
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.9,%,98
+estrato,estrato_mas_frecuente,6,,98
+habitaciones,2,4050000.0,COP,98
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

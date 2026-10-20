@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,parq1,"con estacionamiento",,48
+filtro,ban1,"con 1 baño",,48
+precio,p25,4537500.0,PYG,48
+precio,mediana,5500000.0,PYG,48
+precio,p75,6000000.0,PYG,48
+precio,minimo,4000000.0,PYG,48
+precio,maximo,8450000.0,PYG,48
+m2,mediana_precio_m2,80946.97,PYG,46
+m2,area_mediana_m2,64.0,m2,46
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+habitaciones,1,5000000.0,PYG,33
+habitaciones,2,5700000.0,PYG,14
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/mburucuya,,
+fuente,licencia,CC BY 4.0,,

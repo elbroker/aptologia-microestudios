@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,160
+filtro,habitaciones,2,,160
+filtro,area4,"de 100 a 150 m²",,160
+precio,p25,8700.0,UF,160
+precio,mediana,9850.0,UF,160
+precio,p75,11622.5,UF,160
+precio,minimo,2495.0,UF,160
+precio,maximo,27000.0,UF,160
+m2,mediana_precio_m2,85.93,UF,152
+m2,area_mediana_m2,112.5,m2,152
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+habitaciones,2,9850.0,UF,160
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

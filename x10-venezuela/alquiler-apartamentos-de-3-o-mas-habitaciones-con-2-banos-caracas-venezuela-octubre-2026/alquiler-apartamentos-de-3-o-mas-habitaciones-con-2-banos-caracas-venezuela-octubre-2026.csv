@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,800.0,USD,55
+precio,mediana,950.0,USD,55
+precio,p75,1340.0,USD,55
+precio,minimo,400.0,USD,55
+precio,maximo,4500.0,USD,55
+m2,mediana_precio_m2,9.75,USD,54
+m2,area_mediana_m2,98.5,m2,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.1,%,54
+habitaciones,3+,950.0,USD,55
+ciudad,mediana_ciudad_referencia,1300.0,USD,
+ciudad,mediana_m2_ciudad,12.1,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/alquiler/caracas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,49
+filtro,habitaciones,3+,,49
+filtro,ban3,"con 3 o más baños",,49
+precio,p25,1300000000.0,COP,49
+precio,mediana,1495000000.0,COP,49
+precio,p75,2200000000.0,COP,49
+precio,minimo,950000000.0,COP,49
+precio,maximo,4600000000.0,COP,49
+m2,mediana_precio_m2,4492524.92,COP,48
+m2,area_mediana_m2,355.0,m2,48
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,91.1,%,45
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,3+,1495000000.0,COP,49
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/galerias,,
+fuente,licencia,CC BY 4.0,,

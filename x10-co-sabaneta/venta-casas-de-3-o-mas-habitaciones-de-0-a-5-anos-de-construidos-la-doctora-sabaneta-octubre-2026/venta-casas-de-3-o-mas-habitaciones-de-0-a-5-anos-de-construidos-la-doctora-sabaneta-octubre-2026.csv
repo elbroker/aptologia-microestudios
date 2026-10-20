@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,56
+filtro,habitaciones,3+,,56
+filtro,edad1,"de 0 a 5 años de construidos",,56
+precio,p25,1302500000.0,COP,56
+precio,mediana,1850000000.0,COP,56
+precio,p75,2050000000.0,COP,56
+precio,minimo,350000000.0,COP,56
+precio,maximo,4900000000.0,COP,56
+m2,mediana_precio_m2,4285714.29,COP,49
+m2,area_mediana_m2,350.0,m2,49
+admin,mediana_admin_mes,600000.0,COP,26
+banos,mediana_banos,4.5,,
+parqueadero,pct_con_parqueadero,84.9,%,53
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,3+,1850000000.0,COP,56
+ciudad,mediana_ciudad_referencia,1680000000.0,COP,
+ciudad,mediana_m2_ciudad,5000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/sabaneta/la-doctora,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,120
+filtro,ban3,"con 3 o más baños",,120
+filtro,edad1,"de 0 a 5 años de construidos",,120
+precio,p25,847500000.0,COP,120
+precio,mediana,1111000000.0,COP,120
+precio,p75,1500000000.0,COP,120
+precio,minimo,520000000.0,COP,120
+precio,maximo,2995000000.0,COP,120
+m2,mediana_precio_m2,6885745.12,COP,120
+m2,area_mediana_m2,162.0,m2,120
+admin,mediana_admin_mes,900000.0,COP,86
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,120
+estrato,estrato_mas_frecuente,6,,113
+habitaciones,2,630000000.0,COP,6
+habitaciones,3+,1150000000.0,COP,114
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/buenavista,,
+fuente,licencia,CC BY 4.0,,

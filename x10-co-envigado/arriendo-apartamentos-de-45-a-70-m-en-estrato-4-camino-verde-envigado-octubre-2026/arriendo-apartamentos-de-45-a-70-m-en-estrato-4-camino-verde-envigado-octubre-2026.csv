@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,4,,50
+filtro,area2,"de 45 a 70 m²",,50
+precio,p25,2700000.0,COP,50
+precio,mediana,2925000.0,COP,50
+precio,p75,3187500.0,COP,50
+precio,minimo,2300000.0,COP,50
+precio,maximo,3800000.0,COP,50
+m2,mediana_precio_m2,45236.9,COP,50
+m2,area_mediana_m2,65.0,m2,50
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,4,,50
+habitaciones,2,3000000.0,COP,18
+habitaciones,3+,2900000.0,COP,32
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/camino-verde,,
+fuente,licencia,CC BY 4.0,,

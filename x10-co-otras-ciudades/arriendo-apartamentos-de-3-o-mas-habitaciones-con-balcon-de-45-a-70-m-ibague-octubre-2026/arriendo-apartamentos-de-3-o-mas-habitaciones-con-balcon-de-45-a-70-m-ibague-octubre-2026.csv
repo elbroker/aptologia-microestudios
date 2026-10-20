@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,70
+filtro,habitaciones,3+,,70
+filtro,balc,"con balcón",,70
+filtro,area2,"de 45 a 70 m²",,70
+precio,p25,1071500.0,COP,70
+precio,mediana,1298000.0,COP,70
+precio,p75,1400000.0,COP,70
+precio,minimo,850000.0,COP,70
+precio,maximo,2200000.0,COP,70
+m2,mediana_precio_m2,21720.43,COP,66
+m2,area_mediana_m2,60.0,m2,66
+admin,mediana_admin_mes,208000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.6,%,67
+estrato,estrato_mas_frecuente,3,,70
+habitaciones,3+,1298000.0,COP,70
+ciudad,mediana_ciudad_referencia,1400000.0,COP,
+ciudad,mediana_m2_ciudad,22580.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/ibague,,
+fuente,licencia,CC BY 4.0,,

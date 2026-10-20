@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,206
+filtro,habitaciones,2,,206
+filtro,area2,"de 45 a 70 m²",,206
+filtro,ban1,"con 1 baño",,206
+precio,p25,178250000.0,COP,206
+precio,mediana,205000000.0,COP,206
+precio,p75,240000000.0,COP,206
+precio,minimo,150000000.0,COP,206
+precio,maximo,428900000.0,COP,206
+m2,mediana_precio_m2,3808492.0,COP,206
+m2,area_mediana_m2,53.0,m2,206
+admin,mediana_admin_mes,218000.0,COP,150
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,49.6,%,135
+estrato,estrato_mas_frecuente,4,,206
+habitaciones,2,205000000.0,COP,206
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali,,
+fuente,licencia,CC BY 4.0,,

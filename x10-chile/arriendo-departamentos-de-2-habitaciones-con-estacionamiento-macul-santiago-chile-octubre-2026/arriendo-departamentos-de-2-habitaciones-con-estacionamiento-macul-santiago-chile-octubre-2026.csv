@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,2,,36
+filtro,parq1,"con estacionamiento",,36
+precio,p25,493750.0,CLP,36
+precio,mediana,535000.0,CLP,36
+precio,p75,600000.0,CLP,36
+precio,minimo,430000.0,CLP,36
+precio,maximo,750000.0,CLP,36
+m2,mediana_precio_m2,9310.34,CLP,33
+m2,area_mediana_m2,58.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+habitaciones,2,535000.0,CLP,36
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/macul,,
+fuente,licencia,CC BY 4.0,,

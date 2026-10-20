@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,248
+filtro,habitaciones,3+,,248
+filtro,area3,"de 70 a 100 m²",,248
+precio,p25,245000.0,USD,248
+precio,mediana,300000.0,USD,248
+precio,p75,376250.0,USD,248
+precio,minimo,134035.0,USD,248
+precio,maximo,1500000.0,USD,248
+m2,mediana_precio_m2,3470.18,USD,242
+m2,area_mediana_m2,90.0,m2,242
+admin,mediana_admin_mes,639.0,USD,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,161
+habitaciones,3+,300000.0,USD,248
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,69
+filtro,ban3,"con 3 o más baños",,69
+filtro,edad1,"de 0 a 5 años de construidos",,69
+precio,p25,1150000000.0,COP,69
+precio,mediana,1450000000.0,COP,69
+precio,p75,1790000000.0,COP,69
+precio,minimo,705000000.0,COP,69
+precio,maximo,2700000000.0,COP,69
+m2,mediana_precio_m2,4583333.33,COP,69
+m2,area_mediana_m2,298.0,m2,69
+admin,mediana_admin_mes,500000.0,COP,24
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+estrato,estrato_mas_frecuente,5,,65
+habitaciones,3+,1450000000.0,COP,69
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/alhambra,,
+fuente,licencia,CC BY 4.0,,

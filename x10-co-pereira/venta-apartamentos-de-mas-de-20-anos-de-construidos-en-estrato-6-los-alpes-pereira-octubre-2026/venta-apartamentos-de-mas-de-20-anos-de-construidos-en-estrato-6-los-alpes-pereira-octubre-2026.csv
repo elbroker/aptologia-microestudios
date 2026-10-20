@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,6,,36
+filtro,edad3,"de más de 20 años de construidos",,36
+precio,p25,367500000.0,COP,36
+precio,mediana,460500000.0,COP,36
+precio,p75,552500000.0,COP,36
+precio,minimo,305000000.0,COP,36
+precio,maximo,1000000000.0,COP,36
+m2,mediana_precio_m2,4186046.51,COP,35
+m2,area_mediana_m2,108.5,m2,35
+admin,mediana_admin_mes,410000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,2,370000000.0,COP,9
+habitaciones,3+,480000000.0,COP,26
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alpes,,
+fuente,licencia,CC BY 4.0,,

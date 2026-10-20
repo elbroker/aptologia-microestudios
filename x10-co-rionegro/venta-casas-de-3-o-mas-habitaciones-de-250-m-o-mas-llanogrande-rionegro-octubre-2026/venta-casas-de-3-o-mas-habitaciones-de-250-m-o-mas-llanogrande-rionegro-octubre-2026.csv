@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,162
+filtro,habitaciones,3+,,162
+filtro,area6,"de 250 m² o más",,162
+precio,p25,2850000000.0,COP,162
+precio,mediana,3800000000.0,COP,162
+precio,p75,4987500000.0,COP,162
+precio,minimo,630000000.0,COP,162
+precio,maximo,8000000000.0,COP,162
+m2,mediana_precio_m2,7619047.62,COP,157
+m2,area_mediana_m2,500.0,m2,157
+admin,mediana_admin_mes,855000.0,COP,98
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,95.7,%,162
+estrato,estrato_mas_frecuente,6,,162
+habitaciones,3+,3800000000.0,COP,162
+ciudad,mediana_ciudad_referencia,2200000000.0,COP,
+ciudad,mediana_m2_ciudad,6689814.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/rionegro/llanogrande,,
+fuente,licencia,CC BY 4.0,,

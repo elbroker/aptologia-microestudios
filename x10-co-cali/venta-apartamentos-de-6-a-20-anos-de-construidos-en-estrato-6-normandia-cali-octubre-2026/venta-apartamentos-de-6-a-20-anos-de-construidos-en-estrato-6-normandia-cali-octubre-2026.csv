@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,52
+filtro,estrato,6,,52
+filtro,edad2,"de 6 a 20 años de construidos",,52
+precio,p25,845000000.0,COP,52
+precio,mediana,1317500000.0,COP,52
+precio,p75,1681250000.0,COP,52
+precio,minimo,265000000.0,COP,52
+precio,maximo,3000000000.0,COP,52
+m2,mediana_precio_m2,5880077.37,COP,52
+m2,area_mediana_m2,223.0,m2,52
+admin,mediana_admin_mes,1255000.0,COP,42
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,92.3,%,52
+estrato,estrato_mas_frecuente,6,,52
+habitaciones,2,775000000.0,COP,6
+habitaciones,3+,1500000000.0,COP,43
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/normandia,,
+fuente,licencia,CC BY 4.0,,

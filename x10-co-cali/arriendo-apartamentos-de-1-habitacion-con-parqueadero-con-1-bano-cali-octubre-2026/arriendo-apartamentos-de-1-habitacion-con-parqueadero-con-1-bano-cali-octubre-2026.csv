@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,64
+filtro,habitaciones,1,,64
+filtro,parq1,"con parqueadero",,64
+filtro,ban1,"con 1 baño",,64
+precio,p25,1437500.0,COP,64
+precio,mediana,2350000.0,COP,64
+precio,p75,2912500.0,COP,64
+precio,minimo,850000.0,COP,64
+precio,maximo,7500000.0,COP,64
+m2,mediana_precio_m2,53181.82,COP,62
+m2,area_mediana_m2,44.0,m2,62
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,64
+estrato,estrato_mas_frecuente,6,,64
+habitaciones,1,2350000.0,COP,64
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

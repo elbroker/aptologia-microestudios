@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,area4,"de 100 a 150 m²",,32
+precio,p25,288750.0,USD,32
+precio,mediana,380000.0,USD,32
+precio,p75,455000.0,USD,32
+precio,minimo,245000.0,USD,32
+precio,maximo,850000.0,USD,32
+m2,mediana_precio_m2,2849.44,USD,32
+m2,area_mediana_m2,116.0,m2,32
+banos,mediana_banos,2.0,,
+habitaciones,2,380000.0,USD,32
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/punta-ballena,,
+fuente,licencia,CC BY 4.0,,

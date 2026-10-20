@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,40
+filtro,habitaciones,3+,,40
+filtro,area4,"de 100 a 150 m²",,40
+filtro,ban2,"con 2 baños",,40
+precio,p25,293750000.0,COP,40
+precio,mediana,355000000.0,COP,40
+precio,p75,400000000.0,COP,40
+precio,minimo,200000000.0,COP,40
+precio,maximo,850000000.0,COP,40
+m2,mediana_precio_m2,2956481.48,COP,40
+m2,area_mediana_m2,116.5,m2,40
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,39
+habitaciones,3+,355000000.0,COP,40
+ciudad,mediana_ciudad_referencia,400000000.0,COP,
+ciudad,mediana_m2_ciudad,3406287.75,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,83
+filtro,parq1,"con parqueadero",,83
+filtro,ban2,"con 2 baños",,83
+precio,p25,550000000.0,COP,83
+precio,mediana,630000000.0,COP,83
+precio,p75,845000000.0,COP,83
+precio,minimo,380000000.0,COP,83
+precio,maximo,1400000000.0,COP,83
+m2,mediana_precio_m2,7116461.37,COP,82
+m2,area_mediana_m2,94.5,m2,82
+admin,mediana_admin_mes,582016.0,COP,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,83
+estrato,estrato_mas_frecuente,5,,83
+habitaciones,1,450000000.0,COP,6
+habitaciones,2,660000000.0,COP,56
+habitaciones,3+,620000000.0,COP,21
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/marbella,,
+fuente,licencia,CC BY 4.0,,

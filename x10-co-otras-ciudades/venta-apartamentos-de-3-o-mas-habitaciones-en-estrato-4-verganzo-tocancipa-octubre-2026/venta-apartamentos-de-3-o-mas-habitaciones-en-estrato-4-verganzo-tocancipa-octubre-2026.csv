@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,30
+filtro,habitaciones,3+,,30
+filtro,estrato,4,,30
+precio,p25,199500000.0,COP,30
+precio,mediana,223125000.0,COP,30
+precio,p75,259999999.75,COP,30
+precio,minimo,170500000.0,COP,30
+precio,maximo,270000000.0,COP,30
+m2,mediana_precio_m2,3875350.14,COP,30
+m2,area_mediana_m2,58.0,m2,30
+admin,mediana_admin_mes,159750.0,COP,22
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,223125000.0,COP,30
+ciudad,mediana_ciudad_referencia,215000000.0,COP,
+ciudad,mediana_m2_ciudad,3644067.8,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/tocancipa/verganzo,,
+fuente,licencia,CC BY 4.0,,

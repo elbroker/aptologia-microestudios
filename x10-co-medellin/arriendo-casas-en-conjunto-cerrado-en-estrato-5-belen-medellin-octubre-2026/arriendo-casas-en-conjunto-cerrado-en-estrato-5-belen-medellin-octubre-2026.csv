@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,38
+filtro,estrato,5,,38
+filtro,conj,"en conjunto cerrado",,38
+precio,p25,4025000.0,COP,38
+precio,mediana,4750000.0,COP,38
+precio,p75,5500000.0,COP,38
+precio,minimo,2900000.0,COP,38
+precio,maximo,8000000.0,COP,38
+m2,mediana_precio_m2,34711.57,COP,38
+m2,area_mediana_m2,140.0,m2,38
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,86.8,%,38
+estrato,estrato_mas_frecuente,5,,38
+habitaciones,3+,4750000.0,COP,38
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

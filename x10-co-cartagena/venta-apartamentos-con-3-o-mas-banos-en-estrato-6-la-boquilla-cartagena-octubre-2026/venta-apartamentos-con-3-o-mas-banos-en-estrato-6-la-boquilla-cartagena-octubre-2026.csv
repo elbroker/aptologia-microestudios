@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,124
+filtro,estrato,6,,124
+filtro,ban3,"con 3 o más baños",,124
+precio,p25,1100000000.0,COP,124
+precio,mediana,1345000000.0,COP,124
+precio,p75,1692500000.0,COP,124
+precio,minimo,560000000.0,COP,124
+precio,maximo,3900000000.0,COP,124
+m2,mediana_precio_m2,10312500.0,COP,121
+m2,area_mediana_m2,142.0,m2,121
+admin,mediana_admin_mes,1200000.0,COP,97
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.3,%,121
+estrato,estrato_mas_frecuente,6,,124
+habitaciones,2,1250000000.0,COP,67
+habitaciones,3+,1600000000.0,COP,57
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/la-boquilla,,
+fuente,licencia,CC BY 4.0,,

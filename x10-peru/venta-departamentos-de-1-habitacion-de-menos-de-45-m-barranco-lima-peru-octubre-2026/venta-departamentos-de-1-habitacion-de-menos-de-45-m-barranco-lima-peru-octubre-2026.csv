@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,1,,43
+filtro,area1,"de menos de 45 m²",,43
+precio,p25,369083.5,PEN,43
+precio,mediana,428980.0,PEN,43
+precio,p75,468525.5,PEN,43
+precio,minimo,244000.0,PEN,43
+precio,maximo,578500.0,PEN,43
+m2,mediana_precio_m2,10724.5,PEN,41
+m2,area_mediana_m2,40.0,m2,41
+banos,mediana_banos,1.0,,
+habitaciones,1,428980.0,PEN,43
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

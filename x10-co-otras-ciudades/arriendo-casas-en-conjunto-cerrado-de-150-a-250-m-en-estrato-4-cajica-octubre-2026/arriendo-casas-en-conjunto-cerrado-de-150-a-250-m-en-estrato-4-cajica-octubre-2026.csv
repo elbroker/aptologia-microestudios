@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,31
+filtro,estrato,4,,31
+filtro,conj,"en conjunto cerrado",,31
+filtro,area5,"de 150 a 250 m²",,31
+precio,p25,5200000.0,COP,31
+precio,mediana,5700000.0,COP,31
+precio,p75,6460000.0,COP,31
+precio,minimo,3500000.0,COP,31
+precio,maximo,7900000.0,COP,31
+m2,mediana_precio_m2,30057.8,COP,31
+m2,area_mediana_m2,182.0,m2,31
+admin,mediana_admin_mes,914000.0,COP,15
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,3+,5700000.0,COP,31
+ciudad,mediana_ciudad_referencia,7000000.0,COP,
+ciudad,mediana_m2_ciudad,32034.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cajica,,
+fuente,licencia,CC BY 4.0,,

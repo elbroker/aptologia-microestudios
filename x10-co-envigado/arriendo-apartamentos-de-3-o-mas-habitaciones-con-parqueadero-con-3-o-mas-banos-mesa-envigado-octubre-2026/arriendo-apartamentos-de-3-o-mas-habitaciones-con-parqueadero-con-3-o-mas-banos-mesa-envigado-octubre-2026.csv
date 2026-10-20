@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,42
+filtro,habitaciones,3+,,42
+filtro,parq1,"con parqueadero",,42
+filtro,ban3,"con 3 o más baños",,42
+precio,p25,4525000.0,COP,42
+precio,mediana,5290000.0,COP,42
+precio,p75,6000000.0,COP,42
+precio,minimo,3200000.0,COP,42
+precio,maximo,14400000.0,COP,42
+m2,mediana_precio_m2,42261.9,COP,42
+m2,area_mediana_m2,118.0,m2,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,3+,5290000.0,COP,42
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

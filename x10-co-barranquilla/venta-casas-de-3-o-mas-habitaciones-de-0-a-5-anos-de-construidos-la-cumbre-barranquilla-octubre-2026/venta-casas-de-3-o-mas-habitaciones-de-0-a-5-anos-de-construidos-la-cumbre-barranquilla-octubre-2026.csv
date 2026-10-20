@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,53
+filtro,habitaciones,3+,,53
+filtro,edad1,"de 0 a 5 años de construidos",,53
+precio,p25,740000000.0,COP,53
+precio,mediana,1000000000.0,COP,53
+precio,p75,1500000000.0,COP,53
+precio,minimo,451000000.0,COP,53
+precio,maximo,1900000000.0,COP,53
+m2,mediana_precio_m2,3282828.28,COP,53
+m2,area_mediana_m2,331.0,m2,53
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.7,%,44
+estrato,estrato_mas_frecuente,5,,53
+habitaciones,3+,1000000000.0,COP,53
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/la-cumbre,,
+fuente,licencia,CC BY 4.0,,

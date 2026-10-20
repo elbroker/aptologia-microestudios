@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,area6,"de 250 m² o más",,37
+precio,p25,1650000000.0,COP,37
+precio,mediana,1990000000.0,COP,37
+precio,p75,2450000000.0,COP,37
+precio,minimo,1200000000.0,COP,37
+precio,maximo,3290000000.0,COP,37
+m2,mediana_precio_m2,6493698.82,COP,36
+m2,area_mediana_m2,285.0,m2,36
+admin,mediana_admin_mes,1700000.0,COP,33
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,97.3,%,37
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,1990000000.0,COP,37
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

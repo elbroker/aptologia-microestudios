@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,3+,,40
+filtro,ban3,"con 3 o más baños",,40
+precio,p25,528750.0,USD,40
+precio,mediana,672500.0,USD,40
+precio,p75,815000.0,USD,40
+precio,minimo,285000.0,USD,40
+precio,maximo,1320000.0,USD,40
+m2,mediana_precio_m2,3981.48,USD,40
+m2,area_mediana_m2,160.5,m2,40
+banos,mediana_banos,3.0,,
+habitaciones,3+,672500.0,USD,40
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

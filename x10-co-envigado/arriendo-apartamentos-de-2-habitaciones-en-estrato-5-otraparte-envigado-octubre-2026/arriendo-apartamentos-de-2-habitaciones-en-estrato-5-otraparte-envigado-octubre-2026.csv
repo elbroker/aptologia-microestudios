@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,34
+filtro,habitaciones,2,,34
+filtro,estrato,5,,34
+precio,p25,3575000.0,COP,34
+precio,mediana,3825000.0,COP,34
+precio,p75,4187500.0,COP,34
+precio,minimo,2000000.0,COP,34
+precio,maximo,6200000.0,COP,34
+m2,mediana_precio_m2,54381.66,COP,34
+m2,area_mediana_m2,73.0,m2,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,5,,34
+habitaciones,2,3825000.0,COP,34
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/otraparte,,
+fuente,licencia,CC BY 4.0,,

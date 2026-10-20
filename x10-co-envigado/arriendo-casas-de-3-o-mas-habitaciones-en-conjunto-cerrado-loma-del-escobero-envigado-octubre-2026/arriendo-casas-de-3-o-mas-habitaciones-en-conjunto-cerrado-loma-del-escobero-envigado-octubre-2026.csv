@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,87
+filtro,habitaciones,3+,,87
+filtro,conj,"en conjunto cerrado",,87
+precio,p25,9000000.0,COP,87
+precio,mediana,12700000.0,COP,87
+precio,p75,16000000.0,COP,87
+precio,minimo,6000000.0,COP,87
+precio,maximo,28000000.0,COP,87
+m2,mediana_precio_m2,38235.29,COP,83
+m2,area_mediana_m2,310.0,m2,83
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+estrato,estrato_mas_frecuente,5,,87
+habitaciones,3+,12700000.0,COP,87
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,parq1,"con parqueadero",,55
+precio,p25,1375000000.0,COP,55
+precio,mediana,2250000000.0,COP,55
+precio,p75,3800000000.0,COP,55
+precio,minimo,710000000.0,COP,55
+precio,maximo,6500000000.0,COP,55
+m2,mediana_precio_m2,7166666.67,COP,51
+m2,area_mediana_m2,300.0,m2,51
+admin,mediana_admin_mes,935000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,51
+habitaciones,3+,2250000000.0,COP,55
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

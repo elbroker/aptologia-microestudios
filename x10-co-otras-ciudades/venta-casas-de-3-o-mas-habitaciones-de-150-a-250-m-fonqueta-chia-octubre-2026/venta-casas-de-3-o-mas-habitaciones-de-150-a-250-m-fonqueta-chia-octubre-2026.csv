@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,area5,"de 150 a 250 m²",,58
+precio,p25,795000000.0,COP,58
+precio,mediana,909500000.0,COP,58
+precio,p75,1099750000.0,COP,58
+precio,minimo,630000000.0,COP,58
+precio,maximo,2350000000.0,COP,58
+m2,mediana_precio_m2,5003839.3,COP,58
+m2,area_mediana_m2,180.5,m2,58
+admin,mediana_admin_mes,803700.0,COP,45
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,3+,909500000.0,COP,58
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,5059882.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/chia/fonqueta,,
+fuente,licencia,CC BY 4.0,,

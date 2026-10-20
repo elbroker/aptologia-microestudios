@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,balc,"con balcón",,51
+filtro,piso2,"en piso 4 a 8",,51
+precio,p25,3950000.0,COP,51
+precio,mediana,4600000.0,COP,51
+precio,p75,5800000.0,COP,51
+precio,minimo,1600000.0,COP,51
+precio,maximo,10600000.0,COP,51
+m2,mediana_precio_m2,41121.5,COP,49
+m2,area_mediana_m2,113.0,m2,49
+admin,mediana_admin_mes,445000.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,2,4500000.0,COP,9
+habitaciones,3+,4700000.0,COP,41
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/riomar,,
+fuente,licencia,CC BY 4.0,,

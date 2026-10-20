@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,parq0,"sin estacionamiento",,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,610500.0,EUR,30
+precio,mediana,727000.0,EUR,30
+precio,p75,911375.0,EUR,30
+precio,minimo,249000.0,EUR,30
+precio,maximo,1850000.0,EUR,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,30
+habitaciones,1,499000.0,EUR,5
+habitaciones,2,710000.0,EUR,15
+habitaciones,3+,944500.0,EUR,10
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/estrela,,
+fuente,licencia,CC BY 4.0,,

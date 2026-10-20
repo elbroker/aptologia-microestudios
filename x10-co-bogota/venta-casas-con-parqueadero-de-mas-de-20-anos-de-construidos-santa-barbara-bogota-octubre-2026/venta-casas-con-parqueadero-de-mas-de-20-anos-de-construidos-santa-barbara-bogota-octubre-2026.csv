@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,95
+filtro,parq1,"con parqueadero",,95
+filtro,edad3,"de más de 20 años de construidos",,95
+precio,p25,1650000000.0,COP,95
+precio,mediana,2090000000.0,COP,95
+precio,p75,3050000000.0,COP,95
+precio,minimo,700000000.0,COP,95
+precio,maximo,6500000000.0,COP,95
+m2,mediana_precio_m2,6666666.67,COP,94
+m2,area_mediana_m2,330.0,m2,94
+admin,mediana_admin_mes,400000.0,COP,28
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,95
+estrato,estrato_mas_frecuente,6,,94
+habitaciones,3+,2090000000.0,COP,95
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

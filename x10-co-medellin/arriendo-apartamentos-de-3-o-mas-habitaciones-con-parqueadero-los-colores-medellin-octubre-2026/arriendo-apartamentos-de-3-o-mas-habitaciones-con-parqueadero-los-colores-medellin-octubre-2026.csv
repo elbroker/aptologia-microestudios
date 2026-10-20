@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,72
+filtro,habitaciones,3+,,72
+filtro,parq1,"con parqueadero",,72
+precio,p25,3200000.0,COP,72
+precio,mediana,3800000.0,COP,72
+precio,p75,4400000.0,COP,72
+precio,minimo,2400000.0,COP,72
+precio,maximo,11111111.0,COP,72
+m2,mediana_precio_m2,43103.45,COP,71
+m2,area_mediana_m2,88.0,m2,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,3+,3800000.0,COP,72
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-colores,,
+fuente,licencia,CC BY 4.0,,

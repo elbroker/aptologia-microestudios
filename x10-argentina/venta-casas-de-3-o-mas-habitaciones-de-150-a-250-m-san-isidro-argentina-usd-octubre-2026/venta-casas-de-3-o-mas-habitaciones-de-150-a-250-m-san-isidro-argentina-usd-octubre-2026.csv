@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,area5,"de 150 a 250 m²",,42
+precio,p25,301750.0,USD,42
+precio,mediana,358000.0,USD,42
+precio,p75,420000.0,USD,42
+precio,minimo,163000.0,USD,42
+precio,maximo,890000.0,USD,42
+m2,mediana_precio_m2,1875.44,USD,42
+m2,area_mediana_m2,193.5,m2,42
+banos,mediana_banos,2.0,,
+habitaciones,3+,358000.0,USD,42
+ciudad,mediana_ciudad_referencia,320000.0,USD,
+ciudad,mediana_m2_ciudad,1896.21,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/san-isidro,,
+fuente,licencia,CC BY 4.0,,

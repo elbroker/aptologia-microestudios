@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,68
+filtro,habitaciones,3+,,68
+filtro,conj,"en conjunto cerrado",,68
+filtro,parq1,"con parqueadero",,68
+precio,p25,1500000.0,COP,68
+precio,mediana,1750000.0,COP,68
+precio,p75,2200000.0,COP,68
+precio,minimo,850000.0,COP,68
+precio,maximo,3600000.0,COP,68
+m2,mediana_precio_m2,30000.0,COP,68
+m2,area_mediana_m2,54.0,m2,68
+admin,mediana_admin_mes,340000.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,68
+estrato,estrato_mas_frecuente,4,,68
+habitaciones,3+,1750000.0,COP,68
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,28571.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/mosquera,,
+fuente,licencia,CC BY 4.0,,

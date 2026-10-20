@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,1531
+filtro,estrato,4,,1531
+filtro,ban2,"con 2 baños",,1531
+precio,p25,2500000.0,COP,1531
+precio,mediana,2997000.0,COP,1531
+precio,p75,3500000.0,COP,1531
+precio,minimo,1200000.0,COP,1531
+precio,maximo,8850000.0,COP,1531
+m2,mediana_precio_m2,43076.92,COP,1525
+m2,area_mediana_m2,68.0,m2,1525
+admin,mediana_admin_mes,450000.0,COP,709
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,1438
+estrato,estrato_mas_frecuente,4,,1531
+habitaciones,1,2850000.0,COP,209
+habitaciones,2,2900000.0,COP,600
+habitaciones,3+,3000000.0,COP,722
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

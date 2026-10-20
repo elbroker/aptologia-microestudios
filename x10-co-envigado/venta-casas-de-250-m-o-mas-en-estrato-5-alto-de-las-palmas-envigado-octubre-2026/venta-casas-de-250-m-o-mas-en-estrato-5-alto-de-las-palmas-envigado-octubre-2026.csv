@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,42
+filtro,estrato,5,,42
+filtro,area6,"de 250 m² o más",,42
+precio,p25,3237500000.0,COP,42
+precio,mediana,3950000000.0,COP,42
+precio,p75,4500000000.0,COP,42
+precio,minimo,2400000000.0,COP,42
+precio,maximo,5850000000.0,COP,42
+m2,mediana_precio_m2,9141874.6,COP,40
+m2,area_mediana_m2,445.0,m2,40
+admin,mediana_admin_mes,970000.0,COP,29
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,95.2,%,42
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,3+,3950000000.0,COP,42
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/alto-de-las-palmas,,
+fuente,licencia,CC BY 4.0,,

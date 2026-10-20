@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,ban2,"con 2 baños",,40
+precio,p25,365000000.0,COP,40
+precio,mediana,451855500.0,COP,40
+precio,p75,612500000.0,COP,40
+precio,minimo,245000000.0,COP,40
+precio,maximo,750000000.0,COP,40
+m2,mediana_precio_m2,5000000.0,COP,37
+m2,area_mediana_m2,95.0,m2,37
+admin,mediana_admin_mes,390000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,2,370000000.0,COP,7
+habitaciones,3+,475000000.0,COP,30
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-candelaria,,
+fuente,licencia,CC BY 4.0,,

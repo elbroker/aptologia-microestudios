@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,66
+filtro,habitaciones,3+,,66
+filtro,area3,"de 70 a 100 m²",,66
+filtro,ban3,"con 3 o más baños",,66
+precio,p25,412500000.0,COP,66
+precio,mediana,455000000.0,COP,66
+precio,p75,550000000.0,COP,66
+precio,minimo,320000000.0,COP,66
+precio,maximo,870000000.0,COP,66
+m2,mediana_precio_m2,5000000.0,COP,66
+m2,area_mediana_m2,92.0,m2,66
+admin,mediana_admin_mes,420000.0,COP,57
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.4,%,63
+estrato,estrato_mas_frecuente,5,,66
+habitaciones,3+,455000000.0,COP,66
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/valle-del-lili,,
+fuente,licencia,CC BY 4.0,,

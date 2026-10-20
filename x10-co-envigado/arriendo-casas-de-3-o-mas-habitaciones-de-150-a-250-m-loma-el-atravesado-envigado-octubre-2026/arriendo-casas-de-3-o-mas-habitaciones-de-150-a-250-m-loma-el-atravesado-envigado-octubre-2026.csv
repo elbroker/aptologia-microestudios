@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,60
+filtro,habitaciones,3+,,60
+filtro,area5,"de 150 a 250 m²",,60
+precio,p25,8875000.0,COP,60
+precio,mediana,10300000.0,COP,60
+precio,p75,11600000.0,COP,60
+precio,minimo,6000000.0,COP,60
+precio,maximo,17500000.0,COP,60
+m2,mediana_precio_m2,52565.79,COP,60
+m2,area_mediana_m2,200.0,m2,60
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,3+,10300000.0,COP,60
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/loma-el-atravesado,,
+fuente,licencia,CC BY 4.0,,

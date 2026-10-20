@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,93
+filtro,habitaciones,3+,,93
+filtro,edad3,"de más de 20 años de construidos",,93
+precio,p25,1700000000.0,COP,93
+precio,mediana,2490000000.0,COP,93
+precio,p75,3100000000.0,COP,93
+precio,minimo,889000000.0,COP,93
+precio,maximo,4250000000.0,COP,93
+m2,mediana_precio_m2,9573882.0,COP,92
+m2,area_mediana_m2,257.0,m2,92
+admin,mediana_admin_mes,2200000.0,COP,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.8,%,93
+estrato,estrato_mas_frecuente,6,,93
+habitaciones,3+,2490000000.0,COP,93
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-cabrera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,5,,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,950000000.0,COP,36
+precio,mediana,1124500000.0,COP,36
+precio,p75,1337500000.0,COP,36
+precio,minimo,875000000.0,COP,36
+precio,maximo,2550000000.0,COP,36
+m2,mediana_precio_m2,10145012.77,COP,36
+m2,area_mediana_m2,104.5,m2,36
+admin,mediana_admin_mes,650000.0,COP,27
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,1050000000.0,COP,15
+habitaciones,3+,1153009000.0,COP,21
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-de-los-mesa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,155
+filtro,habitaciones,3+,,155
+filtro,area4,"de 100 a 150 m²",,155
+precio,p25,445000000.0,COP,155
+precio,mediana,482000000.0,COP,155
+precio,p75,650000000.0,COP,155
+precio,minimo,230000000.0,COP,155
+precio,maximo,1300000000.0,COP,155
+m2,mediana_precio_m2,4140625.0,COP,155
+m2,area_mediana_m2,119.0,m2,155
+admin,mediana_admin_mes,380000.0,COP,114
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,91.8,%,147
+estrato,estrato_mas_frecuente,4,,154
+habitaciones,3+,482000000.0,COP,155
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,3801169.59,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/mosquera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,51
+filtro,habitaciones,1,,51
+filtro,area3,"de 70 a 100 m²",,51
+precio,p25,160000.0,USD,51
+precio,mediana,195500.0,USD,51
+precio,p75,254500.0,USD,51
+precio,minimo,84546.0,USD,51
+precio,maximo,449500.0,USD,51
+m2,mediana_precio_m2,2550.47,USD,50
+m2,area_mediana_m2,76.0,m2,50
+banos,mediana_banos,1.0,,
+habitaciones,1,195500.0,USD,51
+ciudad,mediana_ciudad_referencia,210000.0,USD,
+ciudad,mediana_m2_ciudad,2527.22,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/punta-cana,,
+fuente,licencia,CC BY 4.0,,

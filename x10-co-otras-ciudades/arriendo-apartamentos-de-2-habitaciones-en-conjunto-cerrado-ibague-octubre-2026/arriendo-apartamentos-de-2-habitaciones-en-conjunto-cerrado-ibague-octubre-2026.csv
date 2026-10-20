@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,37
+filtro,habitaciones,2,,37
+filtro,conj,"en conjunto cerrado",,37
+precio,p25,1072530.0,COP,37
+precio,mediana,1349350.0,COP,37
+precio,p75,1574600.0,COP,37
+precio,minimo,850000.0,COP,37
+precio,maximo,3500000.0,COP,37
+m2,mediana_precio_m2,24615.38,COP,37
+m2,area_mediana_m2,56.0,m2,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.8,%,33
+estrato,estrato_mas_frecuente,3,,37
+habitaciones,2,1349350.0,COP,37
+ciudad,mediana_ciudad_referencia,1400000.0,COP,
+ciudad,mediana_m2_ciudad,22580.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/ibague,,
+fuente,licencia,CC BY 4.0,,

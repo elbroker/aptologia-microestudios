@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,parq1,"con estacionamiento",,51
+filtro,ban1,"con 1 baño",,51
+precio,p25,29250.0,UYU,51
+precio,mediana,33000.0,UYU,51
+precio,p75,39000.0,UYU,51
+precio,minimo,23000.0,UYU,51
+precio,maximo,65000.0,UYU,51
+m2,mediana_precio_m2,610.0,UYU,49
+m2,area_mediana_m2,51.0,m2,49
+admin,mediana_admin_mes,6000.0,UYU,49
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+habitaciones,1,30250.0,UYU,30
+habitaciones,2,37500.0,UYU,21
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/centro,,
+fuente,licencia,CC BY 4.0,,

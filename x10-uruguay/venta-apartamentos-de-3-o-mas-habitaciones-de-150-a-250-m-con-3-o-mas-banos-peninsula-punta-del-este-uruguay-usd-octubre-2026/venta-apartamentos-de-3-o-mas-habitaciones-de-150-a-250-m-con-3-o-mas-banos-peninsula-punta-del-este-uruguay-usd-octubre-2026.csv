@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,49
+filtro,habitaciones,3+,,49
+filtro,area5,"de 150 a 250 m²",,49
+filtro,ban3,"con 3 o más baños",,49
+precio,p25,530000.0,USD,49
+precio,mediana,700000.0,USD,49
+precio,p75,1200000.0,USD,49
+precio,minimo,240000.0,USD,49
+precio,maximo,2000000.0,USD,49
+m2,mediana_precio_m2,4234.32,USD,48
+m2,area_mediana_m2,191.0,m2,48
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+habitaciones,3+,700000.0,USD,49
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

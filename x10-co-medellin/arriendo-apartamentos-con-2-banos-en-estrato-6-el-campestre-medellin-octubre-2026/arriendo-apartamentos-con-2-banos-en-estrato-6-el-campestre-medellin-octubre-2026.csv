@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,38
+filtro,estrato,6,,38
+filtro,ban2,"con 2 baños",,38
+precio,p25,5200000.0,COP,38
+precio,mediana,5900000.0,COP,38
+precio,p75,7000000.0,COP,38
+precio,minimo,3500000.0,COP,38
+precio,maximo,15150000.0,COP,38
+m2,mediana_precio_m2,67543.86,COP,38
+m2,area_mediana_m2,96.5,m2,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,1,5500000.0,COP,7
+habitaciones,2,6500000.0,COP,21
+habitaciones,3+,5750000.0,COP,10
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-campestre,,
+fuente,licencia,CC BY 4.0,,

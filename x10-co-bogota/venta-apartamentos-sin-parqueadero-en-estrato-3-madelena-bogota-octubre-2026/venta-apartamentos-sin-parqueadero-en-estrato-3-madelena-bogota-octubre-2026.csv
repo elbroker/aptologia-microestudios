@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,3,,50
+filtro,parq0,"sin parqueadero",,50
+precio,p25,215000000.0,COP,50
+precio,mediana,230000000.0,COP,50
+precio,p75,245000000.0,COP,50
+precio,minimo,180000000.0,COP,50
+precio,maximo,380000000.0,COP,50
+m2,mediana_precio_m2,4971910.11,COP,50
+m2,area_mediana_m2,45.2,m2,50
+admin,mediana_admin_mes,149365.0,COP,31
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,50
+estrato,estrato_mas_frecuente,3,,50
+habitaciones,2,222500000.0,COP,28
+habitaciones,3+,240000000.0,COP,21
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/madelena,,
+fuente,licencia,CC BY 4.0,,

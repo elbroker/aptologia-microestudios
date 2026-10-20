@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,72
+filtro,estrato,4,,72
+filtro,ban2,"con 2 baños",,72
+precio,p25,348000000.0,COP,72
+precio,mediana,367500000.0,COP,72
+precio,p75,450000000.0,COP,72
+precio,minimo,180000000.0,COP,72
+precio,maximo,620000000.0,COP,72
+m2,mediana_precio_m2,5427338.22,COP,72
+m2,area_mediana_m2,71.5,m2,72
+admin,mediana_admin_mes,350000.0,COP,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,4,,72
+habitaciones,2,349000000.0,COP,24
+habitaciones,3+,400000000.0,COP,47
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,5671641.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/centro,,
+fuente,licencia,CC BY 4.0,,

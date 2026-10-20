@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,121
+filtro,habitaciones,3+,,121
+filtro,area5,"de 150 a 250 m²",,121
+filtro,ban3,"con 3 o más baños",,121
+precio,p25,850.0,USD,121
+precio,mediana,1600.0,USD,121
+precio,p75,2300.0,USD,121
+precio,minimo,500.0,USD,121
+precio,maximo,3500.0,USD,121
+m2,mediana_precio_m2,8.42,USD,120
+m2,area_mediana_m2,180.0,m2,120
+banos,mediana_banos,3.0,,
+habitaciones,3+,1600.0,USD,121
+ciudad,mediana_ciudad_referencia,850.0,USD,
+ciudad,mediana_m2_ciudad,8.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/guayaquil,,
+fuente,licencia,CC BY 4.0,,

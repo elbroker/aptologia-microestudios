@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,73
+filtro,habitaciones,1,,73
+filtro,area2,"de 45 a 70 m²",,73
+precio,p25,4850.0,BRL,73
+precio,mediana,7000.0,BRL,73
+precio,p75,10000.0,BRL,73
+precio,minimo,2580.0,BRL,73
+precio,maximo,22000.0,BRL,73
+m2,mediana_precio_m2,114.58,BRL,59
+m2,area_mediana_m2,52.0,m2,59
+admin,mediana_admin_mes,1500.0,BRL,71
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+habitaciones,1,7000.0,BRL,73
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-olimpia,,
+fuente,licencia,CC BY 4.0,,

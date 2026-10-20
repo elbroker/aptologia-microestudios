@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,93
+filtro,habitaciones,3+,,93
+filtro,parq1,"con parqueadero",,93
+precio,p25,460000000.0,COP,93
+precio,mediana,515000000.0,COP,93
+precio,p75,580000000.0,COP,93
+precio,minimo,265250000.0,COP,93
+precio,maximo,1250000000.0,COP,93
+m2,mediana_precio_m2,6969696.97,COP,93
+m2,area_mediana_m2,70.0,m2,93
+admin,mediana_admin_mes,250000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+estrato,estrato_mas_frecuente,4,,82
+habitaciones,3+,515000000.0,COP,93
+ciudad,mediana_ciudad_referencia,420000000.0,COP,
+ciudad,mediana_m2_ciudad,5922146.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-ceja,,
+fuente,licencia,CC BY 4.0,,

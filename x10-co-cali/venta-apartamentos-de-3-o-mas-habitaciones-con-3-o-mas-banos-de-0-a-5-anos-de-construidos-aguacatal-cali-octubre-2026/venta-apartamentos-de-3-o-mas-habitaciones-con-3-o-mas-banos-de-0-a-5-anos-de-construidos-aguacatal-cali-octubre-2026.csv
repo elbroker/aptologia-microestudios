@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,56
+filtro,habitaciones,3+,,56
+filtro,ban3,"con 3 o más baños",,56
+filtro,edad1,"de 0 a 5 años de construidos",,56
+precio,p25,1100000000.0,COP,56
+precio,mediana,1475000000.0,COP,56
+precio,p75,1600000000.0,COP,56
+precio,minimo,590000000.0,COP,56
+precio,maximo,2500000000.0,COP,56
+m2,mediana_precio_m2,5522403.38,COP,56
+m2,area_mediana_m2,237.0,m2,56
+admin,mediana_admin_mes,1600000.0,COP,39
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,3+,1475000000.0,COP,56
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/aguacatal,,
+fuente,licencia,CC BY 4.0,,

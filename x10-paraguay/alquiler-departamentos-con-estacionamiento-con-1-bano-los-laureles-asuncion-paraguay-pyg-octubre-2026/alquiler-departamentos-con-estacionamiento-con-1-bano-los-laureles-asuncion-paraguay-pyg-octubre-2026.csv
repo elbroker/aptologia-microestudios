@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,parq1,"con estacionamiento",,47
+filtro,ban1,"con 1 baño",,47
+precio,p25,4500000.0,PYG,47
+precio,mediana,4725000.0,PYG,47
+precio,p75,5450000.0,PYG,47
+precio,minimo,2700000.0,PYG,47
+precio,maximo,8000000.0,PYG,47
+m2,mediana_precio_m2,80042.37,PYG,38
+m2,area_mediana_m2,62.5,m2,38
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+habitaciones,1,4500000.0,PYG,21
+habitaciones,2,5400000.0,PYG,26
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/los-laureles,,
+fuente,licencia,CC BY 4.0,,

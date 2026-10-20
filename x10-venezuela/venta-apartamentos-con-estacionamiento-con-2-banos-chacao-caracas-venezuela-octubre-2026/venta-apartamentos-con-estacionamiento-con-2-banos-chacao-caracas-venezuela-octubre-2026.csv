@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,76
+filtro,parq1,"con estacionamiento",,76
+filtro,ban2,"con 2 baños",,76
+precio,p25,292000.0,USD,76
+precio,mediana,450675.0,USD,76
+precio,p75,538458.5,USD,76
+precio,minimo,135000.0,USD,76
+precio,maximo,1656950.0,USD,76
+m2,mediana_precio_m2,4150.77,USD,76
+m2,area_mediana_m2,107.5,m2,76
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+habitaciones,1,250000.0,USD,5
+habitaciones,2,448020.0,USD,44
+habitaciones,3+,562000.0,USD,27
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/chacao,,
+fuente,licencia,CC BY 4.0,,

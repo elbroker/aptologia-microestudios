@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,115
+filtro,parq1,"con parqueadero",,115
+filtro,edad1,"de 0 a 5 años de construidos",,115
+precio,p25,560000000.0,COP,115
+precio,mediana,710000000.0,COP,115
+precio,p75,800000000.0,COP,115
+precio,minimo,420000000.0,COP,115
+precio,maximo,1150000000.0,COP,115
+m2,mediana_precio_m2,8474576.27,COP,115
+m2,area_mediana_m2,82.0,m2,115
+admin,mediana_admin_mes,422500.0,COP,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,115
+estrato,estrato_mas_frecuente,4,,115
+habitaciones,2,690000000.0,COP,20
+habitaciones,3+,710000000.0,COP,95
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/los-colores,,
+fuente,licencia,CC BY 4.0,,

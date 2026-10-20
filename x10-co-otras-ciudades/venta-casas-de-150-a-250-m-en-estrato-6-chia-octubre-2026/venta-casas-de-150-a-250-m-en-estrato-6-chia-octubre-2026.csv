@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,170
+filtro,estrato,6,,170
+filtro,area5,"de 150 a 250 m²",,170
+precio,p25,1390000000.0,COP,170
+precio,mediana,1700000000.0,COP,170
+precio,p75,1947500000.0,COP,170
+precio,minimo,670000000.0,COP,170
+precio,maximo,3500000000.0,COP,170
+m2,mediana_precio_m2,8311744.39,COP,168
+m2,area_mediana_m2,225.0,m2,168
+admin,mediana_admin_mes,1380000.0,COP,145
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.4,%,169
+estrato,estrato_mas_frecuente,6,,170
+habitaciones,3+,1700000000.0,COP,168
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,5059882.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/chia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,41
+filtro,habitaciones,3+,,41
+filtro,area5,"de 150 a 250 m²",,41
+precio,p25,2200.0,USD,41
+precio,mediana,2600.0,USD,41
+precio,p75,3100.0,USD,41
+precio,minimo,1700.0,USD,41
+precio,maximo,6500.0,USD,41
+m2,mediana_precio_m2,13.44,USD,41
+m2,area_mediana_m2,207.0,m2,41
+banos,mediana_banos,3.0,,
+habitaciones,3+,2600.0,USD,41
+ciudad,mediana_ciudad_referencia,3750.0,USD,
+ciudad,mediana_m2_ciudad,14.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/alquiler/tigre,,
+fuente,licencia,CC BY 4.0,,

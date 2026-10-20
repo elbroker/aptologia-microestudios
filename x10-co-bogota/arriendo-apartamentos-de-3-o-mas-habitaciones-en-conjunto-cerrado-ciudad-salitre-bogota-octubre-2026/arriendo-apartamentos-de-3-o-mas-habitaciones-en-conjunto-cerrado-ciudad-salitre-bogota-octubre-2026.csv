@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,conj,"en conjunto cerrado",,34
+precio,p25,3425000.0,COP,34
+precio,mediana,4197500.0,COP,34
+precio,p75,6112500.0,COP,34
+precio,minimo,1200000.0,COP,34
+precio,maximo,14960000.0,COP,34
+m2,mediana_precio_m2,45249.69,COP,34
+m2,area_mediana_m2,90.0,m2,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,4197500.0,COP,34
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/ciudad-salitre,,
+fuente,licencia,CC BY 4.0,,

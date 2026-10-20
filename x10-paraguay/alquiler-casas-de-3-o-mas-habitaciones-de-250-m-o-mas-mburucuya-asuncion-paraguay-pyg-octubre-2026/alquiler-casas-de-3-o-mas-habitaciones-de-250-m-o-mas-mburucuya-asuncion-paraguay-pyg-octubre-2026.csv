@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area6,"de 250 m² o más",,36
+precio,p25,10000000.0,PYG,36
+precio,mediana,12750000.0,PYG,36
+precio,p75,14250000.0,PYG,36
+precio,minimo,6000000.0,PYG,36
+precio,maximo,30000000.0,PYG,36
+m2,mediana_precio_m2,36031.75,PYG,36
+m2,area_mediana_m2,313.0,m2,36
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,3+,12750000.0,PYG,36
+ciudad,mediana_ciudad_referencia,8500000.0,PYG,
+ciudad,mediana_m2_ciudad,34285.71,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/mburucuya,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,60
+filtro,estrato,5,,60
+filtro,area2,"de 45 a 70 m²",,60
+precio,p25,1850000.0,COP,60
+precio,mediana,2150000.0,COP,60
+precio,p75,2600000.0,COP,60
+precio,minimo,1450000.0,COP,60
+precio,maximo,3600000.0,COP,60
+m2,mediana_precio_m2,38384.62,COP,60
+m2,area_mediana_m2,60.0,m2,60
+admin,mediana_admin_mes,280000.0,COP,18
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.7,%,57
+estrato,estrato_mas_frecuente,5,,60
+habitaciones,2,2100000.0,COP,41
+habitaciones,3+,2100000.0,COP,15
+ciudad,mediana_ciudad_referencia,2500000.0,COP,
+ciudad,mediana_m2_ciudad,32222.22,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/armenia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,85
+filtro,habitaciones,3+,,85
+filtro,area5,"de 150 a 250 m²",,85
+precio,p25,4000000.0,COP,85
+precio,mediana,5000000.0,COP,85
+precio,p75,7500000.0,COP,85
+precio,minimo,1200000.0,COP,85
+precio,maximo,15000000.0,COP,85
+m2,mediana_precio_m2,25543.48,COP,84
+m2,area_mediana_m2,208.0,m2,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,90.1,%,71
+estrato,estrato_mas_frecuente,5,,84
+habitaciones,3+,5000000.0,COP,85
+ciudad,mediana_ciudad_referencia,10000000.0,COP,
+ciudad,mediana_m2_ciudad,23420.88,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

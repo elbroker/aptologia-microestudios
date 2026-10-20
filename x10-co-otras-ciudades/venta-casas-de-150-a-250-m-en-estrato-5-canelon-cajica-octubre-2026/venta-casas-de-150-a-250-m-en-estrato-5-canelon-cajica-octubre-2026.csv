@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,5,,35
+filtro,area5,"de 150 a 250 m²",,35
+precio,p25,1160000000.0,COP,35
+precio,mediana,1260000000.0,COP,35
+precio,p75,1340000000.0,COP,35
+precio,minimo,1000000000.0,COP,35
+precio,maximo,2000000000.0,COP,35
+m2,mediana_precio_m2,7022471.91,COP,35
+m2,area_mediana_m2,178.0,m2,35
+admin,mediana_admin_mes,1029000.0,COP,31
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,1260000000.0,COP,35
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cajica/canelon,,
+fuente,licencia,CC BY 4.0,,

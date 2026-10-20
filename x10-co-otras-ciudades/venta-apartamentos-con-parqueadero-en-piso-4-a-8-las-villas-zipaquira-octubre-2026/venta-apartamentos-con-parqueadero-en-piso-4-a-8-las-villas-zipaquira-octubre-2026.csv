@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,parq1,"con parqueadero",,47
+filtro,piso2,"en piso 4 a 8",,47
+precio,p25,287500000.0,COP,47
+precio,mediana,308000000.0,COP,47
+precio,p75,330000000.0,COP,47
+precio,minimo,213070000.0,COP,47
+precio,maximo,440000000.0,COP,47
+m2,mediana_precio_m2,4520547.95,COP,47
+m2,area_mediana_m2,68.7,m2,47
+admin,mediana_admin_mes,280000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+estrato,estrato_mas_frecuente,4,,47
+habitaciones,2,260000000.0,COP,11
+habitaciones,3+,320000000.0,COP,36
+ciudad,mediana_ciudad_referencia,275000000.0,COP,
+ciudad,mediana_m2_ciudad,4366197.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/zipaquira/las-villas,,
+fuente,licencia,CC BY 4.0,,

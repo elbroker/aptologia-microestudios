@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,66
+filtro,parq1,"con parqueadero",,66
+filtro,edad1,"de 0 a 5 años de construidos",,66
+precio,p25,1200000000.0,COP,66
+precio,mediana,1396773750.0,COP,66
+precio,p75,1558506000.0,COP,66
+precio,minimo,700000000.0,COP,66
+precio,maximo,3912510000.0,COP,66
+m2,mediana_precio_m2,12264370.9,COP,58
+m2,area_mediana_m2,113.1,m2,58
+admin,mediana_admin_mes,827500.0,COP,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+estrato,estrato_mas_frecuente,6,,65
+habitaciones,1,1348273750.0,COP,6
+habitaciones,2,1270000000.0,COP,33
+habitaciones,3+,1500000000.0,COP,27
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,83
+filtro,habitaciones,1,,83
+filtro,area1,"de menos de 45 m²",,83
+precio,p25,93499.5,USD,83
+precio,mediana,135000.0,USD,83
+precio,p75,166000.0,USD,83
+precio,minimo,65000.0,USD,83
+precio,maximo,238308.0,USD,83
+m2,mediana_precio_m2,3395.12,USD,82
+m2,area_mediana_m2,38.0,m2,82
+banos,mediana_banos,1.0,,
+habitaciones,1,135000.0,USD,83
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

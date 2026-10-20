@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,168
+filtro,parq1,"con parqueadero",,168
+filtro,ban3,"con 3 o más baños",,168
+precio,p25,11000000.0,COP,168
+precio,mediana,13950000.0,COP,168
+precio,p75,16000000.0,COP,168
+precio,minimo,5000000.0,COP,168
+precio,maximo,20400000.0,COP,168
+m2,mediana_precio_m2,63999.06,COP,162
+m2,area_mediana_m2,190.5,m2,162
+admin,mediana_admin_mes,1900000.0,COP,113
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,168
+estrato,estrato_mas_frecuente,6,,168
+habitaciones,2,13000000.0,COP,38
+habitaciones,3+,14000000.0,COP,130
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/la-cabrera,,
+fuente,licencia,CC BY 4.0,,

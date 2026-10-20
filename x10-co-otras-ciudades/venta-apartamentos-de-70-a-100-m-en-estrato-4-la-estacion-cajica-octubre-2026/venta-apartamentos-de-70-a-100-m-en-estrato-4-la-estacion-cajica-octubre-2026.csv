@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,406250000.0,COP,30
+precio,mediana,452500000.0,COP,30
+precio,p75,500000000.0,COP,30
+precio,minimo,330000000.0,COP,30
+precio,maximo,580000000.0,COP,30
+m2,mediana_precio_m2,5563344.7,COP,30
+m2,area_mediana_m2,84.0,m2,30
+admin,mediana_admin_mes,400000.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,452500000.0,COP,28
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,5671641.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/la-estacion,,
+fuente,licencia,CC BY 4.0,,

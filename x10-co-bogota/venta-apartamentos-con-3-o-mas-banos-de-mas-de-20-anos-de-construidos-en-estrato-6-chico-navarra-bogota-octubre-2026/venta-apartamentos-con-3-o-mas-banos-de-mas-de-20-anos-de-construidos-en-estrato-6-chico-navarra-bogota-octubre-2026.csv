@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,155
+filtro,estrato,6,,155
+filtro,ban3,"con 3 o más baños",,155
+filtro,edad3,"de más de 20 años de construidos",,155
+precio,p25,1005000000.0,COP,155
+precio,mediana,1200000000.0,COP,155
+precio,p75,1650000000.0,COP,155
+precio,minimo,590000000.0,COP,155
+precio,maximo,4200000000.0,COP,155
+m2,mediana_precio_m2,6923076.92,COP,155
+m2,area_mediana_m2,179.0,m2,155
+admin,mediana_admin_mes,1480000.0,COP,146
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.1,%,155
+estrato,estrato_mas_frecuente,6,,155
+habitaciones,2,850000000.0,COP,13
+habitaciones,3+,1250000000.0,COP,142
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-navarra,,
+fuente,licencia,CC BY 4.0,,

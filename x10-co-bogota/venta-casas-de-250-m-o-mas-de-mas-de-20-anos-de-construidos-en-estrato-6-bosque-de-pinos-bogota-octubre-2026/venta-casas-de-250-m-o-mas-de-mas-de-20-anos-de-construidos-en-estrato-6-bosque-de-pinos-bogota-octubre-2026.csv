@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,30
+filtro,estrato,6,,30
+filtro,area6,"de 250 m² o más",,30
+filtro,edad3,"de más de 20 años de construidos",,30
+precio,p25,2612500000.0,COP,30
+precio,mediana,4100000000.0,COP,30
+precio,p75,4500000000.0,COP,30
+precio,minimo,1450000000.0,COP,30
+precio,maximo,8000000000.0,COP,30
+m2,area_mediana_m2,520.0,m2,29
+admin,mediana_admin_mes,550000.0,COP,27
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,3+,4300000000.0,COP,29
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/bosque-de-pinos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,area4,"de 100 a 150 m²",,33
+precio,p25,920000000.0,COP,33
+precio,mediana,1030000000.0,COP,33
+precio,p75,1500000000.0,COP,33
+precio,minimo,760000000.0,COP,33
+precio,maximo,2290739709.0,COP,33
+m2,mediana_precio_m2,7980971.13,COP,32
+m2,area_mediana_m2,135.0,m2,32
+admin,mediana_admin_mes,1390000.0,COP,28
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,3+,1030000000.0,COP,33
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-bibiana,,
+fuente,licencia,CC BY 4.0,,

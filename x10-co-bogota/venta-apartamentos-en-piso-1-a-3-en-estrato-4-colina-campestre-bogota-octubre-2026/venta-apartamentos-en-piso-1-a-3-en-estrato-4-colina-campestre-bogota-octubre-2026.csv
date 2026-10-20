@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,56
+filtro,estrato,4,,56
+filtro,piso1,"en piso 1 a 3",,56
+precio,p25,498750000.0,COP,56
+precio,mediana,655000000.0,COP,56
+precio,p75,897500000.0,COP,56
+precio,minimo,190000000.0,COP,56
+precio,maximo,2400000000.0,COP,56
+m2,mediana_precio_m2,7527173.91,COP,56
+m2,area_mediana_m2,90.0,m2,56
+admin,mediana_admin_mes,515000.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.6,%,54
+estrato,estrato_mas_frecuente,4,,56
+habitaciones,1,300000000.0,COP,7
+habitaciones,2,397500000.0,COP,6
+habitaciones,3+,790000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

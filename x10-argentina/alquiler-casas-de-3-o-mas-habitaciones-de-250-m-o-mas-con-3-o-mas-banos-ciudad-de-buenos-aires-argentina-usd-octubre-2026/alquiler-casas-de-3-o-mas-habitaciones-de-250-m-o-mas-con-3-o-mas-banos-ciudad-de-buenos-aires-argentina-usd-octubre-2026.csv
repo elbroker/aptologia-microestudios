@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,71
+filtro,habitaciones,3+,,71
+filtro,area6,"de 250 m² o más",,71
+filtro,ban3,"con 3 o más baños",,71
+precio,p25,3700.0,USD,71
+precio,mediana,5499.0,USD,71
+precio,p75,7000.0,USD,71
+precio,minimo,1700.0,USD,71
+precio,maximo,18000.0,USD,71
+m2,mediana_precio_m2,13.33,USD,71
+m2,area_mediana_m2,350.0,m2,71
+banos,mediana_banos,4.0,,
+habitaciones,3+,5499.0,USD,71
+ciudad,mediana_ciudad_referencia,3800.0,USD,
+ciudad,mediana_m2_ciudad,14.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

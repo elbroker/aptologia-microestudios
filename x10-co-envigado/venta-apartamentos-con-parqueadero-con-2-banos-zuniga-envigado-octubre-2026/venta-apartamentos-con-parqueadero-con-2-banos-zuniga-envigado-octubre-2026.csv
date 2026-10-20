@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,70
+filtro,parq1,"con parqueadero",,70
+filtro,ban2,"con 2 baños",,70
+precio,p25,725000000.0,COP,70
+precio,mediana,831500000.0,COP,70
+precio,p75,957500000.0,COP,70
+precio,minimo,350000000.0,COP,70
+precio,maximo,1750000000.0,COP,70
+m2,mediana_precio_m2,8069727.89,COP,70
+m2,area_mediana_m2,107.0,m2,70
+admin,mediana_admin_mes,604000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+estrato,estrato_mas_frecuente,5,,62
+habitaciones,2,750000000.0,COP,23
+habitaciones,3+,841500000.0,COP,44
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/zuniga,,
+fuente,licencia,CC BY 4.0,,

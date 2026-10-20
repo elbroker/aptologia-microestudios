@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,164
+filtro,habitaciones,1,,164
+filtro,estrato,6,,164
+precio,p25,421725000.0,COP,164
+precio,mediana,460000000.0,COP,164
+precio,p75,600000000.0,COP,164
+precio,minimo,240000000.0,COP,164
+precio,maximo,1100000000.0,COP,164
+m2,mediana_precio_m2,10908730.3,COP,154
+m2,area_mediana_m2,44.0,m2,154
+admin,mediana_admin_mes,380000.0,COP,127
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,56.9,%,116
+estrato,estrato_mas_frecuente,6,,164
+habitaciones,1,460000000.0,COP,164
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/pozos-colorados,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,45
+filtro,parq1,"con parqueadero",,45
+filtro,piso2,"en piso 4 a 8",,45
+precio,p25,489000000.0,COP,45
+precio,mediana,535000000.0,COP,45
+precio,p75,600000000.0,COP,45
+precio,minimo,275000000.0,COP,45
+precio,maximo,1150000000.0,COP,45
+m2,mediana_precio_m2,7954545.45,COP,45
+m2,area_mediana_m2,65.0,m2,45
+admin,mediana_admin_mes,322000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,2,520000000.0,COP,30
+habitaciones,3+,650000000.0,COP,14
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/barro-blanco,,
+fuente,licencia,CC BY 4.0,,

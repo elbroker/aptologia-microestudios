@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,91
+filtro,balc,"con balcón",,91
+filtro,area3,"de 70 a 100 m²",,91
+precio,p25,3750000.0,COP,91
+precio,mediana,4200000.0,COP,91
+precio,p75,4700000.0,COP,91
+precio,minimo,2700000.0,COP,91
+precio,maximo,7700000.0,COP,91
+m2,mediana_precio_m2,51020.41,COP,91
+m2,area_mediana_m2,86.0,m2,91
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,89
+estrato,estrato_mas_frecuente,5,,91
+habitaciones,1,5000000.0,COP,6
+habitaciones,2,4300000.0,COP,33
+habitaciones,3+,3975000.0,COP,52
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

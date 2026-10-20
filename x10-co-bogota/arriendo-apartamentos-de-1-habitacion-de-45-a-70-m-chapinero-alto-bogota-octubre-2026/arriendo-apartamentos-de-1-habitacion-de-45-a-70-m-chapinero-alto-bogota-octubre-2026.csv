@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,46
+filtro,habitaciones,1,,46
+filtro,area2,"de 45 a 70 m²",,46
+precio,p25,2650000.0,COP,46
+precio,mediana,3285000.0,COP,46
+precio,p75,3775000.0,COP,46
+precio,minimo,1800000.0,COP,46
+precio,maximo,5218000.0,COP,46
+m2,mediana_precio_m2,60024.02,COP,46
+m2,area_mediana_m2,53.0,m2,46
+admin,mediana_admin_mes,550000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.1,%,45
+estrato,estrato_mas_frecuente,4,,46
+habitaciones,1,3285000.0,COP,46
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chapinero-alto,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,133
+filtro,parq1,"con parqueadero",,133
+filtro,ban2,"con 2 baños",,133
+precio,p25,334000000.0,COP,133
+precio,mediana,396600000.0,COP,133
+precio,p75,470000000.0,COP,133
+precio,minimo,250000000.0,COP,133
+precio,maximo,950000000.0,COP,133
+m2,mediana_precio_m2,4245283.02,COP,131
+m2,area_mediana_m2,96.0,m2,131
+admin,mediana_admin_mes,462100.0,COP,112
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,133
+estrato,estrato_mas_frecuente,4,,129
+habitaciones,2,350000000.0,COP,19
+habitaciones,3+,400000000.0,COP,114
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,parq1,"con parqueadero",,42
+filtro,ban3,"con 3 o más baños",,42
+precio,p25,4662500.0,COP,42
+precio,mediana,5275000.0,COP,42
+precio,p75,6875000.0,COP,42
+precio,minimo,3500000.0,COP,42
+precio,maximo,10200000.0,COP,42
+m2,mediana_precio_m2,44246.03,COP,42
+m2,area_mediana_m2,117.5,m2,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,2,4800000.0,COP,7
+habitaciones,3+,5500000.0,COP,35
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/el-poblado,,
+fuente,licencia,CC BY 4.0,,

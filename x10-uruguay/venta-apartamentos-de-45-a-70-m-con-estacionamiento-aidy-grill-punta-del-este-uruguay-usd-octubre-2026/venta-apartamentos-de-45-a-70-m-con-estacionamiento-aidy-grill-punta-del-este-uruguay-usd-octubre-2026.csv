@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,area2,"de 45 a 70 m²",,42
+filtro,parq1,"con estacionamiento",,42
+precio,p25,198250.0,USD,42
+precio,mediana,224000.0,USD,42
+precio,p75,260000.0,USD,42
+precio,minimo,140000.0,USD,42
+precio,maximo,360000.0,USD,42
+m2,mediana_precio_m2,3909.65,USD,42
+m2,area_mediana_m2,60.0,m2,42
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+habitaciones,1,205000.0,USD,22
+habitaciones,2,255000.0,USD,20
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/aidy-grill,,
+fuente,licencia,CC BY 4.0,,

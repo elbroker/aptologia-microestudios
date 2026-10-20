@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,37
+filtro,balc,"con balcón",,37
+filtro,ban1,"con 1 baño",,37
+precio,p25,2300000.0,COP,37
+precio,mediana,2750000.0,COP,37
+precio,p75,3000000.0,COP,37
+precio,minimo,1000000.0,COP,37
+precio,maximo,4400000.0,COP,37
+m2,mediana_precio_m2,43167.7,COP,36
+m2,area_mediana_m2,60.0,m2,36
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,3,,37
+habitaciones,1,2870000.0,COP,10
+habitaciones,2,2625000.0,COP,20
+habitaciones,3+,2800000.0,COP,7
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

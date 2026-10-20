@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,90
+filtro,habitaciones,2,,90
+filtro,ban2,"con 2 baños",,90
+precio,p25,763700000.0,COP,90
+precio,mediana,895000000.0,COP,90
+precio,p75,1091250000.0,COP,90
+precio,minimo,450000000.0,COP,90
+precio,maximo,3580000000.0,COP,90
+m2,mediana_precio_m2,10202831.99,COP,86
+m2,area_mediana_m2,84.0,m2,86
+admin,mediana_admin_mes,950000.0,COP,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,89
+estrato,estrato_mas_frecuente,6,,90
+habitaciones,2,895000000.0,COP,90
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

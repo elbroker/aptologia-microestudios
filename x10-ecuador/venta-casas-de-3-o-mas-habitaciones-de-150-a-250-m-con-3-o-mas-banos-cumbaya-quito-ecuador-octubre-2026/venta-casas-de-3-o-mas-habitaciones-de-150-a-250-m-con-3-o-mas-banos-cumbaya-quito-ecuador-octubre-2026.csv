@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,49
+filtro,habitaciones,3+,,49
+filtro,area5,"de 150 a 250 m²",,49
+filtro,ban3,"con 3 o más baños",,49
+precio,p25,215000.0,USD,49
+precio,mediana,254000.0,USD,49
+precio,p75,305800.0,USD,49
+precio,minimo,158000.0,USD,49
+precio,maximo,799000.0,USD,49
+m2,mediana_precio_m2,1158.33,USD,47
+m2,area_mediana_m2,213.0,m2,47
+banos,mediana_banos,3.0,,
+habitaciones,3+,254000.0,USD,49
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,765.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/cumbaya,,
+fuente,licencia,CC BY 4.0,,

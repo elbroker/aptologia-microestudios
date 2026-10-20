@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,52
+filtro,habitaciones,3+,,52
+filtro,area5,"de 150 a 250 m²",,52
+filtro,ban2,"con 2 baños",,52
+precio,p25,94975.0,USD,52
+precio,mediana,115000.0,USD,52
+precio,p75,131000.0,USD,52
+precio,minimo,70000.0,USD,52
+precio,maximo,215000.0,USD,52
+m2,mediana_precio_m2,595.93,USD,52
+m2,area_mediana_m2,180.0,m2,52
+banos,mediana_banos,2.0,,
+habitaciones,3+,115000.0,USD,52
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,765.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/conocoto,,
+fuente,licencia,CC BY 4.0,,

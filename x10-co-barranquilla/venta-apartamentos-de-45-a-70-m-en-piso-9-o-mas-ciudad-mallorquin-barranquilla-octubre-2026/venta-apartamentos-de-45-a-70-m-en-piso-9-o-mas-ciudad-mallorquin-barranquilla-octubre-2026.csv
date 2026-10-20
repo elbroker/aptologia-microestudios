@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area2,"de 45 a 70 m²",,32
+filtro,piso3,"en piso 9 o más",,32
+precio,p25,248000000.0,COP,32
+precio,mediana,263000000.0,COP,32
+precio,p75,311250000.0,COP,32
+precio,minimo,205000000.0,COP,32
+precio,maximo,480000000.0,COP,32
+m2,mediana_precio_m2,4730357.14,COP,32
+m2,area_mediana_m2,57.0,m2,32
+admin,mediana_admin_mes,187000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,2,265000000.0,COP,31
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-mallorquin,,
+fuente,licencia,CC BY 4.0,,

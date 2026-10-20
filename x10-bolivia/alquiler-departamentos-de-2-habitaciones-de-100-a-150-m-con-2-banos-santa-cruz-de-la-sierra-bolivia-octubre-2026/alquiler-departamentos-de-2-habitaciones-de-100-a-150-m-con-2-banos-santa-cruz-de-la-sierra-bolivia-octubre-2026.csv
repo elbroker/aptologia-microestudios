@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,61
+filtro,habitaciones,2,,61
+filtro,area4,"de 100 a 150 m²",,61
+filtro,ban2,"con 2 baños",,61
+precio,p25,622.0,USD,61
+precio,mediana,950.0,USD,61
+precio,p75,1200.0,USD,61
+precio,minimo,300.0,USD,61
+precio,maximo,3000.0,USD,61
+m2,mediana_precio_m2,8.96,USD,61
+m2,area_mediana_m2,105.0,m2,61
+admin,mediana_admin_mes,80.0,USD,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+habitaciones,2,950.0,USD,61
+ciudad,mediana_ciudad_referencia,570.0,USD,
+ciudad,mediana_m2_ciudad,7.26,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,54
+filtro,habitaciones,3+,,54
+filtro,area5,"de 150 a 250 m²",,54
+precio,p25,50.12,UF,54
+precio,mediana,59.65,UF,54
+precio,p75,75.0,UF,54
+precio,minimo,36.44,UF,54
+precio,maximo,120.0,UF,54
+m2,mediana_precio_m2,0.33,UF,54
+m2,area_mediana_m2,170.0,m2,54
+banos,mediana_banos,3.5,,
+habitaciones,3+,59.65,UF,54
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

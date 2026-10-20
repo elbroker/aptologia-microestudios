@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,33
+filtro,estrato,3,,33
+filtro,balc,"con balcón",,33
+filtro,area6,"de 250 m² o más",,33
+precio,p25,5100000.0,COP,33
+precio,mediana,7500000.0,COP,33
+precio,p75,11000000.0,COP,33
+precio,minimo,4200000.0,COP,33
+precio,maximo,17000000.0,COP,33
+m2,area_mediana_m2,350.0,m2,28
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,3,,33
+habitaciones,3+,7500000.0,COP,33
+ciudad,mediana_ciudad_referencia,10500000.0,COP,
+ciudad,mediana_m2_ciudad,36784.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

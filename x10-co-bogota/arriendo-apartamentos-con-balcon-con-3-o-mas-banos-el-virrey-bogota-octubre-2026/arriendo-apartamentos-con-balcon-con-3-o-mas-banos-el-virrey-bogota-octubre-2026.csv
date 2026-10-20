@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,balc,"con balcón",,47
+filtro,ban3,"con 3 o más baños",,47
+precio,p25,8150000.0,COP,47
+precio,mediana,11000000.0,COP,47
+precio,p75,15000000.0,COP,47
+precio,minimo,5000000.0,COP,47
+precio,maximo,19000000.0,COP,47
+m2,mediana_precio_m2,72000.0,COP,45
+m2,area_mediana_m2,150.0,m2,45
+admin,mediana_admin_mes,1709000.0,COP,26
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,6,,44
+habitaciones,2,8400000.0,COP,18
+habitaciones,3+,12500000.0,COP,28
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/el-virrey,,
+fuente,licencia,CC BY 4.0,,

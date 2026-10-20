@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,6,,34
+filtro,area4,"de 100 a 150 m²",,34
+precio,p25,1062500000.0,COP,34
+precio,mediana,1757500000.0,COP,34
+precio,p75,2569037500.0,COP,34
+precio,minimo,850000000.0,COP,34
+precio,maximo,3016000000.0,COP,34
+m2,area_mediana_m2,134.5,m2,19
+admin,mediana_admin_mes,935000.0,COP,16
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,2,1588750000.0,COP,10
+habitaciones,3+,2555500000.0,COP,23
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/milla-de-oro,,
+fuente,licencia,CC BY 4.0,,

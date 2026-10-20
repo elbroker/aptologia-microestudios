@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,72
+filtro,estrato,5,,72
+filtro,balc,"con balcón",,72
+precio,p25,3275000.0,COP,72
+precio,mediana,3850000.0,COP,72
+precio,p75,4600000.0,COP,72
+precio,minimo,2700000.0,COP,72
+precio,maximo,7700000.0,COP,72
+m2,mediana_precio_m2,71203.7,COP,70
+m2,area_mediana_m2,52.7,m2,70
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.8,%,69
+estrato,estrato_mas_frecuente,5,,72
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,60000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

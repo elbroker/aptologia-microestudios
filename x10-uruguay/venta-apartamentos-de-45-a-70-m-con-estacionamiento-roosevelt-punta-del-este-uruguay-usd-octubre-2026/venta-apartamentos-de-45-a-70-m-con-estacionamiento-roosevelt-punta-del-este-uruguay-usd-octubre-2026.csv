@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,76
+filtro,area2,"de 45 a 70 m²",,76
+filtro,parq1,"con estacionamiento",,76
+precio,p25,178500.0,USD,76
+precio,mediana,199500.0,USD,76
+precio,p75,240000.0,USD,76
+precio,minimo,107419.0,USD,76
+precio,maximo,480000.0,USD,76
+m2,mediana_precio_m2,3650.46,USD,76
+m2,area_mediana_m2,56.5,m2,76
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+habitaciones,1,189000.0,USD,44
+habitaciones,2,229000.0,USD,32
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/roosevelt,,
+fuente,licencia,CC BY 4.0,,

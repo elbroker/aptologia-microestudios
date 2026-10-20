@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,100
+filtro,habitaciones,2,,100
+filtro,ban2,"con 2 baños",,100
+precio,p25,4587.5,UF,100
+precio,mediana,5150.0,UF,100
+precio,p75,6012.5,UF,100
+precio,minimo,3100.0,UF,100
+precio,maximo,9412.0,UF,100
+m2,mediana_precio_m2,81.12,UF,64
+m2,area_mediana_m2,61.5,m2,64
+banos,mediana_banos,2.0,,
+habitaciones,2,5150.0,UF,100
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/nunoa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,area5,"de 150 a 250 m²",,33
+precio,p25,600000000.0,PYG,33
+precio,mediana,820000000.0,PYG,33
+precio,p75,945000000.0,PYG,33
+precio,minimo,350000000.0,PYG,33
+precio,maximo,1330000000.0,PYG,33
+m2,mediana_precio_m2,4106280.19,PYG,33
+m2,area_mediana_m2,180.0,m2,33
+banos,mediana_banos,3.0,,
+habitaciones,3+,820000000.0,PYG,33
+ciudad,mediana_ciudad_referencia,630000000.0,PYG,
+ciudad,mediana_m2_ciudad,3218390.8,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/luque,,
+fuente,licencia,CC BY 4.0,,

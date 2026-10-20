@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,5,,30
+filtro,edad1,"de 0 a 5 años de construidos",,30
+precio,p25,627500000.0,COP,30
+precio,mediana,862500000.0,COP,30
+precio,p75,1067500000.0,COP,30
+precio,minimo,330000000.0,COP,30
+precio,maximo,1400000000.0,COP,30
+m2,mediana_precio_m2,6000000.0,COP,30
+m2,area_mediana_m2,128.0,m2,30
+admin,mediana_admin_mes,225000.0,COP,18
+banos,mediana_banos,2.5,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,900000000.0,COP,25
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen-rosales,,
+fuente,licencia,CC BY 4.0,,

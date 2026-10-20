@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,124
+filtro,parq1,"con parqueadero",,124
+filtro,edad1,"de 0 a 5 años de construidos",,124
+precio,p25,656750000.0,COP,124
+precio,mediana,830050000.0,COP,124
+precio,p75,980000000.0,COP,124
+precio,minimo,380000000.0,COP,124
+precio,maximo,2100000000.0,COP,124
+m2,mediana_precio_m2,7391304.35,COP,123
+m2,area_mediana_m2,115.0,m2,123
+admin,mediana_admin_mes,418500.0,COP,72
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,124
+estrato,estrato_mas_frecuente,5,,119
+habitaciones,2,795000000.0,COP,26
+habitaciones,3+,840050000.0,COP,98
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,134
+filtro,habitaciones,3+,,134
+filtro,parq1,"con parqueadero",,134
+precio,p25,2600000.0,COP,134
+precio,mediana,2975000.0,COP,134
+precio,p75,3912500.0,COP,134
+precio,minimo,1450000.0,COP,134
+precio,maximo,13000000.0,COP,134
+m2,mediana_precio_m2,38688.7,COP,134
+m2,area_mediana_m2,75.0,m2,134
+admin,mediana_admin_mes,365800.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,134
+estrato,estrato_mas_frecuente,4,,132
+habitaciones,3+,2975000.0,COP,134
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,37323.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-ceja,,
+fuente,licencia,CC BY 4.0,,

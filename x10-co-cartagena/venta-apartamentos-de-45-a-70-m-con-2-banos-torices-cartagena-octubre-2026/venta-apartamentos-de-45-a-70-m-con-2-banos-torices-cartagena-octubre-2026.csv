@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,area2,"de 45 a 70 m²",,60
+filtro,ban2,"con 2 baños",,60
+precio,p25,330000000.0,COP,60
+precio,mediana,360000000.0,COP,60
+precio,p75,386250000.0,COP,60
+precio,minimo,270000000.0,COP,60
+precio,maximo,480000000.0,COP,60
+m2,mediana_precio_m2,6327537.59,COP,60
+m2,area_mediana_m2,57.0,m2,60
+admin,mediana_admin_mes,311300.0,COP,40
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,58
+habitaciones,2,340000000.0,COP,26
+habitaciones,3+,370000000.0,COP,34
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/torices,,
+fuente,licencia,CC BY 4.0,,

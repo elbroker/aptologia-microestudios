@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,2,,43
+filtro,area2,"de 45 a 70 m²",,43
+precio,p25,2225000.0,COP,43
+precio,mediana,2400000.0,COP,43
+precio,p75,2550000.0,COP,43
+precio,minimo,1500000.0,COP,43
+precio,maximo,3000000.0,COP,43
+m2,mediana_precio_m2,38333.33,COP,43
+m2,area_mediana_m2,60.0,m2,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.0,%,43
+estrato,estrato_mas_frecuente,5,,43
+habitaciones,2,2400000.0,COP,43
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

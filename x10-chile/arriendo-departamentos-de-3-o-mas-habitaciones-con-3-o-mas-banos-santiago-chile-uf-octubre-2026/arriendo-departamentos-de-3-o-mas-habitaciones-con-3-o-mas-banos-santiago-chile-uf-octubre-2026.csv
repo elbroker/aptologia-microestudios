@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,462
+filtro,habitaciones,3+,,462
+filtro,ban3,"con 3 o más baños",,462
+precio,p25,43.0,UF,462
+precio,mediana,55.0,UF,462
+precio,p75,80.0,UF,462
+precio,minimo,14.57,UF,462
+precio,maximo,130.0,UF,462
+m2,mediana_precio_m2,0.34,UF,341
+m2,area_mediana_m2,155.0,m2,341
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,54
+habitaciones,3+,55.0,UF,462
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,

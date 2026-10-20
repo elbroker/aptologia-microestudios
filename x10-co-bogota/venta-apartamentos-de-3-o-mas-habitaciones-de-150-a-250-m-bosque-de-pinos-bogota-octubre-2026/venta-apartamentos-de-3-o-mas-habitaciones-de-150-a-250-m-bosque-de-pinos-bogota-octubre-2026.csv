@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area5,"de 150 a 250 m²",,36
+precio,p25,1250000000.0,COP,36
+precio,mediana,1480000000.0,COP,36
+precio,p75,1750000000.0,COP,36
+precio,minimo,890000000.0,COP,36
+precio,maximo,2500000000.0,COP,36
+m2,mediana_precio_m2,7352035.27,COP,36
+m2,area_mediana_m2,205.5,m2,36
+admin,mediana_admin_mes,1300000.0,COP,34
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,1480000000.0,COP,36
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/bosque-de-pinos,,
+fuente,licencia,CC BY 4.0,,

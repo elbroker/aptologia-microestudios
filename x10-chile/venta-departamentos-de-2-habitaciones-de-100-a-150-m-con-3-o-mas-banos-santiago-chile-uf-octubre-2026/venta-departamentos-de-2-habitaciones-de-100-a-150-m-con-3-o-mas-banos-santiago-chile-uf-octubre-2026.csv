@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,44
+filtro,habitaciones,2,,44
+filtro,area4,"de 100 a 150 m²",,44
+filtro,ban3,"con 3 o más baños",,44
+precio,p25,8962.25,UF,44
+precio,mediana,10535.0,UF,44
+precio,p75,12600.0,UF,44
+precio,minimo,5400.0,UF,44
+precio,maximo,22300.0,UF,44
+m2,mediana_precio_m2,84.51,UF,42
+m2,area_mediana_m2,120.0,m2,42
+banos,mediana_banos,3.0,,
+habitaciones,2,10535.0,UF,44
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

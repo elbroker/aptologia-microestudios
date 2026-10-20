@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,79
+filtro,habitaciones,1,,79
+filtro,parq1,"con estacionamiento",,79
+precio,p25,3840.0,BRL,79
+precio,mediana,4757.0,BRL,79
+precio,p75,6200.0,BRL,79
+precio,minimo,2410.0,BRL,79
+precio,maximo,11860.0,BRL,79
+m2,mediana_precio_m2,105.88,BRL,79
+m2,area_mediana_m2,50.0,m2,79
+admin,mediana_admin_mes,950.0,BRL,79
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+habitaciones,1,4757.0,BRL,79
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/brooklin,,
+fuente,licencia,CC BY 4.0,,

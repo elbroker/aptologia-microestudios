@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,128
+filtro,area3,"de 70 a 100 m²",,128
+filtro,edad1,"de 0 a 5 años de construidos",,128
+precio,p25,490000000.0,COP,128
+precio,mediana,580000000.0,COP,128
+precio,p75,682500000.0,COP,128
+precio,minimo,300000000.0,COP,128
+precio,maximo,1018000000.0,COP,128
+m2,mediana_precio_m2,6935152.37,COP,128
+m2,area_mediana_m2,86.0,m2,128
+admin,mediana_admin_mes,460000.0,COP,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,126
+estrato,estrato_mas_frecuente,6,,126
+habitaciones,2,570000000.0,COP,58
+habitaciones,3+,630000000.0,COP,67
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

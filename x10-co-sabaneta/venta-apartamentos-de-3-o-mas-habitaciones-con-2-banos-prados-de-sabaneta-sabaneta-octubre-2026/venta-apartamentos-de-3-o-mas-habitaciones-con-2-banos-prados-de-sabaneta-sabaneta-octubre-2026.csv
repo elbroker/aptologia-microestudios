@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,460000000.0,COP,32
+precio,mediana,502500000.0,COP,32
+precio,p75,581600000.0,COP,32
+precio,minimo,265000000.0,COP,32
+precio,maximo,660000000.0,COP,32
+m2,mediana_precio_m2,6942782.29,COP,32
+m2,area_mediana_m2,74.0,m2,32
+admin,mediana_admin_mes,398000.0,COP,15
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,502500000.0,COP,32
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/prados-de-sabaneta,,
+fuente,licencia,CC BY 4.0,,

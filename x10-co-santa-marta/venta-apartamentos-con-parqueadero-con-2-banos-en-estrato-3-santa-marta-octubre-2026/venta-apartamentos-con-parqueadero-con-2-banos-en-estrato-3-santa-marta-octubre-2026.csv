@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,82
+filtro,estrato,3,,82
+filtro,parq1,"con parqueadero",,82
+filtro,ban2,"con 2 baños",,82
+precio,p25,250000000.0,COP,82
+precio,mediana,300000000.0,COP,82
+precio,p75,368438000.0,COP,82
+precio,minimo,155000000.0,COP,82
+precio,maximo,800000000.0,COP,82
+m2,mediana_precio_m2,4621621.62,COP,81
+m2,area_mediana_m2,67.0,m2,81
+admin,mediana_admin_mes,337500.0,COP,63
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,82
+estrato,estrato_mas_frecuente,3,,82
+habitaciones,2,330000000.0,COP,30
+habitaciones,3+,297500000.0,COP,52
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta,,
+fuente,licencia,CC BY 4.0,,

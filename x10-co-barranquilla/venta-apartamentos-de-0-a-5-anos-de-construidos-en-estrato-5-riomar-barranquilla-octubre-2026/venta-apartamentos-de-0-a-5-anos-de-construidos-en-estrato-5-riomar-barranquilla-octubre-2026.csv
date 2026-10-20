@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,44
+filtro,estrato,5,,44
+filtro,edad1,"de 0 a 5 años de construidos",,44
+precio,p25,450000000.0,COP,44
+precio,mediana,630000000.0,COP,44
+precio,p75,785000000.0,COP,44
+precio,minimo,210000000.0,COP,44
+precio,maximo,2200000000.0,COP,44
+m2,mediana_precio_m2,6485791.8,COP,44
+m2,area_mediana_m2,95.5,m2,44
+admin,mediana_admin_mes,573000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,5,,44
+habitaciones,2,540000000.0,COP,13
+habitaciones,3+,660000000.0,COP,28
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/riomar,,
+fuente,licencia,CC BY 4.0,,

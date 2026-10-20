@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,84
+filtro,estrato,4,,84
+filtro,edad2,"de 6 a 20 años de construidos",,84
+precio,p25,457500000.0,COP,84
+precio,mediana,612000000.0,COP,84
+precio,p75,1005000000.0,COP,84
+precio,minimo,299000000.0,COP,84
+precio,maximo,2400000000.0,COP,84
+m2,mediana_precio_m2,9066133.72,COP,84
+m2,area_mediana_m2,68.0,m2,84
+admin,mediana_admin_mes,800000.0,COP,76
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.6,%,84
+estrato,estrato_mas_frecuente,4,,84
+habitaciones,1,445000000.0,COP,37
+habitaciones,2,797500000.0,COP,24
+habitaciones,3+,1070000000.0,COP,23
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chapinero-alto,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,75
+filtro,habitaciones,3+,,75
+filtro,area5,"de 150 a 250 m²",,75
+precio,p25,371500.0,USD,75
+precio,mediana,499000.0,USD,75
+precio,p75,592500.0,USD,75
+precio,minimo,255000.0,USD,75
+precio,maximo,1290000.0,USD,75
+m2,mediana_precio_m2,2568.35,USD,75
+m2,area_mediana_m2,185.0,m2,75
+banos,mediana_banos,2.0,,
+habitaciones,3+,499000.0,USD,75
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,parq1,"con parqueadero",,33
+filtro,piso3,"en piso 9 o más",,33
+precio,p25,540000000.0,COP,33
+precio,mediana,770000000.0,COP,33
+precio,p75,930000000.0,COP,33
+precio,minimo,380000000.0,COP,33
+precio,maximo,1890000000.0,COP,33
+m2,mediana_precio_m2,8552036.2,COP,33
+m2,area_mediana_m2,94.0,m2,33
+admin,mediana_admin_mes,425000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,535000000.0,COP,5
+habitaciones,3+,805000000.0,COP,28
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-felicidad,,
+fuente,licencia,CC BY 4.0,,

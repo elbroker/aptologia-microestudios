@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,235
+filtro,habitaciones,3+,,235
+filtro,area4,"de 100 a 150 m²",,235
+precio,p25,105000.0,USD,235
+precio,mediana,124396.0,USD,235
+precio,p75,145000.0,USD,235
+precio,minimo,46500.0,USD,235
+precio,maximo,305200.0,USD,235
+m2,mediana_precio_m2,981.48,USD,235
+m2,area_mediana_m2,126.0,m2,235
+admin,mediana_admin_mes,71.0,USD,138
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,160
+habitaciones,3+,124396.0,USD,235
+ciudad,mediana_ciudad_referencia,100000.0,USD,
+ciudad,mediana_m2_ciudad,1240.6,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

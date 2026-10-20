@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,46
+filtro,habitaciones,1,,46
+filtro,area2,"de 45 a 70 m²",,46
+filtro,parq1,"con estacionamiento",,46
+precio,p25,101745.5,USD,46
+precio,mediana,109500.0,USD,46
+precio,p75,116500.0,USD,46
+precio,minimo,68100.0,USD,46
+precio,maximo,162800.0,USD,46
+m2,mediana_precio_m2,1966.38,USD,46
+m2,area_mediana_m2,55.0,m2,46
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+habitaciones,1,109500.0,USD,46
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/villa-morra,,
+fuente,licencia,CC BY 4.0,,

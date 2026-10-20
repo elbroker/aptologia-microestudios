@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,ban2,"con 2 baños",,31
+precio,p25,285000000.0,COP,31
+precio,mediana,428400000.0,COP,31
+precio,p75,850000000.0,COP,31
+precio,minimo,220000000.0,COP,31
+precio,maximo,1800000000.0,COP,31
+banos,mediana_banos,2.0,,
+habitaciones,3+,428400000.0,COP,31
+ciudad,mediana_ciudad_referencia,1350000000.0,COP,
+ciudad,mediana_m2_ciudad,3880000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/piedecuesta,,
+fuente,licencia,CC BY 4.0,,

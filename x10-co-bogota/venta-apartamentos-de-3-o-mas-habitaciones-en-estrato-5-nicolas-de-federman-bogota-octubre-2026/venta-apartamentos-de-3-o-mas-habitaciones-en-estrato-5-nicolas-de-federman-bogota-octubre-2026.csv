@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,94
+filtro,habitaciones,3+,,94
+filtro,estrato,5,,94
+precio,p25,741250000.0,COP,94
+precio,mediana,950000000.0,COP,94
+precio,p75,1150000000.0,COP,94
+precio,minimo,550000000.0,COP,94
+precio,maximo,1890000000.0,COP,94
+m2,mediana_precio_m2,7053864.88,COP,92
+m2,area_mediana_m2,125.0,m2,92
+admin,mediana_admin_mes,800000.0,COP,86
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,94
+estrato,estrato_mas_frecuente,5,,94
+habitaciones,3+,950000000.0,COP,94
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/nicolas-de-federman,,
+fuente,licencia,CC BY 4.0,,

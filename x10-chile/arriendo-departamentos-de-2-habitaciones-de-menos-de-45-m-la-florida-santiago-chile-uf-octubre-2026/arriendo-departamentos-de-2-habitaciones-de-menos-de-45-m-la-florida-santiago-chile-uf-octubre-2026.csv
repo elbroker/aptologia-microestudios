@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,area1,"de menos de 45 m²",,32
+precio,p25,9.47,UF,32
+precio,mediana,10.44,UF,32
+precio,p75,12.21,UF,32
+precio,minimo,4.98,UF,32
+precio,maximo,17.0,UF,32
+m2,mediana_precio_m2,0.26,UF,31
+m2,area_mediana_m2,42.0,m2,31
+banos,mediana_banos,1.0,,
+habitaciones,2,10.44,UF,32
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/la-florida,,
+fuente,licencia,CC BY 4.0,,

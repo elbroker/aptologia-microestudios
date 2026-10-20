@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,138
+filtro,habitaciones,3+,,138
+filtro,amob,"amoblados",,138
+precio,p25,4000000.0,COP,138
+precio,mediana,4775000.0,COP,138
+precio,p75,5775000.0,COP,138
+precio,minimo,2000000.0,COP,138
+precio,maximo,11111111.0,COP,138
+m2,mediana_precio_m2,60000.0,COP,131
+m2,area_mediana_m2,76.0,m2,131
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,79.5,%,132
+estrato,estrato_mas_frecuente,4,,138
+habitaciones,3+,4775000.0,COP,138
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

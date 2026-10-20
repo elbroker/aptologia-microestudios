@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,65
+filtro,estrato,3,,65
+filtro,area3,"de 70 a 100 m²",,65
+filtro,ban2,"con 2 baños",,65
+precio,p25,398000000.0,COP,65
+precio,mediana,459900000.0,COP,65
+precio,p75,536000000.0,COP,65
+precio,minimo,239999999.0,COP,65
+precio,maximo,580000000.0,COP,65
+m2,mediana_precio_m2,5505617.98,COP,65
+m2,area_mediana_m2,89.0,m2,65
+admin,mediana_admin_mes,424000.0,COP,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,63
+estrato,estrato_mas_frecuente,3,,65
+habitaciones,2,440000000.0,COP,13
+habitaciones,3+,500000000.0,COP,51
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,5529411.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/chia,,
+fuente,licencia,CC BY 4.0,,

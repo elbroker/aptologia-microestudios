@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,1,,45
+filtro,area1,"de menos de 45 m²",,45
+precio,p25,344430.0,PEN,45
+precio,mediana,398000.0,PEN,45
+precio,p75,438000.0,PEN,45
+precio,minimo,240483.0,PEN,45
+precio,maximo,638000.0,PEN,45
+m2,mediana_precio_m2,9500.0,PEN,44
+m2,area_mediana_m2,41.0,m2,44
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,1,398000.0,PEN,45
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

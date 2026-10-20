@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,151
+filtro,estrato,6,,151
+filtro,balc,"con balcón",,151
+filtro,ban3,"con 3 o más baños",,151
+precio,p25,8500000.0,COP,151
+precio,mediana,10500000.0,COP,151
+precio,p75,15000000.0,COP,151
+precio,minimo,4300000.0,COP,151
+precio,maximo,20500000.0,COP,151
+m2,mediana_precio_m2,68181.82,COP,145
+m2,area_mediana_m2,155.0,m2,145
+admin,mediana_admin_mes,1500000.0,COP,91
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,150
+estrato,estrato_mas_frecuente,6,,151
+habitaciones,2,9000000.0,COP,54
+habitaciones,3+,12500000.0,COP,97
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

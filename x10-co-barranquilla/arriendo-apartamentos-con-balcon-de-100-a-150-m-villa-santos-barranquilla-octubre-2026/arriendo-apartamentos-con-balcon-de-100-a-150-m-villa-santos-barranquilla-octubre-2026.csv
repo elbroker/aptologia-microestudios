@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,balc,"con balcón",,32
+filtro,area4,"de 100 a 150 m²",,32
+precio,p25,3700000.0,COP,32
+precio,mediana,4125000.0,COP,32
+precio,p75,5125000.0,COP,32
+precio,minimo,1510000.0,COP,32
+precio,maximo,6800000.0,COP,32
+m2,mediana_precio_m2,37614.68,COP,31
+m2,area_mediana_m2,120.5,m2,31
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,96.9,%,32
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,4661500.0,COP,28
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/villa-santos,,
+fuente,licencia,CC BY 4.0,,

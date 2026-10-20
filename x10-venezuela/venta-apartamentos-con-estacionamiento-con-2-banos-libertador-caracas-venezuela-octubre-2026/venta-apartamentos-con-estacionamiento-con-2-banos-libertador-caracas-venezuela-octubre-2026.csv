@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,parq1,"con estacionamiento",,41
+filtro,ban2,"con 2 baños",,41
+precio,p25,95000.0,USD,41
+precio,mediana,115000.0,USD,41
+precio,p75,130000.0,USD,41
+precio,minimo,53000.0,USD,41
+precio,maximo,170000.0,USD,41
+m2,mediana_precio_m2,1083.25,USD,40
+m2,area_mediana_m2,92.0,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,2,115000.0,USD,13
+habitaciones,3+,112500.0,USD,28
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/libertador,,
+fuente,licencia,CC BY 4.0,,

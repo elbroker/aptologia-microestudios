@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,ban2,"con 2 baños",,38
+precio,p25,233750.0,USD,38
+precio,mediana,329000.0,USD,38
+precio,p75,457250.0,USD,38
+precio,minimo,82000.0,USD,38
+precio,maximo,950000.0,USD,38
+m2,mediana_precio_m2,2865.98,USD,37
+m2,area_mediana_m2,109.0,m2,37
+banos,mediana_banos,2.0,,
+habitaciones,3+,329000.0,USD,38
+ciudad,mediana_ciudad_referencia,250000.0,USD,
+ciudad,mediana_m2_ciudad,3031.91,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/san-isidro,,
+fuente,licencia,CC BY 4.0,,

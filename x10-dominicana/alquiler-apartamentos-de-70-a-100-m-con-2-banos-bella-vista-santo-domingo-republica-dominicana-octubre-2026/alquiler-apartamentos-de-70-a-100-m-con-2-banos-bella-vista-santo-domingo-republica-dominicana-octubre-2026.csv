@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area3,"de 70 a 100 m²",,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,1200.0,USD,32
+precio,mediana,1360.0,USD,32
+precio,p75,1562.5,USD,32
+precio,minimo,950.0,USD,32
+precio,maximo,2000.0,USD,32
+m2,mediana_precio_m2,15.73,USD,32
+m2,area_mediana_m2,89.0,m2,32
+banos,mediana_banos,2.0,,
+habitaciones,1,1275.0,USD,6
+habitaciones,2,1385.0,USD,26
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo/bella-vista,,
+fuente,licencia,CC BY 4.0,,

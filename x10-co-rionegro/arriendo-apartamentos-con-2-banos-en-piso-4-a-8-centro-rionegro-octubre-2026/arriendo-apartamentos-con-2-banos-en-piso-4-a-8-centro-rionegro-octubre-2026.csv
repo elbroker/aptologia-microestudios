@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,38
+filtro,ban2,"con 2 baños",,38
+filtro,piso2,"en piso 4 a 8",,38
+precio,p25,1662500.0,COP,38
+precio,mediana,2125000.0,COP,38
+precio,p75,2700000.0,COP,38
+precio,minimo,1500000.0,COP,38
+precio,maximo,3400000.0,COP,38
+m2,mediana_precio_m2,35455.47,COP,38
+m2,area_mediana_m2,61.0,m2,38
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,38
+habitaciones,2,1850000.0,COP,22
+habitaciones,3+,2600000.0,COP,15
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

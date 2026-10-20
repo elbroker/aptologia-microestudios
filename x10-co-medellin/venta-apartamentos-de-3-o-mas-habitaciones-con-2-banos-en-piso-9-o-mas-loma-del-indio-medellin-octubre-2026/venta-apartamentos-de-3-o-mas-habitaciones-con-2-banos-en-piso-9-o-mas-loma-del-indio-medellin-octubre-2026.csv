@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,33
+filtro,habitaciones,3+,,33
+filtro,ban2,"con 2 baños",,33
+filtro,piso3,"en piso 9 o más",,33
+precio,p25,570000000.0,COP,33
+precio,mediana,665000000.0,COP,33
+precio,p75,690000000.0,COP,33
+precio,minimo,335000000.0,COP,33
+precio,maximo,890000000.0,COP,33
+m2,mediana_precio_m2,7770270.27,COP,33
+m2,area_mediana_m2,78.0,m2,33
+admin,mediana_admin_mes,460000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,665000000.0,COP,33
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

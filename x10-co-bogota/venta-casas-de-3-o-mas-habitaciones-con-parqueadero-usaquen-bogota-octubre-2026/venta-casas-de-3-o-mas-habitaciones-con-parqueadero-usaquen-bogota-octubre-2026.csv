@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,56
+filtro,habitaciones,3+,,56
+filtro,parq1,"con parqueadero",,56
+precio,p25,1362500000.0,COP,56
+precio,mediana,2650000000.0,COP,56
+precio,p75,4262500000.0,COP,56
+precio,minimo,670000000.0,COP,56
+precio,maximo,7500000000.0,COP,56
+m2,mediana_precio_m2,7794015.31,COP,49
+m2,area_mediana_m2,301.5,m2,49
+admin,mediana_admin_mes,1161750.0,COP,30
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,6,,56
+habitaciones,3+,2650000000.0,COP,56
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/usaquen,,
+fuente,licencia,CC BY 4.0,,

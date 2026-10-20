@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,74
+filtro,ban3,"con 3 o más baños",,74
+filtro,piso1,"en piso 1 a 3",,74
+precio,p25,525000000.0,COP,74
+precio,mediana,650000000.0,COP,74
+precio,p75,993750000.0,COP,74
+precio,minimo,255000000.0,COP,74
+precio,maximo,2200000000.0,COP,74
+m2,mediana_precio_m2,4363636.36,COP,67
+m2,area_mediana_m2,163.5,m2,67
+admin,mediana_admin_mes,800000.0,COP,66
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,6,,74
+habitaciones,3+,650000000.0,COP,74
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/altos-de-riomar,,
+fuente,licencia,CC BY 4.0,,

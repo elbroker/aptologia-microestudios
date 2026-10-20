@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,92
+filtro,habitaciones,2,,92
+filtro,parq0,"sin estacionamiento",,92
+filtro,ban1,"con 1 baño",,92
+precio,p25,1300.0,EUR,92
+precio,mediana,1425.0,EUR,92
+precio,p75,1650.0,EUR,92
+precio,minimo,950.0,EUR,92
+precio,maximo,3500.0,EUR,92
+m2,mediana_precio_m2,22.83,EUR,92
+m2,area_mediana_m2,66.0,m2,92
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,92
+habitaciones,2,1425.0,EUR,92
+ciudad,mediana_ciudad_referencia,1900.0,EUR,
+ciudad,mediana_m2_ciudad,22.94,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/arrendamento/lisboa,,
+fuente,licencia,CC BY 4.0,,

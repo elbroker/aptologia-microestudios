@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,piso3,"en piso 9 o más",,35
+precio,p25,365000000.0,COP,35
+precio,mediana,415000000.0,COP,35
+precio,p75,535000000.0,COP,35
+precio,minimo,290000000.0,COP,35
+precio,maximo,760000000.0,COP,35
+m2,mediana_precio_m2,6016000.0,COP,35
+m2,area_mediana_m2,71.0,m2,35
+admin,mediana_admin_mes,413000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,4,,35
+habitaciones,3+,415000000.0,COP,35
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/gran-granada,,
+fuente,licencia,CC BY 4.0,,

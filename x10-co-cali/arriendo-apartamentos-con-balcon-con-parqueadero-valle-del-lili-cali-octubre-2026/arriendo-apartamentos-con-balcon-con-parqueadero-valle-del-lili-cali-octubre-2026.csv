@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,75
+filtro,balc,"con balcón",,75
+filtro,parq1,"con parqueadero",,75
+precio,p25,1600000.0,COP,75
+precio,mediana,1850000.0,COP,75
+precio,p75,2800000.0,COP,75
+precio,minimo,1150000.0,COP,75
+precio,maximo,6200000.0,COP,75
+m2,mediana_precio_m2,28947.37,COP,75
+m2,area_mediana_m2,70.0,m2,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,75
+estrato,estrato_mas_frecuente,4,,74
+habitaciones,2,1700000.0,COP,31
+habitaciones,3+,1950000.0,COP,44
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali/valle-del-lili,,
+fuente,licencia,CC BY 4.0,,

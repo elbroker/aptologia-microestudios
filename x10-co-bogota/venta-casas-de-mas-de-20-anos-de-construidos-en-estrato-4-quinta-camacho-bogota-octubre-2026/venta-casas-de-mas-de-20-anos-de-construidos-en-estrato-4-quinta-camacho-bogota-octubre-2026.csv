@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,4,,55
+filtro,edad3,"de más de 20 años de construidos",,55
+precio,p25,1750000000.0,COP,55
+precio,mediana,2500000000.0,COP,55
+precio,p75,3500000000.0,COP,55
+precio,minimo,795000000.0,COP,55
+precio,maximo,7000000000.0,COP,55
+m2,mediana_precio_m2,6143344.71,COP,55
+m2,area_mediana_m2,440.0,m2,55
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,80.0,%,55
+estrato,estrato_mas_frecuente,4,,55
+habitaciones,3+,2400000000.0,COP,48
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/quinta-camacho,,
+fuente,licencia,CC BY 4.0,,

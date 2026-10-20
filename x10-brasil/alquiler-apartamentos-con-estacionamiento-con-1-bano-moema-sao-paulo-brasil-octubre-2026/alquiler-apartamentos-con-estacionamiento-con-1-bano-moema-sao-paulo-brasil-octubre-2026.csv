@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,65
+filtro,parq1,"con estacionamiento",,65
+filtro,ban1,"con 1 baño",,65
+precio,p25,3300.0,BRL,65
+precio,mediana,4500.0,BRL,65
+precio,p75,5500.0,BRL,65
+precio,minimo,1960.0,BRL,65
+precio,maximo,13000.0,BRL,65
+m2,mediana_precio_m2,86.96,BRL,65
+m2,area_mediana_m2,45.0,m2,65
+admin,mediana_admin_mes,1225.0,BRL,64
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+habitaciones,1,4300.0,BRL,58
+habitaciones,2,4750.0,BRL,6
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/moema,,
+fuente,licencia,CC BY 4.0,,

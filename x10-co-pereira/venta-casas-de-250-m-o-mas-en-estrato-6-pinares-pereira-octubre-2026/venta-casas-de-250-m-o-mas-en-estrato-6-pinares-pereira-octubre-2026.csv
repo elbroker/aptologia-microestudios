@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,86
+filtro,estrato,6,,86
+filtro,area6,"de 250 m² o más",,86
+precio,p25,1200000000.0,COP,86
+precio,mediana,1445000000.0,COP,86
+precio,p75,1800000000.0,COP,86
+precio,minimo,550000000.0,COP,86
+precio,maximo,4800000000.0,COP,86
+m2,mediana_precio_m2,4687500.0,COP,85
+m2,area_mediana_m2,305.5,m2,85
+admin,mediana_admin_mes,1171550.0,COP,52
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.7,%,86
+estrato,estrato_mas_frecuente,6,,86
+habitaciones,3+,1445000000.0,COP,86
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,1,,36
+filtro,parq1,"con parqueadero",,36
+precio,p25,447500000.0,COP,36
+precio,mediana,482500000.0,COP,36
+precio,p75,607500000.0,COP,36
+precio,minimo,210000000.0,COP,36
+precio,maximo,850000000.0,COP,36
+m2,mediana_precio_m2,9062500.0,COP,35
+m2,area_mediana_m2,64.0,m2,35
+admin,mediana_admin_mes,465000.0,COP,18
+banos,mediana_banos,1.5,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,1,482500000.0,COP,36
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

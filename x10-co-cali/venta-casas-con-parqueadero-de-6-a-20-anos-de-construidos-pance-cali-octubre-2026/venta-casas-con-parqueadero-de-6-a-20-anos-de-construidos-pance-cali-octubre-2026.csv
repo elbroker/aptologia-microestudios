@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,199
+filtro,parq1,"con parqueadero",,199
+filtro,edad2,"de 6 a 20 años de construidos",,199
+precio,p25,1600000000.0,COP,199
+precio,mediana,2000000000.0,COP,199
+precio,p75,3325000000.0,COP,199
+precio,minimo,695000000.0,COP,199
+precio,maximo,8000000000.0,COP,199
+m2,mediana_precio_m2,5114970.55,COP,190
+m2,area_mediana_m2,451.5,m2,190
+admin,mediana_admin_mes,1460000.0,COP,157
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,199
+estrato,estrato_mas_frecuente,6,,199
+habitaciones,3+,2000000000.0,COP,199
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

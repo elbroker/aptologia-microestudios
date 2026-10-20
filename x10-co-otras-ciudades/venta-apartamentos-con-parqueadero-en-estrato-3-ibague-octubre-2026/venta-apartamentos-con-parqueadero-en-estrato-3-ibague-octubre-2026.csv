@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,295
+filtro,estrato,3,,295
+filtro,parq1,"con parqueadero",,295
+precio,p25,190000000.0,COP,295
+precio,mediana,240000000.0,COP,295
+precio,p75,271000000.0,COP,295
+precio,minimo,150000000.0,COP,295
+precio,maximo,920000000.0,COP,295
+m2,mediana_precio_m2,3771407.84,COP,292
+m2,area_mediana_m2,60.0,m2,292
+admin,mediana_admin_mes,216000.0,COP,230
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,295
+estrato,estrato_mas_frecuente,3,,295
+habitaciones,2,233490785.0,COP,38
+habitaciones,3+,240000000.0,COP,255
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,4239130.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/ibague,,
+fuente,licencia,CC BY 4.0,,

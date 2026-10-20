@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,3+,,40
+filtro,area4,"de 100 a 150 m²",,40
+precio,p25,337500000.0,COP,40
+precio,mediana,410000000.0,COP,40
+precio,p75,520000000.0,COP,40
+precio,minimo,270000000.0,COP,40
+precio,maximo,780000000.0,COP,40
+m2,mediana_precio_m2,3395585.74,COP,37
+m2,area_mediana_m2,117.0,m2,37
+admin,mediana_admin_mes,516000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,3+,410000000.0,COP,40
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/andalucia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,1575.0,USD,36
+precio,mediana,2300.0,USD,36
+precio,p75,3050.0,USD,36
+precio,minimo,900.0,USD,36
+precio,maximo,10000.0,USD,36
+m2,mediana_precio_m2,12.6,USD,36
+m2,area_mediana_m2,185.5,m2,36
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+habitaciones,3+,2300.0,USD,36
+ciudad,mediana_ciudad_referencia,1300.0,USD,
+ciudad,mediana_m2_ciudad,12.1,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/alquiler/caracas/baruta,,
+fuente,licencia,CC BY 4.0,,

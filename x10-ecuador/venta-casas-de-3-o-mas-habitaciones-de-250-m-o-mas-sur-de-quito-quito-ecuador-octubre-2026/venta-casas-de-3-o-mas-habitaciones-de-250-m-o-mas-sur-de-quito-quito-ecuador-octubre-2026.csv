@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,65
+filtro,habitaciones,3+,,65
+filtro,area6,"de 250 m² o más",,65
+precio,p25,140000.0,USD,65
+precio,mediana,175000.0,USD,65
+precio,p75,250000.0,USD,65
+precio,minimo,85000.0,USD,65
+precio,maximo,1450000.0,USD,65
+m2,mediana_precio_m2,428.21,USD,61
+m2,area_mediana_m2,418.0,m2,61
+banos,mediana_banos,5.0,,
+habitaciones,3+,175000.0,USD,65
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,765.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/sur-de-quito,,
+fuente,licencia,CC BY 4.0,,

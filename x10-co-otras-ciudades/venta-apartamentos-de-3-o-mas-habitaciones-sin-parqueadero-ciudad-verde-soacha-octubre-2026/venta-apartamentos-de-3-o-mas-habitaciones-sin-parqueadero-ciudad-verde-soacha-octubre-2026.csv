@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,parq0,"sin parqueadero",,42
+precio,p25,160000000.0,COP,42
+precio,mediana,183000000.0,COP,42
+precio,p75,213750000.0,COP,42
+precio,minimo,150000000.0,COP,42
+precio,maximo,300000000.0,COP,42
+m2,mediana_precio_m2,3495574.73,COP,42
+m2,area_mediana_m2,52.9,m2,42
+admin,mediana_admin_mes,120000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,42
+estrato,estrato_mas_frecuente,3,,42
+habitaciones,3+,183000000.0,COP,42
+ciudad,mediana_ciudad_referencia,170000000.0,COP,
+ciudad,mediana_m2_ciudad,3393617.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/soacha/ciudad-verde,,
+fuente,licencia,CC BY 4.0,,

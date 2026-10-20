@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,240
+filtro,estrato,5,,240
+filtro,parq0,"sin parqueadero",,240
+filtro,ban2,"con 2 baños",,240
+precio,p25,2800000.0,COP,240
+precio,mediana,3600000.0,COP,240
+precio,p75,4700000.0,COP,240
+precio,minimo,1111111.0,COP,240
+precio,maximo,11500000.0,COP,240
+m2,mediana_precio_m2,47500.0,COP,233
+m2,area_mediana_m2,76.0,m2,233
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,240
+estrato,estrato_mas_frecuente,5,,240
+habitaciones,1,3800000.0,COP,19
+habitaciones,2,3450000.0,COP,106
+habitaciones,3+,3700000.0,COP,115
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin,,
+fuente,licencia,CC BY 4.0,,

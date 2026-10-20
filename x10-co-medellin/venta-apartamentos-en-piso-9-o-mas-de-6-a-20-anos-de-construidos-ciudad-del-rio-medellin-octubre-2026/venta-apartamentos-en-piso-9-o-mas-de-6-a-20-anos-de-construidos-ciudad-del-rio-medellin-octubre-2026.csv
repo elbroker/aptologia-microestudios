@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,piso3,"en piso 9 o más",,33
+filtro,edad2,"de 6 a 20 años de construidos",,33
+precio,p25,698000000.0,COP,33
+precio,mediana,799000000.0,COP,33
+precio,p75,980000000.0,COP,33
+precio,minimo,520000000.0,COP,33
+precio,maximo,1500000000.0,COP,33
+m2,mediana_precio_m2,10257383.1,COP,32
+m2,area_mediana_m2,79.5,m2,32
+admin,mediana_admin_mes,436500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,1,599500000.0,COP,6
+habitaciones,2,810000000.0,COP,11
+habitaciones,3+,815000000.0,COP,16
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

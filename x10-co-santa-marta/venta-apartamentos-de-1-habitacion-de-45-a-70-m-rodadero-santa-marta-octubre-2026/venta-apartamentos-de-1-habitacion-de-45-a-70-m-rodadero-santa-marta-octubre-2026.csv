@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,48
+filtro,habitaciones,1,,48
+filtro,area2,"de 45 a 70 m²",,48
+precio,p25,337500000.0,COP,48
+precio,mediana,410000000.0,COP,48
+precio,p75,507500000.0,COP,48
+precio,minimo,225000000.0,COP,48
+precio,maximo,835000000.0,COP,48
+m2,mediana_precio_m2,7453703.7,COP,48
+m2,area_mediana_m2,53.0,m2,48
+admin,mediana_admin_mes,380000.0,COP,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.2,%,42
+estrato,estrato_mas_frecuente,6,,47
+habitaciones,1,410000000.0,COP,48
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero,,
+fuente,licencia,CC BY 4.0,,

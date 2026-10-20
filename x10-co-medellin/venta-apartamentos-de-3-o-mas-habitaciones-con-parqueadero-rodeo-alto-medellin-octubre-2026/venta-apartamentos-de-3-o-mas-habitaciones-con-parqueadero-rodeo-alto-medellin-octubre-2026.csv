@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,72
+filtro,habitaciones,3+,,72
+filtro,parq1,"con parqueadero",,72
+precio,p25,377250000.0,COP,72
+precio,mediana,417500000.0,COP,72
+precio,p75,450000000.0,COP,72
+precio,minimo,310000000.0,COP,72
+precio,maximo,850000000.0,COP,72
+m2,mediana_precio_m2,6700600.26,COP,72
+m2,area_mediana_m2,64.0,m2,72
+admin,mediana_admin_mes,320000.0,COP,50
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+estrato,estrato_mas_frecuente,4,,72
+habitaciones,3+,417500000.0,COP,72
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/rodeo-alto,,
+fuente,licencia,CC BY 4.0,,

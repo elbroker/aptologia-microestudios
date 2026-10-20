@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,2,,31
+filtro,ban2,"con 2 baños",,31
+precio,p25,5400000.0,PYG,31
+precio,mediana,5800000.0,PYG,31
+precio,p75,6500000.0,PYG,31
+precio,minimo,3000000.0,PYG,31
+precio,maximo,11000000.0,PYG,31
+banos,mediana_banos,2.0,,
+habitaciones,2,5800000.0,PYG,31
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/las-mercedes,,
+fuente,licencia,CC BY 4.0,,

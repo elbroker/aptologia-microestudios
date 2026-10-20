@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,38
+filtro,parq1,"con estacionamiento",,38
+filtro,ban2,"con 2 baños",,38
+precio,p25,476750.0,USD,38
+precio,mediana,672500.0,USD,38
+precio,p75,887500.0,USD,38
+precio,minimo,290000.0,USD,38
+precio,maximo,2400000.0,USD,38
+m2,mediana_precio_m2,2146.0,USD,36
+m2,area_mediana_m2,286.0,m2,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,3+,685000.0,USD,37
+ciudad,mediana_ciudad_referencia,720000.0,USD,
+ciudad,mediana_m2_ciudad,1840.06,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/la-molina,,
+fuente,licencia,CC BY 4.0,,

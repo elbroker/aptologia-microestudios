@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,89
+filtro,estrato,3,,89
+filtro,parq1,"con parqueadero",,89
+precio,p25,1400000.0,COP,89
+precio,mediana,1600000.0,COP,89
+precio,p75,1950000.0,COP,89
+precio,minimo,1110000.0,COP,89
+precio,maximo,5500000.0,COP,89
+m2,mediana_precio_m2,31690.14,COP,89
+m2,area_mediana_m2,51.9,m2,89
+admin,mediana_admin_mes,281000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,89
+estrato,estrato_mas_frecuente,3,,89
+habitaciones,1,1460000.0,COP,17
+habitaciones,2,1550000.0,COP,55
+habitaciones,3+,1990000.0,COP,16
+ciudad,mediana_ciudad_referencia,1767250.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/chia,,
+fuente,licencia,CC BY 4.0,,

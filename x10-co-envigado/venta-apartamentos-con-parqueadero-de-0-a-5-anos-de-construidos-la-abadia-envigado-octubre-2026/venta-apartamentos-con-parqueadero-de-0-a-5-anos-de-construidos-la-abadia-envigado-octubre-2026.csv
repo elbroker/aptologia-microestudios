@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,49
+filtro,parq1,"con parqueadero",,49
+filtro,edad1,"de 0 a 5 años de construidos",,49
+precio,p25,675000000.0,COP,49
+precio,mediana,819000000.0,COP,49
+precio,p75,905000000.0,COP,49
+precio,minimo,465000000.0,COP,49
+precio,maximo,1900000000.0,COP,49
+m2,mediana_precio_m2,8915662.65,COP,49
+m2,area_mediana_m2,94.0,m2,49
+admin,mediana_admin_mes,550000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,5,,49
+habitaciones,2,650000000.0,COP,11
+habitaciones,3+,850000000.0,COP,38
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-abadia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,81
+filtro,habitaciones,3+,,81
+filtro,area2,"de 45 a 70 m²",,81
+precio,p25,260000000.0,COP,81
+precio,mediana,280000000.0,COP,81
+precio,p75,310000000.0,COP,81
+precio,minimo,195000000.0,COP,81
+precio,maximo,520000000.0,COP,81
+m2,mediana_precio_m2,5294117.65,COP,81
+m2,area_mediana_m2,52.0,m2,81
+admin,mediana_admin_mes,200000.0,COP,59
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,38.5,%,52
+estrato,estrato_mas_frecuente,3,,81
+habitaciones,3+,280000000.0,COP,81
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/maria-auxiliadora,,
+fuente,licencia,CC BY 4.0,,

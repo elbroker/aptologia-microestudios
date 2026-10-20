@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,parq1,"con parqueadero",,36
+filtro,edad2,"de 6 a 20 años de construidos",,36
+precio,p25,680000000.0,COP,36
+precio,mediana,822500000.0,COP,36
+precio,p75,1036750000.0,COP,36
+precio,minimo,480000000.0,COP,36
+precio,maximo,2120000000.0,COP,36
+m2,mediana_precio_m2,7403218.79,COP,36
+m2,area_mediana_m2,104.0,m2,36
+admin,mediana_admin_mes,727700.0,COP,33
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,750000000.0,COP,11
+habitaciones,3+,900000000.0,COP,21
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/cielo-mar,,
+fuente,licencia,CC BY 4.0,,

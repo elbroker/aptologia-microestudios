@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,ban2,"con 2 baños",,37
+precio,p25,450000000.0,COP,37
+precio,mediana,539900000.0,COP,37
+precio,p75,660000000.0,COP,37
+precio,minimo,255000000.0,COP,37
+precio,maximo,870000000.0,COP,37
+m2,mediana_precio_m2,6756436.31,COP,36
+m2,area_mediana_m2,82.0,m2,36
+admin,mediana_admin_mes,350000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,3+,539900000.0,COP,37
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,5671641.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/calahorra,,
+fuente,licencia,CC BY 4.0,,

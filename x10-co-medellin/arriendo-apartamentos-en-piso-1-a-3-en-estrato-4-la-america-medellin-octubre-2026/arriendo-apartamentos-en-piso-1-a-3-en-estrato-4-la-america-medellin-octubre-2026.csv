@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,31
+filtro,estrato,4,,31
+filtro,piso1,"en piso 1 a 3",,31
+precio,p25,2200000.0,COP,31
+precio,mediana,2680000.0,COP,31
+precio,p75,3450000.0,COP,31
+precio,minimo,1600000.0,COP,31
+precio,maximo,11111111.0,COP,31
+m2,mediana_precio_m2,35980.39,COP,30
+m2,area_mediana_m2,70.0,m2,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,2,2400000.0,COP,9
+habitaciones,3+,2800000.0,COP,19
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

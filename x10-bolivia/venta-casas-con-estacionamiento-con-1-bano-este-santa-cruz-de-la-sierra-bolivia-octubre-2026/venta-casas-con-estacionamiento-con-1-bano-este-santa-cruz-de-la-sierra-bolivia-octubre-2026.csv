@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,34
+filtro,parq1,"con estacionamiento",,34
+filtro,ban1,"con 1 baño",,34
+precio,p25,51250.0,USD,34
+precio,mediana,63250.0,USD,34
+precio,p75,89000.0,USD,34
+precio,minimo,44900.0,USD,34
+precio,maximo,185000.0,USD,34
+m2,mediana_precio_m2,612.9,USD,31
+m2,area_mediana_m2,100.0,m2,31
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+habitaciones,2,62500.0,USD,13
+habitaciones,3+,69000.0,USD,18
+ciudad,mediana_ciudad_referencia,160000.0,USD,
+ciudad,mediana_m2_ciudad,790.1,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

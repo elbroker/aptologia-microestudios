@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,40
+filtro,habitaciones,1,,40
+filtro,area1,"de menos de 45 m²",,40
+filtro,parq1,"con estacionamiento",,40
+precio,p25,2075.0,PEN,40
+precio,mediana,2345.0,PEN,40
+precio,p75,2651.5,PEN,40
+precio,minimo,1150.0,PEN,40
+precio,maximo,3000.0,PEN,40
+m2,mediana_precio_m2,57.5,PEN,36
+m2,area_mediana_m2,40.0,m2,36
+admin,mediana_admin_mes,225.0,PEN,16
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+habitaciones,1,2345.0,PEN,40
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,618
+filtro,habitaciones,1,,618
+filtro,parq1,"con estacionamiento",,618
+precio,p25,85000.0,USD,618
+precio,mediana,100295.0,USD,618
+precio,p75,120000.0,USD,618
+precio,minimo,42500.0,USD,618
+precio,maximo,825000.0,USD,618
+m2,mediana_precio_m2,1967.21,USD,563
+m2,area_mediana_m2,51.0,m2,563
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,618
+habitaciones,1,100295.0,USD,618
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

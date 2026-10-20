@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,30
+filtro,habitaciones,3+,,30
+filtro,estrato,4,,30
+precio,p25,381250000.0,COP,30
+precio,mediana,467500000.0,COP,30
+precio,p75,517500000.0,COP,30
+precio,minimo,299000000.0,COP,30
+precio,maximo,595000000.0,COP,30
+m2,mediana_precio_m2,5350399.42,COP,30
+m2,area_mediana_m2,84.0,m2,30
+admin,mediana_admin_mes,460000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,467500000.0,COP,30
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,5671641.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica/canelon,,
+fuente,licencia,CC BY 4.0,,

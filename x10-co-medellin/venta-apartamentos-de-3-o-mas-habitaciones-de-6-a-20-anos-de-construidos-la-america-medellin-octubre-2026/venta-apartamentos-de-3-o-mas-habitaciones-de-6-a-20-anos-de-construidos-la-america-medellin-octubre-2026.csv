@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,edad2,"de 6 a 20 años de construidos",,34
+precio,p25,416250000.0,COP,34
+precio,mediana,502500000.0,COP,34
+precio,p75,650000000.0,COP,34
+precio,minimo,280000000.0,COP,34
+precio,maximo,1800000000.0,COP,34
+m2,mediana_precio_m2,5187500.0,COP,33
+m2,area_mediana_m2,98.5,m2,33
+admin,mediana_admin_mes,215500.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,58.8,%,34
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,3+,502500000.0,COP,34
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

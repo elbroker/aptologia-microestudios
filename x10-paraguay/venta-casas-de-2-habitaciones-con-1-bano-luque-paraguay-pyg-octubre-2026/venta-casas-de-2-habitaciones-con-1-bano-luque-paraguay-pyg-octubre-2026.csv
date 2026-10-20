@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,53
+filtro,habitaciones,2,,53
+filtro,ban1,"con 1 baño",,53
+precio,p25,320000000.0,PYG,53
+precio,mediana,400000000.0,PYG,53
+precio,p75,480000000.0,PYG,53
+precio,minimo,250000000.0,PYG,53
+precio,maximo,1320000000.0,PYG,53
+banos,mediana_banos,1.0,,
+habitaciones,2,400000000.0,PYG,53
+ciudad,mediana_ciudad_referencia,630000000.0,PYG,
+ciudad,mediana_m2_ciudad,3218390.8,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/luque,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,63
+filtro,habitaciones,3+,,63
+filtro,ban3,"con 3 o más baños",,63
+precio,p25,8300.0,BRL,63
+precio,mediana,12000.0,BRL,63
+precio,p75,18000.0,BRL,63
+precio,minimo,4010.0,BRL,63
+precio,maximo,30000.0,BRL,63
+m2,mediana_precio_m2,74.04,BRL,62
+m2,area_mediana_m2,148.0,m2,62
+admin,mediana_admin_mes,2508.0,BRL,62
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.4,%,62
+habitaciones,3+,12000.0,BRL,63
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-mariana,,
+fuente,licencia,CC BY 4.0,,

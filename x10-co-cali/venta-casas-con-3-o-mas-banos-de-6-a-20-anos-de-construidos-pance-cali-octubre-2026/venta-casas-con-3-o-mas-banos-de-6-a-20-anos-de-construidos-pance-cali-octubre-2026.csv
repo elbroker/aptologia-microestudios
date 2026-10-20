@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,198
+filtro,ban3,"con 3 o más baños",,198
+filtro,edad2,"de 6 a 20 años de construidos",,198
+precio,p25,1600000000.0,COP,198
+precio,mediana,2000000000.0,COP,198
+precio,p75,3200000000.0,COP,198
+precio,minimo,695000000.0,COP,198
+precio,maximo,8000000000.0,COP,198
+m2,mediana_precio_m2,5122440.2,COP,190
+m2,area_mediana_m2,450.0,m2,190
+admin,mediana_admin_mes,1457500.0,COP,158
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,99.5,%,198
+estrato,estrato_mas_frecuente,6,,198
+habitaciones,3+,2000000000.0,COP,198
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

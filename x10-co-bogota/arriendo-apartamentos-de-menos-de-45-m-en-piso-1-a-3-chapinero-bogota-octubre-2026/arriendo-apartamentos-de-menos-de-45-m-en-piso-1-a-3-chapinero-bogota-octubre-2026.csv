@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,31
+filtro,area1,"de menos de 45 m²",,31
+filtro,piso1,"en piso 1 a 3",,31
+precio,p25,1545000.0,COP,31
+precio,mediana,1900000.0,COP,31
+precio,p75,2200000.0,COP,31
+precio,minimo,930000.0,COP,31
+precio,maximo,3500000.0,COP,31
+m2,mediana_precio_m2,59729.73,COP,30
+m2,area_mediana_m2,34.0,m2,30
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,1,1900000.0,COP,28
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

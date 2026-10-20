@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,131
+filtro,habitaciones,3+,,131
+filtro,area5,"de 150 a 250 m²",,131
+filtro,ban2,"con 2 baños",,131
+precio,p25,108000.0,USD,131
+precio,mediana,135000.0,USD,131
+precio,p75,157000.0,USD,131
+precio,minimo,45000.0,USD,131
+precio,maximo,1550000.0,USD,131
+m2,mediana_precio_m2,723.68,USD,129
+m2,area_mediana_m2,180.0,m2,129
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,112
+habitaciones,3+,135000.0,USD,131
+ciudad,mediana_ciudad_referencia,160000.0,USD,
+ciudad,mediana_m2_ciudad,790.1,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

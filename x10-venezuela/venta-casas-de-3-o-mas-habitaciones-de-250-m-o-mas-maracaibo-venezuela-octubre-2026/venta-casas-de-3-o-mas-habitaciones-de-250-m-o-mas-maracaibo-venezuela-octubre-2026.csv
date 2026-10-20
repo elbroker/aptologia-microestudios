@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area6,"de 250 m² o más",,35
+precio,p25,157500.0,USD,35
+precio,mediana,250000.0,USD,35
+precio,p75,500000.0,USD,35
+precio,minimo,75000.0,USD,35
+precio,maximo,2000000.0,USD,35
+m2,mediana_precio_m2,612.87,USD,35
+m2,area_mediana_m2,429.0,m2,35
+banos,mediana_banos,5.0,,
+habitaciones,3+,250000.0,USD,35
+ciudad,mediana_ciudad_referencia,162500.0,USD,
+ciudad,mediana_m2_ciudad,618.94,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/maracaibo,,
+fuente,licencia,CC BY 4.0,,

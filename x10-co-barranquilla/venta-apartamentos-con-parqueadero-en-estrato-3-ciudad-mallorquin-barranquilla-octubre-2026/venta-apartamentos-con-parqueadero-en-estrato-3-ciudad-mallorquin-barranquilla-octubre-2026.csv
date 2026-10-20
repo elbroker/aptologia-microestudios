@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,3,,32
+filtro,parq1,"con parqueadero",,32
+precio,p25,257500000.0,COP,32
+precio,mediana,265000000.0,COP,32
+precio,p75,290000000.0,COP,32
+precio,minimo,205000000.0,COP,32
+precio,maximo,350000000.0,COP,32
+m2,mediana_precio_m2,4810714.29,COP,32
+m2,area_mediana_m2,56.0,m2,32
+admin,mediana_admin_mes,216000.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,2,270000000.0,COP,29
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-mallorquin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,160
+filtro,estrato,4,,160
+filtro,area6,"de 250 m² o más",,160
+filtro,parq1,"con parqueadero",,160
+precio,p25,6500000.0,COP,160
+precio,mediana,9700000.0,COP,160
+precio,p75,13700000.0,COP,160
+precio,minimo,3000000.0,COP,160
+precio,maximo,27000000.0,COP,160
+m2,mediana_precio_m2,23313.92,COP,160
+m2,area_mediana_m2,399.0,m2,160
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,160
+estrato,estrato_mas_frecuente,4,,160
+habitaciones,3+,9700000.0,COP,151
+ciudad,mediana_ciudad_referencia,8200000.0,COP,
+ciudad,mediana_m2_ciudad,25000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla,,
+fuente,licencia,CC BY 4.0,,

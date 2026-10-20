@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,119
+filtro,parq1,"con parqueadero",,119
+filtro,edad2,"de 6 a 20 años de construidos",,119
+precio,p25,975000000.0,COP,119
+precio,mediana,1200000000.0,COP,119
+precio,p75,1590000000.0,COP,119
+precio,minimo,390000000.0,COP,119
+precio,maximo,3900000000.0,COP,119
+m2,mediana_precio_m2,11258468.09,COP,94
+m2,area_mediana_m2,109.5,m2,94
+admin,mediana_admin_mes,900000.0,COP,102
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,119
+estrato,estrato_mas_frecuente,6,,119
+habitaciones,1,980000000.0,COP,31
+habitaciones,2,1200000000.0,COP,38
+habitaciones,3+,1565000000.0,COP,50
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

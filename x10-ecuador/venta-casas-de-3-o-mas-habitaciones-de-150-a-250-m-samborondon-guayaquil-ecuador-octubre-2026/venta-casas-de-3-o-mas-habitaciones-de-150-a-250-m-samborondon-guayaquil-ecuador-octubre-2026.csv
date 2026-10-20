@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,79
+filtro,habitaciones,3+,,79
+filtro,area5,"de 150 a 250 m²",,79
+precio,p25,237450.0,USD,79
+precio,mediana,282000.0,USD,79
+precio,p75,350000.0,USD,79
+precio,minimo,115000.0,USD,79
+precio,maximo,485000.0,USD,79
+m2,mediana_precio_m2,1369.05,USD,79
+m2,area_mediana_m2,207.5,m2,79
+banos,mediana_banos,4.0,,
+habitaciones,3+,282000.0,USD,79
+ciudad,mediana_ciudad_referencia,220000.0,USD,
+ciudad,mediana_m2_ciudad,945.97,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/guayaquil/samborondon,,
+fuente,licencia,CC BY 4.0,,

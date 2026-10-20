@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,50
+filtro,habitaciones,3+,,50
+filtro,area6,"de 250 m² o más",,50
+precio,p25,680000000.0,COP,50
+precio,mediana,900000000.0,COP,50
+precio,p75,1000550000.0,COP,50
+precio,minimo,485000000.0,COP,50
+precio,maximo,1683000000.0,COP,50
+m2,mediana_precio_m2,2049700.3,COP,50
+m2,area_mediana_m2,384.0,m2,50
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,91.1,%,45
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,3+,900000000.0,COP,50
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/el-recreo,,
+fuente,licencia,CC BY 4.0,,

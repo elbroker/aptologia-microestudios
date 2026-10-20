@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,ban3,"con 3 o más baños",,30
+precio,p25,390000000.0,COP,30
+precio,mediana,475000000.0,COP,30
+precio,p75,545000000.0,COP,30
+precio,minimo,300000000.0,COP,30
+precio,maximo,640000000.0,COP,30
+m2,mediana_precio_m2,3721153.85,COP,30
+m2,area_mediana_m2,120.0,m2,30
+admin,mediana_admin_mes,464000.0,COP,27
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,475000000.0,COP,30
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/ciudadela-real-de-minas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,134
+filtro,habitaciones,3+,,134
+filtro,ban3,"con 3 o más baños",,134
+precio,p25,365500000.0,COP,134
+precio,mediana,495000000.0,COP,134
+precio,p75,700000000.0,COP,134
+precio,minimo,220000000.0,COP,134
+precio,maximo,3900000000.0,COP,134
+m2,mediana_precio_m2,5630681.82,COP,132
+m2,area_mediana_m2,91.0,m2,132
+admin,mediana_admin_mes,321000.0,COP,71
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,45.9,%,109
+estrato,estrato_mas_frecuente,3,,129
+habitaciones,3+,495000000.0,COP,134
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,edad1,"de 0 a 5 años de construidos",,36
+precio,p25,1450000000.0,COP,36
+precio,mediana,1950000000.0,COP,36
+precio,p75,2625000000.0,COP,36
+precio,minimo,615000000.0,COP,36
+precio,maximo,4800000000.0,COP,36
+m2,mediana_precio_m2,5285737.54,COP,34
+m2,area_mediana_m2,302.5,m2,34
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,5,,34
+habitaciones,3+,1950000000.0,COP,36
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,4296875.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

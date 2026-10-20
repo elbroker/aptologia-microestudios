@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,514
+filtro,habitaciones,3+,,514
+filtro,balc,"con balcón",,514
+filtro,area3,"de 70 a 100 m²",,514
+precio,p25,2650000.0,COP,514
+precio,mediana,3000000.0,COP,514
+precio,p75,3300000.0,COP,514
+precio,minimo,1400000.0,COP,514
+precio,maximo,7000000.0,COP,514
+m2,mediana_precio_m2,36842.11,COP,514
+m2,area_mediana_m2,78.0,m2,514
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.9,%,492
+estrato,estrato_mas_frecuente,5,,513
+habitaciones,3+,3000000.0,COP,514
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

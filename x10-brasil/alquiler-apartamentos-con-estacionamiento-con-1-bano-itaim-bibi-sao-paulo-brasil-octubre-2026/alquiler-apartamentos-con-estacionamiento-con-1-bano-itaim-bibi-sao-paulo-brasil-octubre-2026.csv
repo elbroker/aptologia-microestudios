@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,69
+filtro,parq1,"con estacionamiento",,69
+filtro,ban1,"con 1 baño",,69
+precio,p25,4560.0,BRL,69
+precio,mediana,6000.0,BRL,69
+precio,p75,8250.0,BRL,69
+precio,minimo,2830.0,BRL,69
+precio,maximo,24000.0,BRL,69
+m2,mediana_precio_m2,103.92,BRL,66
+m2,area_mediana_m2,50.0,m2,66
+admin,mediana_admin_mes,1518.0,BRL,66
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+habitaciones,1,5500.0,BRL,53
+habitaciones,2,7534.0,BRL,13
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/itaim-bibi,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,32
+filtro,habitaciones,3+,,32
+filtro,estrato,5,,32
+precio,p25,615000000.0,COP,32
+precio,mediana,697000000.0,COP,32
+precio,p75,780000000.0,COP,32
+precio,minimo,469000000.0,COP,32
+precio,maximo,900000000.0,COP,32
+m2,mediana_precio_m2,7848228.66,COP,32
+m2,area_mediana_m2,80.0,m2,32
+admin,mediana_admin_mes,441200.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,90.3,%,31
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,697000000.0,COP,32
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/los-colegios,,
+fuente,licencia,CC BY 4.0,,

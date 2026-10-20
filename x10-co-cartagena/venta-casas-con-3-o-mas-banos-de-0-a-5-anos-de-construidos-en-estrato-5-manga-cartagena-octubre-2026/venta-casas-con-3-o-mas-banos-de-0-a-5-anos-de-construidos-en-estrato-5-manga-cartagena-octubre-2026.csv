@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,69
+filtro,estrato,5,,69
+filtro,ban3,"con 3 o más baños",,69
+filtro,edad1,"de 0 a 5 años de construidos",,69
+precio,p25,990000000.0,COP,69
+precio,mediana,1700000000.0,COP,69
+precio,p75,2950000000.0,COP,69
+precio,minimo,470000000.0,COP,69
+precio,maximo,8000000000.0,COP,69
+m2,mediana_precio_m2,5612244.9,COP,65
+m2,area_mediana_m2,290.0,m2,65
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.4,%,56
+estrato,estrato_mas_frecuente,5,,69
+habitaciones,3+,1700000000.0,COP,69
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,4296875.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

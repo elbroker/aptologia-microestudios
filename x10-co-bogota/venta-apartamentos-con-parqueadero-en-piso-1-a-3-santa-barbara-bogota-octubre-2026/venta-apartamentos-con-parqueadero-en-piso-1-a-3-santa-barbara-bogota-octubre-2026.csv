@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,420
+filtro,parq1,"con parqueadero",,420
+filtro,piso1,"en piso 1 a 3",,420
+precio,p25,690000000.0,COP,420
+precio,mediana,900000000.0,COP,420
+precio,p75,1200000000.0,COP,420
+precio,minimo,260000000.0,COP,420
+precio,maximo,4200000000.0,COP,420
+m2,mediana_precio_m2,7142857.14,COP,415
+m2,area_mediana_m2,137.0,m2,415
+admin,mediana_admin_mes,1000000.0,COP,372
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,420
+estrato,estrato_mas_frecuente,6,,419
+habitaciones,1,531500000.0,COP,38
+habitaciones,2,740000000.0,COP,97
+habitaciones,3+,999500000.0,COP,284
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

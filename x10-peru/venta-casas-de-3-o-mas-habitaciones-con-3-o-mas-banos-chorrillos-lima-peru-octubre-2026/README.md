@@ -1,0 +1,21 @@
+# Precio de venta de casas de 3 o más habitaciones con 3 o más baños en Chorrillos, Lima (Perú) — octubre 2026
+
+En Chorrillos, Lima (Perú), la mediana de precio de venta de casas de 3 o más habitaciones con 3 o más baños es PEN 1,77 millones, según 50 avisos vigentes.
+
+Eso es 26 % más que la mediana de las casas de 3 o más habitaciones en venta de Chorrillos (PEN 1,41 millones, n = 68); este segmento reúne el 74 % de esos avisos.
+
+Por metro cuadrado, la mediana es PEN 4.105/m² (n = 49), 10 % por debajo de las casas de 3 o más habitaciones en venta de Chorrillos (PEN 4.545/m²).
+
+La mitad central de los avisos va de PEN 1,06 millones a PEN 2,86 millones (razón 2,7), una dispersión alta.
+
+El área mediana anunciada es 360 m².
+
+La mediana de todas las casas en venta de Lima es PEN 2,17 millones (−18 % de diferencia).
+
+- n = 50 avisos vigentes · datos del 2026-10-18 · moneda PEN
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/pe/venta/lima/chorrillos
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Perú, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en PEN, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `venta-casas-de-3-o-mas-habitaciones-con-3-o-mas-banos-chorrillos-lima-peru-octubre-2026.pdf`, `venta-casas-de-3-o-mas-habitaciones-con-3-o-mas-banos-chorrillos-lima-peru-octubre-2026.csv`, `venta-casas-de-3-o-mas-habitaciones-con-3-o-mas-banos-chorrillos-lima-peru-octubre-2026.png`.

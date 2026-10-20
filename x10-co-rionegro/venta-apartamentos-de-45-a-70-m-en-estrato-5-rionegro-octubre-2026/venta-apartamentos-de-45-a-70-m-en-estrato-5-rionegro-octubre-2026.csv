@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,464
+filtro,estrato,5,,464
+filtro,area2,"de 45 a 70 m²",,464
+precio,p25,476125000.0,COP,464
+precio,mediana,535000000.0,COP,464
+precio,p75,580000000.0,COP,464
+precio,minimo,250000000.0,COP,464
+precio,maximo,1260000000.0,COP,464
+m2,mediana_precio_m2,8387096.77,COP,463
+m2,area_mediana_m2,63.0,m2,463
+admin,mediana_admin_mes,321500.0,COP,244
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.2,%,441
+estrato,estrato_mas_frecuente,5,,464
+habitaciones,1,595000000.0,COP,52
+habitaciones,2,540000000.0,COP,317
+habitaciones,3+,469000000.0,COP,95
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro,,
+fuente,licencia,CC BY 4.0,,

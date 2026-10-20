@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,6,,55
+filtro,area4,"de 100 a 150 m²",,55
+precio,p25,810000000.0,COP,55
+precio,mediana,889040000.0,COP,55
+precio,p75,963522000.0,COP,55
+precio,minimo,475000000.0,COP,55
+precio,maximo,1900000000.0,COP,55
+m2,mediana_precio_m2,7766990.29,COP,55
+m2,area_mediana_m2,114.0,m2,55
+admin,mediana_admin_mes,896000.0,COP,48
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,87.8,%,41
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,2,884520000.0,COP,18
+habitaciones,3+,890000000.0,COP,37
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,,
+fuente,licencia,CC BY 4.0,,

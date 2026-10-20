@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,70
+filtro,parq1,"con estacionamiento",,70
+filtro,ban1,"con 1 baño",,70
+precio,p25,3565.0,BRL,70
+precio,mediana,4873.5,BRL,70
+precio,p75,6999.5,BRL,70
+precio,minimo,2173.0,BRL,70
+precio,maximo,18744.0,BRL,70
+m2,mediana_precio_m2,98.39,BRL,68
+m2,area_mediana_m2,48.0,m2,68
+admin,mediana_admin_mes,1575.0,BRL,68
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+habitaciones,1,4500.0,BRL,54
+habitaciones,2,5600.0,BRL,15
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/jardim-paulista,,
+fuente,licencia,CC BY 4.0,,

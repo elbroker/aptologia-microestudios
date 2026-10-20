@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,197
+filtro,habitaciones,3+,,197
+filtro,area5,"de 150 a 250 m²",,197
+precio,p25,335000.0,USD,197
+precio,mediana,395000.0,USD,197
+precio,p75,475000.0,USD,197
+precio,minimo,208000.0,USD,197
+precio,maximo,1100000.0,USD,197
+m2,mediana_precio_m2,2134.47,USD,196
+m2,area_mediana_m2,199.0,m2,196
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,95
+habitaciones,3+,395000.0,USD,197
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/naco,,
+fuente,licencia,CC BY 4.0,,

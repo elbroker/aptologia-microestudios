@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,72
+filtro,conj,"en conjunto cerrado",,72
+filtro,area3,"de 70 a 100 m²",,72
+precio,p25,3000000.0,COP,72
+precio,mediana,3325000.0,COP,72
+precio,p75,3600000.0,COP,72
+precio,minimo,2600000.0,COP,72
+precio,maximo,5500000.0,COP,72
+m2,mediana_precio_m2,40000.0,COP,72
+m2,area_mediana_m2,82.0,m2,72
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.4,%,66
+estrato,estrato_mas_frecuente,4,,72
+habitaciones,2,3250000.0,COP,14
+habitaciones,3+,3400000.0,COP,58
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

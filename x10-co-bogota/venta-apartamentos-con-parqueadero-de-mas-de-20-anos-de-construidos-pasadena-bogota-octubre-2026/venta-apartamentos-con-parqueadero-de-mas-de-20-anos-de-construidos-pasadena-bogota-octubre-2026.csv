@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,parq1,"con parqueadero",,55
+filtro,edad3,"de más de 20 años de construidos",,55
+precio,p25,565000000.0,COP,55
+precio,mediana,720000000.0,COP,55
+precio,p75,850000000.0,COP,55
+precio,minimo,400000000.0,COP,55
+precio,maximo,1280000000.0,COP,55
+m2,mediana_precio_m2,6471438.9,COP,55
+m2,area_mediana_m2,108.0,m2,55
+admin,mediana_admin_mes,746000.0,COP,51
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,55
+habitaciones,2,575000000.0,COP,15
+habitaciones,3+,780000000.0,COP,40
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/pasadena,,
+fuente,licencia,CC BY 4.0,,

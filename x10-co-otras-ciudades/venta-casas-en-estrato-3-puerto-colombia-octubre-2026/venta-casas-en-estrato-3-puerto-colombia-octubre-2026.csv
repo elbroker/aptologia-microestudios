@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,31
+filtro,estrato,3,,31
+precio,p25,545000000.0,COP,31
+precio,mediana,762736000.0,COP,31
+precio,p75,957500000.0,COP,31
+precio,minimo,250000000.0,COP,31
+precio,maximo,2800000000.0,COP,31
+m2,mediana_precio_m2,2976190.48,COP,31
+m2,area_mediana_m2,330.0,m2,31
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,3,,31
+habitaciones,3+,781368000.0,COP,30
+ciudad,mediana_ciudad_referencia,1400000000.0,COP,
+ciudad,mediana_m2_ciudad,3938115.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/puerto-colombia,,
+fuente,licencia,CC BY 4.0,,

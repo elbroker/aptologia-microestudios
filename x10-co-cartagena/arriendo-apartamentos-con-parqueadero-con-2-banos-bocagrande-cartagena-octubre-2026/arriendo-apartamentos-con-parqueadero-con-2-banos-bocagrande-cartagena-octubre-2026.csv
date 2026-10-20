@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,71
+filtro,parq1,"con parqueadero",,71
+filtro,ban2,"con 2 baños",,71
+precio,p25,3950000.0,COP,71
+precio,mediana,4800000.0,COP,71
+precio,p75,6500000.0,COP,71
+precio,minimo,2587000.0,COP,71
+precio,maximo,13500000.0,COP,71
+m2,mediana_precio_m2,44943.82,COP,71
+m2,area_mediana_m2,100.0,m2,71
+admin,mediana_admin_mes,980000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+estrato,estrato_mas_frecuente,6,,71
+habitaciones,1,4300000.0,COP,8
+habitaciones,2,5000000.0,COP,29
+habitaciones,3+,4650000.0,COP,34
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

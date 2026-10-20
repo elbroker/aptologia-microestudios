@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,80
+filtro,estrato,5,,80
+filtro,masc,"que aceptan mascotas",,80
+precio,p25,2900000.0,COP,80
+precio,mediana,3600000.0,COP,80
+precio,p75,6125000.0,COP,80
+precio,minimo,1850000.0,COP,80
+precio,maximo,17300000.0,COP,80
+m2,mediana_precio_m2,21136.36,COP,75
+m2,area_mediana_m2,170.0,m2,75
+admin,mediana_admin_mes,390000.0,COP,68
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.5,%,80
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,3+,3600000.0,COP,80
+ciudad,mediana_ciudad_referencia,6460000.0,COP,
+ciudad,mediana_m2_ciudad,22058.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira,,
+fuente,licencia,CC BY 4.0,,

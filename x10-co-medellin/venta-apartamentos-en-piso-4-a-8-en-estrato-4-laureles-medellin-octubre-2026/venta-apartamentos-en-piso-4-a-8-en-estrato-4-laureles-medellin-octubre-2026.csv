@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,54
+filtro,estrato,4,,54
+filtro,piso2,"en piso 4 a 8",,54
+precio,p25,471250000.0,COP,54
+precio,mediana,580000000.0,COP,54
+precio,p75,742500000.0,COP,54
+precio,minimo,290000000.0,COP,54
+precio,maximo,1750000000.0,COP,54
+m2,mediana_precio_m2,6154227.66,COP,52
+m2,area_mediana_m2,102.0,m2,52
+admin,mediana_admin_mes,352000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.4,%,51
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,1,449080000.0,COP,5
+habitaciones,2,450000000.0,COP,8
+habitaciones,3+,675000000.0,COP,41
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

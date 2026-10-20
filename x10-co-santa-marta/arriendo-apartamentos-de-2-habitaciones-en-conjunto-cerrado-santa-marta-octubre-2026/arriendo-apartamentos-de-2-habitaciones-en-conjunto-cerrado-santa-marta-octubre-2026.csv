@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,160
+filtro,habitaciones,2,,160
+filtro,conj,"en conjunto cerrado",,160
+precio,p25,2387500.0,COP,160
+precio,mediana,3650000.0,COP,160
+precio,p75,4762500.0,COP,160
+precio,minimo,1000000.0,COP,160
+precio,maximo,11000000.0,COP,160
+m2,mediana_precio_m2,45901.64,COP,159
+m2,area_mediana_m2,78.0,m2,159
+admin,mediana_admin_mes,600000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.3,%,140
+estrato,estrato_mas_frecuente,6,,158
+habitaciones,2,3650000.0,COP,160
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,45000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/santa-marta,,
+fuente,licencia,CC BY 4.0,,

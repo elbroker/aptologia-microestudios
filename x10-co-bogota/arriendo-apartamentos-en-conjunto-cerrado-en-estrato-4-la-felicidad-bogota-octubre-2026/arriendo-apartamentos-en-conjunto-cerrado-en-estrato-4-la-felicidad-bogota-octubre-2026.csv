@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,conj,"en conjunto cerrado",,30
+precio,p25,1810000.0,COP,30
+precio,mediana,3350000.0,COP,30
+precio,p75,4187500.0,COP,30
+precio,minimo,1600000.0,COP,30
+precio,maximo,5000000.0,COP,30
+m2,mediana_precio_m2,47537.54,COP,30
+m2,area_mediana_m2,67.5,m2,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,2400000.0,COP,13
+habitaciones,3+,4200000.0,COP,15
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/la-felicidad,,
+fuente,licencia,CC BY 4.0,,

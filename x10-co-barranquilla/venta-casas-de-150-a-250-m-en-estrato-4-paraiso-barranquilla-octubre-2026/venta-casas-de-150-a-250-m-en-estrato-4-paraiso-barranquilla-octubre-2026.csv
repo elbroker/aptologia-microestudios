@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,area5,"de 150 a 250 m²",,40
+precio,p25,550000000.0,COP,40
+precio,mediana,582500000.0,COP,40
+precio,p75,692250000.0,COP,40
+precio,minimo,435000000.0,COP,40
+precio,maximo,1500000000.0,COP,40
+m2,mediana_precio_m2,3095736.28,COP,40
+m2,area_mediana_m2,198.0,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,3+,587500000.0,COP,38
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/paraiso,,
+fuente,licencia,CC BY 4.0,,

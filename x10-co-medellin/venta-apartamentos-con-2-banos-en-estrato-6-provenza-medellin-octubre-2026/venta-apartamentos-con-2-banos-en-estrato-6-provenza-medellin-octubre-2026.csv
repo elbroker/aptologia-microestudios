@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,46
+filtro,estrato,6,,46
+filtro,ban2,"con 2 baños",,46
+precio,p25,780000000.0,COP,46
+precio,mediana,917500000.0,COP,46
+precio,p75,1297500000.0,COP,46
+precio,minimo,700000000.0,COP,46
+precio,maximo,2950000000.0,COP,46
+m2,mediana_precio_m2,10272204.55,COP,46
+m2,area_mediana_m2,95.7,m2,46
+admin,mediana_admin_mes,901950.0,COP,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,6,,46
+habitaciones,1,780000000.0,COP,17
+habitaciones,2,975000000.0,COP,17
+habitaciones,3+,992500000.0,COP,12
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/provenza,,
+fuente,licencia,CC BY 4.0,,

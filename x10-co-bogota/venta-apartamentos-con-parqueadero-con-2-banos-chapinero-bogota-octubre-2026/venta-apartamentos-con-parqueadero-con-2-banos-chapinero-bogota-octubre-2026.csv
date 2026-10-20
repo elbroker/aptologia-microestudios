@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,126
+filtro,parq1,"con parqueadero",,126
+filtro,ban2,"con 2 baños",,126
+precio,p25,502500000.0,COP,126
+precio,mediana,612000000.0,COP,126
+precio,p75,737687500.0,COP,126
+precio,minimo,300000000.0,COP,126
+precio,maximo,2300000000.0,COP,126
+m2,mediana_precio_m2,8275862.07,COP,125
+m2,area_mediana_m2,70.0,m2,125
+admin,mediana_admin_mes,638699.0,COP,111
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,126
+estrato,estrato_mas_frecuente,4,,121
+habitaciones,1,565000000.0,COP,28
+habitaciones,2,619900000.0,COP,67
+habitaciones,3+,650000000.0,COP,31
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

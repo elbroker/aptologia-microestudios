@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,61
+filtro,estrato,4,,61
+filtro,edad1,"de 0 a 5 años de construidos",,61
+precio,p25,470000000.0,COP,61
+precio,mediana,583000000.0,COP,61
+precio,p75,658000000.0,COP,61
+precio,minimo,269431609.0,COP,61
+precio,maximo,1190000000.0,COP,61
+m2,mediana_precio_m2,7767245.92,COP,61
+m2,area_mediana_m2,72.0,m2,61
+admin,mediana_admin_mes,440000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.9,%,56
+estrato,estrato_mas_frecuente,4,,61
+habitaciones,2,491000000.0,COP,14
+habitaciones,3+,603000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/modelia,,
+fuente,licencia,CC BY 4.0,,

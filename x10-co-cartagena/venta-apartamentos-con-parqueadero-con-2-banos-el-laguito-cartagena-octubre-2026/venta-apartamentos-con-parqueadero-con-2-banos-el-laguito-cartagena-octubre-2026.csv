@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,74
+filtro,parq1,"con parqueadero",,74
+filtro,ban2,"con 2 baños",,74
+precio,p25,720000000.0,COP,74
+precio,mediana,830000000.0,COP,74
+precio,p75,900000000.0,COP,74
+precio,minimo,360000000.0,COP,74
+precio,maximo,1900000000.0,COP,74
+m2,mediana_precio_m2,9039348.88,COP,74
+m2,area_mediana_m2,90.0,m2,74
+admin,mediana_admin_mes,758000.0,COP,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,6,,73
+habitaciones,1,792500000.0,COP,12
+habitaciones,2,800000000.0,COP,46
+habitaciones,3+,1000000000.0,COP,16
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/el-laguito,,
+fuente,licencia,CC BY 4.0,,

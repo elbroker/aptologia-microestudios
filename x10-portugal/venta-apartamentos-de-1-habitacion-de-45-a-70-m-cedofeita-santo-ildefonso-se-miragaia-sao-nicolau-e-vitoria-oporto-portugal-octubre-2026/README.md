@@ -1,0 +1,23 @@
+# Precio de venta de apartamentos de 1 habitación de 45 a 70 m² en Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal) — octubre 2026
+
+En Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Oporto (Portugal), la mediana de precio de venta de apartamentos de 1 habitación de 45 a 70 m² es EUR 299.000, según 47 avisos vigentes.
+
+Frente a la mediana de los apartamentos de 1 habitación en venta de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória (EUR 315.000, n = 78), queda 5 % por debajo; este segmento reúne el 60 % de esos avisos.
+
+Por metro cuadrado, la mediana es EUR 5.588/m² (n = 47), 0 % por debajo de los apartamentos de 1 habitación en venta de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória (EUR 5.607/m²).
+
+El área mediana anunciada es 56 m².
+
+La mediana de todos los apartamentos en venta de Oporto es EUR 425.000 (−30 % de diferencia).
+
+26 % de los avisos con el dato declara estacionamiento o cochera.
+
+La mitad central de los avisos va de EUR 282.000 a EUR 355.000 (razón 1,3), una dispersión baja.
+
+- n = 47 avisos vigentes · datos del 2026-10-18 · moneda EUR
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/pt/venda/porto/cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Portugal, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en EUR, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `venta-apartamentos-de-1-habitacion-de-45-a-70-m-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026.pdf`, `venta-apartamentos-de-1-habitacion-de-45-a-70-m-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026.csv`, `venta-apartamentos-de-1-habitacion-de-45-a-70-m-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-oporto-portugal-octubre-2026.png`.

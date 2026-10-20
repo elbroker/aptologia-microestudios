@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,57
+filtro,balc,"con balcón",,57
+filtro,ban3,"con 3 o más baños",,57
+precio,p25,6300000.0,COP,57
+precio,mediana,7700000.0,COP,57
+precio,p75,9500000.0,COP,57
+precio,minimo,5000000.0,COP,57
+precio,maximo,18000000.0,COP,57
+m2,mediana_precio_m2,50525.72,COP,56
+m2,area_mediana_m2,150.0,m2,56
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,6,,57
+habitaciones,2,6150000.0,COP,8
+habitaciones,3+,7800000.0,COP,49
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/alejandria,,
+fuente,licencia,CC BY 4.0,,

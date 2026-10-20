@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,39
+filtro,area5,"de 150 a 250 m²",,39
+filtro,parq1,"con estacionamiento",,39
+precio,p25,365000.0,USD,39
+precio,mediana,430000.0,USD,39
+precio,p75,530000.0,USD,39
+precio,minimo,295000.0,USD,39
+precio,maximo,1600000.0,USD,39
+m2,mediana_precio_m2,2126.7,USD,39
+m2,area_mediana_m2,200.0,m2,39
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+habitaciones,3+,430000.0,USD,37
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/pinares,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,37
+filtro,parq1,"con estacionamiento",,37
+filtro,ban2,"con 2 baños",,37
+precio,p25,6000.0,USD,37
+precio,mediana,9000.0,USD,37
+precio,p75,15000.0,USD,37
+precio,minimo,2300.0,USD,37
+precio,maximo,27500.0,USD,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+habitaciones,2,9400.0,USD,24
+habitaciones,3+,8800.0,USD,13
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/manantiales,,
+fuente,licencia,CC BY 4.0,,

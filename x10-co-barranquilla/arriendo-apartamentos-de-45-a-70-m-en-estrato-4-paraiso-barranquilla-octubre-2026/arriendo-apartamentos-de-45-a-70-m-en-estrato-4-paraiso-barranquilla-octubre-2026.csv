@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,area2,"de 45 a 70 m²",,40
+precio,p25,1700000.0,COP,40
+precio,mediana,1821450.0,COP,40
+precio,p75,2371500.0,COP,40
+precio,minimo,1250000.0,COP,40
+precio,maximo,3950000.0,COP,40
+m2,mediana_precio_m2,34772.73,COP,40
+m2,area_mediana_m2,55.5,m2,40
+admin,mediana_admin_mes,257100.0,COP,19
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,2,1842900.0,COP,21
+habitaciones,3+,1850000.0,COP,18
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/paraiso,,
+fuente,licencia,CC BY 4.0,,

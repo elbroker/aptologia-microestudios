@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,46
+filtro,habitaciones,1,,46
+filtro,area1,"de menos de 45 m²",,46
+precio,p25,3300.0,BRL,46
+precio,mediana,4000.0,BRL,46
+precio,p75,5000.0,BRL,46
+precio,minimo,2670.0,BRL,46
+precio,maximo,23440.0,BRL,46
+m2,mediana_precio_m2,134.09,BRL,42
+m2,area_mediana_m2,30.0,m2,42
+admin,mediana_admin_mes,679.0,BRL,46
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,46.9,%,32
+habitaciones,1,4000.0,BRL,46
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-nova-conceicao,,
+fuente,licencia,CC BY 4.0,,

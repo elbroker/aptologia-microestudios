@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,145
+filtro,area4,"de 100 a 150 m²",,145
+filtro,parq1,"con parqueadero",,145
+precio,p25,640000000.0,COP,145
+precio,mediana,760000000.0,COP,145
+precio,p75,900000000.0,COP,145
+precio,minimo,445000000.0,COP,145
+precio,maximo,1400000000.0,COP,145
+m2,mediana_precio_m2,6750000.0,COP,145
+m2,area_mediana_m2,115.0,m2,145
+admin,mediana_admin_mes,430000.0,COP,89
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,145
+estrato,estrato_mas_frecuente,5,,132
+habitaciones,2,900000000.0,COP,13
+habitaciones,3+,750000000.0,COP,132
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

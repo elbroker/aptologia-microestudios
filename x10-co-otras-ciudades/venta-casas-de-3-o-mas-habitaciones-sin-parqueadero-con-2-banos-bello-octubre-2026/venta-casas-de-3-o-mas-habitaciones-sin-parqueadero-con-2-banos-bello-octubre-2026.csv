@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,52
+filtro,habitaciones,3+,,52
+filtro,parq0,"sin parqueadero",,52
+filtro,ban2,"con 2 baños",,52
+precio,p25,323750000.0,COP,52
+precio,mediana,396500000.0,COP,52
+precio,p75,491250000.0,COP,52
+precio,minimo,260000000.0,COP,52
+precio,maximo,1200000000.0,COP,52
+m2,mediana_precio_m2,3950000.0,COP,51
+m2,area_mediana_m2,107.0,m2,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,52
+estrato,estrato_mas_frecuente,3,,52
+habitaciones,3+,396500000.0,COP,52
+ciudad,mediana_ciudad_referencia,480000000.0,COP,
+ciudad,mediana_m2_ciudad,4222222.22,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello,,
+fuente,licencia,CC BY 4.0,,

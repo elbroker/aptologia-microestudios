@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,30
+filtro,habitaciones,2,,30
+filtro,amob,"amoblados",,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,3962500.0,COP,30
+precio,mediana,4875000.0,COP,30
+precio,p75,5725000.0,COP,30
+precio,minimo,2900000.0,COP,30
+precio,maximo,7100000.0,COP,30
+m2,mediana_precio_m2,58323.17,COP,30
+m2,area_mediana_m2,81.0,m2,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,2,4875000.0,COP,30
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

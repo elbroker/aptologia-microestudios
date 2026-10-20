@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area6,"de 250 m² o más",,38
+precio,p25,1620000.0,PEN,38
+precio,mediana,1949900.0,PEN,38
+precio,p75,2263701.5,PEN,38
+precio,minimo,925000.0,PEN,38
+precio,maximo,3950052.0,PEN,38
+m2,mediana_precio_m2,6856.9,PEN,38
+m2,area_mediana_m2,281.5,m2,38
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,3+,1949900.0,PEN,38
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-borja,,
+fuente,licencia,CC BY 4.0,,

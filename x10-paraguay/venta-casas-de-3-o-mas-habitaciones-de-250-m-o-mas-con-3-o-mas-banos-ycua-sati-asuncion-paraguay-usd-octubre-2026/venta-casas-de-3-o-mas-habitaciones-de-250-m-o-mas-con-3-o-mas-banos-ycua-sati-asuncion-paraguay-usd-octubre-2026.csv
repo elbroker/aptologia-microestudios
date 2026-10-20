@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,80
+filtro,habitaciones,3+,,80
+filtro,area6,"de 250 m² o más",,80
+filtro,ban3,"con 3 o más baños",,80
+precio,p25,365000.0,USD,80
+precio,mediana,515000.0,USD,80
+precio,p75,780000.0,USD,80
+precio,minimo,200000.0,USD,80
+precio,maximo,2300000.0,USD,80
+m2,mediana_precio_m2,1057.89,USD,80
+m2,area_mediana_m2,408.5,m2,80
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+habitaciones,3+,515000.0,USD,80
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/ycua-sati,,
+fuente,licencia,CC BY 4.0,,

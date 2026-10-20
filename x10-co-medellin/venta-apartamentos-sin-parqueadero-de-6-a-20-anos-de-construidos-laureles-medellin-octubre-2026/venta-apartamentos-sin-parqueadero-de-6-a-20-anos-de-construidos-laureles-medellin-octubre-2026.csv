@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,parq0,"sin parqueadero",,41
+filtro,edad2,"de 6 a 20 años de construidos",,41
+precio,p25,430000000.0,COP,41
+precio,mediana,515000000.0,COP,41
+precio,p75,730000000.0,COP,41
+precio,minimo,330000000.0,COP,41
+precio,maximo,1600000000.0,COP,41
+m2,mediana_precio_m2,6753584.23,COP,40
+m2,area_mediana_m2,85.0,m2,40
+admin,mediana_admin_mes,386400.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,41
+estrato,estrato_mas_frecuente,5,,41
+habitaciones,1,510000000.0,COP,12
+habitaciones,2,405000000.0,COP,8
+habitaciones,3+,670000000.0,COP,21
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

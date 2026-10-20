@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,31
+filtro,estrato,4,,31
+filtro,ban3,"con 3 o más baños",,31
+precio,p25,1789745876.5,COP,31
+precio,mediana,1934480799.0,COP,31
+precio,p75,2400173466.5,COP,31
+precio,minimo,710000000.0,COP,31
+precio,maximo,3130552109.0,COP,31
+m2,area_mediana_m2,145.0,m2,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,3+,1980201498.0,COP,26
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

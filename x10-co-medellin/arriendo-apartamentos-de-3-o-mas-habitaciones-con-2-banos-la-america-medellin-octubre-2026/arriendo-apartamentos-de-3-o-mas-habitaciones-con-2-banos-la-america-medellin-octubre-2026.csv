@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,79
+filtro,habitaciones,3+,,79
+filtro,ban2,"con 2 baños",,79
+precio,p25,2725000.0,COP,79
+precio,mediana,3050000.0,COP,79
+precio,p75,3500000.0,COP,79
+precio,minimo,1950000.0,COP,79
+precio,maximo,6500000.0,COP,79
+m2,mediana_precio_m2,38419.54,COP,78
+m2,area_mediana_m2,84.0,m2,78
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,72.7,%,66
+estrato,estrato_mas_frecuente,4,,79
+habitaciones,3+,3050000.0,COP,79
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

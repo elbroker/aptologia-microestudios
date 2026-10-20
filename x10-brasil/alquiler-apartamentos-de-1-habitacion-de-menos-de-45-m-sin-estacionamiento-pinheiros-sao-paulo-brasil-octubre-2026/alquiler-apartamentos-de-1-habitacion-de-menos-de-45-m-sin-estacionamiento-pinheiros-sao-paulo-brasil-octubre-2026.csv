@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,30
+filtro,habitaciones,1,,30
+filtro,area1,"de menos de 45 m²",,30
+filtro,parq0,"sin estacionamiento",,30
+precio,p25,3012.25,BRL,30
+precio,mediana,3197.5,BRL,30
+precio,p75,3875.0,BRL,30
+precio,minimo,1900.0,BRL,30
+precio,maximo,6500.0,BRL,30
+m2,area_mediana_m2,29.0,m2,29
+admin,mediana_admin_mes,601.0,BRL,29
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,30
+habitaciones,1,3197.5,BRL,30
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/pinheiros,,
+fuente,licencia,CC BY 4.0,,

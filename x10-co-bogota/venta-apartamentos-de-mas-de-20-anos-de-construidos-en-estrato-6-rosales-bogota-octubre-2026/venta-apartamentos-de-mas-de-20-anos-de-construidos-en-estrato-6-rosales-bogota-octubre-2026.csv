@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,6,,50
+filtro,edad3,"de más de 20 años de construidos",,50
+precio,p25,1350000000.0,COP,50
+precio,mediana,1600000000.0,COP,50
+precio,p75,2060000000.0,COP,50
+precio,minimo,480000000.0,COP,50
+precio,maximo,4150000000.0,COP,50
+m2,mediana_precio_m2,7876712.33,COP,50
+m2,area_mediana_m2,209.5,m2,50
+admin,mediana_admin_mes,1700000.0,COP,48
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,3+,1620000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/las-rosales,,
+fuente,licencia,CC BY 4.0,,

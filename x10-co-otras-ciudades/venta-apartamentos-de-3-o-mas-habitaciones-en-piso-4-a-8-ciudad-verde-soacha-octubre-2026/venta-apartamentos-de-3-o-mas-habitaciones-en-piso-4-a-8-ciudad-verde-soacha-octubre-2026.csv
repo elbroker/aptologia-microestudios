@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,53
+filtro,habitaciones,3+,,53
+filtro,piso2,"en piso 4 a 8",,53
+precio,p25,165000000.0,COP,53
+precio,mediana,181000000.0,COP,53
+precio,p75,210000000.0,COP,53
+precio,minimo,150000000.0,COP,53
+precio,maximo,240000000.0,COP,53
+m2,mediana_precio_m2,3392857.14,COP,53
+m2,area_mediana_m2,55.0,m2,53
+admin,mediana_admin_mes,130000.0,COP,48
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,53
+habitaciones,3+,181000000.0,COP,53
+ciudad,mediana_ciudad_referencia,170000000.0,COP,
+ciudad,mediana_m2_ciudad,3393617.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/soacha/ciudad-verde,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,93
+filtro,ban2,"con 2 baños",,93
+filtro,edad1,"de 0 a 5 años de construidos",,93
+precio,p25,480000000.0,COP,93
+precio,mediana,640000000.0,COP,93
+precio,p75,780000000.0,COP,93
+precio,minimo,280000000.0,COP,93
+precio,maximo,1200000000.0,COP,93
+m2,mediana_precio_m2,6444444.44,COP,92
+m2,area_mediana_m2,100.0,m2,92
+admin,mediana_admin_mes,650000.0,COP,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.8,%,82
+estrato,estrato_mas_frecuente,5,,89
+habitaciones,1,535000000.0,COP,16
+habitaciones,2,682500000.0,COP,26
+habitaciones,3+,650000000.0,COP,51
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,1,,35
+filtro,parq1,"con estacionamiento",,35
+precio,p25,27900.0,UYU,35
+precio,mediana,30000.0,UYU,35
+precio,p75,33250.0,UYU,35
+precio,minimo,22000.0,UYU,35
+precio,maximo,39900.0,UYU,35
+m2,mediana_precio_m2,663.33,UYU,34
+m2,area_mediana_m2,47.5,m2,34
+admin,mediana_admin_mes,4570.0,UYU,34
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,1,30000.0,UYU,35
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/tres-cruces,,
+fuente,licencia,CC BY 4.0,,

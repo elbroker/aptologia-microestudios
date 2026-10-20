@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,164
+filtro,habitaciones,3+,,164
+filtro,area5,"de 150 a 250 m²",,164
+precio,p25,1037500000.0,COP,164
+precio,mediana,1400000000.0,COP,164
+precio,p75,1782500000.0,COP,164
+precio,minimo,450000000.0,COP,164
+precio,maximo,4000000000.0,COP,164
+m2,mediana_precio_m2,7142857.14,COP,161
+m2,area_mediana_m2,212.0,m2,161
+admin,mediana_admin_mes,1341500.0,COP,88
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.7,%,158
+estrato,estrato_mas_frecuente,6,,155
+habitaciones,3+,1400000000.0,COP,164
+ciudad,mediana_ciudad_referencia,2200000000.0,COP,
+ciudad,mediana_m2_ciudad,6052631.58,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-calera,,
+fuente,licencia,CC BY 4.0,,

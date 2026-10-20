@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,81
+filtro,habitaciones,3+,,81
+filtro,area6,"de 250 m² o más",,81
+precio,p25,1450000000.0,COP,81
+precio,mediana,1650000000.0,COP,81
+precio,p75,1900000000.0,COP,81
+precio,minimo,800000000.0,COP,81
+precio,maximo,4000000000.0,COP,81
+m2,mediana_precio_m2,4431977.56,COP,66
+m2,area_mediana_m2,400.0,m2,66
+admin,mediana_admin_mes,615000.0,COP,41
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,94.9,%,78
+estrato,estrato_mas_frecuente,6,,77
+habitaciones,3+,1650000000.0,COP,81
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/condina,,
+fuente,licencia,CC BY 4.0,,

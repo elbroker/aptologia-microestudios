@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,39
+filtro,habitaciones,3+,,39
+filtro,ban2,"con 2 baños",,39
+precio,p25,226756000.0,COP,39
+precio,mediana,245000000.0,COP,39
+precio,p75,277500000.0,COP,39
+precio,minimo,150000000.0,COP,39
+precio,maximo,440000000.0,COP,39
+m2,mediana_precio_m2,4583333.33,COP,39
+m2,area_mediana_m2,54.0,m2,39
+admin,mediana_admin_mes,206640.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,37
+habitaciones,3+,245000000.0,COP,39
+ciudad,mediana_ciudad_referencia,260000000.0,COP,
+ciudad,mediana_m2_ciudad,4634146.34,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/dosquebradas/frailes,,
+fuente,licencia,CC BY 4.0,,

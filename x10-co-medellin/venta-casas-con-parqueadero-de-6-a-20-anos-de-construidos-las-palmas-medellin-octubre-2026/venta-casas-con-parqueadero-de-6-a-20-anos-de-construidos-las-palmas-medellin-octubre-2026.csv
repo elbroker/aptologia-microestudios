@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,66
+filtro,parq1,"con parqueadero",,66
+filtro,edad2,"de 6 a 20 años de construidos",,66
+precio,p25,3850000000.0,COP,66
+precio,mediana,4949500000.0,COP,66
+precio,p75,5875000000.0,COP,66
+precio,minimo,1300000000.0,COP,66
+precio,maximo,7000000000.0,COP,66
+m2,mediana_precio_m2,8439068.92,COP,54
+m2,area_mediana_m2,500.0,m2,54
+admin,mediana_admin_mes,1225650.0,COP,48
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+estrato,estrato_mas_frecuente,6,,66
+habitaciones,3+,4949500000.0,COP,66
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

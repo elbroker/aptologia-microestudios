@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,51
+filtro,estrato,4,,51
+filtro,area3,"de 70 a 100 m²",,51
+filtro,piso3,"en piso 9 o más",,51
+precio,p25,520000000.0,COP,51
+precio,mediana,568000000.0,COP,51
+precio,p75,625000000.0,COP,51
+precio,minimo,435000000.0,COP,51
+precio,maximo,740700000.0,COP,51
+m2,mediana_precio_m2,7555555.56,COP,51
+m2,area_mediana_m2,76.0,m2,51
+admin,mediana_admin_mes,391681.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.3,%,51
+estrato,estrato_mas_frecuente,4,,51
+habitaciones,2,600000000.0,COP,9
+habitaciones,3+,566000000.0,COP,42
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/la-doctora,,
+fuente,licencia,CC BY 4.0,,

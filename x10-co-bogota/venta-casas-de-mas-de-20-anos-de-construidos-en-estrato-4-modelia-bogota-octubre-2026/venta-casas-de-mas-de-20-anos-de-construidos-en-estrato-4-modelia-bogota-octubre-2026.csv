@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,70
+filtro,estrato,4,,70
+filtro,edad3,"de más de 20 años de construidos",,70
+precio,p25,896250000.0,COP,70
+precio,mediana,999500000.0,COP,70
+precio,p75,1250000000.0,COP,70
+precio,minimo,620000000.0,COP,70
+precio,maximo,2300000000.0,COP,70
+m2,mediana_precio_m2,4893890.27,COP,70
+m2,area_mediana_m2,198.5,m2,70
+admin,mediana_admin_mes,200000.0,COP,17
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,94.3,%,70
+estrato,estrato_mas_frecuente,4,,70
+habitaciones,3+,999000000.0,COP,69
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/modelia,,
+fuente,licencia,CC BY 4.0,,

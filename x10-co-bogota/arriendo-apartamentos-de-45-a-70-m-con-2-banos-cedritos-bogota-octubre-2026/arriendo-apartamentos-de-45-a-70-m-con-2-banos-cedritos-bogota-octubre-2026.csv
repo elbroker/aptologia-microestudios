@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,89
+filtro,area2,"de 45 a 70 m²",,89
+filtro,ban2,"con 2 baños",,89
+precio,p25,2500000.0,COP,89
+precio,mediana,2750000.0,COP,89
+precio,p75,3000000.0,COP,89
+precio,minimo,1600000.0,COP,89
+precio,maximo,4000000.0,COP,89
+m2,mediana_precio_m2,46940.3,COP,89
+m2,area_mediana_m2,59.0,m2,89
+admin,mediana_admin_mes,405000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.4,%,89
+estrato,estrato_mas_frecuente,4,,88
+habitaciones,1,2825000.0,COP,36
+habitaciones,2,2783650.0,COP,42
+habitaciones,3+,2500000.0,COP,11
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

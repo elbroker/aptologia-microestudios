@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,35
+filtro,habitaciones,3+,,35
+filtro,area3,"de 70 a 100 m²",,35
+filtro,parq1,"con estacionamiento",,35
+precio,p25,85000.0,USD,35
+precio,mediana,95000.0,USD,35
+precio,p75,115000.0,USD,35
+precio,minimo,44950.0,USD,35
+precio,maximo,250000.0,USD,35
+m2,mediana_precio_m2,1010.75,USD,34
+m2,area_mediana_m2,93.0,m2,34
+admin,mediana_admin_mes,65.0,USD,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,3+,95000.0,USD,35
+ciudad,mediana_ciudad_referencia,100000.0,USD,
+ciudad,mediana_m2_ciudad,1240.6,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

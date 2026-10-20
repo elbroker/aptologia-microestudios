@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,72
+filtro,estrato,5,,72
+filtro,area6,"de 250 m² o más",,72
+precio,p25,2290000000.0,COP,72
+precio,mediana,3210000000.0,COP,72
+precio,p75,4200000000.0,COP,72
+precio,minimo,1160000000.0,COP,72
+precio,maximo,8000000000.0,COP,72
+m2,mediana_precio_m2,7145502.65,COP,68
+m2,area_mediana_m2,415.0,m2,68
+admin,mediana_admin_mes,704500.0,COP,36
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,5,,72
+habitaciones,3+,3200000000.0,COP,71
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

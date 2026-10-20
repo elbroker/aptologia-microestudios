@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,114
+filtro,area2,"de 45 a 70 m²",,114
+filtro,parq1,"con parqueadero",,114
+precio,p25,460000000.0,COP,114
+precio,mediana,512500000.0,COP,114
+precio,p75,617500000.0,COP,114
+precio,minimo,260000000.0,COP,114
+precio,maximo,1130000000.0,COP,114
+m2,mediana_precio_m2,8723404.26,COP,113
+m2,area_mediana_m2,61.0,m2,113
+admin,mediana_admin_mes,360000.0,COP,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,114
+estrato,estrato_mas_frecuente,5,,98
+habitaciones,1,560000000.0,COP,28
+habitaciones,2,502500000.0,COP,62
+habitaciones,3+,497500000.0,COP,24
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

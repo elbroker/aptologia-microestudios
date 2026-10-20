@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,190
+filtro,ban3,"con 3 o más baños",,190
+filtro,edad1,"de 0 a 5 años de construidos",,190
+precio,p25,1276250000.0,COP,190
+precio,mediana,1550000000.0,COP,190
+precio,p75,2400000000.0,COP,190
+precio,minimo,545000000.0,COP,190
+precio,maximo,4100000000.0,COP,190
+m2,mediana_precio_m2,8464285.71,COP,187
+m2,area_mediana_m2,200.0,m2,187
+admin,mediana_admin_mes,1178500.0,COP,108
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.5,%,186
+estrato,estrato_mas_frecuente,6,,183
+habitaciones,2,1370000000.0,COP,19
+habitaciones,3+,1650000000.0,COP,170
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

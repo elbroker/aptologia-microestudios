@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,46
+filtro,parq1,"con parqueadero",,46
+filtro,edad1,"de 0 a 5 años de construidos",,46
+precio,p25,503750000.0,COP,46
+precio,mediana,625000000.0,COP,46
+precio,p75,778750000.0,COP,46
+precio,minimo,330000000.0,COP,46
+precio,maximo,1550000000.0,COP,46
+m2,mediana_precio_m2,6641025.64,COP,46
+m2,area_mediana_m2,82.0,m2,46
+admin,mediana_admin_mes,690000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,5,,45
+habitaciones,1,547000000.0,COP,6
+habitaciones,2,520000000.0,COP,16
+habitaciones,3+,762500000.0,COP,24
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/alhambra,,
+fuente,licencia,CC BY 4.0,,

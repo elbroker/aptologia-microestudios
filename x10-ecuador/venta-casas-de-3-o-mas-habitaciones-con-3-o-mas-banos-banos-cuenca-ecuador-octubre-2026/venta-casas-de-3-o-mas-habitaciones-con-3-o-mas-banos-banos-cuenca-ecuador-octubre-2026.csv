@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,135000.0,USD,36
+precio,mediana,162000.0,USD,36
+precio,p75,282500.0,USD,36
+precio,minimo,99000.0,USD,36
+precio,maximo,1000000.0,USD,36
+m2,mediana_precio_m2,804.73,USD,31
+m2,area_mediana_m2,207.4,m2,31
+banos,mediana_banos,4.0,,
+habitaciones,3+,162000.0,USD,36
+ciudad,mediana_ciudad_referencia,215000.0,USD,
+ciudad,mediana_m2_ciudad,866.26,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/cuenca/banos,,
+fuente,licencia,CC BY 4.0,,

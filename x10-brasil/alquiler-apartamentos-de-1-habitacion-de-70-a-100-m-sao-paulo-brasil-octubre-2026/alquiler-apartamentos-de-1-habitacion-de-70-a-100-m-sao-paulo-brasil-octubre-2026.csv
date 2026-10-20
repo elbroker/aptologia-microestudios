@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,218
+filtro,habitaciones,1,,218
+filtro,area3,"de 70 a 100 m²",,218
+precio,p25,5000.0,BRL,218
+precio,mediana,7000.0,BRL,218
+precio,p75,9990.0,BRL,218
+precio,minimo,1600.0,BRL,218
+precio,maximo,22000.0,BRL,218
+m2,mediana_precio_m2,86.81,BRL,212
+m2,area_mediana_m2,77.0,m2,212
+admin,mediana_admin_mes,1548.0,BRL,211
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.9,%,197
+habitaciones,1,7000.0,BRL,218
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo,,
+fuente,licencia,CC BY 4.0,,

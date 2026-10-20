@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,113
+filtro,parq1,"con parqueadero",,113
+filtro,edad1,"de 0 a 5 años de construidos",,113
+precio,p25,850000000.0,COP,113
+precio,mediana,1200000000.0,COP,113
+precio,p75,1600000000.0,COP,113
+precio,minimo,393795000.0,COP,113
+precio,maximo,3270000000.0,COP,113
+m2,mediana_precio_m2,7500000.0,COP,113
+m2,area_mediana_m2,161.0,m2,113
+admin,mediana_admin_mes,1185000.0,COP,100
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,113
+estrato,estrato_mas_frecuente,5,,105
+habitaciones,2,850000000.0,COP,19
+habitaciones,3+,1300000000.0,COP,90
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-calleja,,
+fuente,licencia,CC BY 4.0,,

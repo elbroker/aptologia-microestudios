@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,88
+filtro,habitaciones,3+,,88
+filtro,area5,"de 150 a 250 m²",,88
+precio,p25,199500.0,USD,88
+precio,mediana,240000.0,USD,88
+precio,p75,276425.0,USD,88
+precio,minimo,170000.0,USD,88
+precio,maximo,370000.0,USD,88
+m2,mediana_precio_m2,1230.22,USD,88
+m2,area_mediana_m2,186.2,m2,88
+banos,mediana_banos,4.0,,
+habitaciones,3+,240000.0,USD,88
+ciudad,mediana_ciudad_referencia,220000.0,USD,
+ciudad,mediana_m2_ciudad,945.97,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/guayaquil/ciudad-celeste,,
+fuente,licencia,CC BY 4.0,,

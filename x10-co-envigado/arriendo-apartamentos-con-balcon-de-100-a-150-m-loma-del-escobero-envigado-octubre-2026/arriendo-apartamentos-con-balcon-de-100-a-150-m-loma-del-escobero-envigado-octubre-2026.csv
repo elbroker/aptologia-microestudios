@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,108
+filtro,balc,"con balcón",,108
+filtro,area4,"de 100 a 150 m²",,108
+precio,p25,5000000.0,COP,108
+precio,mediana,5625000.0,COP,108
+precio,p75,6625000.0,COP,108
+precio,minimo,3900000.0,COP,108
+precio,maximo,12500000.0,COP,108
+m2,mediana_precio_m2,48677.77,COP,108
+m2,area_mediana_m2,115.0,m2,108
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,107
+estrato,estrato_mas_frecuente,5,,108
+habitaciones,2,5000000.0,COP,11
+habitaciones,3+,5650000.0,COP,97
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

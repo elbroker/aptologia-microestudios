@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,121
+filtro,habitaciones,2,,121
+filtro,area3,"de 70 a 100 m²",,121
+filtro,ban2,"con 2 baños",,121
+precio,p25,3500000.0,COP,121
+precio,mediana,3800000.0,COP,121
+precio,p75,4500000.0,COP,121
+precio,minimo,2200000.0,COP,121
+precio,maximo,7800000.0,COP,121
+m2,mediana_precio_m2,48611.11,COP,121
+m2,area_mediana_m2,78.0,m2,121
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,113
+estrato,estrato_mas_frecuente,5,,121
+habitaciones,2,3800000.0,COP,121
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,49253.73,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-retiro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,ban2,"con 2 baños",,33
+filtro,piso3,"en piso 9 o más",,33
+precio,p25,550000000.0,COP,33
+precio,mediana,630000000.0,COP,33
+precio,p75,680700000.0,COP,33
+precio,minimo,275000000.0,COP,33
+precio,maximo,850000000.0,COP,33
+m2,mediana_precio_m2,7857142.86,COP,33
+m2,area_mediana_m2,82.0,m2,33
+admin,mediana_admin_mes,400000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,560000000.0,COP,9
+habitaciones,3+,635000000.0,COP,23
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/guayabal,,
+fuente,licencia,CC BY 4.0,,

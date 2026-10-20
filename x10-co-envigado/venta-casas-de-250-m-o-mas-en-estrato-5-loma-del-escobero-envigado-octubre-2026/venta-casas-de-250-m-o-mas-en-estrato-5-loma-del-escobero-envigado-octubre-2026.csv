@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,148
+filtro,estrato,5,,148
+filtro,area6,"de 250 m² o más",,148
+precio,p25,2300000000.0,COP,148
+precio,mediana,2800000000.0,COP,148
+precio,p75,3562500000.0,COP,148
+precio,minimo,950000000.0,COP,148
+precio,maximo,7500000000.0,COP,148
+m2,mediana_precio_m2,6666666.67,COP,145
+m2,area_mediana_m2,421.0,m2,145
+admin,mediana_admin_mes,782000.0,COP,66
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.6,%,143
+estrato,estrato_mas_frecuente,5,,148
+habitaciones,3+,2800000000.0,COP,146
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

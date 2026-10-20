@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,39
+filtro,parq1,"con parqueadero",,39
+filtro,piso3,"en piso 9 o más",,39
+precio,p25,1044500000.0,COP,39
+precio,mediana,1330000000.0,COP,39
+precio,p75,2097500000.0,COP,39
+precio,minimo,285000000.0,COP,39
+precio,maximo,2550000000.0,COP,39
+m2,mediana_precio_m2,10000000.0,COP,39
+m2,area_mediana_m2,153.0,m2,39
+admin,mediana_admin_mes,770000.0,COP,35
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,5,,39
+habitaciones,2,765000000.0,COP,5
+habitaciones,3+,1390000000.0,COP,33
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/ciudad-salitre,,
+fuente,licencia,CC BY 4.0,,

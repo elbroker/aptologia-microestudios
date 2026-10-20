@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,piso1,"en piso 1 a 3",,32
+precio,p25,2500000.0,COP,32
+precio,mediana,2890000.0,COP,32
+precio,p75,3529525.0,COP,32
+precio,minimo,2000000.0,COP,32
+precio,maximo,4800000.0,COP,32
+m2,mediana_precio_m2,33961.58,COP,32
+m2,area_mediana_m2,90.5,m2,32
+admin,mediana_admin_mes,600000.0,COP,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,2890000.0,COP,32
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

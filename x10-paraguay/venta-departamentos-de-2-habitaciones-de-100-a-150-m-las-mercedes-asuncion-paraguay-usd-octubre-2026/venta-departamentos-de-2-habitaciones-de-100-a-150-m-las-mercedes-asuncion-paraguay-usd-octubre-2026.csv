@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,2,,30
+filtro,area4,"de 100 a 150 m²",,30
+precio,p25,126233.75,USD,30
+precio,mediana,170742.5,USD,30
+precio,p75,205017.25,USD,30
+precio,minimo,95000.0,USD,30
+precio,maximo,305000.0,USD,30
+m2,mediana_precio_m2,1400.0,USD,30
+m2,area_mediana_m2,116.0,m2,30
+banos,mediana_banos,2.0,,
+habitaciones,2,170742.5,USD,30
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-mercedes,,
+fuente,licencia,CC BY 4.0,,

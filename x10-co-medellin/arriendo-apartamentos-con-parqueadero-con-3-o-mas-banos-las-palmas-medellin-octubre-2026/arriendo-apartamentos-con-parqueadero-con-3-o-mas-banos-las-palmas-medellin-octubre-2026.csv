@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,71
+filtro,parq1,"con parqueadero",,71
+filtro,ban3,"con 3 o más baños",,71
+precio,p25,6000000.0,COP,71
+precio,mediana,7250000.0,COP,71
+precio,p75,9900000.0,COP,71
+precio,minimo,3200000.0,COP,71
+precio,maximo,20000000.0,COP,71
+m2,mediana_precio_m2,62182.8,COP,70
+m2,area_mediana_m2,119.0,m2,70
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+estrato,estrato_mas_frecuente,6,,70
+habitaciones,2,7250000.0,COP,25
+habitaciones,3+,7500000.0,COP,45
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/las-palmas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,445000000.0,COP,32
+precio,mediana,472500000.0,COP,32
+precio,p75,550000000.0,COP,32
+precio,minimo,255000000.0,COP,32
+precio,maximo,720000000.0,COP,32
+m2,mediana_precio_m2,5843434.34,COP,32
+m2,area_mediana_m2,86.0,m2,32
+admin,mediana_admin_mes,500000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,2,460000000.0,COP,10
+habitaciones,3+,525000000.0,COP,18
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/urbanizacion-la-flora,,
+fuente,licencia,CC BY 4.0,,

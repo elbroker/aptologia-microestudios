@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,area4,"de 100 a 150 m²",,40
+filtro,parq1,"con estacionamiento",,40
+precio,p25,239350.0,USD,40
+precio,mediana,262500.0,USD,40
+precio,p75,290306.25,USD,40
+precio,minimo,160000.0,USD,40
+precio,maximo,380000.0,USD,40
+m2,mediana_precio_m2,2201.76,USD,40
+m2,area_mediana_m2,123.5,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+habitaciones,2,249800.0,USD,28
+habitaciones,3+,306500.0,USD,11
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/renacimiento,,
+fuente,licencia,CC BY 4.0,,

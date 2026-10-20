@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,60
+filtro,estrato,6,,60
+filtro,parq1,"con parqueadero",,60
+precio,p25,2800000.0,COP,60
+precio,mediana,3835000.0,COP,60
+precio,p75,4700000.0,COP,60
+precio,minimo,1500000.0,COP,60
+precio,maximo,7150000.0,COP,60
+m2,mediana_precio_m2,87867.65,COP,58
+m2,area_mediana_m2,45.0,m2,58
+admin,mediana_admin_mes,500000.0,COP,25
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,6,,60
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

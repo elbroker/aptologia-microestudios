@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,amob,"amoblados",,42
+precio,p25,8362500.0,COP,42
+precio,mediana,11400000.0,COP,42
+precio,p75,15375000.0,COP,42
+precio,minimo,3900000.0,COP,42
+precio,maximo,20000000.0,COP,42
+m2,mediana_precio_m2,66768.87,COP,42
+m2,area_mediana_m2,164.0,m2,42
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.6,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,11400000.0,COP,42
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,67
+filtro,estrato,5,,67
+filtro,ban2,"con 2 baños",,67
+precio,p25,622500000.0,COP,67
+precio,mediana,770000000.0,COP,67
+precio,p75,850000000.0,COP,67
+precio,minimo,355000000.0,COP,67
+precio,maximo,1300000000.0,COP,67
+m2,mediana_precio_m2,8677325.58,COP,66
+m2,area_mediana_m2,88.0,m2,66
+admin,mediana_admin_mes,613248.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.5,%,65
+estrato,estrato_mas_frecuente,5,,67
+habitaciones,1,630000000.0,COP,6
+habitaciones,2,740000000.0,COP,31
+habitaciones,3+,812500000.0,COP,30
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

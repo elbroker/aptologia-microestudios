@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,52
+filtro,habitaciones,3+,,52
+filtro,area2,"de 45 a 70 m²",,52
+filtro,edad1,"de 0 a 5 años de construidos",,52
+precio,p25,367500000.0,COP,52
+precio,mediana,409250000.0,COP,52
+precio,p75,481250000.0,COP,52
+precio,minimo,245000000.0,COP,52
+precio,maximo,560000000.0,COP,52
+m2,mediana_precio_m2,6597926.27,COP,52
+m2,area_mediana_m2,62.5,m2,52
+admin,mediana_admin_mes,303500.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,3,,47
+habitaciones,3+,409250000.0,COP,52
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/viviendas-del-sur,,
+fuente,licencia,CC BY 4.0,,

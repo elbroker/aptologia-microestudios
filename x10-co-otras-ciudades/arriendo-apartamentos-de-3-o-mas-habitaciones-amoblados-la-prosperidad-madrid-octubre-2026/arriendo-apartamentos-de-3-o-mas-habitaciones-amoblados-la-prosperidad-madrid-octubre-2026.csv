@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,amob,"amoblados",,31
+precio,p25,950000.0,COP,31
+precio,mediana,1020000.0,COP,31
+precio,p75,1131657.5,COP,31
+precio,minimo,900000.0,COP,31
+precio,maximo,1310000.0,COP,31
+m2,area_mediana_m2,60.0,m2,25
+admin,mediana_admin_mes,197000.0,COP,22
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,3+,1020000.0,COP,31
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20833.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/madrid,,
+fuente,licencia,CC BY 4.0,,

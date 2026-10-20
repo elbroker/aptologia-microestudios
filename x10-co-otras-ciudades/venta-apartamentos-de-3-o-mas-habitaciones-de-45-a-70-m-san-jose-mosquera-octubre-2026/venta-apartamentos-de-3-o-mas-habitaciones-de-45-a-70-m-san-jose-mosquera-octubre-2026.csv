@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,area2,"de 45 a 70 m²",,32
+precio,p25,273000000.0,COP,32
+precio,mediana,294500000.0,COP,32
+precio,p75,340000000.0,COP,32
+precio,minimo,235000000.0,COP,32
+precio,maximo,380000000.0,COP,32
+m2,mediana_precio_m2,5541958.04,COP,32
+m2,area_mediana_m2,54.0,m2,32
+admin,mediana_admin_mes,253085.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,294500000.0,COP,32
+ciudad,mediana_ciudad_referencia,320000000.0,COP,
+ciudad,mediana_m2_ciudad,4926470.59,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/mosquera/san-jose,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,ban3,"con 3 o más baños",,42
+filtro,edad1,"de 0 a 5 años de construidos",,42
+precio,p25,1460000000.0,COP,42
+precio,mediana,1830000000.0,COP,42
+precio,p75,2675000000.0,COP,42
+precio,minimo,650000000.0,COP,42
+precio,maximo,3888000000.0,COP,42
+m2,mediana_precio_m2,11194968.43,COP,38
+m2,area_mediana_m2,178.0,m2,38
+admin,mediana_admin_mes,1890000.0,COP,35
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,2,1430000000.0,COP,17
+habitaciones,3+,2100000000.0,COP,22
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-virrey,,
+fuente,licencia,CC BY 4.0,,

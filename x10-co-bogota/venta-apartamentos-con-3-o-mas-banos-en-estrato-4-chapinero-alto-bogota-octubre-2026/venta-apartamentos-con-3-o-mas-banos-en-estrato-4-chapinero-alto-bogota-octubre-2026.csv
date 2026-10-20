@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,65
+filtro,estrato,4,,65
+filtro,ban3,"con 3 o más baños",,65
+precio,p25,770000000.0,COP,65
+precio,mediana,950000000.0,COP,65
+precio,p75,1550000000.0,COP,65
+precio,minimo,470000000.0,COP,65
+precio,maximo,2750000000.0,COP,65
+m2,mediana_precio_m2,7587878.79,COP,64
+m2,area_mediana_m2,140.0,m2,64
+admin,mediana_admin_mes,999500.0,COP,58
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.5,%,65
+estrato,estrato_mas_frecuente,4,,65
+habitaciones,2,1150000000.0,COP,18
+habitaciones,3+,950000000.0,COP,47
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chapinero-alto,,
+fuente,licencia,CC BY 4.0,,

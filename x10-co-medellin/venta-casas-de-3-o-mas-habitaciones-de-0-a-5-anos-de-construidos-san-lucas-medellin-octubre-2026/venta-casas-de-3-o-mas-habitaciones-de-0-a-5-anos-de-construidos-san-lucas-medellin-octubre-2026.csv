@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,64
+filtro,habitaciones,3+,,64
+filtro,edad1,"de 0 a 5 años de construidos",,64
+precio,p25,1437500000.0,COP,64
+precio,mediana,1725000000.0,COP,64
+precio,p75,2950000000.0,COP,64
+precio,minimo,1090000000.0,COP,64
+precio,maximo,8000000000.0,COP,64
+m2,mediana_precio_m2,6747093.02,COP,64
+m2,area_mediana_m2,272.5,m2,64
+admin,mediana_admin_mes,1150000.0,COP,38
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,6,,64
+habitaciones,3+,1725000000.0,COP,64
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

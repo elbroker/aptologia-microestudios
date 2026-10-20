@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,39
+filtro,habitaciones,3+,,39
+filtro,ban3,"con 3 o más baños",,39
+precio,p25,6650000.0,PYG,39
+precio,mediana,13500000.0,PYG,39
+precio,p75,18250000.0,PYG,39
+precio,minimo,4500000.0,PYG,39
+precio,maximo,25000000.0,PYG,39
+m2,mediana_precio_m2,41143.16,PYG,34
+m2,area_mediana_m2,360.0,m2,34
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,3+,13500000.0,PYG,39
+ciudad,mediana_ciudad_referencia,8500000.0,PYG,
+ciudad,mediana_m2_ciudad,34285.71,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/villa-aurelia,,
+fuente,licencia,CC BY 4.0,,

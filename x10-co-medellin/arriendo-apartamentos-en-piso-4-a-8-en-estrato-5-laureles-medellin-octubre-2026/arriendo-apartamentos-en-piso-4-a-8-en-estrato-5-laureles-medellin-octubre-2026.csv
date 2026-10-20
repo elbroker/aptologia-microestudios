@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,201
+filtro,estrato,5,,201
+filtro,piso2,"en piso 4 a 8",,201
+precio,p25,3500000.0,COP,201
+precio,mediana,4500000.0,COP,201
+precio,p75,5500000.0,COP,201
+precio,minimo,1050000.0,COP,201
+precio,maximo,16300000.0,COP,201
+m2,mediana_precio_m2,41836.73,COP,197
+m2,area_mediana_m2,105.0,m2,197
+admin,mediana_admin_mes,390000.0,COP,18
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.5,%,193
+estrato,estrato_mas_frecuente,5,,201
+habitaciones,1,3000000.0,COP,13
+habitaciones,2,3500000.0,COP,54
+habitaciones,3+,5000000.0,COP,133
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

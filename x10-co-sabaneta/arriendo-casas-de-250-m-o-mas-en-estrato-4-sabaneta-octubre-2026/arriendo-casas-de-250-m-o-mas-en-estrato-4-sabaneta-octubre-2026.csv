@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,area6,"de 250 m² o más",,40
+precio,p25,6500000.0,COP,40
+precio,mediana,7625000.0,COP,40
+precio,p75,12225000.0,COP,40
+precio,minimo,4500000.0,COP,40
+precio,maximo,26250000.0,COP,40
+m2,mediana_precio_m2,22000.0,COP,40
+m2,area_mediana_m2,343.5,m2,40
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.5,%,40
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,3+,7150000.0,COP,37
+ciudad,mediana_ciudad_referencia,6600000.0,COP,
+ciudad,mediana_m2_ciudad,29523.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

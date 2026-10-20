@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,62
+filtro,balc,"con balcón",,62
+filtro,parq1,"con parqueadero",,62
+precio,p25,3825000.0,COP,62
+precio,mediana,4600000.0,COP,62
+precio,p75,6183750.0,COP,62
+precio,minimo,1990000.0,COP,62
+precio,maximo,15700000.0,COP,62
+m2,mediana_precio_m2,58152.17,COP,62
+m2,area_mediana_m2,90.0,m2,62
+admin,mediana_admin_mes,607000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,4,,60
+habitaciones,1,2750000.0,COP,9
+habitaciones,2,4400000.0,COP,17
+habitaciones,3+,5835000.0,COP,34
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/ciudad-salitre,,
+fuente,licencia,CC BY 4.0,,

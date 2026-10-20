@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,2,,58
+filtro,area5,"de 150 a 250 m²",,58
+precio,p25,1500000000.0,COP,58
+precio,mediana,1800000000.0,COP,58
+precio,p75,2212500000.0,COP,58
+precio,minimo,1150000000.0,COP,58
+precio,maximo,3800000000.0,COP,58
+m2,mediana_precio_m2,9841838.72,COP,56
+m2,area_mediana_m2,173.5,m2,56
+admin,mediana_admin_mes,1800000.0,COP,56
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,6,,58
+habitaciones,2,1800000000.0,COP,58
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/los-rosales,,
+fuente,licencia,CC BY 4.0,,

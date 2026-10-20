@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,45
+filtro,habitaciones,2,,45
+filtro,area5,"de 150 a 250 m²",,45
+precio,p25,10000.0,UF,45
+precio,mediana,12315.0,UF,45
+precio,p75,15900.0,UF,45
+precio,minimo,7500.0,UF,45
+precio,maximo,26750.0,UF,45
+m2,mediana_precio_m2,70.51,UF,45
+m2,area_mediana_m2,177.2,m2,45
+banos,mediana_banos,2.0,,
+habitaciones,2,12315.0,UF,45
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

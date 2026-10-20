@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,114
+filtro,balc,"con balcón",,114
+filtro,area5,"de 150 a 250 m²",,114
+precio,p25,8000000.0,COP,114
+precio,mediana,9945000.0,COP,114
+precio,p75,12000000.0,COP,114
+precio,minimo,5900000.0,COP,114
+precio,maximo,17000000.0,COP,114
+m2,mediana_precio_m2,48155.47,COP,114
+m2,area_mediana_m2,200.0,m2,114
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.1,%,114
+estrato,estrato_mas_frecuente,6,,114
+habitaciones,2,10000000.0,COP,5
+habitaciones,3+,9900000.0,COP,109
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

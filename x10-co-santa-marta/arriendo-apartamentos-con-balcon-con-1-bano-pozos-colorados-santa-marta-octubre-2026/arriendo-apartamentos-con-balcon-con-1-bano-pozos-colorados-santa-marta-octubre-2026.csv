@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,balc,"con balcón",,30
+filtro,ban1,"con 1 baño",,30
+precio,p25,1887500.0,COP,30
+precio,mediana,2325000.0,COP,30
+precio,p75,2800000.0,COP,30
+precio,minimo,1500000.0,COP,30
+precio,maximo,6000000.0,COP,30
+m2,mediana_precio_m2,55263.16,COP,30
+m2,area_mediana_m2,40.0,m2,30
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,1,2325000.0,COP,28
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,45000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/santa-marta,,
+fuente,licencia,CC BY 4.0,,

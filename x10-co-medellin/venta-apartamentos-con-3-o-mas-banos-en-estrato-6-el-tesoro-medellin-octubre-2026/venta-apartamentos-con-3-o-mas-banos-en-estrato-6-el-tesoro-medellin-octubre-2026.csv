@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,189
+filtro,estrato,6,,189
+filtro,ban3,"con 3 o más baños",,189
+precio,p25,1250000000.0,COP,189
+precio,mediana,1650000000.0,COP,189
+precio,p75,2490000000.0,COP,189
+precio,minimo,520000000.0,COP,189
+precio,maximo,4000000000.0,COP,189
+m2,mediana_precio_m2,8333333.33,COP,186
+m2,area_mediana_m2,203.0,m2,186
+admin,mediana_admin_mes,1300000.0,COP,130
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.5,%,187
+estrato,estrato_mas_frecuente,6,,189
+habitaciones,2,1525000000.0,COP,32
+habitaciones,3+,1690000000.0,COP,155
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

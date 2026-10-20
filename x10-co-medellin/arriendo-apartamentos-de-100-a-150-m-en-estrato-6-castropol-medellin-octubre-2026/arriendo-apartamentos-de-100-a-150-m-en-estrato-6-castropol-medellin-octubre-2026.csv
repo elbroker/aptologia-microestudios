@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,202
+filtro,estrato,6,,202
+filtro,area4,"de 100 a 150 m²",,202
+precio,p25,5500000.0,COP,202
+precio,mediana,6200000.0,COP,202
+precio,p75,7500000.0,COP,202
+precio,minimo,2700000.0,COP,202
+precio,maximo,18000000.0,COP,202
+m2,mediana_precio_m2,52863.64,COP,198
+m2,area_mediana_m2,122.0,m2,198
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.0,%,198
+estrato,estrato_mas_frecuente,6,,202
+habitaciones,2,7000000.0,COP,43
+habitaciones,3+,6000000.0,COP,158
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

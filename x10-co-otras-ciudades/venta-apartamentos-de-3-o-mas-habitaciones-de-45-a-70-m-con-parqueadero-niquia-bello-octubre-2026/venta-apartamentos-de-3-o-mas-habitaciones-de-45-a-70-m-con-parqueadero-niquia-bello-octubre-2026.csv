@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,57
+filtro,habitaciones,3+,,57
+filtro,area2,"de 45 a 70 m²",,57
+filtro,parq1,"con parqueadero",,57
+precio,p25,320000000.0,COP,57
+precio,mediana,352000000.0,COP,57
+precio,p75,400000000.0,COP,57
+precio,minimo,280000000.0,COP,57
+precio,maximo,790000000.0,COP,57
+m2,mediana_precio_m2,5806451.61,COP,57
+m2,area_mediana_m2,61.0,m2,57
+admin,mediana_admin_mes,247500.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,3,,52
+habitaciones,3+,352000000.0,COP,57
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/niquia,,
+fuente,licencia,CC BY 4.0,,

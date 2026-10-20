@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,53
+filtro,parq1,"con estacionamiento",,53
+filtro,ban2,"con 2 baños",,53
+precio,p25,245000.0,USD,53
+precio,mediana,356184.0,USD,53
+precio,p75,460000.0,USD,53
+precio,minimo,167000.0,USD,53
+precio,maximo,820000.0,USD,53
+m2,mediana_precio_m2,3083.33,USD,53
+m2,area_mediana_m2,122.0,m2,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,53
+habitaciones,2,240720.0,USD,19
+habitaciones,3+,432450.0,USD,34
+ciudad,mediana_ciudad_referencia,269000.0,USD,
+ciudad,mediana_m2_ciudad,1625.85,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/carrasco-norte,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,131
+filtro,parq1,"con estacionamiento",,131
+filtro,ban3,"con 3 o más baños",,131
+precio,p25,335000.0,USD,131
+precio,mediana,495000.0,USD,131
+precio,p75,697500.0,USD,131
+precio,minimo,210000.0,USD,131
+precio,maximo,1600000.0,USD,131
+m2,mediana_precio_m2,1499.82,USD,128
+m2,area_mediana_m2,360.0,m2,128
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,131
+habitaciones,2,265000.0,USD,7
+habitaciones,3+,520000.0,USD,124
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/mburucuya,,
+fuente,licencia,CC BY 4.0,,

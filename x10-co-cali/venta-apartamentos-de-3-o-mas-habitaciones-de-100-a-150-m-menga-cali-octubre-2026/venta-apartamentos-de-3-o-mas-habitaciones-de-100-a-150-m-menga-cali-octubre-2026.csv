@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,area4,"de 100 a 150 m²",,34
+precio,p25,680000000.0,COP,34
+precio,mediana,900000000.0,COP,34
+precio,p75,925000000.0,COP,34
+precio,minimo,550000000.0,COP,34
+precio,maximo,1500000000.0,COP,34
+m2,mediana_precio_m2,6807996.84,COP,34
+m2,area_mediana_m2,129.0,m2,34
+admin,mediana_admin_mes,1160000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.0,%,33
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,3+,900000000.0,COP,34
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/menga,,
+fuente,licencia,CC BY 4.0,,

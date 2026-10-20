@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,108
+filtro,habitaciones,3+,,108
+filtro,parq1,"con estacionamiento",,108
+filtro,ban3,"con 3 o más baños",,108
+precio,p25,600.0,USD,108
+precio,mediana,841.5,USD,108
+precio,p75,1200.0,USD,108
+precio,minimo,340.0,USD,108
+precio,maximo,3700.0,USD,108
+m2,mediana_precio_m2,5.11,USD,107
+m2,area_mediana_m2,162.0,m2,107
+admin,mediana_admin_mes,64.0,USD,82
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,108
+habitaciones,3+,841.5,USD,108
+ciudad,mediana_ciudad_referencia,600.0,USD,
+ciudad,mediana_m2_ciudad,5.62,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/alquiler/la-paz,,
+fuente,licencia,CC BY 4.0,,

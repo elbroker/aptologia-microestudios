@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,42
+filtro,habitaciones,2,,42
+filtro,area2,"de 45 a 70 m²",,42
+precio,p25,190000000.0,COP,42
+precio,mediana,227500000.0,COP,42
+precio,p75,270000000.0,COP,42
+precio,minimo,158000000.0,COP,42
+precio,maximo,500000000.0,COP,42
+m2,mediana_precio_m2,3966885.6,COP,42
+m2,area_mediana_m2,57.0,m2,42
+admin,mediana_admin_mes,188000.0,COP,23
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,81.2,%,32
+estrato,estrato_mas_frecuente,3,,41
+habitaciones,2,227500000.0,COP,42
+ciudad,mediana_ciudad_referencia,270000000.0,COP,
+ciudad,mediana_m2_ciudad,4194668.2,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/palmira,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,39
+filtro,area5,"de 150 a 250 m²",,39
+filtro,ban2,"con 2 baños",,39
+precio,p25,1425.0,USD,39
+precio,mediana,1700.0,USD,39
+precio,p75,2000.0,USD,39
+precio,minimo,1100.0,USD,39
+precio,maximo,2750.0,USD,39
+m2,mediana_precio_m2,9.75,USD,39
+m2,area_mediana_m2,177.0,m2,39
+banos,mediana_banos,2.0,,
+habitaciones,2,1800.0,USD,20
+habitaciones,3+,1650.0,USD,18
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo/naco,,
+fuente,licencia,CC BY 4.0,,

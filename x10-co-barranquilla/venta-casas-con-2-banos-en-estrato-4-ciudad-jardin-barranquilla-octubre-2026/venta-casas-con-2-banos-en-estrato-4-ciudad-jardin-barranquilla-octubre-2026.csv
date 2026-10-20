@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,580000000.0,COP,30
+precio,mediana,677545000.0,COP,30
+precio,p75,880000000.0,COP,30
+precio,minimo,398000000.0,COP,30
+precio,maximo,1400000000.0,COP,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,677545000.0,COP,30
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

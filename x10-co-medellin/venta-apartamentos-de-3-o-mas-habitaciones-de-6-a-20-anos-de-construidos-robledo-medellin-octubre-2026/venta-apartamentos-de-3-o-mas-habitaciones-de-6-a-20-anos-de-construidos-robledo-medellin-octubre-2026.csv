@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,52
+filtro,habitaciones,3+,,52
+filtro,edad2,"de 6 a 20 años de construidos",,52
+precio,p25,258250000.0,COP,52
+precio,mediana,297566513.0,COP,52
+precio,p75,387500000.0,COP,52
+precio,minimo,165000000.0,COP,52
+precio,maximo,650000000.0,COP,52
+m2,mediana_precio_m2,5028846.15,COP,50
+m2,area_mediana_m2,67.5,m2,50
+admin,mediana_admin_mes,219300.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,34.6,%,52
+estrato,estrato_mas_frecuente,3,,52
+habitaciones,3+,297566513.0,COP,52
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

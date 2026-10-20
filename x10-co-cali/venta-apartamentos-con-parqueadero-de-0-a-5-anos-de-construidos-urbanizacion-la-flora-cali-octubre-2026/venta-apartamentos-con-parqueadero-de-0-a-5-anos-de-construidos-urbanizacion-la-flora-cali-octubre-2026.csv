@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,parq1,"con parqueadero",,40
+filtro,edad1,"de 0 a 5 años de construidos",,40
+precio,p25,412500000.0,COP,40
+precio,mediana,505000000.0,COP,40
+precio,p75,580000000.0,COP,40
+precio,minimo,200000000.0,COP,40
+precio,maximo,2150000000.0,COP,40
+m2,mediana_precio_m2,5585853.66,COP,40
+m2,area_mediana_m2,90.0,m2,40
+admin,mediana_admin_mes,550000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,1,250000000.0,COP,5
+habitaciones,2,490000000.0,COP,9
+habitaciones,3+,560000000.0,COP,26
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/urbanizacion-la-flora,,
+fuente,licencia,CC BY 4.0,,

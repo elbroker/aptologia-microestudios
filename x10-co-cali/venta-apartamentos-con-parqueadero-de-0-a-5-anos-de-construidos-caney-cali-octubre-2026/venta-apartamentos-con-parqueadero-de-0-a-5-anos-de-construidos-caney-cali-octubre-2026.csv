@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,73
+filtro,parq1,"con parqueadero",,73
+filtro,edad1,"de 0 a 5 años de construidos",,73
+precio,p25,220103000.0,COP,73
+precio,mediana,280000000.0,COP,73
+precio,p75,370000000.0,COP,73
+precio,minimo,184000000.0,COP,73
+precio,maximo,2200000000.0,COP,73
+m2,mediana_precio_m2,4138388.12,COP,72
+m2,area_mediana_m2,67.0,m2,72
+admin,mediana_admin_mes,395000.0,COP,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+estrato,estrato_mas_frecuente,4,,73
+habitaciones,2,209000000.0,COP,20
+habitaciones,3+,340000000.0,COP,53
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

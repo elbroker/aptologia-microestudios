@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,40
+filtro,habitaciones,3+,,40
+filtro,conj,"en conjunto cerrado",,40
+filtro,area3,"de 70 a 100 m²",,40
+precio,p25,2500000.0,COP,40
+precio,mediana,2775000.0,COP,40
+precio,p75,3000000.0,COP,40
+precio,minimo,1400000.0,COP,40
+precio,maximo,5000000.0,COP,40
+m2,mediana_precio_m2,33766.23,COP,40
+m2,area_mediana_m2,79.5,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.4,%,39
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,3+,2775000.0,COP,40
+ciudad,mediana_ciudad_referencia,1767250.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/chia,,
+fuente,licencia,CC BY 4.0,,

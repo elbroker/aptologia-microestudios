@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,44
+filtro,estrato,3,,44
+filtro,edad2,"de 6 a 20 años de construidos",,44
+precio,p25,190000000.0,COP,44
+precio,mediana,199750000.0,COP,44
+precio,p75,220000000.0,COP,44
+precio,minimo,150000000.0,COP,44
+precio,maximo,278000000.0,COP,44
+m2,mediana_precio_m2,3929534.31,COP,44
+m2,area_mediana_m2,52.0,m2,44
+admin,mediana_admin_mes,177000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,34.1,%,44
+estrato,estrato_mas_frecuente,3,,44
+habitaciones,2,196000000.0,COP,28
+habitaciones,3+,211000000.0,COP,16
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/alameda-del-rio,,
+fuente,licencia,CC BY 4.0,,

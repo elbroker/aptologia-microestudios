@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,83
+filtro,habitaciones,3+,,83
+filtro,area6,"de 250 m² o más",,83
+precio,p25,1675000000.0,COP,83
+precio,mediana,2500000000.0,COP,83
+precio,p75,3500000000.0,COP,83
+precio,minimo,900000000.0,COP,83
+precio,maximo,5800000000.0,COP,83
+m2,mediana_precio_m2,4363636.36,COP,83
+m2,area_mediana_m2,550.0,m2,83
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,90.9,%,77
+estrato,estrato_mas_frecuente,6,,83
+habitaciones,3+,2500000000.0,COP,83
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/riomar,,
+fuente,licencia,CC BY 4.0,,

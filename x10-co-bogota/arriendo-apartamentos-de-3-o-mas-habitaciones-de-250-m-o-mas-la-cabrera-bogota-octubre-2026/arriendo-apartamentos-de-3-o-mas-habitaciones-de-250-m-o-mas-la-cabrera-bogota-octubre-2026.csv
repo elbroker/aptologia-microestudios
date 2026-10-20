@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,3+,,42
+filtro,area6,"de 250 m² o más",,42
+precio,p25,15000000.0,COP,42
+precio,mediana,16750000.0,COP,42
+precio,p75,19611000.0,COP,42
+precio,minimo,8000000.0,COP,42
+precio,maximo,20400000.0,COP,42
+m2,mediana_precio_m2,52155.58,COP,42
+m2,area_mediana_m2,311.0,m2,42
+admin,mediana_admin_mes,2750000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,95.2,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,16750000.0,COP,42
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/la-cabrera,,
+fuente,licencia,CC BY 4.0,,

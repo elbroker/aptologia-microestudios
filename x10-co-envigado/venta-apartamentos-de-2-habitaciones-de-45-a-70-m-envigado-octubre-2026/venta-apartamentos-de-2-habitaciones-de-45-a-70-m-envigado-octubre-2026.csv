@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,343
+filtro,habitaciones,2,,343
+filtro,area2,"de 45 a 70 m²",,343
+precio,p25,487000000.0,COP,343
+precio,mediana,600000000.0,COP,343
+precio,p75,665000000.0,COP,343
+precio,minimo,250000000.0,COP,343
+precio,maximo,1080000000.0,COP,343
+m2,mediana_precio_m2,9475409.84,COP,343
+m2,area_mediana_m2,64.0,m2,343
+admin,mediana_admin_mes,414000.0,COP,216
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.0,%,328
+estrato,estrato_mas_frecuente,4,,326
+habitaciones,2,600000000.0,COP,343
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado,,
+fuente,licencia,CC BY 4.0,,

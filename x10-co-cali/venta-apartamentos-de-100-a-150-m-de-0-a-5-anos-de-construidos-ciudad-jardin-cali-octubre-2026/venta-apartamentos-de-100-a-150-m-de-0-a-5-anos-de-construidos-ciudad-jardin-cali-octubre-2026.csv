@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,115
+filtro,area4,"de 100 a 150 m²",,115
+filtro,edad1,"de 0 a 5 años de construidos",,115
+precio,p25,682500000.0,COP,115
+precio,mediana,870000000.0,COP,115
+precio,p75,980000000.0,COP,115
+precio,minimo,390000000.0,COP,115
+precio,maximo,1306912000.0,COP,115
+m2,mediana_precio_m2,6613207.55,COP,115
+m2,area_mediana_m2,128.0,m2,115
+admin,mediana_admin_mes,800000.0,COP,80
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,113
+estrato,estrato_mas_frecuente,6,,115
+habitaciones,2,800000000.0,COP,12
+habitaciones,3+,870000000.0,COP,103
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

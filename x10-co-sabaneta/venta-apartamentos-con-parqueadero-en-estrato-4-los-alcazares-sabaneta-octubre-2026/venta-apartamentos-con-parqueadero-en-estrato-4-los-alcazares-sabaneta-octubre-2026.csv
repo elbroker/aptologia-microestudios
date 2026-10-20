@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,31
+filtro,estrato,4,,31
+filtro,parq1,"con parqueadero",,31
+precio,p25,482500000.0,COP,31
+precio,mediana,544000000.0,COP,31
+precio,p75,669500000.0,COP,31
+precio,minimo,310000000.0,COP,31
+precio,maximo,930000000.0,COP,31
+m2,mediana_precio_m2,8041666.67,COP,30
+m2,area_mediana_m2,70.0,m2,30
+admin,mediana_admin_mes,411000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,4,,31
+habitaciones,2,492500000.0,COP,12
+habitaciones,3+,550000000.0,COP,18
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/los-alcazares,,
+fuente,licencia,CC BY 4.0,,

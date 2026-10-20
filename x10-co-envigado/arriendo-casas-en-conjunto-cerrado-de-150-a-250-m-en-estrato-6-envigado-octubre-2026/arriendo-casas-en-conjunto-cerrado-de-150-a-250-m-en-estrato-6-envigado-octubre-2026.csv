@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,225
+filtro,estrato,6,,225
+filtro,conj,"en conjunto cerrado",,225
+filtro,area5,"de 150 a 250 m²",,225
+precio,p25,8000000.0,COP,225
+precio,mediana,9600000.0,COP,225
+precio,p75,11500000.0,COP,225
+precio,minimo,5000000.0,COP,225
+precio,maximo,21500000.0,COP,225
+m2,mediana_precio_m2,47597.81,COP,224
+m2,area_mediana_m2,203.0,m2,224
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,222
+estrato,estrato_mas_frecuente,6,,225
+habitaciones,3+,9500000.0,COP,221
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado,,
+fuente,licencia,CC BY 4.0,,

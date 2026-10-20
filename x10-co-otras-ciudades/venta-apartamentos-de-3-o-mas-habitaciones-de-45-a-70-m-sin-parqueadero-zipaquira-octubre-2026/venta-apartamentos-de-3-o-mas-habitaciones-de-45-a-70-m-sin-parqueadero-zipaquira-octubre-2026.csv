@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,109
+filtro,habitaciones,3+,,109
+filtro,area2,"de 45 a 70 m²",,109
+filtro,parq0,"sin parqueadero",,109
+precio,p25,188000000.0,COP,109
+precio,mediana,200000000.0,COP,109
+precio,p75,220000000.0,COP,109
+precio,minimo,155000000.0,COP,109
+precio,maximo,425540000.0,COP,109
+m2,mediana_precio_m2,3262295.08,COP,109
+m2,area_mediana_m2,62.0,m2,109
+admin,mediana_admin_mes,149879.0,COP,91
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,109
+estrato,estrato_mas_frecuente,3,,109
+habitaciones,3+,200000000.0,COP,109
+ciudad,mediana_ciudad_referencia,275000000.0,COP,
+ciudad,mediana_m2_ciudad,4366197.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/zipaquira,,
+fuente,licencia,CC BY 4.0,,

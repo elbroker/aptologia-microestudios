@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,44
+filtro,estrato,4,,44
+filtro,area6,"de 250 m² o más",,44
+filtro,edad1,"de 0 a 5 años de construidos",,44
+precio,p25,1183750000.0,COP,44
+precio,mediana,1481170000.0,COP,44
+precio,p75,1862500000.0,COP,44
+precio,minimo,850000000.0,COP,44
+precio,maximo,4320000000.0,COP,44
+m2,mediana_precio_m2,4142530.28,COP,44
+m2,area_mediana_m2,350.0,m2,44
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,4,,44
+habitaciones,3+,1462340000.0,COP,43
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/la-soledad,,
+fuente,licencia,CC BY 4.0,,

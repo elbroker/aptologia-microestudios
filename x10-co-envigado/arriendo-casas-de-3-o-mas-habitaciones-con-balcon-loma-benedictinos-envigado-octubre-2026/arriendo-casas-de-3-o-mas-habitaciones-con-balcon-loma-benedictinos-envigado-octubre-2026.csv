@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,41
+filtro,habitaciones,3+,,41
+filtro,balc,"con balcón",,41
+precio,p25,8800000.0,COP,41
+precio,mediana,10700000.0,COP,41
+precio,p75,13000000.0,COP,41
+precio,minimo,6200000.0,COP,41
+precio,maximo,24000000.0,COP,41
+m2,mediana_precio_m2,43673.47,COP,41
+m2,area_mediana_m2,230.0,m2,41
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,5,,41
+habitaciones,3+,10700000.0,COP,41
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/loma-benedictinos,,
+fuente,licencia,CC BY 4.0,,

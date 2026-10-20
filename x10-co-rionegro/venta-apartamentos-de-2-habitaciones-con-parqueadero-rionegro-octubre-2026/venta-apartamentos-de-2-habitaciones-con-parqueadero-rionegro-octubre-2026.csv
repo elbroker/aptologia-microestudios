@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1319
+filtro,habitaciones,2,,1319
+filtro,parq1,"con parqueadero",,1319
+precio,p25,368500000.0,COP,1319
+precio,mediana,535000000.0,COP,1319
+precio,p75,630000000.0,COP,1319
+precio,minimo,177000000.0,COP,1319
+precio,maximo,2450000000.0,COP,1319
+m2,mediana_precio_m2,7837837.84,COP,1307
+m2,area_mediana_m2,65.0,m2,1307
+admin,mediana_admin_mes,295000.0,COP,761
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,1319
+estrato,estrato_mas_frecuente,5,,1258
+habitaciones,2,535000000.0,COP,1319
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro,,
+fuente,licencia,CC BY 4.0,,

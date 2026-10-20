@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,3+,,45
+filtro,ban2,"con 2 baños",,45
+precio,p25,75000.0,USD,45
+precio,mediana,90000.0,USD,45
+precio,p75,115000.0,USD,45
+precio,minimo,52000.0,USD,45
+precio,maximo,163000.0,USD,45
+m2,mediana_precio_m2,726.11,USD,45
+m2,area_mediana_m2,117.0,m2,45
+admin,mediana_admin_mes,50.0,USD,16
+banos,mediana_banos,2.0,,
+habitaciones,3+,90000.0,USD,45
+ciudad,mediana_ciudad_referencia,145000.0,USD,
+ciudad,mediana_m2_ciudad,1000.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/ponceano,,
+fuente,licencia,CC BY 4.0,,

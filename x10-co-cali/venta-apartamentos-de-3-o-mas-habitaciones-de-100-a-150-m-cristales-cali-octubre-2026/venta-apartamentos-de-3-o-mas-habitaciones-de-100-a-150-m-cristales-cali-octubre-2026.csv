@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,78
+filtro,habitaciones,3+,,78
+filtro,area4,"de 100 a 150 m²",,78
+precio,p25,660000000.0,COP,78
+precio,mediana,730000000.0,COP,78
+precio,p75,783750000.0,COP,78
+precio,minimo,420000000.0,COP,78
+precio,maximo,1300000000.0,COP,78
+m2,mediana_precio_m2,6038074.71,COP,78
+m2,area_mediana_m2,122.0,m2,78
+admin,mediana_admin_mes,780000.0,COP,67
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,77
+estrato,estrato_mas_frecuente,6,,78
+habitaciones,3+,730000000.0,COP,78
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/cristales,,
+fuente,licencia,CC BY 4.0,,

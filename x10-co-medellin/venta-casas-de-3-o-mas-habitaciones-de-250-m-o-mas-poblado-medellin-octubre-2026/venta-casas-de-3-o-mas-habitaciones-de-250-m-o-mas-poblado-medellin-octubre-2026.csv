@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,108
+filtro,habitaciones,3+,,108
+filtro,area6,"de 250 m² o más",,108
+precio,p25,2175000000.0,COP,108
+precio,mediana,3000000000.0,COP,108
+precio,p75,4075000000.0,COP,108
+precio,minimo,795000000.0,COP,108
+precio,maximo,7950000000.0,COP,108
+m2,mediana_precio_m2,5797101.45,COP,107
+m2,area_mediana_m2,465.0,m2,107
+admin,mediana_admin_mes,1305000.0,COP,64
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,95.4,%,108
+estrato,estrato_mas_frecuente,6,,108
+habitaciones,3+,3000000000.0,COP,108
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

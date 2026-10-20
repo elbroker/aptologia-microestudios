@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,251
+filtro,parq1,"con parqueadero",,251
+filtro,ban3,"con 3 o más baños",,251
+precio,p25,680000000.0,COP,251
+precio,mediana,850000000.0,COP,251
+precio,p75,1300000000.0,COP,251
+precio,minimo,395000000.0,COP,251
+precio,maximo,4000000000.0,COP,251
+m2,mediana_precio_m2,5130067.57,COP,248
+m2,area_mediana_m2,172.0,m2,248
+admin,mediana_admin_mes,867000.0,COP,227
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,251
+estrato,estrato_mas_frecuente,6,,250
+habitaciones,2,660000000.0,COP,12
+habitaciones,3+,885000000.0,COP,239
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/cabecera-del-llano,,
+fuente,licencia,CC BY 4.0,,

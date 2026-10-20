@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,237
+filtro,habitaciones,3+,,237
+filtro,conj,"en conjunto cerrado",,237
+filtro,area6,"de 250 m² o más",,237
+precio,p25,6500000.0,COP,237
+precio,mediana,7900000.0,COP,237
+precio,p75,10000000.0,COP,237
+precio,minimo,3200000.0,COP,237
+precio,maximo,23000000.0,COP,237
+m2,mediana_precio_m2,20885.42,COP,228
+m2,area_mediana_m2,370.0,m2,228
+admin,mediana_admin_mes,580000.0,COP,137
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,230
+estrato,estrato_mas_frecuente,6,,234
+habitaciones,3+,7900000.0,COP,237
+ciudad,mediana_ciudad_referencia,6460000.0,COP,
+ciudad,mediana_m2_ciudad,22058.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira,,
+fuente,licencia,CC BY 4.0,,

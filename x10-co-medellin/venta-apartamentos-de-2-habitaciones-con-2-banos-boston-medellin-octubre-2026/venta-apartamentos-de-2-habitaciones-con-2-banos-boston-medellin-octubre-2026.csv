@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,2,,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,317500000.0,COP,36
+precio,mediana,330000000.0,COP,36
+precio,p75,400000000.0,COP,36
+precio,minimo,248000000.0,COP,36
+precio,maximo,930000000.0,COP,36
+m2,mediana_precio_m2,6142857.14,COP,35
+m2,area_mediana_m2,57.5,m2,35
+admin,mediana_admin_mes,307000.0,COP,19
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,330000000.0,COP,36
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/boston,,
+fuente,licencia,CC BY 4.0,,

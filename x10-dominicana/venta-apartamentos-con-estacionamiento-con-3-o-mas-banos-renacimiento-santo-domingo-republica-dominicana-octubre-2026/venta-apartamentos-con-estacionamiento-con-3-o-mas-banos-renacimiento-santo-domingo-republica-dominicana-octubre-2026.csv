@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,65
+filtro,parq1,"con estacionamiento",,65
+filtro,ban3,"con 3 o más baños",,65
+precio,p25,338400.0,USD,65
+precio,mediana,385000.0,USD,65
+precio,p75,559000.0,USD,65
+precio,minimo,242000.0,USD,65
+precio,maximo,1200000.0,USD,65
+m2,mediana_precio_m2,1651.16,USD,58
+m2,area_mediana_m2,248.5,m2,58
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+habitaciones,3+,385000.0,USD,65
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/renacimiento,,
+fuente,licencia,CC BY 4.0,,

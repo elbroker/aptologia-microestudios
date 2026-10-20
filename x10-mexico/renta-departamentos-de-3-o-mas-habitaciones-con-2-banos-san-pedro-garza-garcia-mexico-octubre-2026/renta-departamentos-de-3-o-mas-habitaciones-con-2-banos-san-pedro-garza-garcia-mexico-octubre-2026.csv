@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,45750.0,MXN,36
+precio,mediana,64000.0,MXN,36
+precio,p75,80000.0,MXN,36
+precio,minimo,35000.0,MXN,36
+precio,maximo,125000.0,MXN,36
+m2,mediana_precio_m2,373.83,MXN,33
+m2,area_mediana_m2,150.0,m2,33
+banos,mediana_banos,2.0,,
+habitaciones,3+,64000.0,MXN,36
+ciudad,mediana_ciudad_referencia,50000.0,MXN,
+ciudad,mediana_m2_ciudad,463.56,MXN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/,,
+fuente,licencia,CC BY 4.0,,

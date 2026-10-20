@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,306
+filtro,parq1,"con parqueadero",,306
+filtro,ban3,"con 3 o más baños",,306
+precio,p25,6500000.0,COP,306
+precio,mediana,8050000.0,COP,306
+precio,p75,11000000.0,COP,306
+precio,minimo,4300000.0,COP,306
+precio,maximo,20500000.0,COP,306
+m2,mediana_precio_m2,52380.95,COP,303
+m2,area_mediana_m2,160.0,m2,303
+admin,mediana_admin_mes,1000000.0,COP,21
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,306
+estrato,estrato_mas_frecuente,6,,305
+habitaciones,2,7000000.0,COP,61
+habitaciones,3+,9000000.0,COP,245
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

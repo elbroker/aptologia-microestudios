@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,38
+filtro,estrato,3,,38
+precio,p25,1600000.0,COP,38
+precio,mediana,1775483.0,COP,38
+precio,p75,2225000.0,COP,38
+precio,minimo,1098305.0,COP,38
+precio,maximo,4700000.0,COP,38
+m2,mediana_precio_m2,30357.14,COP,38
+m2,area_mediana_m2,57.5,m2,38
+admin,mediana_admin_mes,198500.0,COP,16
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,38
+habitaciones,2,1725000.0,COP,34
+ciudad,mediana_ciudad_referencia,2529000.0,COP,
+ciudad,mediana_m2_ciudad,31943.75,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/puerto-colombia,,
+fuente,licencia,CC BY 4.0,,

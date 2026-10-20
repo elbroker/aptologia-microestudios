@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,edad1,"de 0 a 5 años de construidos",,31
+precio,p25,500000000.0,COP,31
+precio,mediana,647015643.0,COP,31
+precio,p75,850000000.0,COP,31
+precio,minimo,220000000.0,COP,31
+precio,maximo,1200000000.0,COP,31
+m2,area_mediana_m2,173.0,m2,29
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,647015643.0,COP,31
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,3718518.52,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/monteria/el-recreo,,
+fuente,licencia,CC BY 4.0,,

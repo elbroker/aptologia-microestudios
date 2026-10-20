@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,51
+filtro,habitaciones,1,,51
+filtro,area2,"de 45 a 70 m²",,51
+precio,p25,25000.0,UYU,51
+precio,mediana,27950.0,UYU,51
+precio,p75,29950.0,UYU,51
+precio,minimo,18500.0,UYU,51
+precio,maximo,33500.0,UYU,51
+m2,mediana_precio_m2,550.0,UYU,51
+m2,area_mediana_m2,50.0,m2,51
+admin,mediana_admin_mes,4500.0,UYU,44
+banos,mediana_banos,1.0,,
+habitaciones,1,27950.0,UYU,51
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/la-blanqueada,,
+fuente,licencia,CC BY 4.0,,

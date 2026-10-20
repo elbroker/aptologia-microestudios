@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,parq1,"con parqueadero",,32
+filtro,ban3,"con 3 o más baños",,32
+precio,p25,420000000.0,COP,32
+precio,mediana,510000000.0,COP,32
+precio,p75,602500000.0,COP,32
+precio,minimo,330000000.0,COP,32
+precio,maximo,2100000000.0,COP,32
+m2,mediana_precio_m2,4709498.55,COP,32
+m2,area_mediana_m2,105.0,m2,32
+admin,mediana_admin_mes,430000.0,COP,25
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,510000000.0,COP,30
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/villa-carolina,,
+fuente,licencia,CC BY 4.0,,

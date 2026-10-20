@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,30
+filtro,habitaciones,2,,30
+filtro,estrato,4,,30
+precio,p25,191250000.0,COP,30
+precio,mediana,212500000.0,COP,30
+precio,p75,260000000.0,COP,30
+precio,minimo,150000000.0,COP,30
+precio,maximo,327560000.0,COP,30
+m2,mediana_precio_m2,4006076.39,COP,30
+m2,area_mediana_m2,56.5,m2,30
+admin,mediana_admin_mes,160000.0,COP,23
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,212500000.0,COP,30
+ciudad,mediana_ciudad_referencia,210000000.0,COP,
+ciudad,mediana_m2_ciudad,3607843.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/madrid,,
+fuente,licencia,CC BY 4.0,,

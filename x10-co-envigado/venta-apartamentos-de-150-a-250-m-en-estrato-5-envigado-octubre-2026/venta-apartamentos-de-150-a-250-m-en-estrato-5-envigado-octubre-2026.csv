@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,565
+filtro,estrato,5,,565
+filtro,area5,"de 150 a 250 m²",,565
+precio,p25,1250000000.0,COP,565
+precio,mediana,1430000000.0,COP,565
+precio,p75,1620000000.0,COP,565
+precio,minimo,450000000.0,COP,565
+precio,maximo,2750000000.0,COP,565
+m2,mediana_precio_m2,8230594.17,COP,564
+m2,area_mediana_m2,170.0,m2,564
+admin,mediana_admin_mes,800000.0,COP,373
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.9,%,562
+estrato,estrato_mas_frecuente,5,,565
+habitaciones,2,1510000000.0,COP,37
+habitaciones,3+,1400000000.0,COP,526
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado,,
+fuente,licencia,CC BY 4.0,,

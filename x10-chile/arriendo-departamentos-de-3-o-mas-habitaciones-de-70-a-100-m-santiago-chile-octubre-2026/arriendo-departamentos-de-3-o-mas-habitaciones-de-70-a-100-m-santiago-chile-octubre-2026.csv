@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,225
+filtro,habitaciones,3+,,225
+filtro,area3,"de 70 a 100 m²",,225
+precio,p25,580000.0,CLP,225
+precio,mediana,690000.0,CLP,225
+precio,p75,850000.0,CLP,225
+precio,minimo,380000.0,CLP,225
+precio,maximo,2200000.0,CLP,225
+m2,mediana_precio_m2,8732.14,CLP,224
+m2,area_mediana_m2,80.0,m2,224
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+habitaciones,3+,690000.0,CLP,225
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,

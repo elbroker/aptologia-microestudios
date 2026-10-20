@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,65
+filtro,habitaciones,3+,,65
+filtro,piso2,"en piso 4 a 8",,65
+precio,p25,720000000.0,COP,65
+precio,mediana,960000000.0,COP,65
+precio,p75,1600000000.0,COP,65
+precio,minimo,320000000.0,COP,65
+precio,maximo,2770000000.0,COP,65
+m2,mediana_precio_m2,5866708.39,COP,64
+m2,area_mediana_m2,172.0,m2,64
+admin,mediana_admin_mes,1100000.0,COP,53
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+estrato,estrato_mas_frecuente,6,,65
+habitaciones,3+,960000000.0,COP,65
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/bellavista,,
+fuente,licencia,CC BY 4.0,,

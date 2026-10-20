@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,3+,,43
+filtro,edad3,"de más de 20 años de construidos",,43
+precio,p25,850000000.0,COP,43
+precio,mediana,980000000.0,COP,43
+precio,p75,1375000000.0,COP,43
+precio,minimo,420000000.0,COP,43
+precio,maximo,2600000000.0,COP,43
+m2,mediana_precio_m2,4555442.41,COP,43
+m2,area_mediana_m2,240.0,m2,43
+admin,mediana_admin_mes,1432630.5,COP,40
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,6,,43
+habitaciones,3+,980000000.0,COP,43
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/santa-teresita,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,42
+filtro,habitaciones,1,,42
+filtro,area2,"de 45 a 70 m²",,42
+precio,p25,4475.25,BRL,42
+precio,mediana,5600.0,BRL,42
+precio,p75,7750.0,BRL,42
+precio,minimo,2840.0,BRL,42
+precio,maximo,14000.0,BRL,42
+m2,mediana_precio_m2,106.38,BRL,39
+m2,area_mediana_m2,50.5,m2,39
+admin,mediana_admin_mes,1483.0,BRL,42
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,97.6,%,41
+habitaciones,1,5600.0,BRL,42
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/itaim-bibi,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,parq1,"con estacionamiento",,30
+filtro,ban3,"con 3 o más baños",,30
+precio,p25,251250.0,USD,30
+precio,mediana,270500.0,USD,30
+precio,p75,345481.0,USD,30
+precio,minimo,216855.0,USD,30
+precio,maximo,1150000.0,USD,30
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+habitaciones,2,288325.5,USD,8
+habitaciones,3+,264034.0,USD,22
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-carmelitas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1043
+filtro,habitaciones,3+,,1043
+filtro,parq1,"con parqueadero",,1043
+precio,p25,440000000.0,COP,1043
+precio,mediana,520000000.0,COP,1043
+precio,p75,598000000.0,COP,1043
+precio,minimo,210000000.0,COP,1043
+precio,maximo,2690000000.0,COP,1043
+m2,mediana_precio_m2,7063894.52,COP,1042
+m2,area_mediana_m2,70.0,m2,1042
+admin,mediana_admin_mes,360000.0,COP,751
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,1043
+estrato,estrato_mas_frecuente,4,,996
+habitaciones,3+,520000000.0,COP,1043
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui,,
+fuente,licencia,CC BY 4.0,,

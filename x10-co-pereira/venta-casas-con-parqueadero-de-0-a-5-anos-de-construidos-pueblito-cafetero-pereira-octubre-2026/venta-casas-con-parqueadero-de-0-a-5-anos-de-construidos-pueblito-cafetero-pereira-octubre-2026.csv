@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,164
+filtro,parq1,"con parqueadero",,164
+filtro,edad1,"de 0 a 5 años de construidos",,164
+precio,p25,1100000000.0,COP,164
+precio,mediana,1640000000.0,COP,164
+precio,p75,2047500000.0,COP,164
+precio,minimo,510000000.0,COP,164
+precio,maximo,3850000000.0,COP,164
+m2,mediana_precio_m2,4903846.15,COP,151
+m2,area_mediana_m2,348.0,m2,151
+admin,mediana_admin_mes,480000.0,COP,113
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,164
+estrato,estrato_mas_frecuente,6,,157
+habitaciones,3+,1650000000.0,COP,159
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/pueblito-cafetero,,
+fuente,licencia,CC BY 4.0,,

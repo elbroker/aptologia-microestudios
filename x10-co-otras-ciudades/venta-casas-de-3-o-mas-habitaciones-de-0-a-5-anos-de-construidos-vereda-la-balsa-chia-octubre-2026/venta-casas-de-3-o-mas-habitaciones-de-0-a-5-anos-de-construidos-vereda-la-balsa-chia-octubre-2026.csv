@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,128
+filtro,habitaciones,3+,,128
+filtro,edad1,"de 0 a 5 años de construidos",,128
+precio,p25,806250000.0,COP,128
+precio,mediana,1007500000.0,COP,128
+precio,p75,1555000000.0,COP,128
+precio,minimo,446797525.0,COP,128
+precio,maximo,4500000000.0,COP,128
+m2,mediana_precio_m2,4684375.0,COP,128
+m2,area_mediana_m2,238.0,m2,128
+admin,mediana_admin_mes,750000.0,COP,99
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,128
+estrato,estrato_mas_frecuente,4,,123
+habitaciones,3+,1007500000.0,COP,128
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,5059882.39,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/chia/vereda-la-balsa,,
+fuente,licencia,CC BY 4.0,,

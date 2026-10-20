@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,176
+filtro,habitaciones,3+,,176
+filtro,ban3,"con 3 o más baños",,176
+precio,p25,3500.0,PEN,176
+precio,mediana,5306.0,PEN,176
+precio,p75,8360.0,PEN,176
+precio,minimo,1850.0,PEN,176
+precio,maximo,18260.0,PEN,176
+m2,mediana_precio_m2,25.24,PEN,174
+m2,area_mediana_m2,225.0,m2,174
+admin,mediana_admin_mes,500.0,PEN,27
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,168
+habitaciones,3+,5306.0,PEN,176
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/santiago-de-surco,,
+fuente,licencia,CC BY 4.0,,

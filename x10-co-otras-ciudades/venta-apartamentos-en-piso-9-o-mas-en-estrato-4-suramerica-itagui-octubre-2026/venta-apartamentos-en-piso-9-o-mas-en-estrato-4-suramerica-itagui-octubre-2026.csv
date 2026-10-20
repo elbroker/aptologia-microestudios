@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,173
+filtro,estrato,4,,173
+filtro,piso3,"en piso 9 o más",,173
+precio,p25,520000000.0,COP,173
+precio,mediana,590000000.0,COP,173
+precio,p75,700000000.0,COP,173
+precio,minimo,339000000.0,COP,173
+precio,maximo,900000000.0,COP,173
+m2,mediana_precio_m2,7313432.84,COP,173
+m2,area_mediana_m2,86.0,m2,173
+admin,mediana_admin_mes,448500.0,COP,158
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.4,%,173
+estrato,estrato_mas_frecuente,4,,173
+habitaciones,2,572500000.0,COP,52
+habitaciones,3+,595000000.0,COP,119
+ciudad,mediana_ciudad_referencia,470000000.0,COP,
+ciudad,mediana_m2_ciudad,6766968.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/itagui/suramerica,,
+fuente,licencia,CC BY 4.0,,

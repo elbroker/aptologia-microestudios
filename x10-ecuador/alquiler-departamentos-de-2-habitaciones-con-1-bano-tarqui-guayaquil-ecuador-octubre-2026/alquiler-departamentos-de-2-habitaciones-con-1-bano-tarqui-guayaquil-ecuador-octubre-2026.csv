@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,2,,37
+filtro,ban1,"con 1 baño",,37
+precio,p25,280.0,USD,37
+precio,mediana,350.0,USD,37
+precio,p75,450.0,USD,37
+precio,minimo,200.0,USD,37
+precio,maximo,1300.0,USD,37
+m2,mediana_precio_m2,5.41,USD,32
+m2,area_mediana_m2,70.0,m2,32
+banos,mediana_banos,1.0,,
+habitaciones,2,350.0,USD,37
+ciudad,mediana_ciudad_referencia,850.0,USD,
+ciudad,mediana_m2_ciudad,8.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/guayaquil/tarqui,,
+fuente,licencia,CC BY 4.0,,

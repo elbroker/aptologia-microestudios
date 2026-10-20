@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,149
+filtro,habitaciones,2,,149
+filtro,ban3,"con 3 o más baños",,149
+precio,p25,693750.0,PEN,149
+precio,mediana,921000.0,PEN,149
+precio,p75,1234860.0,PEN,149
+precio,minimo,400000.0,PEN,149
+precio,maximo,3600000.0,PEN,149
+m2,mediana_precio_m2,7389.84,PEN,142
+m2,area_mediana_m2,120.0,m2,142
+admin,mediana_admin_mes,1.0,PEN,15
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,126
+habitaciones,2,921000.0,PEN,149
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

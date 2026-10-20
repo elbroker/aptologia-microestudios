@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,56
+filtro,area2,"de 45 a 70 m²",,56
+filtro,parq1,"con estacionamiento",,56
+precio,p25,428750.0,CLP,56
+precio,mediana,500000.0,CLP,56
+precio,p75,572500.0,CLP,56
+precio,minimo,205000.0,CLP,56
+precio,maximo,700000.0,CLP,56
+m2,mediana_precio_m2,9090.91,CLP,55
+m2,area_mediana_m2,53.0,m2,55
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+habitaciones,2,490000.0,CLP,45
+habitaciones,3+,570000.0,CLP,10
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/la-florida,,
+fuente,licencia,CC BY 4.0,,

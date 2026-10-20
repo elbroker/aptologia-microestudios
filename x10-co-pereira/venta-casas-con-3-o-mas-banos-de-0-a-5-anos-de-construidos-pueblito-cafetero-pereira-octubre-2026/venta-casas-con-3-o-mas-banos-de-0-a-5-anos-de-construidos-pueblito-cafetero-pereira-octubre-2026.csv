@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,157
+filtro,ban3,"con 3 o más baños",,157
+filtro,edad1,"de 0 a 5 años de construidos",,157
+precio,p25,1100000000.0,COP,157
+precio,mediana,1670000000.0,COP,157
+precio,p75,2190000000.0,COP,157
+precio,minimo,510000000.0,COP,157
+precio,maximo,3850000000.0,COP,157
+m2,mediana_precio_m2,4910939.47,COP,144
+m2,area_mediana_m2,348.0,m2,144
+admin,mediana_admin_mes,480000.0,COP,112
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,156
+estrato,estrato_mas_frecuente,6,,153
+habitaciones,3+,1670000000.0,COP,153
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/pueblito-cafetero,,
+fuente,licencia,CC BY 4.0,,

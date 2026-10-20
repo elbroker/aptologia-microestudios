@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,68
+filtro,parq1,"con parqueadero",,68
+filtro,ban2,"con 2 baños",,68
+precio,p25,422250000.0,COP,68
+precio,mediana,545000000.0,COP,68
+precio,p75,640000000.0,COP,68
+precio,minimo,260000000.0,COP,68
+precio,maximo,900000000.0,COP,68
+m2,mediana_precio_m2,7418142.33,COP,68
+m2,area_mediana_m2,69.5,m2,68
+admin,mediana_admin_mes,321500.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,68
+estrato,estrato_mas_frecuente,5,,56
+habitaciones,2,485000000.0,COP,40
+habitaciones,3+,605000000.0,COP,28
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/santa-ana,,
+fuente,licencia,CC BY 4.0,,

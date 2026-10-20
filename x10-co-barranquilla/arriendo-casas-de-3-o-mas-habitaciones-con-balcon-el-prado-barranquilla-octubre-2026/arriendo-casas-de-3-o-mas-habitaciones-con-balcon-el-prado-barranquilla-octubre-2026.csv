@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,46
+filtro,habitaciones,3+,,46
+filtro,balc,"con balcón",,46
+precio,p25,6625000.0,COP,46
+precio,mediana,10050000.0,COP,46
+precio,p75,15000000.0,COP,46
+precio,minimo,4500000.0,COP,46
+precio,maximo,27000000.0,COP,46
+m2,mediana_precio_m2,23660.39,COP,46
+m2,area_mediana_m2,420.0,m2,46
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,94.6,%,37
+estrato,estrato_mas_frecuente,4,,46
+habitaciones,3+,10050000.0,COP,46
+ciudad,mediana_ciudad_referencia,8200000.0,COP,
+ciudad,mediana_m2_ciudad,25000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

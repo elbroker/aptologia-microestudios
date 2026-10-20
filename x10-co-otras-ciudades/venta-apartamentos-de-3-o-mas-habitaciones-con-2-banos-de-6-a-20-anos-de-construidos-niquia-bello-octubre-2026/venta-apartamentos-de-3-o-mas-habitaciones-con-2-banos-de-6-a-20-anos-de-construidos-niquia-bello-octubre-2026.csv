@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,52
+filtro,habitaciones,3+,,52
+filtro,ban2,"con 2 baños",,52
+filtro,edad2,"de 6 a 20 años de construidos",,52
+precio,p25,347000000.0,COP,52
+precio,mediana,398500000.0,COP,52
+precio,p75,435000000.0,COP,52
+precio,minimo,270000000.0,COP,52
+precio,maximo,560000000.0,COP,52
+m2,mediana_precio_m2,5714285.71,COP,52
+m2,area_mediana_m2,70.0,m2,52
+admin,mediana_admin_mes,270000.0,COP,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.8,%,52
+estrato,estrato_mas_frecuente,4,,52
+habitaciones,3+,398500000.0,COP,52
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/niquia,,
+fuente,licencia,CC BY 4.0,,

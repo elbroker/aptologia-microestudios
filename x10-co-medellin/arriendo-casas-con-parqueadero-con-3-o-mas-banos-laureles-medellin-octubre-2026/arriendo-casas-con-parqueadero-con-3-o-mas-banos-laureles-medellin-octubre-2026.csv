@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,199
+filtro,parq1,"con parqueadero",,199
+filtro,ban3,"con 3 o más baños",,199
+precio,p25,6200000.0,COP,199
+precio,mediana,8500000.0,COP,199
+precio,p75,12000000.0,COP,199
+precio,minimo,3000000.0,COP,199
+precio,maximo,26500000.0,COP,199
+m2,mediana_precio_m2,31866.54,COP,198
+m2,area_mediana_m2,270.0,m2,198
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,199
+estrato,estrato_mas_frecuente,5,,188
+habitaciones,3+,8500000.0,COP,193
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,6,,36
+filtro,edad3,"de más de 20 años de construidos",,36
+precio,p25,1380975000.0,COP,36
+precio,mediana,1600000000.0,COP,36
+precio,p75,2048500000.0,COP,36
+precio,minimo,890000000.0,COP,36
+precio,maximo,8000000000.0,COP,36
+m2,mediana_precio_m2,5735793.81,COP,36
+m2,area_mediana_m2,280.0,m2,36
+admin,mediana_admin_mes,1500000.0,COP,34
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,1600000000.0,COP,36
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/sotileza,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,45
+filtro,habitaciones,3+,,45
+filtro,ban3,"con 3 o más baños",,45
+filtro,piso3,"en piso 9 o más",,45
+precio,p25,720000000.0,COP,45
+precio,mediana,876000000.0,COP,45
+precio,p75,1150000000.0,COP,45
+precio,minimo,380000000.0,COP,45
+precio,maximo,1450000000.0,COP,45
+m2,mediana_precio_m2,6144067.8,COP,45
+m2,area_mediana_m2,132.0,m2,45
+admin,mediana_admin_mes,663500.0,COP,34
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,77.3,%,44
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,876000000.0,COP,45
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/aves-maria,,
+fuente,licencia,CC BY 4.0,,

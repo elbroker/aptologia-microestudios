@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,1,,31
+filtro,area2,"de 45 a 70 m²",,31
+precio,p25,161000.0,USD,31
+precio,mediana,169600.0,USD,31
+precio,p75,178712.5,USD,31
+precio,minimo,111000.0,USD,31
+precio,maximo,210000.0,USD,31
+m2,mediana_precio_m2,3004.39,USD,31
+m2,area_mediana_m2,58.0,m2,31
+banos,mediana_banos,1.0,,
+habitaciones,1,169600.0,USD,31
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/la-esperilla,,
+fuente,licencia,CC BY 4.0,,

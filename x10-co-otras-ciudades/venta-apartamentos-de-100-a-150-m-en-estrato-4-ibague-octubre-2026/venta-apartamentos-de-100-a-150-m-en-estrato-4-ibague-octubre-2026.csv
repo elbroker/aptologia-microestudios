@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,117
+filtro,estrato,4,,117
+filtro,area4,"de 100 a 150 m²",,117
+precio,p25,394000000.0,COP,117
+precio,mediana,480000000.0,COP,117
+precio,p75,590000000.0,COP,117
+precio,minimo,250000000.0,COP,117
+precio,maximo,920000000.0,COP,117
+m2,mediana_precio_m2,4442008.49,COP,112
+m2,area_mediana_m2,114.0,m2,112
+admin,mediana_admin_mes,487500.0,COP,98
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.3,%,115
+estrato,estrato_mas_frecuente,4,,117
+habitaciones,3+,480000000.0,COP,116
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,4239130.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/ibague,,
+fuente,licencia,CC BY 4.0,,

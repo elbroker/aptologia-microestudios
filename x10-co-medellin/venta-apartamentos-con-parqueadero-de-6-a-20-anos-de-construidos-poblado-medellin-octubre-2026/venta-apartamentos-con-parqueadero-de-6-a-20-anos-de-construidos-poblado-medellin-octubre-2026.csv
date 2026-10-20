@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,217
+filtro,parq1,"con parqueadero",,217
+filtro,edad2,"de 6 a 20 años de construidos",,217
+precio,p25,875000000.0,COP,217
+precio,mediana,1210000000.0,COP,217
+precio,p75,1700000000.0,COP,217
+precio,minimo,430000000.0,COP,217
+precio,maximo,4000000000.0,COP,217
+m2,mediana_precio_m2,8964460.78,COP,214
+m2,area_mediana_m2,136.0,m2,214
+admin,mediana_admin_mes,875000.0,COP,173
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,217
+estrato,estrato_mas_frecuente,6,,217
+habitaciones,1,795000000.0,COP,13
+habitaciones,2,952500000.0,COP,46
+habitaciones,3+,1375000000.0,COP,158
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

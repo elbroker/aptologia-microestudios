@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,49
+filtro,estrato,5,,49
+filtro,area6,"de 250 m² o más",,49
+precio,p25,890000000.0,COP,49
+precio,mediana,1300000000.0,COP,49
+precio,p75,1550000000.0,COP,49
+precio,minimo,650000000.0,COP,49
+precio,maximo,2000000000.0,COP,49
+m2,mediana_precio_m2,2906976.74,COP,49
+m2,area_mediana_m2,373.0,m2,49
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,93.2,%,44
+estrato,estrato_mas_frecuente,5,,49
+habitaciones,3+,1275000000.0,COP,48
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/la-cumbre,,
+fuente,licencia,CC BY 4.0,,

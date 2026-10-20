@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,58
+filtro,estrato,6,,58
+filtro,parq1,"con parqueadero",,58
+filtro,ban3,"con 3 o más baños",,58
+precio,p25,850000000.0,COP,58
+precio,mediana,1110000000.0,COP,58
+precio,p75,1737500000.0,COP,58
+precio,minimo,510000000.0,COP,58
+precio,maximo,3600000000.0,COP,58
+m2,mediana_precio_m2,9465033.81,COP,58
+m2,area_mediana_m2,112.0,m2,58
+admin,mediana_admin_mes,843000.0,COP,51
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,6,,58
+habitaciones,2,875000000.0,COP,35
+habitaciones,3+,1830000000.0,COP,23
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/playa-salguero,,
+fuente,licencia,CC BY 4.0,,

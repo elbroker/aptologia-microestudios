@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,178
+filtro,parq1,"con parqueadero",,178
+filtro,edad1,"de 0 a 5 años de construidos",,178
+precio,p25,553500000.0,COP,178
+precio,mediana,675000000.0,COP,178
+precio,p75,820000000.0,COP,178
+precio,minimo,360000000.0,COP,178
+precio,maximo,1190000000.0,COP,178
+m2,mediana_precio_m2,7872782.39,COP,178
+m2,area_mediana_m2,84.0,m2,178
+admin,mediana_admin_mes,480000.0,COP,117
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,178
+estrato,estrato_mas_frecuente,5,,177
+habitaciones,2,570000000.0,COP,33
+habitaciones,3+,686250000.0,COP,144
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-de-los-bernal,,
+fuente,licencia,CC BY 4.0,,

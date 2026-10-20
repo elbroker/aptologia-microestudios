@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,balc,"con balcón",,32
+precio,p25,4686500.0,COP,32
+precio,mediana,6875000.0,COP,32
+precio,p75,9050000.0,COP,32
+precio,minimo,2550000.0,COP,32
+precio,maximo,20500000.0,COP,32
+m2,area_mediana_m2,90.0,m2,29
+admin,mediana_admin_mes,1106000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,1,4600000.0,COP,9
+habitaciones,2,6950000.0,COP,17
+habitaciones,3+,9650000.0,COP,6
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/antiguo-country,,
+fuente,licencia,CC BY 4.0,,

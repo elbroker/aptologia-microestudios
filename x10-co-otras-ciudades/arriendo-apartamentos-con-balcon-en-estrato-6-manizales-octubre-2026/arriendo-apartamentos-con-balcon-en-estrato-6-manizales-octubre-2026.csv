@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,62
+filtro,estrato,6,,62
+filtro,balc,"con balcón",,62
+precio,p25,3225000.0,COP,62
+precio,mediana,4100000.0,COP,62
+precio,p75,5375000.0,COP,62
+precio,minimo,1400000.0,COP,62
+precio,maximo,10000000.0,COP,62
+m2,mediana_precio_m2,39062.5,COP,61
+m2,area_mediana_m2,104.5,m2,61
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,6,,62
+habitaciones,2,3900000.0,COP,12
+habitaciones,3+,4800000.0,COP,46
+ciudad,mediana_ciudad_referencia,2050000.0,COP,
+ciudad,mediana_m2_ciudad,31198.77,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/manizales,,
+fuente,licencia,CC BY 4.0,,

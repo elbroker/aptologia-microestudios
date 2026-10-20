@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,82
+filtro,estrato,3,,82
+filtro,masc,"que aceptan mascotas",,82
+precio,p25,1750000.0,COP,82
+precio,mediana,1835000.0,COP,82
+precio,p75,2075000.0,COP,82
+precio,minimo,1100000.0,COP,82
+precio,maximo,3500000.0,COP,82
+m2,mediana_precio_m2,32853.0,COP,82
+m2,area_mediana_m2,57.0,m2,82
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,81.4,%,59
+estrato,estrato_mas_frecuente,3,,82
+habitaciones,2,1799500.0,COP,28
+habitaciones,3+,1900000.0,COP,53
+ciudad,mediana_ciudad_referencia,2000000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello,,
+fuente,licencia,CC BY 4.0,,

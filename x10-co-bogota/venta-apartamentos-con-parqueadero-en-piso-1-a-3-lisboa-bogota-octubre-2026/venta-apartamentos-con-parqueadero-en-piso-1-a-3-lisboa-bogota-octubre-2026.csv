@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,parq1,"con parqueadero",,32
+filtro,piso1,"en piso 1 a 3",,32
+precio,p25,550000000.0,COP,32
+precio,mediana,748500000.0,COP,32
+precio,p75,855250000.0,COP,32
+precio,minimo,440000000.0,COP,32
+precio,maximo,1950000000.0,COP,32
+m2,mediana_precio_m2,7024793.39,COP,31
+m2,area_mediana_m2,107.0,m2,31
+admin,mediana_admin_mes,698000.0,COP,27
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,2,590000000.0,COP,12
+habitaciones,3+,820000000.0,COP,19
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/lisboa,,
+fuente,licencia,CC BY 4.0,,

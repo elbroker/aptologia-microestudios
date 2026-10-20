@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,79
+filtro,habitaciones,3+,,79
+filtro,balc,"con balcón",,79
+filtro,area6,"de 250 m² o más",,79
+precio,p25,8450000.0,COP,79
+precio,mediana,11600000.0,COP,79
+precio,p75,14000000.0,COP,79
+precio,minimo,4200000.0,COP,79
+precio,maximo,23000000.0,COP,79
+m2,mediana_precio_m2,21428.57,COP,76
+m2,area_mediana_m2,500.0,m2,76
+admin,mediana_admin_mes,800000.0,COP,31
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+estrato,estrato_mas_frecuente,6,,76
+habitaciones,3+,11600000.0,COP,79
+ciudad,mediana_ciudad_referencia,6460000.0,COP,
+ciudad,mediana_m2_ciudad,22058.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

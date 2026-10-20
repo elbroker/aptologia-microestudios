@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,96
+filtro,habitaciones,3+,,96
+filtro,parq1,"con estacionamiento",,96
+precio,p25,346000.0,USD,96
+precio,mediana,417500.0,USD,96
+precio,p75,600000.0,USD,96
+precio,minimo,193000.0,USD,96
+precio,maximo,1350000.0,USD,96
+m2,mediana_precio_m2,3111.11,USD,96
+m2,area_mediana_m2,137.5,m2,96
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,96
+habitaciones,3+,417500.0,USD,96
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/pocitos,,
+fuente,licencia,CC BY 4.0,,

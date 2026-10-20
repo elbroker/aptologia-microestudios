@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,98
+filtro,ban3,"con 3 o más baños",,98
+filtro,piso1,"en piso 1 a 3",,98
+precio,p25,935000000.0,COP,98
+precio,mediana,1195000000.0,COP,98
+precio,p75,1454750000.0,COP,98
+precio,minimo,600000000.0,COP,98
+precio,maximo,2204000000.0,COP,98
+m2,mediana_precio_m2,7236363.64,COP,98
+m2,area_mediana_m2,155.5,m2,98
+admin,mediana_admin_mes,1222000.0,COP,90
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,99.0,%,98
+estrato,estrato_mas_frecuente,6,,98
+habitaciones,2,940000000.0,COP,14
+habitaciones,3+,1200000000.0,COP,83
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/san-patricio,,
+fuente,licencia,CC BY 4.0,,

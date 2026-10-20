@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,61
+filtro,balc,"con balcón",,61
+filtro,area4,"de 100 a 150 m²",,61
+precio,p25,5700000.0,COP,61
+precio,mediana,7200000.0,COP,61
+precio,p75,9000000.0,COP,61
+precio,minimo,3100000.0,COP,61
+precio,maximo,19800000.0,COP,61
+m2,mediana_precio_m2,59183.67,COP,55
+m2,area_mediana_m2,120.0,m2,55
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.3,%,59
+estrato,estrato_mas_frecuente,6,,61
+habitaciones,2,7900000.0,COP,37
+habitaciones,3+,6000000.0,COP,23
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

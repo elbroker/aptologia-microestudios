@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,193
+filtro,habitaciones,3+,,193
+filtro,ban2,"con 2 baños",,193
+precio,p25,395000000.0,COP,193
+precio,mediana,450000000.0,COP,193
+precio,p75,550000000.0,COP,193
+precio,minimo,238000000.0,COP,193
+precio,maximo,1260770000.0,COP,193
+m2,mediana_precio_m2,5531898.18,COP,192
+m2,area_mediana_m2,86.0,m2,192
+admin,mediana_admin_mes,400000.0,COP,173
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.5,%,187
+estrato,estrato_mas_frecuente,4,,193
+habitaciones,3+,450000000.0,COP,193
+ciudad,mediana_ciudad_referencia,440000000.0,COP,
+ciudad,mediana_m2_ciudad,5176224.26,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/floridablanca/canaveral,,
+fuente,licencia,CC BY 4.0,,

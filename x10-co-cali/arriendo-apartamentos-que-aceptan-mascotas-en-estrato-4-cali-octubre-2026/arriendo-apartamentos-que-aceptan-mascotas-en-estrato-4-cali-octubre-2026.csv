@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,83
+filtro,estrato,4,,83
+filtro,masc,"que aceptan mascotas",,83
+precio,p25,1500000.0,COP,83
+precio,mediana,1700000.0,COP,83
+precio,p75,2200000.0,COP,83
+precio,minimo,1100000.0,COP,83
+precio,maximo,4770000.0,COP,83
+m2,mediana_precio_m2,28301.89,COP,83
+m2,area_mediana_m2,60.0,m2,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.6,%,41
+estrato,estrato_mas_frecuente,4,,83
+habitaciones,2,1650000.0,COP,49
+habitaciones,3+,1700000.0,COP,33
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

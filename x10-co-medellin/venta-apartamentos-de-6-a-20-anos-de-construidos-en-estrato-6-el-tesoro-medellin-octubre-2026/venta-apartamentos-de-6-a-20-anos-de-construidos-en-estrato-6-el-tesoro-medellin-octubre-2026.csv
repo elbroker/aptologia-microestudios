@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,6,,32
+filtro,edad2,"de 6 a 20 años de construidos",,32
+precio,p25,1227250000.0,COP,32
+precio,mediana,1400000000.0,COP,32
+precio,p75,2385000000.0,COP,32
+precio,minimo,830000000.0,COP,32
+precio,maximo,3400000000.0,COP,32
+m2,mediana_precio_m2,9629629.63,COP,31
+m2,area_mediana_m2,184.0,m2,31
+admin,mediana_admin_mes,1000000.0,COP,25
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,2,1400000000.0,COP,7
+habitaciones,3+,1400000000.0,COP,25
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

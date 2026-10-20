@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,48
+filtro,habitaciones,3+,,48
+filtro,area6,"de 250 m² o más",,48
+precio,p25,615000000.0,COP,48
+precio,mediana,810000000.0,COP,48
+precio,p75,950000000.0,COP,48
+precio,minimo,483000000.0,COP,48
+precio,maximo,2200000000.0,COP,48
+m2,mediana_precio_m2,2157993.97,COP,48
+m2,area_mediana_m2,369.0,m2,48
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,93.0,%,43
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,3+,810000000.0,COP,48
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/boston,,
+fuente,licencia,CC BY 4.0,,

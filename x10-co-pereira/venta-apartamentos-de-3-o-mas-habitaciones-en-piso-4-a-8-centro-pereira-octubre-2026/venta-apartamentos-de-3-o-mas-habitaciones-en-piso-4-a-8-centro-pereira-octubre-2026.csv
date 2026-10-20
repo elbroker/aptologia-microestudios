@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,piso2,"en piso 4 a 8",,58
+precio,p25,300000000.0,COP,58
+precio,mediana,415000000.0,COP,58
+precio,p75,545000000.0,COP,58
+precio,minimo,180000000.0,COP,58
+precio,maximo,950000000.0,COP,58
+m2,mediana_precio_m2,3750000.0,COP,53
+m2,area_mediana_m2,115.5,m2,53
+admin,mediana_admin_mes,602700.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,71.9,%,57
+estrato,estrato_mas_frecuente,5,,58
+habitaciones,3+,415000000.0,COP,58
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,44
+filtro,habitaciones,3+,,44
+filtro,area5,"de 150 a 250 m²",,44
+precio,p25,144650.0,USD,44
+precio,mediana,161500.0,USD,44
+precio,p75,192000.0,USD,44
+precio,minimo,54000.0,USD,44
+precio,maximo,410000.0,USD,44
+m2,mediana_precio_m2,880.96,USD,44
+m2,area_mediana_m2,183.3,m2,44
+admin,mediana_admin_mes,58.0,USD,19
+banos,mediana_banos,3.0,,
+habitaciones,3+,161500.0,USD,44
+ciudad,mediana_ciudad_referencia,88250.0,USD,
+ciudad,mediana_m2_ciudad,971.24,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/cochabamba,,
+fuente,licencia,CC BY 4.0,,

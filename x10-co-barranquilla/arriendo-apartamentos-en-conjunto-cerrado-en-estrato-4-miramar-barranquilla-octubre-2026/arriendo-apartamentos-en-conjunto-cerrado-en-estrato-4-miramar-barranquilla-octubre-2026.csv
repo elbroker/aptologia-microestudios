@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,88
+filtro,estrato,4,,88
+filtro,conj,"en conjunto cerrado",,88
+precio,p25,1800000.0,COP,88
+precio,mediana,2225000.0,COP,88
+precio,p75,2925000.0,COP,88
+precio,minimo,1300000.0,COP,88
+precio,maximo,5500000.0,COP,88
+m2,mediana_precio_m2,33479.53,COP,88
+m2,area_mediana_m2,62.0,m2,88
+admin,mediana_admin_mes,247700.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.7,%,76
+estrato,estrato_mas_frecuente,4,,88
+habitaciones,2,2000000.0,COP,35
+habitaciones,3+,2300000.0,COP,53
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

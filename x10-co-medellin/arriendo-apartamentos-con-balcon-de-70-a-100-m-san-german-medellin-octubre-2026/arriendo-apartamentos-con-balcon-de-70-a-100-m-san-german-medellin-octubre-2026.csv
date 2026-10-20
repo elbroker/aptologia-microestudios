@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,53
+filtro,balc,"con balcón",,53
+filtro,area3,"de 70 a 100 m²",,53
+precio,p25,3200000.0,COP,53
+precio,mediana,3400000.0,COP,53
+precio,p75,3800000.0,COP,53
+precio,minimo,1650000.0,COP,53
+precio,maximo,5100000.0,COP,53
+m2,mediana_precio_m2,44000.0,COP,53
+m2,area_mediana_m2,78.0,m2,53
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.7,%,53
+estrato,estrato_mas_frecuente,4,,53
+habitaciones,2,3400000.0,COP,8
+habitaciones,3+,3400000.0,COP,45
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-german,,
+fuente,licencia,CC BY 4.0,,

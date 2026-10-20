@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,1,,37
+filtro,area1,"de menos de 45 m²",,37
+precio,p25,138000.0,USD,37
+precio,mediana,148000.0,USD,37
+precio,p75,169000.0,USD,37
+precio,minimo,115000.0,USD,37
+precio,maximo,241000.0,USD,37
+m2,mediana_precio_m2,3918.92,USD,37
+m2,area_mediana_m2,40.0,m2,37
+banos,mediana_banos,1.0,,
+habitaciones,1,148000.0,USD,37
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,98
+filtro,habitaciones,3+,,98
+filtro,area4,"de 100 a 150 m²",,98
+precio,p25,2000.0,USD,98
+precio,mediana,2495.0,USD,98
+precio,p75,2737.5,USD,98
+precio,minimo,1395.0,USD,98
+precio,maximo,4100.0,USD,98
+m2,mediana_precio_m2,20.0,USD,98
+m2,area_mediana_m2,124.0,m2,98
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+habitaciones,3+,2495.0,USD,98
+ciudad,mediana_ciudad_referencia,1990.0,USD,
+ciudad,mediana_m2_ciudad,20.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

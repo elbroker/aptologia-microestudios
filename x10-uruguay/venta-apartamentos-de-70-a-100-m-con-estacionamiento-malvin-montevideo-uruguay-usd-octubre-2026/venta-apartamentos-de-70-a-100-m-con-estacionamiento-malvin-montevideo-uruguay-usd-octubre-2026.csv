@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,39
+filtro,area3,"de 70 a 100 m²",,39
+filtro,parq1,"con estacionamiento",,39
+precio,p25,227500.0,USD,39
+precio,mediana,264248.0,USD,39
+precio,p75,297500.0,USD,39
+precio,minimo,160000.0,USD,39
+precio,maximo,510000.0,USD,39
+m2,mediana_precio_m2,3273.81,USD,39
+m2,area_mediana_m2,80.0,m2,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+habitaciones,2,265000.0,USD,29
+habitaciones,3+,292000.0,USD,6
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/malvin,,
+fuente,licencia,CC BY 4.0,,

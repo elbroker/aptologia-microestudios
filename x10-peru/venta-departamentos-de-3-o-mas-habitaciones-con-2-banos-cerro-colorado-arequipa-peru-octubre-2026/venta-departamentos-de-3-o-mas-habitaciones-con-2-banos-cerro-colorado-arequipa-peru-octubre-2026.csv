@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,ban2,"con 2 baños",,58
+precio,p25,401625.0,PEN,58
+precio,mediana,487500.0,PEN,58
+precio,p75,580226.25,PEN,58
+precio,minimo,329300.0,PEN,58
+precio,maximo,1349000.0,PEN,58
+m2,mediana_precio_m2,4389.68,PEN,56
+m2,area_mediana_m2,116.0,m2,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+habitaciones,3+,487500.0,PEN,58
+ciudad,mediana_ciudad_referencia,501350.0,PEN,
+ciudad,mediana_m2_ciudad,4214.57,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/arequipa/cerro-colorado,,
+fuente,licencia,CC BY 4.0,,

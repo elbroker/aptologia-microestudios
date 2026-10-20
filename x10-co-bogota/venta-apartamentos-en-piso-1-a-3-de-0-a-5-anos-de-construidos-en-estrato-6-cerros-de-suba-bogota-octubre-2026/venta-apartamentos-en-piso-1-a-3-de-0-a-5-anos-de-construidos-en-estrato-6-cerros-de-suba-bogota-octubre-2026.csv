@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,31
+filtro,estrato,6,,31
+filtro,piso1,"en piso 1 a 3",,31
+filtro,edad1,"de 0 a 5 años de construidos",,31
+precio,p25,1600000000.0,COP,31
+precio,mediana,1980000000.0,COP,31
+precio,p75,2575000000.0,COP,31
+precio,minimo,490000000.0,COP,31
+precio,maximo,3900000000.0,COP,31
+m2,mediana_precio_m2,8086124.4,COP,31
+m2,area_mediana_m2,241.0,m2,31
+admin,mediana_admin_mes,1700000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,1980000000.0,COP,30
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/cerros-de-suba,,
+fuente,licencia,CC BY 4.0,,

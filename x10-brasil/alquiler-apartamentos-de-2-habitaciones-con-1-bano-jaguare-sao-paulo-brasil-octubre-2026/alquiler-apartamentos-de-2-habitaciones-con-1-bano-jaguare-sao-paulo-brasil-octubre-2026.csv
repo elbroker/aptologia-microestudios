@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,2,,30
+filtro,ban1,"con 1 baño",,30
+precio,p25,1607.5,BRL,30
+precio,mediana,1775.0,BRL,30
+precio,p75,2500.0,BRL,30
+precio,minimo,1180.0,BRL,30
+precio,maximo,3010.0,BRL,30
+m2,mediana_precio_m2,45.32,BRL,30
+m2,area_mediana_m2,38.0,m2,30
+admin,mediana_admin_mes,550.0,BRL,30
+banos,mediana_banos,1.0,,
+habitaciones,2,1775.0,BRL,30
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo,,
+fuente,licencia,CC BY 4.0,,

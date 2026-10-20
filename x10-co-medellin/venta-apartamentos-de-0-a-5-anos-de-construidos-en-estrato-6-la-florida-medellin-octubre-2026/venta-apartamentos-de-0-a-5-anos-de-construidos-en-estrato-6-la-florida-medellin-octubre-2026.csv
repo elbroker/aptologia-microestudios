@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,6,,39
+filtro,edad1,"de 0 a 5 años de construidos",,39
+precio,p25,1150000000.0,COP,39
+precio,mediana,1580000000.0,COP,39
+precio,p75,1800000000.0,COP,39
+precio,minimo,750000000.0,COP,39
+precio,maximo,3230000000.0,COP,39
+m2,mediana_precio_m2,7738095.24,COP,36
+m2,area_mediana_m2,190.0,m2,36
+admin,mediana_admin_mes,1123044.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,6,,39
+habitaciones,2,1550000000.0,COP,9
+habitaciones,3+,1600000000.0,COP,27
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-florida,,
+fuente,licencia,CC BY 4.0,,

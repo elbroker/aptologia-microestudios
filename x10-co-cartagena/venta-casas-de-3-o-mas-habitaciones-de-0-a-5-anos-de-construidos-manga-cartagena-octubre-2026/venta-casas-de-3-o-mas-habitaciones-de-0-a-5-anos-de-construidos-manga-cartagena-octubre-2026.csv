@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,112
+filtro,habitaciones,3+,,112
+filtro,edad1,"de 0 a 5 años de construidos",,112
+precio,p25,950000000.0,COP,112
+precio,mediana,1350000000.0,COP,112
+precio,p75,2160612735.25,COP,112
+precio,minimo,430000000.0,COP,112
+precio,maximo,8000000000.0,COP,112
+m2,mediana_precio_m2,5561868.69,COP,106
+m2,area_mediana_m2,249.0,m2,106
+admin,mediana_admin_mes,640000.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.8,%,89
+estrato,estrato_mas_frecuente,5,,105
+habitaciones,3+,1350000000.0,COP,112
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,4296875.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

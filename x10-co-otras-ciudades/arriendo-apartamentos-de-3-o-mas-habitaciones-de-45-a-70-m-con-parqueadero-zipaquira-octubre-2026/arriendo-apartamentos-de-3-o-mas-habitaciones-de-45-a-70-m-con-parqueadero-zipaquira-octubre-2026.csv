@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,72
+filtro,habitaciones,3+,,72
+filtro,area2,"de 45 a 70 m²",,72
+filtro,parq1,"con parqueadero",,72
+precio,p25,1200600.0,COP,72
+precio,mediana,1368500.0,COP,72
+precio,p75,1500000.0,COP,72
+precio,minimo,926611.0,COP,72
+precio,maximo,2500000.0,COP,72
+m2,mediana_precio_m2,23845.06,COP,72
+m2,area_mediana_m2,55.0,m2,72
+admin,mediana_admin_mes,230000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,72
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,3+,1368500.0,COP,72
+ciudad,mediana_ciudad_referencia,1300000.0,COP,
+ciudad,mediana_m2_ciudad,21818.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/zipaquira,,
+fuente,licencia,CC BY 4.0,,

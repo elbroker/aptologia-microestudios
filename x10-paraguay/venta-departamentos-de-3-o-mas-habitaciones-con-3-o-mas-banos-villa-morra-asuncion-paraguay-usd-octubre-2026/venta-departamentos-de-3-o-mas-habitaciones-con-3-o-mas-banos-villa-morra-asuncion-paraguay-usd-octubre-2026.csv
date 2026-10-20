@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,3+,,43
+filtro,ban3,"con 3 o más baños",,43
+precio,p25,221237.5,USD,43
+precio,mediana,294600.0,USD,43
+precio,p75,410000.0,USD,43
+precio,minimo,115000.0,USD,43
+precio,maximo,1099800.0,USD,43
+m2,mediana_precio_m2,1919.64,USD,35
+m2,area_mediana_m2,167.0,m2,35
+banos,mediana_banos,3.0,,
+habitaciones,3+,294600.0,USD,43
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/villa-morra,,
+fuente,licencia,CC BY 4.0,,

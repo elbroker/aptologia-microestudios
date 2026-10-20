@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,50
+filtro,habitaciones,3+,,50
+filtro,area5,"de 150 a 250 m²",,50
+precio,p25,189500.0,USD,50
+precio,mediana,290000.0,USD,50
+precio,p75,390000.0,USD,50
+precio,minimo,85000.0,USD,50
+precio,maximo,745000.0,USD,50
+m2,mediana_precio_m2,1442.95,USD,50
+m2,area_mediana_m2,194.5,m2,50
+banos,mediana_banos,2.0,,
+habitaciones,3+,290000.0,USD,50
+ciudad,mediana_ciudad_referencia,169500.0,USD,
+ciudad,mediana_m2_ciudad,1233.33,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/rosario,,
+fuente,licencia,CC BY 4.0,,

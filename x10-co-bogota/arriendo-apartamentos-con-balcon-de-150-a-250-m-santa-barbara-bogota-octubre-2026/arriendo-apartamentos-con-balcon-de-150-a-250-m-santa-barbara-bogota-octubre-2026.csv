@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,balc,"con balcón",,40
+filtro,area5,"de 150 a 250 m²",,40
+precio,p25,7000000.0,COP,40
+precio,mediana,8000000.0,COP,40
+precio,p75,9500000.0,COP,40
+precio,minimo,3513000.0,COP,40
+precio,maximo,19000000.0,COP,40
+m2,mediana_precio_m2,47619.05,COP,39
+m2,area_mediana_m2,169.0,m2,39
+admin,mediana_admin_mes,1500000.0,COP,19
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.5,%,40
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,2,8500000.0,COP,5
+habitaciones,3+,8000000.0,COP,34
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

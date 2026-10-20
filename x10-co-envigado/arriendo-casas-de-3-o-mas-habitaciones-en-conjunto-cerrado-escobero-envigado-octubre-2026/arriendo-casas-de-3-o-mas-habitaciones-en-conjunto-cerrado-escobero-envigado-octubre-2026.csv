@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,71
+filtro,habitaciones,3+,,71
+filtro,conj,"en conjunto cerrado",,71
+precio,p25,8200000.0,COP,71
+precio,mediana,12500000.0,COP,71
+precio,p75,18000000.0,COP,71
+precio,minimo,4700000.0,COP,71
+precio,maximo,28000000.0,COP,71
+m2,mediana_precio_m2,43468.77,COP,70
+m2,area_mediana_m2,285.0,m2,70
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+estrato,estrato_mas_frecuente,5,,71
+habitaciones,3+,12500000.0,COP,71
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

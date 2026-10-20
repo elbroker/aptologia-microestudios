@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,131
+filtro,habitaciones,3+,,131
+filtro,ban2,"con 2 baños",,131
+precio,p25,500.0,USD,131
+precio,mediana,650.0,USD,131
+precio,p75,890.0,USD,131
+precio,minimo,250.0,USD,131
+precio,maximo,2500.0,USD,131
+m2,mediana_precio_m2,4.93,USD,117
+m2,area_mediana_m2,130.0,m2,117
+banos,mediana_banos,2.0,,
+habitaciones,3+,650.0,USD,131
+ciudad,mediana_ciudad_referencia,800.0,USD,
+ciudad,mediana_m2_ciudad,7.22,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/quito,,
+fuente,licencia,CC BY 4.0,,

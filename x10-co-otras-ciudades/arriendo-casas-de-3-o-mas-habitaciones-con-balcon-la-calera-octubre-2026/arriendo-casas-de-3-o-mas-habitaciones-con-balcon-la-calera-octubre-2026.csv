@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,222
+filtro,habitaciones,3+,,222
+filtro,balc,"con balcón",,222
+precio,p25,10000000.0,COP,222
+precio,mediana,13000000.0,COP,222
+precio,p75,15000000.0,COP,222
+precio,minimo,2000000.0,COP,222
+precio,maximo,25000000.0,COP,222
+m2,mediana_precio_m2,31578.95,COP,214
+m2,area_mediana_m2,428.5,m2,214
+admin,mediana_admin_mes,1800000.0,COP,131
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,99.0,%,207
+estrato,estrato_mas_frecuente,6,,218
+habitaciones,3+,13000000.0,COP,222
+ciudad,mediana_ciudad_referencia,12000000.0,COP,
+ciudad,mediana_m2_ciudad,31250.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-calera,,
+fuente,licencia,CC BY 4.0,,

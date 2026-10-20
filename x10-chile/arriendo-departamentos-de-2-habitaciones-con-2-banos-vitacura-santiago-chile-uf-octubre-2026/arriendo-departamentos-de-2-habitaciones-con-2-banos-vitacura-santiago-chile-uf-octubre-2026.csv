@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,62
+filtro,habitaciones,2,,62
+filtro,ban2,"con 2 baños",,62
+precio,p25,36.05,UF,62
+precio,mediana,40.0,UF,62
+precio,p75,59.0,UF,62
+precio,minimo,24.0,UF,62
+precio,maximo,115.0,UF,62
+m2,mediana_precio_m2,0.4,UF,38
+m2,area_mediana_m2,88.0,m2,38
+banos,mediana_banos,2.0,,
+habitaciones,2,40.0,UF,62
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/vitacura,,
+fuente,licencia,CC BY 4.0,,

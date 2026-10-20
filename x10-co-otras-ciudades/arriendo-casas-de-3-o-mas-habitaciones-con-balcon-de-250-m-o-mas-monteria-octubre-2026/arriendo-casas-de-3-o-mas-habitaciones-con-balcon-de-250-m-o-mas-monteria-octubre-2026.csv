@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,38
+filtro,habitaciones,3+,,38
+filtro,balc,"con balcón",,38
+filtro,area6,"de 250 m² o más",,38
+precio,p25,4000000.0,COP,38
+precio,mediana,6000000.0,COP,38
+precio,p75,7375000.0,COP,38
+precio,minimo,1500000.0,COP,38
+precio,maximo,20000000.0,COP,38
+m2,mediana_precio_m2,13333.33,COP,37
+m2,area_mediana_m2,415.0,m2,37
+banos,mediana_banos,5.0,,
+estrato,estrato_mas_frecuente,3,,37
+habitaciones,3+,6000000.0,COP,38
+ciudad,mediana_ciudad_referencia,4500000.0,COP,
+ciudad,mediana_m2_ciudad,14634.15,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/monteria,,
+fuente,licencia,CC BY 4.0,,

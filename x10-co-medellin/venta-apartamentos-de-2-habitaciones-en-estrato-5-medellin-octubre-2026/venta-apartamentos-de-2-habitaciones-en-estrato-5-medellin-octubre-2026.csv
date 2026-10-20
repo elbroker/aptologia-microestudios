@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,1062
+filtro,habitaciones,2,,1062
+filtro,estrato,5,,1062
+precio,p25,536250000.0,COP,1062
+precio,mediana,680327797.5,COP,1062
+precio,p75,850000000.0,COP,1062
+precio,minimo,220000000.0,COP,1062
+precio,maximo,3153500000.0,COP,1062
+m2,mediana_precio_m2,8379240.93,COP,1058
+m2,area_mediana_m2,79.5,m2,1058
+admin,mediana_admin_mes,461250.0,COP,686
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.3,%,1021
+estrato,estrato_mas_frecuente,5,,1062
+habitaciones,2,680327797.5,COP,1062
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,conj,"en conjunto cerrado",,32
+filtro,ban3,"con 3 o más baños",,32
+precio,p25,5500000.0,COP,32
+precio,mediana,6550000.0,COP,32
+precio,p75,7925000.0,COP,32
+precio,minimo,3300000.0,COP,32
+precio,maximo,12000000.0,COP,32
+m2,mediana_precio_m2,43937.73,COP,32
+m2,area_mediana_m2,140.0,m2,32
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,96.8,%,31
+estrato,estrato_mas_frecuente,6,,32
+habitaciones,2,7200000.0,COP,6
+habitaciones,3+,6550000.0,COP,26
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/patio-bonito,,
+fuente,licencia,CC BY 4.0,,

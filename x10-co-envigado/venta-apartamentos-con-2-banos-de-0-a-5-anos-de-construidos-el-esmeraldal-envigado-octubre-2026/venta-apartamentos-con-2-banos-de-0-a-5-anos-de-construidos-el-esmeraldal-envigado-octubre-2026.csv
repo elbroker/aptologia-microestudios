@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,ban2,"con 2 baños",,40
+filtro,edad1,"de 0 a 5 años de construidos",,40
+precio,p25,712500000.0,COP,40
+precio,mediana,812500000.0,COP,40
+precio,p75,915000000.0,COP,40
+precio,minimo,455000000.0,COP,40
+precio,maximo,1540000000.0,COP,40
+m2,mediana_precio_m2,9289787.02,COP,40
+m2,area_mediana_m2,88.0,m2,40
+admin,mediana_admin_mes,673368.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,5,,40
+habitaciones,2,800000000.0,COP,19
+habitaciones,3+,850000000.0,COP,17
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/el-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,62
+filtro,estrato,5,,62
+filtro,edad1,"de 0 a 5 años de construidos",,62
+precio,p25,1200000000.0,COP,62
+precio,mediana,1385000000.0,COP,62
+precio,p75,1659000000.0,COP,62
+precio,minimo,850000000.0,COP,62
+precio,maximo,3800000000.0,COP,62
+m2,mediana_precio_m2,4521739.13,COP,61
+m2,area_mediana_m2,322.5,m2,61
+admin,mediana_admin_mes,280000.0,COP,29
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+estrato,estrato_mas_frecuente,5,,62
+habitaciones,3+,1385000000.0,COP,58
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/niza,,
+fuente,licencia,CC BY 4.0,,

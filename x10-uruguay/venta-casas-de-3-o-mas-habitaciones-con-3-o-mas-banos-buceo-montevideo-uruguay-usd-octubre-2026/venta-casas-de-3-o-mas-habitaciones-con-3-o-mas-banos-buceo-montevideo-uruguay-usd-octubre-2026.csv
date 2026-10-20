@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,ban3,"con 3 o más baños",,30
+precio,p25,302500.0,USD,30
+precio,mediana,367500.0,USD,30
+precio,p75,690000.0,USD,30
+precio,minimo,185000.0,USD,30
+precio,maximo,1250000.0,USD,30
+m2,mediana_precio_m2,1635.08,USD,30
+m2,area_mediana_m2,239.0,m2,30
+banos,mediana_banos,3.0,,
+habitaciones,3+,367500.0,USD,30
+ciudad,mediana_ciudad_referencia,269000.0,USD,
+ciudad,mediana_m2_ciudad,1625.85,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/buceo,,
+fuente,licencia,CC BY 4.0,,

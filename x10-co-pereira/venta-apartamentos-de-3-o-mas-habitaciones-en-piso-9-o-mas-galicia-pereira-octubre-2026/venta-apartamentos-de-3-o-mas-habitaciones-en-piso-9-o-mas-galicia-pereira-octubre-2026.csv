@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,piso3,"en piso 9 o más",,36
+precio,p25,410000000.0,COP,36
+precio,mediana,492500000.0,COP,36
+precio,p75,769500000.0,COP,36
+precio,minimo,245000000.0,COP,36
+precio,maximo,1400000000.0,COP,36
+m2,mediana_precio_m2,6245688.52,COP,36
+m2,area_mediana_m2,79.5,m2,36
+admin,mediana_admin_mes,381500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,492500000.0,COP,36
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/galicia,,
+fuente,licencia,CC BY 4.0,,

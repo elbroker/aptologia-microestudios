@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,105
+filtro,habitaciones,3+,,105
+filtro,edad2,"de 6 a 20 años de construidos",,105
+precio,p25,1480000000.0,COP,105
+precio,mediana,2050000000.0,COP,105
+precio,p75,2900000000.0,COP,105
+precio,minimo,676791522.0,COP,105
+precio,maximo,4200000000.0,COP,105
+m2,mediana_precio_m2,10000000.0,COP,104
+m2,area_mediana_m2,207.0,m2,104
+admin,mediana_admin_mes,1862500.0,COP,102
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,105
+estrato,estrato_mas_frecuente,6,,104
+habitaciones,3+,2050000000.0,COP,105
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,108
+filtro,habitaciones,2,,108
+filtro,area2,"de 45 a 70 m²",,108
+filtro,ban2,"con 2 baños",,108
+precio,p25,6300.0,UF,108
+precio,mediana,6950.0,UF,108
+precio,p75,7500.0,UF,108
+precio,minimo,2326.0,UF,108
+precio,maximo,10290.0,UF,108
+m2,mediana_precio_m2,115.41,UF,106
+m2,area_mediana_m2,61.0,m2,106
+banos,mediana_banos,2.0,,
+habitaciones,2,6950.0,UF,108
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

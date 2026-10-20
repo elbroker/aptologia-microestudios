@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,78
+filtro,estrato,6,,78
+filtro,ban2,"con 2 baños",,78
+precio,p25,3357500.0,COP,78
+precio,mediana,4035500.0,COP,78
+precio,p75,5000000.0,COP,78
+precio,minimo,2200000.0,COP,78
+precio,maximo,9000000.0,COP,78
+m2,mediana_precio_m2,56140.35,COP,77
+m2,area_mediana_m2,80.0,m2,77
+admin,mediana_admin_mes,674000.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,78
+estrato,estrato_mas_frecuente,6,,78
+habitaciones,1,3550000.0,COP,26
+habitaciones,2,4300000.0,COP,42
+habitaciones,3+,4450000.0,COP,10
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

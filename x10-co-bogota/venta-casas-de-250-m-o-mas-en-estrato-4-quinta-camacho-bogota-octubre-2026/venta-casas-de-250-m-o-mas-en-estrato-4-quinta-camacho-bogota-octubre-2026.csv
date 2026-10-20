@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,81
+filtro,estrato,4,,81
+filtro,area6,"de 250 m² o más",,81
+precio,p25,2000000000.0,COP,81
+precio,mediana,3000000000.0,COP,81
+precio,p75,3690000000.0,COP,81
+precio,minimo,1400000000.0,COP,81
+precio,maximo,7000000000.0,COP,81
+m2,mediana_precio_m2,5833333.33,COP,81
+m2,area_mediana_m2,452.4,m2,81
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,81.6,%,76
+estrato,estrato_mas_frecuente,4,,81
+habitaciones,1,3400000000.0,COP,5
+habitaciones,3+,2900000000.0,COP,71
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/quinta-camacho,,
+fuente,licencia,CC BY 4.0,,

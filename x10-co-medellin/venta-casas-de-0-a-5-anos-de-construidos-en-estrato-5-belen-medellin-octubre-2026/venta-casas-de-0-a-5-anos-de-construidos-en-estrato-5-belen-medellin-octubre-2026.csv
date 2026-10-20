@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,57
+filtro,estrato,5,,57
+filtro,edad1,"de 0 a 5 años de construidos",,57
+precio,p25,875000000.0,COP,57
+precio,mediana,995000000.0,COP,57
+precio,p75,1400000000.0,COP,57
+precio,minimo,490000000.0,COP,57
+precio,maximo,3000000000.0,COP,57
+m2,mediana_precio_m2,5789473.68,COP,57
+m2,area_mediana_m2,198.0,m2,57
+admin,mediana_admin_mes,545000.0,COP,19
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,57
+habitaciones,3+,995000000.0,COP,57
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

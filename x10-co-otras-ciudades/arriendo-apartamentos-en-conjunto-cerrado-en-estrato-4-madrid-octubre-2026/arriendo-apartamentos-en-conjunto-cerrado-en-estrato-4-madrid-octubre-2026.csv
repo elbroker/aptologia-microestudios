@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,110
+filtro,estrato,4,,110
+filtro,conj,"en conjunto cerrado",,110
+precio,p25,1146988.0,COP,110
+precio,mediana,1238500.0,COP,110
+precio,p75,1300000.0,COP,110
+precio,minimo,900100.0,COP,110
+precio,maximo,3400000.0,COP,110
+m2,mediana_precio_m2,21250.0,COP,109
+m2,area_mediana_m2,58.0,m2,109
+admin,mediana_admin_mes,180000.0,COP,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+estrato,estrato_mas_frecuente,4,,110
+habitaciones,2,1226275.0,COP,26
+habitaciones,3+,1238500.0,COP,84
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20833.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/madrid,,
+fuente,licencia,CC BY 4.0,,

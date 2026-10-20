@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,42
+filtro,habitaciones,3+,,42
+filtro,area5,"de 150 a 250 m²",,42
+filtro,ban2,"con 2 baños",,42
+precio,p25,362500.0,USD,42
+precio,mediana,417500.0,USD,42
+precio,p75,478750.0,USD,42
+precio,minimo,220000.0,USD,42
+precio,maximo,729000.0,USD,42
+m2,mediana_precio_m2,2190.18,USD,42
+m2,area_mediana_m2,194.0,m2,42
+banos,mediana_banos,2.0,,
+habitaciones,3+,417500.0,USD,42
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/pinares,,
+fuente,licencia,CC BY 4.0,,

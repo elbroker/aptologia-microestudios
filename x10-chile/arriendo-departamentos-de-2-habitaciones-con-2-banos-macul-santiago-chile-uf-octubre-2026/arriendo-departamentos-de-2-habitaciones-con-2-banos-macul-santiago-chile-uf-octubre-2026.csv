@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,101
+filtro,habitaciones,2,,101
+filtro,ban2,"con 2 baños",,101
+precio,p25,12.27,UF,101
+precio,mediana,13.36,UF,101
+precio,p75,14.57,UF,101
+precio,minimo,5.47,UF,101
+precio,maximo,17.73,UF,101
+m2,mediana_precio_m2,0.24,UF,88
+m2,area_mediana_m2,55.0,m2,88
+banos,mediana_banos,2.0,,
+habitaciones,2,13.36,UF,101
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/macul,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,3+,,43
+filtro,ban3,"con 3 o más baños",,43
+precio,p25,43.72,UF,43
+precio,mediana,50.0,UF,43
+precio,p75,62.58,UF,43
+precio,minimo,27.0,UF,43
+precio,maximo,120.0,UF,43
+banos,mediana_banos,3.0,,
+habitaciones,3+,50.0,UF,43
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,area3,"de 70 a 100 m²",,51
+filtro,ban1,"con 1 baño",,51
+precio,p25,180750.0,USD,51
+precio,mediana,215000.0,USD,51
+precio,p75,265624.0,USD,51
+precio,minimo,154700.0,USD,51
+precio,maximo,363000.0,USD,51
+m2,mediana_precio_m2,2569.44,USD,51
+m2,area_mediana_m2,82.0,m2,51
+banos,mediana_banos,1.0,,
+habitaciones,1,185500.0,USD,14
+habitaciones,2,246900.0,USD,31
+habitaciones,3+,194500.0,USD,6
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/malvin,,
+fuente,licencia,CC BY 4.0,,

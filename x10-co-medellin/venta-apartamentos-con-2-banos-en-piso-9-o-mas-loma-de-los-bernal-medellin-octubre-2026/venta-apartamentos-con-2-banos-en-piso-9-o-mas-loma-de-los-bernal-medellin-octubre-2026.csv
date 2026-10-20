@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,66
+filtro,ban2,"con 2 baños",,66
+filtro,piso3,"en piso 9 o más",,66
+precio,p25,496250000.0,COP,66
+precio,mediana,556000000.0,COP,66
+precio,p75,675000000.0,COP,66
+precio,minimo,270000000.0,COP,66
+precio,maximo,980000000.0,COP,66
+m2,mediana_precio_m2,7725535.03,COP,66
+m2,area_mediana_m2,75.0,m2,66
+admin,mediana_admin_mes,467500.0,COP,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.8,%,65
+estrato,estrato_mas_frecuente,5,,66
+habitaciones,2,560000000.0,COP,17
+habitaciones,3+,550000000.0,COP,49
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-de-los-bernal,,
+fuente,licencia,CC BY 4.0,,

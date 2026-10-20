@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area4,"de 100 a 150 m²",,35
+precio,p25,31.85,UF,35
+precio,mediana,40.0,UF,35
+precio,p75,45.12,UF,35
+precio,minimo,20.89,UF,35
+precio,maximo,85.02,UF,35
+m2,mediana_precio_m2,0.32,UF,35
+m2,area_mediana_m2,121.0,m2,35
+banos,mediana_banos,3.0,,
+habitaciones,3+,40.0,UF,35
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

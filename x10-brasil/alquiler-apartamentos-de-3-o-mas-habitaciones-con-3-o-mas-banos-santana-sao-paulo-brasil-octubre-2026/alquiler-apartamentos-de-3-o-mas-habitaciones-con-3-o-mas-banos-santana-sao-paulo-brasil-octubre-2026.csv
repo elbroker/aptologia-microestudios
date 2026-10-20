@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,ban3,"con 3 o más baños",,34
+precio,p25,5705.0,BRL,34
+precio,mediana,8000.0,BRL,34
+precio,p75,12000.0,BRL,34
+precio,minimo,2800.0,BRL,34
+precio,maximo,21000.0,BRL,34
+m2,mediana_precio_m2,46.11,BRL,34
+m2,area_mediana_m2,167.5,m2,34
+admin,mediana_admin_mes,2500.0,BRL,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+habitaciones,3+,8000.0,BRL,34
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/santana,,
+fuente,licencia,CC BY 4.0,,

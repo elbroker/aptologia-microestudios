@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,area3,"de 70 a 100 m²",,36
+filtro,ban1,"con 1 baño",,36
+precio,p25,28000.0,UYU,36
+precio,mediana,30000.0,UYU,36
+precio,p75,37750.0,UYU,36
+precio,minimo,19000.0,UYU,36
+precio,maximo,65000.0,UYU,36
+m2,mediana_precio_m2,406.98,UYU,33
+m2,area_mediana_m2,79.0,m2,33
+admin,mediana_admin_mes,6900.0,UYU,30
+banos,mediana_banos,1.0,,
+habitaciones,2,32000.0,UYU,24
+habitaciones,3+,29000.0,UYU,9
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/centro,,
+fuente,licencia,CC BY 4.0,,

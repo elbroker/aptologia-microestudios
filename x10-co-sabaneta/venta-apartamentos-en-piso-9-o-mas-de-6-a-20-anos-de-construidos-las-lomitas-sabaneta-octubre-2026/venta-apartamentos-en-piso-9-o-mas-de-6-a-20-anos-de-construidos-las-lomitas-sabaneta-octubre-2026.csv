@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,piso3,"en piso 9 o más",,32
+filtro,edad2,"de 6 a 20 años de construidos",,32
+precio,p25,440000000.0,COP,32
+precio,mediana,609500000.0,COP,32
+precio,p75,696250000.0,COP,32
+precio,minimo,280000000.0,COP,32
+precio,maximo,1674000000.0,COP,32
+m2,mediana_precio_m2,6344468.78,COP,32
+m2,area_mediana_m2,85.0,m2,32
+admin,mediana_admin_mes,431547.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,75.0,%,32
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,2,460000000.0,COP,11
+habitaciones,3+,630000000.0,COP,21
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/las-lomitas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,82
+filtro,habitaciones,3+,,82
+filtro,balc,"con balcón",,82
+precio,p25,1700000.0,COP,82
+precio,mediana,1875000.0,COP,82
+precio,p75,2750000.0,COP,82
+precio,minimo,1000000.0,COP,82
+precio,maximo,5800000.0,COP,82
+m2,mediana_precio_m2,34000.0,COP,81
+m2,area_mediana_m2,60.0,m2,81
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,51.4,%,72
+estrato,estrato_mas_frecuente,3,,82
+habitaciones,3+,1875000.0,COP,82
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

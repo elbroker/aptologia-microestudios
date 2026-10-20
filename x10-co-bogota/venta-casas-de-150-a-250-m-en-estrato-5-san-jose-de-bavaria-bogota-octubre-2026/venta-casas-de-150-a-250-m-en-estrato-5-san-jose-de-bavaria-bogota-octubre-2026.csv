@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,84
+filtro,estrato,5,,84
+filtro,area5,"de 150 a 250 m²",,84
+precio,p25,1250000000.0,COP,84
+precio,mediana,1500002500.0,COP,84
+precio,p75,1800000000.0,COP,84
+precio,minimo,900000000.0,COP,84
+precio,maximo,2550000000.0,COP,84
+m2,mediana_precio_m2,7386749.44,COP,84
+m2,area_mediana_m2,208.5,m2,84
+admin,mediana_admin_mes,710000.0,COP,72
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.8,%,83
+estrato,estrato_mas_frecuente,5,,84
+habitaciones,3+,1500000000.0,COP,83
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/san-jose-de-bavaria,,
+fuente,licencia,CC BY 4.0,,

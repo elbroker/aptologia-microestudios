@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,675
+filtro,habitaciones,1,,675
+filtro,parq1,"con parqueadero",,675
+precio,p25,480000000.0,COP,675
+precio,mediana,740000000.0,COP,675
+precio,p75,920500000.0,COP,675
+precio,minimo,210000000.0,COP,675
+precio,maximo,3600000000.0,COP,675
+m2,mediana_precio_m2,10655737.7,COP,597
+m2,area_mediana_m2,66.0,m2,597
+admin,mediana_admin_mes,600000.0,COP,508
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,675
+estrato,estrato_mas_frecuente,6,,666
+habitaciones,1,740000000.0,COP,675
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena,,
+fuente,licencia,CC BY 4.0,,

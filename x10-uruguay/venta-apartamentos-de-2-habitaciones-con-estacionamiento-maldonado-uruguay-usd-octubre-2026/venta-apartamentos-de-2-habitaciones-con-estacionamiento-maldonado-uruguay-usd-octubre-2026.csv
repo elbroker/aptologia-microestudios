@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,46
+filtro,habitaciones,2,,46
+filtro,parq1,"con estacionamiento",,46
+precio,p25,126250.0,USD,46
+precio,mediana,167000.0,USD,46
+precio,p75,257269.25,USD,46
+precio,minimo,79500.0,USD,46
+precio,maximo,1811775.0,USD,46
+m2,mediana_precio_m2,2537.31,USD,39
+m2,area_mediana_m2,65.0,m2,39
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+habitaciones,2,167000.0,USD,46
+ciudad,mediana_ciudad_referencia,155000.0,USD,
+ciudad,mediana_m2_ciudad,2496.67,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/maldonado,,
+fuente,licencia,CC BY 4.0,,

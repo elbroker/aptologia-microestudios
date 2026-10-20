@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,96
+filtro,ban3,"con 3 o más baños",,96
+filtro,edad3,"de más de 20 años de construidos",,96
+precio,p25,1347500000.0,COP,96
+precio,mediana,1790000000.0,COP,96
+precio,p75,2440000000.0,COP,96
+precio,minimo,620000000.0,COP,96
+precio,maximo,4250000000.0,COP,96
+m2,mediana_precio_m2,8762845.85,COP,96
+m2,area_mediana_m2,213.5,m2,96
+admin,mediana_admin_mes,2000000.0,COP,91
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,96
+estrato,estrato_mas_frecuente,6,,96
+habitaciones,2,1300000000.0,COP,19
+habitaciones,3+,1980000000.0,COP,77
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-reservado,,
+fuente,licencia,CC BY 4.0,,

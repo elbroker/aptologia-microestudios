@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,157
+filtro,habitaciones,2,,157
+filtro,ban2,"con 2 baños",,157
+precio,p25,460000.0,CLP,157
+precio,mediana,500000.0,CLP,157
+precio,p75,551000.0,CLP,157
+precio,minimo,245000.0,CLP,157
+precio,maximo,715000.0,CLP,157
+m2,mediana_precio_m2,8906.25,CLP,121
+m2,area_mediana_m2,55.0,m2,121
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+habitaciones,2,500000.0,CLP,157
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/la-florida,,
+fuente,licencia,CC BY 4.0,,

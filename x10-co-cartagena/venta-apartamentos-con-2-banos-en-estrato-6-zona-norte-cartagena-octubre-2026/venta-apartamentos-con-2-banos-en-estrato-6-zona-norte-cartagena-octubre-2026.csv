@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,6,,40
+filtro,ban2,"con 2 baños",,40
+precio,p25,777500000.0,COP,40
+precio,mediana,965500000.0,COP,40
+precio,p75,1370000000.0,COP,40
+precio,minimo,571725000.0,COP,40
+precio,maximo,1990000000.0,COP,40
+m2,mediana_precio_m2,10625000.0,COP,39
+m2,area_mediana_m2,106.0,m2,39
+admin,mediana_admin_mes,850000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.5,%,40
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,1,900000000.0,COP,5
+habitaciones,2,1000000000.0,COP,31
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/zona-norte,,
+fuente,licencia,CC BY 4.0,,

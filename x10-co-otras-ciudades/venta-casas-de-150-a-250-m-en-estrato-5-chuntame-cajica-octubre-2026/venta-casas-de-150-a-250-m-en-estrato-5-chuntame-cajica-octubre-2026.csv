@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,80
+filtro,estrato,5,,80
+filtro,area5,"de 150 a 250 m²",,80
+precio,p25,1180000000.0,COP,80
+precio,mediana,1260000000.0,COP,80
+precio,p75,1392500000.0,COP,80
+precio,minimo,780000000.0,COP,80
+precio,maximo,1800000000.0,COP,80
+m2,mediana_precio_m2,6732437.0,COP,80
+m2,area_mediana_m2,185.0,m2,80
+admin,mediana_admin_mes,903500.0,COP,68
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,3+,1260000000.0,COP,79
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cajica/chuntame,,
+fuente,licencia,CC BY 4.0,,

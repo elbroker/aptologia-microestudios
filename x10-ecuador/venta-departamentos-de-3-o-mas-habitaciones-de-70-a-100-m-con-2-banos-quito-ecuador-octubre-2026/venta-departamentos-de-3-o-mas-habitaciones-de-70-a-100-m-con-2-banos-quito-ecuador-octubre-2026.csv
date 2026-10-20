@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,158
+filtro,habitaciones,3+,,158
+filtro,area3,"de 70 a 100 m²",,158
+filtro,ban2,"con 2 baños",,158
+precio,p25,62925.0,USD,158
+precio,mediana,73000.0,USD,158
+precio,p75,88375.0,USD,158
+precio,minimo,39500.0,USD,158
+precio,maximo,179000.0,USD,158
+m2,mediana_precio_m2,878.97,USD,158
+m2,area_mediana_m2,86.0,m2,158
+admin,mediana_admin_mes,35.0,USD,54
+banos,mediana_banos,2.0,,
+habitaciones,3+,73000.0,USD,158
+ciudad,mediana_ciudad_referencia,145000.0,USD,
+ciudad,mediana_m2_ciudad,1000.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito,,
+fuente,licencia,CC BY 4.0,,

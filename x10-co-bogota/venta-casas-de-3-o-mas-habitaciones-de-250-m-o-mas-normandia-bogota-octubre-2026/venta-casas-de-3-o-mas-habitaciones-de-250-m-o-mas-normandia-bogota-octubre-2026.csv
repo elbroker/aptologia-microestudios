@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,64
+filtro,habitaciones,3+,,64
+filtro,area6,"de 250 m² o más",,64
+precio,p25,1300000000.0,COP,64
+precio,mediana,1650000000.0,COP,64
+precio,p75,1875000000.0,COP,64
+precio,minimo,700000000.0,COP,64
+precio,maximo,2500000000.0,COP,64
+m2,mediana_precio_m2,4218665.22,COP,64
+m2,area_mediana_m2,347.0,m2,64
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.4,%,61
+estrato,estrato_mas_frecuente,4,,62
+habitaciones,3+,1650000000.0,COP,64
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/normandia,,
+fuente,licencia,CC BY 4.0,,

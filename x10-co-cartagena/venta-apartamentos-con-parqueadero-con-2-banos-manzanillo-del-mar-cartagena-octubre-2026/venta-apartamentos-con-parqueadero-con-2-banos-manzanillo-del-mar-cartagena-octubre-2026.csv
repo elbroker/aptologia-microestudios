@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,parq1,"con parqueadero",,42
+filtro,ban2,"con 2 baños",,42
+precio,p25,749000000.0,COP,42
+precio,mediana,1035000000.0,COP,42
+precio,p75,1297500000.0,COP,42
+precio,minimo,295000000.0,COP,42
+precio,maximo,1949000000.0,COP,42
+m2,mediana_precio_m2,11197519.72,COP,38
+m2,area_mediana_m2,80.5,m2,38
+admin,mediana_admin_mes,1105000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,1,947500000.0,COP,12
+habitaciones,2,1214000000.0,COP,28
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/manzanillo-del-mar,,
+fuente,licencia,CC BY 4.0,,

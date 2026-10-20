@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,175
+filtro,area4,"de 100 a 150 m²",,175
+filtro,ban2,"con 2 baños",,175
+precio,p25,7980.0,UF,175
+precio,mediana,9100.0,UF,175
+precio,p75,10500.0,UF,175
+precio,minimo,4100.0,UF,175
+precio,maximo,19000.0,UF,175
+m2,mediana_precio_m2,80.91,UF,175
+m2,area_mediana_m2,113.0,m2,175
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+habitaciones,1,8700.0,UF,5
+habitaciones,2,9700.0,UF,38
+habitaciones,3+,8900.0,UF,132
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

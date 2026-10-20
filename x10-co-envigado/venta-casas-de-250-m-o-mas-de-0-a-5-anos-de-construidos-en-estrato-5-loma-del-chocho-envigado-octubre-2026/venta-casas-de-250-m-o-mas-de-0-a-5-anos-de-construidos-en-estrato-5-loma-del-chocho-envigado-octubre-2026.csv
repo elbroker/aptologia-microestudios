@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,62
+filtro,estrato,5,,62
+filtro,area6,"de 250 m² o más",,62
+filtro,edad1,"de 0 a 5 años de construidos",,62
+precio,p25,2345000000.0,COP,62
+precio,mediana,3200000000.0,COP,62
+precio,p75,4075000000.0,COP,62
+precio,minimo,1180000000.0,COP,62
+precio,maximo,6350000000.0,COP,62
+m2,mediana_precio_m2,8026866.16,COP,62
+m2,area_mediana_m2,370.0,m2,62
+admin,mediana_admin_mes,1000000.0,COP,29
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+estrato,estrato_mas_frecuente,5,,62
+habitaciones,3+,3200000000.0,COP,62
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

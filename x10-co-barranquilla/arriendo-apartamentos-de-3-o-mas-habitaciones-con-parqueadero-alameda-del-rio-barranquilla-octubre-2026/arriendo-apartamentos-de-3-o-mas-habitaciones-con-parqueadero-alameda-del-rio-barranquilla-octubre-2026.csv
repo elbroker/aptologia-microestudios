@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,3+,,45
+filtro,parq1,"con parqueadero",,45
+precio,p25,1400000.0,COP,45
+precio,mediana,1589892.0,COP,45
+precio,p75,1900000.0,COP,45
+precio,minimo,1084000.0,COP,45
+precio,maximo,3000000.0,COP,45
+m2,mediana_precio_m2,25000.0,COP,45
+m2,area_mediana_m2,64.0,m2,45
+admin,mediana_admin_mes,288661.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,3,,45
+habitaciones,3+,1589892.0,COP,45
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/alameda-del-rio,,
+fuente,licencia,CC BY 4.0,,

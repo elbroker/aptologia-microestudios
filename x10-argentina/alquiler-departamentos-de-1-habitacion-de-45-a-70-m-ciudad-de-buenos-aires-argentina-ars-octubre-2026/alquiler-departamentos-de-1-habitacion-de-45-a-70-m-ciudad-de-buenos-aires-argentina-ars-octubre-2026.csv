@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,412
+filtro,habitaciones,1,,412
+filtro,area2,"de 45 a 70 m²",,412
+precio,p25,750000.0,ARS,412
+precio,mediana,900000.0,ARS,412
+precio,p75,1100000.0,ARS,412
+precio,minimo,500000.0,ARS,412
+precio,maximo,1800000.0,ARS,412
+m2,mediana_precio_m2,17892.64,ARS,410
+m2,area_mediana_m2,48.0,m2,410
+banos,mediana_banos,1.0,,
+habitaciones,1,900000.0,ARS,412
+ciudad,mediana_ciudad_referencia,850000.0,ARS,
+ciudad,mediana_m2_ciudad,18888.89,ARS,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

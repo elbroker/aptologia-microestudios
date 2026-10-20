@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,piso3,"en piso 9 o más",,33
+precio,p25,185000000.0,COP,33
+precio,mediana,198000000.0,COP,33
+precio,p75,227000000.0,COP,33
+precio,minimo,160000000.0,COP,33
+precio,maximo,333000000.0,COP,33
+m2,mediana_precio_m2,3562500.0,COP,33
+m2,area_mediana_m2,58.0,m2,33
+admin,mediana_admin_mes,175000.0,COP,27
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,198000000.0,COP,33
+ciudad,mediana_ciudad_referencia,210000000.0,COP,
+ciudad,mediana_m2_ciudad,3607843.14,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/madrid/la-prosperidad,,
+fuente,licencia,CC BY 4.0,,

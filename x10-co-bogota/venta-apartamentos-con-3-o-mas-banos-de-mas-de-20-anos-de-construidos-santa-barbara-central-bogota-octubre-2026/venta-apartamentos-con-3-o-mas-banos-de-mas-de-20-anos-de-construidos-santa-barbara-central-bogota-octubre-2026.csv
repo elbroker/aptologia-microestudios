@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,198
+filtro,ban3,"con 3 o más baños",,198
+filtro,edad3,"de más de 20 años de construidos",,198
+precio,p25,840000000.0,COP,198
+precio,mediana,985000000.0,COP,198
+precio,p75,1300000000.0,COP,198
+precio,minimo,460000000.0,COP,198
+precio,maximo,3100000000.0,COP,198
+m2,mediana_precio_m2,6250000.0,COP,197
+m2,area_mediana_m2,167.0,m2,197
+admin,mediana_admin_mes,1100000.0,COP,191
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,198
+estrato,estrato_mas_frecuente,6,,198
+habitaciones,2,670000000.0,COP,24
+habitaciones,3+,1030000000.0,COP,174
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara-central,,
+fuente,licencia,CC BY 4.0,,

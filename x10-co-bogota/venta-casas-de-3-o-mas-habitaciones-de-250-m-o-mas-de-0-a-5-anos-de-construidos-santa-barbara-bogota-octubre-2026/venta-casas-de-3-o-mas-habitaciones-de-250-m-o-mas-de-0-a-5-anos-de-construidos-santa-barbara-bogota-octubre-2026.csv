@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,55
+filtro,habitaciones,3+,,55
+filtro,area6,"de 250 m² o más",,55
+filtro,edad1,"de 0 a 5 años de construidos",,55
+precio,p25,1675000000.0,COP,55
+precio,mediana,2000000000.0,COP,55
+precio,p75,2755000000.0,COP,55
+precio,minimo,1100000000.0,COP,55
+precio,maximo,6950000000.0,COP,55
+m2,mediana_precio_m2,6229890.45,COP,54
+m2,area_mediana_m2,345.0,m2,54
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,53
+estrato,estrato_mas_frecuente,6,,52
+habitaciones,3+,2000000000.0,COP,55
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

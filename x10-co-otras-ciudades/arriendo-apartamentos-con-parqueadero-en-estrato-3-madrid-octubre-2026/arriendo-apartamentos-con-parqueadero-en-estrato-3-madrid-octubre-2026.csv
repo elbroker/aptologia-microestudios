@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,40
+filtro,estrato,3,,40
+filtro,parq1,"con parqueadero",,40
+precio,p25,1100000.0,COP,40
+precio,mediana,1200000.0,COP,40
+precio,p75,1284246.0,COP,40
+precio,minimo,920000.0,COP,40
+precio,maximo,1500000.0,COP,40
+m2,mediana_precio_m2,21203.7,COP,39
+m2,area_mediana_m2,56.0,m2,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,3,,40
+habitaciones,2,1200000.0,COP,14
+habitaciones,3+,1200000.0,COP,26
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20833.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/madrid,,
+fuente,licencia,CC BY 4.0,,

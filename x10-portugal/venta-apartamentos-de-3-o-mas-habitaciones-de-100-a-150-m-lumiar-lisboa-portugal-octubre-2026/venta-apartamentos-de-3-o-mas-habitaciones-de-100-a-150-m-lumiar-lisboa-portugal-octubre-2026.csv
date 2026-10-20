@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,60
+filtro,habitaciones,3+,,60
+filtro,area4,"de 100 a 150 m²",,60
+precio,p25,764500.0,EUR,60
+precio,mediana,860500.0,EUR,60
+precio,p75,973250.0,EUR,60
+precio,minimo,495000.0,EUR,60
+precio,maximo,1210000.0,EUR,60
+m2,mediana_precio_m2,7033.02,EUR,60
+m2,area_mediana_m2,126.0,m2,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,60
+habitaciones,3+,860500.0,EUR,60
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/lumiar,,
+fuente,licencia,CC BY 4.0,,

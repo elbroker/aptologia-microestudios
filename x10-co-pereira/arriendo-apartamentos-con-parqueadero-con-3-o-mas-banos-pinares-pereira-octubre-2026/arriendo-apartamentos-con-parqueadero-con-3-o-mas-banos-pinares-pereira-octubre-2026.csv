@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,112
+filtro,parq1,"con parqueadero",,112
+filtro,ban3,"con 3 o más baños",,112
+precio,p25,3700000.0,COP,112
+precio,mediana,4700000.0,COP,112
+precio,p75,5985000.0,COP,112
+precio,minimo,2000000.0,COP,112
+precio,maximo,10000000.0,COP,112
+m2,mediana_precio_m2,30597.73,COP,110
+m2,area_mediana_m2,151.0,m2,110
+admin,mediana_admin_mes,660000.0,COP,61
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,112
+estrato,estrato_mas_frecuente,6,,111
+habitaciones,2,5000000.0,COP,11
+habitaciones,3+,4700000.0,COP,101
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

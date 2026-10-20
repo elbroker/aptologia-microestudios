@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,981
+filtro,habitaciones,3+,,981
+filtro,ban3,"con 3 o más baños",,981
+precio,p25,520000000.0,COP,981
+precio,mediana,750000000.0,COP,981
+precio,p75,1080000000.0,COP,981
+precio,minimo,210000000.0,COP,981
+precio,maximo,3600000000.0,COP,981
+m2,mediana_precio_m2,5200000.0,COP,943
+m2,area_mediana_m2,142.0,m2,943
+admin,mediana_admin_mes,700000.0,COP,669
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.2,%,947
+estrato,estrato_mas_frecuente,6,,971
+habitaciones,3+,750000000.0,COP,981
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira,,
+fuente,licencia,CC BY 4.0,,

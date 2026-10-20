@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,69
+filtro,parq1,"con estacionamiento",,69
+filtro,ban3,"con 3 o más baños",,69
+precio,p25,15190.0,BRL,69
+precio,mediana,20000.0,BRL,69
+precio,p75,24000.0,BRL,69
+precio,minimo,4440.0,BRL,69
+precio,maximo,30000.0,BRL,69
+m2,mediana_precio_m2,130.49,BRL,68
+m2,area_mediana_m2,151.0,m2,68
+admin,mediana_admin_mes,3334.0,BRL,69
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+habitaciones,2,21000.0,BRL,29
+habitaciones,3+,17500.0,BRL,38
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-nova-conceicao,,
+fuente,licencia,CC BY 4.0,,

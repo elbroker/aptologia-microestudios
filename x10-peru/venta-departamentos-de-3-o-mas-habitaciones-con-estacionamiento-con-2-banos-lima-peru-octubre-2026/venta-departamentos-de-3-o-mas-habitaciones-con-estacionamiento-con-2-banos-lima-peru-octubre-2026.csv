@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,1481
+filtro,habitaciones,3+,,1481
+filtro,parq1,"con estacionamiento",,1481
+filtro,ban2,"con 2 baños",,1481
+precio,p25,513816.0,PEN,1481
+precio,mediana,684600.0,PEN,1481
+precio,p75,950900.0,PEN,1481
+precio,minimo,207200.0,PEN,1481
+precio,maximo,3687000.0,PEN,1481
+m2,mediana_precio_m2,7115.88,PEN,1466
+m2,area_mediana_m2,93.5,m2,1466
+admin,mediana_admin_mes,1.0,PEN,118
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,1481
+habitaciones,3+,684600.0,PEN,1481
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

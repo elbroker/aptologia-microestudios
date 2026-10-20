@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,43
+filtro,estrato,3,,43
+filtro,parq0,"sin parqueadero",,43
+precio,p25,1500000.0,COP,43
+precio,mediana,1750000.0,COP,43
+precio,p75,2175000.0,COP,43
+precio,minimo,1000000.0,COP,43
+precio,maximo,3000000.0,COP,43
+m2,mediana_precio_m2,29268.29,COP,43
+m2,area_mediana_m2,58.0,m2,43
+admin,mediana_admin_mes,216500.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,43
+estrato,estrato_mas_frecuente,3,,43
+habitaciones,2,1700000.0,COP,29
+habitaciones,3+,1950000.0,COP,14
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena,,
+fuente,licencia,CC BY 4.0,,

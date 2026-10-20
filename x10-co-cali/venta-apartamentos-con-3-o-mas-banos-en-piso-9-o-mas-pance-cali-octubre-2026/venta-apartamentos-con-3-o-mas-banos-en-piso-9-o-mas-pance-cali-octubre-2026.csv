@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,ban3,"con 3 o más baños",,40
+filtro,piso3,"en piso 9 o más",,40
+precio,p25,912500000.0,COP,40
+precio,mediana,993500000.0,COP,40
+precio,p75,1100000000.0,COP,40
+precio,minimo,695000000.0,COP,40
+precio,maximo,3100000000.0,COP,40
+m2,mediana_precio_m2,7500000.0,COP,39
+m2,area_mediana_m2,129.5,m2,39
+admin,mediana_admin_mes,850000.0,COP,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,3+,997000000.0,COP,39
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

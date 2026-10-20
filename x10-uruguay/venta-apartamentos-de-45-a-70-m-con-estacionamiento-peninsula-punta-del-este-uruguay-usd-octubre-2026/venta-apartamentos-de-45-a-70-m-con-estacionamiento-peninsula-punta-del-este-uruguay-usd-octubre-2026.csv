@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,78
+filtro,area2,"de 45 a 70 m²",,78
+filtro,parq1,"con estacionamiento",,78
+precio,p25,169000.0,USD,78
+precio,mediana,196500.0,USD,78
+precio,p75,240000.0,USD,78
+precio,minimo,130000.0,USD,78
+precio,maximo,460000.0,USD,78
+m2,mediana_precio_m2,3466.4,USD,78
+m2,area_mediana_m2,59.5,m2,78
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,78
+habitaciones,1,167000.0,USD,29
+habitaciones,2,217500.0,USD,46
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/peninsula,,
+fuente,licencia,CC BY 4.0,,

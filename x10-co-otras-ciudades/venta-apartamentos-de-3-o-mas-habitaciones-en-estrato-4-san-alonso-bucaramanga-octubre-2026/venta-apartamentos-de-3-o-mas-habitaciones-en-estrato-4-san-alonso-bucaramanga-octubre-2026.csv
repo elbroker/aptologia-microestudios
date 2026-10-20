@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,54
+filtro,habitaciones,3+,,54
+filtro,estrato,4,,54
+precio,p25,395000000.0,COP,54
+precio,mediana,429500000.0,COP,54
+precio,p75,512000000.0,COP,54
+precio,minimo,250000000.0,COP,54
+precio,maximo,950000000.0,COP,54
+m2,mediana_precio_m2,4384027.78,COP,50
+m2,area_mediana_m2,105.0,m2,50
+admin,mediana_admin_mes,450000.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.9,%,48
+estrato,estrato_mas_frecuente,4,,54
+habitaciones,3+,429500000.0,COP,54
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/san-alonso,,
+fuente,licencia,CC BY 4.0,,

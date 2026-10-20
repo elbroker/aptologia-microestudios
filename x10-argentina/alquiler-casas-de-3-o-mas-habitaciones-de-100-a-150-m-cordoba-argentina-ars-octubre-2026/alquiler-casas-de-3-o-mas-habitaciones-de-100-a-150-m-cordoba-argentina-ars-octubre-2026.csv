@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area4,"de 100 a 150 m²",,38
+precio,p25,1200000.0,ARS,38
+precio,mediana,1350000.0,ARS,38
+precio,p75,1500000.0,ARS,38
+precio,minimo,599999.0,ARS,38
+precio,maximo,2000000.0,ARS,38
+m2,mediana_precio_m2,11483.52,ARS,38
+m2,area_mediana_m2,120.0,m2,38
+banos,mediana_banos,2.0,,
+habitaciones,3+,1350000.0,ARS,38
+ciudad,mediana_ciudad_referencia,1350000.0,ARS,
+ciudad,mediana_m2_ciudad,10281.25,ARS,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/alquiler/cordoba,,
+fuente,licencia,CC BY 4.0,,

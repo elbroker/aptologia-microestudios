@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,764
+filtro,habitaciones,2,,764
+filtro,area3,"de 70 a 100 m²",,764
+precio,p25,182585.0,USD,764
+precio,mediana,237060.0,USD,764
+precio,p75,293625.0,USD,764
+precio,minimo,75000.0,USD,764
+precio,maximo,535000.0,USD,764
+m2,mediana_precio_m2,2934.07,USD,755
+m2,area_mediana_m2,80.0,m2,755
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,240
+habitaciones,2,237060.0,USD,764
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo,,
+fuente,licencia,CC BY 4.0,,

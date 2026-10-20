@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,100
+filtro,habitaciones,2,,100
+filtro,area2,"de 45 a 70 m²",,100
+filtro,piso2,"en piso 4 a 8",,100
+precio,p25,223500000.0,COP,100
+precio,mediana,245000000.0,COP,100
+precio,p75,265750000.0,COP,100
+precio,minimo,163000000.0,COP,100
+precio,maximo,365000000.0,COP,100
+m2,mediana_precio_m2,4150000.0,COP,100
+m2,area_mediana_m2,59.0,m2,100
+admin,mediana_admin_mes,237025.0,COP,92
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,89.1,%,55
+estrato,estrato_mas_frecuente,4,,100
+habitaciones,2,245000000.0,COP,100
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/bochalema,,
+fuente,licencia,CC BY 4.0,,

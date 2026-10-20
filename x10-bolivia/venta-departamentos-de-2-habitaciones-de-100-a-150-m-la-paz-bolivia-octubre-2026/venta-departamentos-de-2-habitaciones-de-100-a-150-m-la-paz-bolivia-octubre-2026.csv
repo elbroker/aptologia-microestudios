@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,31
+filtro,habitaciones,2,,31
+filtro,area4,"de 100 a 150 m²",,31
+precio,p25,114750.0,USD,31
+precio,mediana,120000.0,USD,31
+precio,p75,137500.0,USD,31
+precio,minimo,56465.0,USD,31
+precio,maximo,340000.0,USD,31
+m2,mediana_precio_m2,1097.34,USD,30
+m2,area_mediana_m2,110.0,m2,30
+admin,mediana_admin_mes,50.0,USD,21
+banos,mediana_banos,2.0,,
+habitaciones,2,120000.0,USD,31
+ciudad,mediana_ciudad_referencia,130000.0,USD,
+ciudad,mediana_m2_ciudad,1098.78,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/la-paz,,
+fuente,licencia,CC BY 4.0,,

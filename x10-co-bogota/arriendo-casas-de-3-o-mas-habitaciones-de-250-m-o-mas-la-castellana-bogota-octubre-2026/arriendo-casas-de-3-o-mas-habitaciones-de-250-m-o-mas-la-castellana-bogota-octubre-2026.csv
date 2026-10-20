@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,area6,"de 250 m² o más",,37
+precio,p25,9500000.0,COP,37
+precio,mediana,10500000.0,COP,37
+precio,p75,12000000.0,COP,37
+precio,minimo,5300000.0,COP,37
+precio,maximo,22000000.0,COP,37
+m2,mediana_precio_m2,30000.0,COP,37
+m2,area_mediana_m2,350.0,m2,37
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,3+,10500000.0,COP,37
+ciudad,mediana_ciudad_referencia,10000000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/bogota/la-castellana,,
+fuente,licencia,CC BY 4.0,,

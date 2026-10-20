@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,38
+filtro,conj,"en conjunto cerrado",,38
+filtro,piso2,"en piso 4 a 8",,38
+precio,p25,3425000.0,COP,38
+precio,mediana,4250000.0,COP,38
+precio,p75,5275000.0,COP,38
+precio,minimo,1500000.0,COP,38
+precio,maximo,6500000.0,COP,38
+m2,mediana_precio_m2,41703.12,COP,38
+m2,area_mediana_m2,100.0,m2,38
+admin,mediana_admin_mes,547500.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,37
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,2,3500000.0,COP,16
+habitaciones,3+,4700000.0,COP,21
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

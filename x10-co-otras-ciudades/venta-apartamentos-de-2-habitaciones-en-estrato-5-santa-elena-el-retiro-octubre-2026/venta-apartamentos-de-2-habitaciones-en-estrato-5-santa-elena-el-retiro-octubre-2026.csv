@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,38
+filtro,habitaciones,2,,38
+filtro,estrato,5,,38
+precio,p25,680000000.0,COP,38
+precio,mediana,767500000.0,COP,38
+precio,p75,880000000.0,COP,38
+precio,minimo,475000000.0,COP,38
+precio,maximo,1350000000.0,COP,38
+m2,mediana_precio_m2,9450314.47,COP,38
+m2,area_mediana_m2,77.5,m2,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,5,,38
+habitaciones,2,767500000.0,COP,38
+ciudad,mediana_ciudad_referencia,730000000.0,COP,
+ciudad,mediana_m2_ciudad,9321839.08,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro/santa-elena,,
+fuente,licencia,CC BY 4.0,,

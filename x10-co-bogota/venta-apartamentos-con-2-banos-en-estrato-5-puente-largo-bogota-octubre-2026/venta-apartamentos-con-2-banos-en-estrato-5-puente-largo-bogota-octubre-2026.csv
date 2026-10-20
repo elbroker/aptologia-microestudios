@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,5,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,518250000.0,COP,32
+precio,mediana,647500000.0,COP,32
+precio,p75,700000000.0,COP,32
+precio,minimo,400000000.0,COP,32
+precio,maximo,899000000.0,COP,32
+m2,mediana_precio_m2,6199305.92,COP,32
+m2,area_mediana_m2,97.4,m2,32
+admin,mediana_admin_mes,650000.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,1,700000000.0,COP,5
+habitaciones,2,513000000.0,COP,13
+habitaciones,3+,647500000.0,COP,14
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/puente-largo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,5,,50
+filtro,edad1,"de 0 a 5 años de construidos",,50
+precio,p25,342500000.0,COP,50
+precio,mediana,400000000.0,COP,50
+precio,p75,477500000.0,COP,50
+precio,minimo,230000000.0,COP,50
+precio,maximo,980000000.0,COP,50
+m2,mediana_precio_m2,4085316.46,COP,50
+m2,area_mediana_m2,99.6,m2,50
+admin,mediana_admin_mes,500000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.0,%,49
+estrato,estrato_mas_frecuente,5,,50
+habitaciones,2,310000000.0,COP,5
+habitaciones,3+,430000000.0,COP,42
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

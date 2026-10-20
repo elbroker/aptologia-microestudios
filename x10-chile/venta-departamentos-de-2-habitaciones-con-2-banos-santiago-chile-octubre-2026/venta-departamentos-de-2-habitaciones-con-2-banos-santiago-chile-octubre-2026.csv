@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,129
+filtro,habitaciones,2,,129
+filtro,ban2,"con 2 baños",,129
+precio,p25,97000000.0,CLP,129
+precio,mediana,114000000.0,CLP,129
+precio,p75,130000000.0,CLP,129
+precio,minimo,55000000.0,CLP,129
+precio,maximo,295000000.0,CLP,129
+m2,mediana_precio_m2,2000000.0,CLP,119
+m2,area_mediana_m2,56.0,m2,119
+banos,mediana_banos,2.0,,
+habitaciones,2,114000000.0,CLP,129
+ciudad,mediana_ciudad_referencia,93000000.0,CLP,
+ciudad,mediana_m2_ciudad,2000000.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

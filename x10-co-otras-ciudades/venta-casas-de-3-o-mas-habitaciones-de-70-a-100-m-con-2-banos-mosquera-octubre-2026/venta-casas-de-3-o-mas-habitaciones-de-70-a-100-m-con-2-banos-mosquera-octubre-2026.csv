@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,32
+filtro,habitaciones,3+,,32
+filtro,area3,"de 70 a 100 m²",,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,260000000.0,COP,32
+precio,mediana,284000000.0,COP,32
+precio,p75,335000000.0,COP,32
+precio,minimo,230000000.0,COP,32
+precio,maximo,450000000.0,COP,32
+m2,mediana_precio_m2,3521825.4,COP,32
+m2,area_mediana_m2,84.2,m2,32
+admin,mediana_admin_mes,180000.0,COP,18
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,31
+habitaciones,3+,284000000.0,COP,32
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,3801169.59,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/mosquera,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,37
+filtro,habitaciones,2,,37
+filtro,area2,"de 45 a 70 m²",,37
+precio,p25,200.0,USD,37
+precio,mediana,370.0,USD,37
+precio,p75,500.0,USD,37
+precio,minimo,150.0,USD,37
+precio,maximo,720.0,USD,37
+m2,mediana_precio_m2,6.19,USD,37
+m2,area_mediana_m2,57.0,m2,37
+banos,mediana_banos,1.0,,
+habitaciones,2,370.0,USD,37
+ciudad,mediana_ciudad_referencia,800.0,USD,
+ciudad,mediana_m2_ciudad,7.22,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/quito,,
+fuente,licencia,CC BY 4.0,,

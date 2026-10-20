@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,106
+filtro,parq1,"con parqueadero",,106
+filtro,ban2,"con 2 baños",,106
+precio,p25,490000000.0,COP,106
+precio,mediana,540000000.0,COP,106
+precio,p75,636250000.0,COP,106
+precio,minimo,360000000.0,COP,106
+precio,maximo,780000000.0,COP,106
+m2,mediana_precio_m2,7010638.3,COP,106
+m2,area_mediana_m2,80.0,m2,106
+admin,mediana_admin_mes,311500.0,COP,74
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,106
+estrato,estrato_mas_frecuente,5,,106
+habitaciones,2,500000000.0,COP,54
+habitaciones,3+,572000000.0,COP,52
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/rio-alto,,
+fuente,licencia,CC BY 4.0,,

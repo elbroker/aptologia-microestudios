@@ -1,0 +1,24 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,44
+filtro,estrato,6,,44
+filtro,masc,"que aceptan mascotas",,44
+filtro,ban2,"con 2 baños",,44
+precio,p25,2475000.0,COP,44
+precio,mediana,2825000.0,COP,44
+precio,p75,3462500.0,COP,44
+precio,minimo,1650000.0,COP,44
+precio,maximo,5100000.0,COP,44
+m2,mediana_precio_m2,32038.77,COP,44
+m2,area_mediana_m2,91.0,m2,44
+admin,mediana_admin_mes,455000.0,COP,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,6,,44
+habitaciones,1,2300000.0,COP,8
+habitaciones,2,2800000.0,COP,13
+habitaciones,3+,3150000.0,COP,23
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

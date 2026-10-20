@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,68
+filtro,habitaciones,3+,,68
+filtro,ban2,"con 2 baños",,68
+precio,p25,33.0,UF,68
+precio,mediana,40.0,UF,68
+precio,p75,49.25,UF,68
+precio,minimo,17.0,UF,68
+precio,maximo,121.45,UF,68
+m2,mediana_precio_m2,0.38,UF,49
+m2,area_mediana_m2,100.0,m2,49
+banos,mediana_banos,2.0,,
+habitaciones,3+,40.0,UF,68
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

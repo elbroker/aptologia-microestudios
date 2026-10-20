@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,145
+filtro,estrato,5,,145
+filtro,conj,"en conjunto cerrado",,145
+precio,p25,2700000.0,COP,145
+precio,mediana,3100000.0,COP,145
+precio,p75,3800000.0,COP,145
+precio,minimo,1550000.0,COP,145
+precio,maximo,12500000.0,COP,145
+m2,mediana_precio_m2,40833.33,COP,145
+m2,area_mediana_m2,78.0,m2,145
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.3,%,139
+estrato,estrato_mas_frecuente,5,,145
+habitaciones,1,2300000.0,COP,8
+habitaciones,2,3000000.0,COP,67
+habitaciones,3+,3300000.0,COP,70
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

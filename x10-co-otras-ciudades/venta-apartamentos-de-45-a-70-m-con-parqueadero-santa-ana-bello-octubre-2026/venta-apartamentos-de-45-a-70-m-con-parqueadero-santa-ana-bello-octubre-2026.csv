@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,99
+filtro,area2,"de 45 a 70 m²",,99
+filtro,parq1,"con parqueadero",,99
+precio,p25,339450000.0,COP,99
+precio,mediana,382000000.0,COP,99
+precio,p75,430000000.0,COP,99
+precio,minimo,257000000.0,COP,99
+precio,maximo,580000000.0,COP,99
+m2,mediana_precio_m2,6545454.55,COP,99
+m2,area_mediana_m2,57.0,m2,99
+admin,mediana_admin_mes,266000.0,COP,69
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,99
+estrato,estrato_mas_frecuente,4,,95
+habitaciones,2,399000000.0,COP,46
+habitaciones,3+,380000000.0,COP,53
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/santa-ana,,
+fuente,licencia,CC BY 4.0,,

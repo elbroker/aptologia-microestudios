@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,92
+filtro,habitaciones,3+,,92
+filtro,ban2,"con 2 baños",,92
+precio,p25,430000000.0,COP,92
+precio,mediana,482500000.0,COP,92
+precio,p75,581250000.0,COP,92
+precio,minimo,280000000.0,COP,92
+precio,maximo,870000000.0,COP,92
+m2,mediana_precio_m2,5833333.33,COP,91
+m2,area_mediana_m2,85.0,m2,91
+admin,mediana_admin_mes,291500.0,COP,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,66.2,%,77
+estrato,estrato_mas_frecuente,4,,90
+habitaciones,3+,482500000.0,COP,92
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-america,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,ban2,"con 2 baños",,42
+filtro,piso2,"en piso 4 a 8",,42
+precio,p25,450000000.0,COP,42
+precio,mediana,546500000.0,COP,42
+precio,p75,638000000.0,COP,42
+precio,minimo,250000000.0,COP,42
+precio,maximo,1050000000.0,COP,42
+m2,mediana_precio_m2,6884510.87,COP,42
+m2,area_mediana_m2,80.5,m2,42
+admin,mediana_admin_mes,407000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.6,%,41
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,2,465000000.0,COP,17
+habitaciones,3+,560000000.0,COP,25
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia/avenida-centenario,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,43
+filtro,habitaciones,3+,,43
+filtro,estrato,4,,43
+precio,p25,322500000.0,COP,43
+precio,mediana,367000000.0,COP,43
+precio,p75,437500000.0,COP,43
+precio,minimo,240000000.0,COP,43
+precio,maximo,620000000.0,COP,43
+m2,mediana_precio_m2,3941176.47,COP,43
+m2,area_mediana_m2,85.0,m2,43
+admin,mediana_admin_mes,268500.0,COP,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.5,%,40
+estrato,estrato_mas_frecuente,4,,43
+habitaciones,3+,367000000.0,COP,43
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/provenza,,
+fuente,licencia,CC BY 4.0,,

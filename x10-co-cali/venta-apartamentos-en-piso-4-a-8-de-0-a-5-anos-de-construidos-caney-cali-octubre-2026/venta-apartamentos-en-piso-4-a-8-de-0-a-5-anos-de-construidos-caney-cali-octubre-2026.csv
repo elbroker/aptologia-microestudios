@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,56
+filtro,piso2,"en piso 4 a 8",,56
+filtro,edad1,"de 0 a 5 años de construidos",,56
+precio,p25,211500000.0,COP,56
+precio,mediana,255000000.0,COP,56
+precio,p75,350000000.0,COP,56
+precio,minimo,180000000.0,COP,56
+precio,maximo,585000000.0,COP,56
+m2,mediana_precio_m2,4138388.12,COP,56
+m2,area_mediana_m2,63.0,m2,56
+admin,mediana_admin_mes,346000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,4,,56
+habitaciones,2,209000000.0,COP,24
+habitaciones,3+,342500000.0,COP,32
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

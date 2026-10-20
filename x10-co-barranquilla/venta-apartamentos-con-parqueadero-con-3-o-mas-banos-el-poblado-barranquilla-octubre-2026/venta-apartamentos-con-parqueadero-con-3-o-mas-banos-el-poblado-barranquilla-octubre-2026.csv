@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,parq1,"con parqueadero",,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,470000000.0,COP,36
+precio,mediana,547500000.0,COP,36
+precio,p75,650000000.0,COP,36
+precio,minimo,350000000.0,COP,36
+precio,maximo,1150000000.0,COP,36
+m2,mediana_precio_m2,5713714.51,COP,34
+m2,area_mediana_m2,95.0,m2,34
+admin,mediana_admin_mes,673000.0,COP,34
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,500000000.0,COP,16
+habitaciones,3+,560000000.0,COP,19
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-poblado,,
+fuente,licencia,CC BY 4.0,,

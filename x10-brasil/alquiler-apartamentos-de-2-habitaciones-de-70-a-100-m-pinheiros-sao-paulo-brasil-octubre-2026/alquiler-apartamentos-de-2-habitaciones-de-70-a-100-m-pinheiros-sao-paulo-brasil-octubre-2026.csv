@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,87
+filtro,habitaciones,2,,87
+filtro,area3,"de 70 a 100 m²",,87
+precio,p25,6000.0,BRL,87
+precio,mediana,7800.0,BRL,87
+precio,p75,10250.0,BRL,87
+precio,minimo,2750.0,BRL,87
+precio,maximo,25000.0,BRL,87
+m2,mediana_precio_m2,94.44,BRL,83
+m2,area_mediana_m2,80.0,m2,83
+admin,mediana_admin_mes,1643.0,BRL,87
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.1,%,85
+habitaciones,2,7800.0,BRL,87
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/pinheiros,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,parq1,"con parqueadero",,51
+filtro,piso3,"en piso 9 o más",,51
+precio,p25,2525000.0,COP,51
+precio,mediana,2700000.0,COP,51
+precio,p75,2905000.0,COP,51
+precio,minimo,2000000.0,COP,51
+precio,maximo,4600000.0,COP,51
+m2,mediana_precio_m2,40000.0,COP,51
+m2,area_mediana_m2,67.0,m2,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,4,,51
+habitaciones,2,2650000.0,COP,20
+habitaciones,3+,2700000.0,COP,31
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,38333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-estrella,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,42
+filtro,habitaciones,3+,,42
+filtro,area4,"de 100 a 150 m²",,42
+filtro,ban2,"con 2 baños",,42
+precio,p25,4804.25,UF,42
+precio,mediana,6025.0,UF,42
+precio,p75,8472.5,UF,42
+precio,minimo,2600.0,UF,42
+precio,maximo,12500.0,UF,42
+m2,mediana_precio_m2,55.42,UF,39
+m2,area_mediana_m2,120.0,m2,39
+banos,mediana_banos,2.0,,
+habitaciones,3+,6025.0,UF,42
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

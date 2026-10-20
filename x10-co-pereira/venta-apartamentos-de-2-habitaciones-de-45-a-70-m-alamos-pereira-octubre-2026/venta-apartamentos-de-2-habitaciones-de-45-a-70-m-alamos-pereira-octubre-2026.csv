@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,2,,33
+filtro,area2,"de 45 a 70 m²",,33
+precio,p25,335000000.0,COP,33
+precio,mediana,396000000.0,COP,33
+precio,p75,420000000.0,COP,33
+precio,minimo,250000000.0,COP,33
+precio,maximo,575000000.0,COP,33
+m2,mediana_precio_m2,6500000.0,COP,33
+m2,area_mediana_m2,60.0,m2,33
+admin,mediana_admin_mes,287500.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,2,396000000.0,COP,33
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/alamos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,114
+filtro,parq1,"con estacionamiento",,114
+filtro,ban2,"con 2 baños",,114
+precio,p25,3000.0,UF,114
+precio,mediana,3550.0,UF,114
+precio,p75,4297.5,UF,114
+precio,minimo,1780.0,UF,114
+precio,maximo,14500.0,UF,114
+m2,mediana_precio_m2,52.78,UF,112
+m2,area_mediana_m2,68.0,m2,112
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,114
+habitaciones,2,3650.0,UF,43
+habitaciones,3+,3525.0,UF,66
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

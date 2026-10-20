@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,91
+filtro,estrato,5,,91
+filtro,ban2,"con 2 baños",,91
+precio,p25,3550000.0,COP,91
+precio,mediana,4150000.0,COP,91
+precio,p75,4775000.0,COP,91
+precio,minimo,2700000.0,COP,91
+precio,maximo,7650000.0,COP,91
+m2,mediana_precio_m2,50579.78,COP,90
+m2,area_mediana_m2,86.0,m2,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,89
+estrato,estrato_mas_frecuente,5,,91
+habitaciones,2,3850000.0,COP,33
+habitaciones,3+,4400000.0,COP,54
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

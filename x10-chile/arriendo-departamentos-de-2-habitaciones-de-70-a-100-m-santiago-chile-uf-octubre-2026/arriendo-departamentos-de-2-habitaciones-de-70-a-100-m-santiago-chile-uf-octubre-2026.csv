@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,251
+filtro,habitaciones,2,,251
+filtro,area3,"de 70 a 100 m²",,251
+precio,p25,25.0,UF,251
+precio,mediana,31.6,UF,251
+precio,p75,38.86,UF,251
+precio,minimo,9.33,UF,251
+precio,maximo,115.0,UF,251
+m2,mediana_precio_m2,0.39,UF,243
+m2,area_mediana_m2,80.0,m2,243
+banos,mediana_banos,2.0,,
+habitaciones,2,31.6,UF,251
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,

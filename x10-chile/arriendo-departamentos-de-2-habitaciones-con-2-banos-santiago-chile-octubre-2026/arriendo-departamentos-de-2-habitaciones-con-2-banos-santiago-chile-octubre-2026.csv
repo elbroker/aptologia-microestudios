@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1288
+filtro,habitaciones,2,,1288
+filtro,ban2,"con 2 baños",,1288
+precio,p25,440000.0,CLP,1288
+precio,mediana,530000.0,CLP,1288
+precio,p75,680000.0,CLP,1288
+precio,minimo,175000.0,CLP,1288
+precio,maximo,2400000.0,CLP,1288
+m2,mediana_precio_m2,9591.78,CLP,1054
+m2,area_mediana_m2,57.0,m2,1054
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,276
+habitaciones,2,530000.0,CLP,1288
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,77
+filtro,habitaciones,2,,77
+filtro,parq1,"con estacionamiento",,77
+precio,p25,2800.0,BRL,77
+precio,mediana,3440.0,BRL,77
+precio,p75,4400.0,BRL,77
+precio,minimo,1670.0,BRL,77
+precio,maximo,11000.0,BRL,77
+m2,mediana_precio_m2,54.75,BRL,74
+m2,area_mediana_m2,67.0,m2,74
+admin,mediana_admin_mes,853.0,BRL,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,77
+habitaciones,2,3440.0,BRL,77
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-andrade,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,153
+filtro,habitaciones,3+,,153
+filtro,parq1,"con parqueadero",,153
+precio,p25,490000000.0,COP,153
+precio,mediana,550000000.0,COP,153
+precio,p75,639000000.0,COP,153
+precio,minimo,258000000.0,COP,153
+precio,maximo,1600000000.0,COP,153
+m2,mediana_precio_m2,7121407.12,COP,153
+m2,area_mediana_m2,76.0,m2,153
+admin,mediana_admin_mes,391681.0,COP,107
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,153
+estrato,estrato_mas_frecuente,4,,153
+habitaciones,3+,550000000.0,COP,153
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/la-doctora,,
+fuente,licencia,CC BY 4.0,,

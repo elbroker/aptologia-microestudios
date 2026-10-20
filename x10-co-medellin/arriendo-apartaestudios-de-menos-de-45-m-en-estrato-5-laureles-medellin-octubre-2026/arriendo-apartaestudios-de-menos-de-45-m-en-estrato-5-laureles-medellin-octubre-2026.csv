@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,83
+filtro,estrato,5,,83
+filtro,area1,"de menos de 45 m²",,83
+precio,p25,2000000.0,COP,83
+precio,mediana,2400000.0,COP,83
+precio,p75,3000000.0,COP,83
+precio,minimo,1100000.0,COP,83
+precio,maximo,4300000.0,COP,83
+m2,mediana_precio_m2,72678.57,COP,82
+m2,area_mediana_m2,35.0,m2,82
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,22.2,%,45
+estrato,estrato_mas_frecuente,5,,83
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,60000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

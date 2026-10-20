@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,89
+filtro,habitaciones,1,,89
+filtro,estrato,4,,89
+precio,p25,315000000.0,COP,89
+precio,mediana,398000000.0,COP,89
+precio,p75,450000000.0,COP,89
+precio,minimo,220000000.0,COP,89
+precio,maximo,650000000.0,COP,89
+m2,mediana_precio_m2,8684210.53,COP,89
+m2,area_mediana_m2,46.0,m2,89
+admin,mediana_admin_mes,377000.0,COP,74
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,90.8,%,87
+estrato,estrato_mas_frecuente,4,,89
+habitaciones,1,398000000.0,COP,89
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/cedritos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,51
+filtro,habitaciones,3+,,51
+filtro,edad1,"de 0 a 5 años de construidos",,51
+precio,p25,1730000000.0,COP,51
+precio,mediana,2700000000.0,COP,51
+precio,p75,4800000000.0,COP,51
+precio,minimo,1270000000.0,COP,51
+precio,maximo,7950000000.0,COP,51
+m2,mediana_precio_m2,6807494.28,COP,48
+m2,area_mediana_m2,340.0,m2,48
+admin,mediana_admin_mes,1300000.0,COP,32
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,3+,2700000000.0,COP,51
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/los-balsos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,6,,50
+filtro,area6,"de 250 m² o más",,50
+precio,p25,1678750000.0,COP,50
+precio,mediana,2425000000.0,COP,50
+precio,p75,3275000000.0,COP,50
+precio,minimo,1320000000.0,COP,50
+precio,maximo,8000000000.0,COP,50
+m2,mediana_precio_m2,6461894.59,COP,50
+m2,area_mediana_m2,347.5,m2,50
+admin,mediana_admin_mes,1350000.0,COP,29
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,3+,2425000000.0,COP,50
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

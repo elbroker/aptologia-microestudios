@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,balc,"con balcón",,51
+filtro,parq1,"con parqueadero",,51
+precio,p25,2550000.0,COP,51
+precio,mediana,3500000.0,COP,51
+precio,p75,5650000.0,COP,51
+precio,minimo,1600000.0,COP,51
+precio,maximo,16000000.0,COP,51
+m2,mediana_precio_m2,48888.89,COP,51
+m2,area_mediana_m2,73.0,m2,51
+admin,mediana_admin_mes,590000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,1,2550000.0,COP,20
+habitaciones,2,4200000.0,COP,19
+habitaciones,3+,7750000.0,COP,12
+ciudad,mediana_ciudad_referencia,3000000.0,COP,
+ciudad,mediana_m2_ciudad,45000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/santa-marta,,
+fuente,licencia,CC BY 4.0,,

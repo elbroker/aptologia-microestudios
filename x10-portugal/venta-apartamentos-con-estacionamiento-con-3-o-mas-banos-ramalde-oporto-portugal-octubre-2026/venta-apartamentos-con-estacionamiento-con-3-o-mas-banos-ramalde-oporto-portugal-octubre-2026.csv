@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,31
+filtro,parq1,"con estacionamiento",,31
+filtro,ban3,"con 3 o más baños",,31
+precio,p25,564500.0,EUR,31
+precio,mediana,720000.0,EUR,31
+precio,p75,1817500.0,EUR,31
+precio,minimo,442500.0,EUR,31
+precio,maximo,2450000.0,EUR,31
+m2,mediana_precio_m2,4711.81,EUR,30
+m2,area_mediana_m2,159.0,m2,30
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+habitaciones,2,468500.0,EUR,6
+habitaciones,3+,765000.0,EUR,25
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto/ramalde,,
+fuente,licencia,CC BY 4.0,,

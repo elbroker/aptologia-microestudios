@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,area4,"de 100 a 150 m²",,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,850000000.0,COP,36
+precio,mediana,970000000.0,COP,36
+precio,p75,1200000000.0,COP,36
+precio,minimo,470000000.0,COP,36
+precio,maximo,1800000000.0,COP,36
+m2,mediana_precio_m2,8796296.3,COP,35
+m2,area_mediana_m2,112.8,m2,35
+admin,mediana_admin_mes,672500.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,2,1112500000.0,COP,6
+habitaciones,3+,960000000.0,COP,30
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-escobero,,
+fuente,licencia,CC BY 4.0,,

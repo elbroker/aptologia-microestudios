@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,45
+filtro,habitaciones,3+,,45
+filtro,ban2,"con 2 baños",,45
+filtro,piso3,"en piso 9 o más",,45
+precio,p25,408000000.0,COP,45
+precio,mediana,520000000.0,COP,45
+precio,p75,599000000.0,COP,45
+precio,minimo,270000000.0,COP,45
+precio,maximo,850000000.0,COP,45
+m2,mediana_precio_m2,7763157.89,COP,45
+m2,area_mediana_m2,68.0,m2,45
+admin,mediana_admin_mes,357555.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,88.4,%,43
+estrato,estrato_mas_frecuente,4,,45
+habitaciones,3+,520000000.0,COP,45
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

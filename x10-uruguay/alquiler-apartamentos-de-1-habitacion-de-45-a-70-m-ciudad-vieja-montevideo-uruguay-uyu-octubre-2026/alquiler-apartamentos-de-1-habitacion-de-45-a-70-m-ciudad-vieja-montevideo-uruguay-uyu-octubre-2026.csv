@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,1,,32
+filtro,area2,"de 45 a 70 m²",,32
+precio,p25,22725.0,UYU,32
+precio,mediana,27000.0,UYU,32
+precio,p75,31375.0,UYU,32
+precio,minimo,17000.0,UYU,32
+precio,maximo,43000.0,UYU,32
+m2,mediana_precio_m2,528.64,UYU,32
+m2,area_mediana_m2,50.0,m2,32
+admin,mediana_admin_mes,5746.5,UYU,30
+banos,mediana_banos,1.0,,
+habitaciones,1,27000.0,UYU,32
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/ciudad-vieja,,
+fuente,licencia,CC BY 4.0,,

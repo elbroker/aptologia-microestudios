@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,61
+filtro,habitaciones,2,,61
+filtro,ban2,"con 2 baños",,61
+precio,p25,550.0,USD,61
+precio,mediana,650.0,USD,61
+precio,p75,750.0,USD,61
+precio,minimo,280.0,USD,61
+precio,maximo,1000.0,USD,61
+m2,mediana_precio_m2,6.11,USD,49
+m2,area_mediana_m2,100.0,m2,49
+banos,mediana_banos,2.0,,
+habitaciones,2,650.0,USD,61
+ciudad,mediana_ciudad_referencia,600.0,USD,
+ciudad,mediana_m2_ciudad,5.3,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/cuenca,,
+fuente,licencia,CC BY 4.0,,

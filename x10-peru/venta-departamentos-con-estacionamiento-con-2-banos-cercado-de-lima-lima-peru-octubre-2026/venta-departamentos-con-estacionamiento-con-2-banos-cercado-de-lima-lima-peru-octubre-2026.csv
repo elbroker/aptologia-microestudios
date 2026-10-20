@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,208
+filtro,parq1,"con estacionamiento",,208
+filtro,ban2,"con 2 baños",,208
+precio,p25,363235.0,PEN,208
+precio,mediana,432024.0,PEN,208
+precio,p75,488100.25,PEN,208
+precio,minimo,238500.0,PEN,208
+precio,maximo,785000.0,PEN,208
+m2,mediana_precio_m2,6519.7,PEN,207
+m2,area_mediana_m2,66.0,m2,207
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,208
+habitaciones,1,388021.0,PEN,14
+habitaciones,2,410144.0,PEN,110
+habitaciones,3+,463000.0,PEN,81
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/cercado-de-lima,,
+fuente,licencia,CC BY 4.0,,

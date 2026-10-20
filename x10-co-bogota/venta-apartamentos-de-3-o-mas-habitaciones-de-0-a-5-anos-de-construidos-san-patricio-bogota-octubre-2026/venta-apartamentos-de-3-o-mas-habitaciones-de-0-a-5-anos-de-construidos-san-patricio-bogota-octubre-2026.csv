@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,98
+filtro,habitaciones,3+,,98
+filtro,edad1,"de 0 a 5 años de construidos",,98
+precio,p25,990000000.0,COP,98
+precio,mediana,1385000000.0,COP,98
+precio,p75,1648500000.0,COP,98
+precio,minimo,620000000.0,COP,98
+precio,maximo,4100000000.0,COP,98
+m2,mediana_precio_m2,7153414.13,COP,95
+m2,area_mediana_m2,170.0,m2,95
+admin,mediana_admin_mes,1478000.0,COP,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.0,%,96
+estrato,estrato_mas_frecuente,6,,97
+habitaciones,3+,1385000000.0,COP,98
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/san-patricio,,
+fuente,licencia,CC BY 4.0,,

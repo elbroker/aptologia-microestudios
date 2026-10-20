@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,84
+filtro,area2,"de 45 a 70 m²",,84
+filtro,parq1,"con estacionamiento",,84
+precio,p25,550000.0,CLP,84
+precio,mediana,650000.0,CLP,84
+precio,p75,732500.0,CLP,84
+precio,minimo,450000.0,CLP,84
+precio,maximo,1500000.0,CLP,84
+m2,mediana_precio_m2,11527.78,CLP,84
+m2,area_mediana_m2,57.0,m2,84
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,84
+habitaciones,1,600000.0,CLP,19
+habitaciones,2,675000.0,CLP,63
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/nunoa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,134
+filtro,estrato,4,,134
+precio,p25,451250000.0,COP,134
+precio,mediana,690000000.0,COP,134
+precio,p75,1337500000.0,COP,134
+precio,minimo,250000000.0,COP,134
+precio,maximo,7500000000.0,COP,134
+m2,mediana_precio_m2,3100961.54,COP,120
+m2,area_mediana_m2,213.5,m2,120
+admin,mediana_admin_mes,316000.0,COP,54
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.2,%,131
+estrato,estrato_mas_frecuente,4,,134
+habitaciones,3+,695000000.0,COP,132
+ciudad,mediana_ciudad_referencia,650000000.0,COP,
+ciudad,mediana_m2_ciudad,3051693.4,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/villavicencio,,
+fuente,licencia,CC BY 4.0,,

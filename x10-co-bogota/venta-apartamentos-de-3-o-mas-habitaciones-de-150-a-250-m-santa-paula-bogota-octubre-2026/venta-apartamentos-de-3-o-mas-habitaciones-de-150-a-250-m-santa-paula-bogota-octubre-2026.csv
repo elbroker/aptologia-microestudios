@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,106
+filtro,habitaciones,3+,,106
+filtro,area5,"de 150 a 250 m²",,106
+precio,p25,1200000000.0,COP,106
+precio,mediana,1450000000.0,COP,106
+precio,p75,1893750000.0,COP,106
+precio,minimo,780000000.0,COP,106
+precio,maximo,3000000000.0,COP,106
+m2,mediana_precio_m2,7926284.44,COP,106
+m2,area_mediana_m2,189.1,m2,106
+admin,mediana_admin_mes,1500000.0,COP,98
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,106
+estrato,estrato_mas_frecuente,6,,106
+habitaciones,3+,1450000000.0,COP,106
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-paula,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,398750000.0,COP,36
+precio,mediana,444000000.0,COP,36
+precio,p75,635000000.0,COP,36
+precio,minimo,275000000.0,COP,36
+precio,maximo,1400000000.0,COP,36
+m2,mediana_precio_m2,3700000.0,COP,35
+m2,area_mediana_m2,122.5,m2,35
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,71.0,%,31
+estrato,estrato_mas_frecuente,5,,35
+habitaciones,3+,444000000.0,COP,36
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,3718518.52,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/monteria/la-castellana,,
+fuente,licencia,CC BY 4.0,,

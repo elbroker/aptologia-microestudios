@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,31
+filtro,estrato,6,,31
+filtro,masc,"que aceptan mascotas",,31
+precio,p25,3575500.0,COP,31
+precio,mediana,4478000.0,COP,31
+precio,p75,5640000.0,COP,31
+precio,minimo,2700000.0,COP,31
+precio,maximo,14336000.0,COP,31
+m2,mediana_precio_m2,50000.0,COP,31
+m2,area_mediana_m2,100.0,m2,31
+admin,mediana_admin_mes,961500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,1,3551000.0,COP,7
+habitaciones,2,5000000.0,COP,13
+habitaciones,3+,5000000.0,COP,11
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena,,
+fuente,licencia,CC BY 4.0,,

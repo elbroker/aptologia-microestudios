@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,288
+filtro,parq1,"con parqueadero",,288
+filtro,piso2,"en piso 4 a 8",,288
+precio,p25,895000000.0,COP,288
+precio,mediana,1350000000.0,COP,288
+precio,p75,2200000000.0,COP,288
+precio,minimo,250000000.0,COP,288
+precio,maximo,4200000000.0,COP,288
+m2,mediana_precio_m2,9183673.47,COP,261
+m2,area_mediana_m2,153.6,m2,261
+admin,mediana_admin_mes,1369950.0,COP,256
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,288
+estrato,estrato_mas_frecuente,6,,287
+habitaciones,1,620000000.0,COP,43
+habitaciones,2,1130000000.0,COP,73
+habitaciones,3+,1700000000.0,COP,172
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico,,
+fuente,licencia,CC BY 4.0,,

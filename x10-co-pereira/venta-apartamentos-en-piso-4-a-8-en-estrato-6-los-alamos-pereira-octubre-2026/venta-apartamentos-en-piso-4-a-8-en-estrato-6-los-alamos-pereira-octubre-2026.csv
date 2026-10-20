@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,6,,35
+filtro,piso2,"en piso 4 a 8",,35
+precio,p25,455000000.0,COP,35
+precio,mediana,554000000.0,COP,35
+precio,p75,705000000.0,COP,35
+precio,minimo,250000000.0,COP,35
+precio,maximo,1200000000.0,COP,35
+m2,mediana_precio_m2,6329113.92,COP,35
+m2,area_mediana_m2,88.0,m2,35
+admin,mediana_admin_mes,405000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,2,520000000.0,COP,14
+habitaciones,3+,590000000.0,COP,19
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/los-alamos,,
+fuente,licencia,CC BY 4.0,,

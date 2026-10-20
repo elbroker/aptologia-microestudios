@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,197
+filtro,habitaciones,3+,,197
+filtro,parq1,"con parqueadero",,197
+precio,p25,310000000.0,COP,197
+precio,mediana,368480000.0,COP,197
+precio,p75,440000000.0,COP,197
+precio,minimo,175000000.0,COP,197
+precio,maximo,870000000.0,COP,197
+m2,mediana_precio_m2,4733285.92,COP,196
+m2,area_mediana_m2,76.0,m2,196
+admin,mediana_admin_mes,354500.0,COP,158
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,197
+estrato,estrato_mas_frecuente,4,,196
+habitaciones,3+,368480000.0,COP,197
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/bochalema,,
+fuente,licencia,CC BY 4.0,,

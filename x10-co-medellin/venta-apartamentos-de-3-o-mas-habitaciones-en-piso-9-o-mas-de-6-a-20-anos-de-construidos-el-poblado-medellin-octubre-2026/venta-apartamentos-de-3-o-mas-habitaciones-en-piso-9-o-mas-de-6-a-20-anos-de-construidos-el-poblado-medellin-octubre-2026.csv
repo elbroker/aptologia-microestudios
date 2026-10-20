@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,45
+filtro,habitaciones,3+,,45
+filtro,piso3,"en piso 9 o más",,45
+filtro,edad2,"de 6 a 20 años de construidos",,45
+precio,p25,980000000.0,COP,45
+precio,mediana,1460000000.0,COP,45
+precio,p75,1800000000.0,COP,45
+precio,minimo,550000000.0,COP,45
+precio,maximo,3230000000.0,COP,45
+m2,mediana_precio_m2,9482758.62,COP,45
+m2,area_mediana_m2,158.0,m2,45
+admin,mediana_admin_mes,1090000.0,COP,37
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,84.4,%,45
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,3+,1460000000.0,COP,45
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

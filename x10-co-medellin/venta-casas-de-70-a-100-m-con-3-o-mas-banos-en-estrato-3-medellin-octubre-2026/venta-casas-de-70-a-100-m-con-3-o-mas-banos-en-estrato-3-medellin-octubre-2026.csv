@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,33
+filtro,estrato,3,,33
+filtro,area3,"de 70 a 100 m²",,33
+filtro,ban3,"con 3 o más baños",,33
+precio,p25,312000000.0,COP,33
+precio,mediana,385000000.0,COP,33
+precio,p75,450000000.0,COP,33
+precio,minimo,290000000.0,COP,33
+precio,maximo,1200000000.0,COP,33
+m2,mediana_precio_m2,4777777.78,COP,33
+m2,area_mediana_m2,87.0,m2,33
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,3,,33
+habitaciones,3+,390000000.0,COP,31
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin,,
+fuente,licencia,CC BY 4.0,,

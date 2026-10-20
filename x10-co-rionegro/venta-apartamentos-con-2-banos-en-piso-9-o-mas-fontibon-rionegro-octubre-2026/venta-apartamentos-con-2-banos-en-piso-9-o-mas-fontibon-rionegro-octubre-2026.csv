@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,60
+filtro,ban2,"con 2 baños",,60
+filtro,piso3,"en piso 9 o más",,60
+precio,p25,320000000.0,COP,60
+precio,mediana,352500000.0,COP,60
+precio,p75,376250000.0,COP,60
+precio,minimo,260000000.0,COP,60
+precio,maximo,450000000.0,COP,60
+m2,mediana_precio_m2,6034482.76,COP,59
+m2,area_mediana_m2,57.8,m2,59
+admin,mediana_admin_mes,270000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.9,%,59
+estrato,estrato_mas_frecuente,4,,60
+habitaciones,2,360000000.0,COP,27
+habitaciones,3+,350000000.0,COP,33
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/fontibon,,
+fuente,licencia,CC BY 4.0,,

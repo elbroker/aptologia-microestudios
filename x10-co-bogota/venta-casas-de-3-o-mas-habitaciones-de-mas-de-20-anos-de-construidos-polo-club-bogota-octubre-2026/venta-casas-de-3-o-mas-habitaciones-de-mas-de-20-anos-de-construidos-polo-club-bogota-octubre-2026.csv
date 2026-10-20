@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,49
+filtro,habitaciones,3+,,49
+filtro,edad3,"de más de 20 años de construidos",,49
+precio,p25,1000000000.0,COP,49
+precio,mediana,1180000000.0,COP,49
+precio,p75,1500000000.0,COP,49
+precio,minimo,830000000.0,COP,49
+precio,maximo,3125000000.0,COP,49
+m2,mediana_precio_m2,5311778.29,COP,49
+m2,area_mediana_m2,244.0,m2,49
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,95.9,%,49
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,3+,1180000000.0,COP,49
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/polo-club,,
+fuente,licencia,CC BY 4.0,,

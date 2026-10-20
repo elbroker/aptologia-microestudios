@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,edad2,"de 6 a 20 años de construidos",,30
+precio,p25,781250000.0,COP,30
+precio,mediana,970000000.0,COP,30
+precio,p75,1270000000.0,COP,30
+precio,minimo,375000000.0,COP,30
+precio,maximo,2750000000.0,COP,30
+m2,mediana_precio_m2,7698412.7,COP,30
+m2,area_mediana_m2,134.0,m2,30
+admin,mediana_admin_mes,822350.0,COP,24
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,96.7,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,970000000.0,COP,30
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/zuniga,,
+fuente,licencia,CC BY 4.0,,

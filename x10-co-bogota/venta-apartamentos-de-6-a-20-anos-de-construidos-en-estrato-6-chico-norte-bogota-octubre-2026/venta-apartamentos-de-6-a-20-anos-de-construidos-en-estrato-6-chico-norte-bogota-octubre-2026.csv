@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,168
+filtro,estrato,6,,168
+filtro,edad2,"de 6 a 20 años de construidos",,168
+precio,p25,879750000.0,COP,168
+precio,mediana,1425000000.0,COP,168
+precio,p75,1922500000.0,COP,168
+precio,minimo,330000000.0,COP,168
+precio,maximo,4000080000.0,COP,168
+m2,mediana_precio_m2,10326797.39,COP,163
+m2,area_mediana_m2,143.0,m2,163
+admin,mediana_admin_mes,1350000.0,COP,160
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,168
+estrato,estrato_mas_frecuente,6,,168
+habitaciones,1,647500000.0,COP,30
+habitaciones,2,1150000000.0,COP,57
+habitaciones,3+,1900000000.0,COP,81
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

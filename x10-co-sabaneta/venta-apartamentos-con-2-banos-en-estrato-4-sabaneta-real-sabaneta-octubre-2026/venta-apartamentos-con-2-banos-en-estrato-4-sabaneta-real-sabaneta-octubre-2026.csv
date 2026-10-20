@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,44
+filtro,estrato,4,,44
+filtro,ban2,"con 2 baños",,44
+precio,p25,487500000.0,COP,44
+precio,mediana,524500000.0,COP,44
+precio,p75,623750000.0,COP,44
+precio,minimo,305000000.0,COP,44
+precio,maximo,1100000000.0,COP,44
+m2,mediana_precio_m2,7390756.3,COP,44
+m2,area_mediana_m2,74.0,m2,44
+admin,mediana_admin_mes,350000.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,4,,44
+habitaciones,2,510000000.0,COP,14
+habitaciones,3+,563000000.0,COP,28
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/sabaneta-real,,
+fuente,licencia,CC BY 4.0,,

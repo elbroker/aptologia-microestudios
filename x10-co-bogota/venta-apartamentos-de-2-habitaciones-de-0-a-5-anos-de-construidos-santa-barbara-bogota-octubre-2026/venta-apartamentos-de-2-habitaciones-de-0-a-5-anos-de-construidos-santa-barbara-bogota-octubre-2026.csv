@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,104
+filtro,habitaciones,2,,104
+filtro,edad1,"de 0 a 5 años de construidos",,104
+precio,p25,638750000.0,COP,104
+precio,mediana,805000000.0,COP,104
+precio,p75,1055000000.0,COP,104
+precio,minimo,430000000.0,COP,104
+precio,maximo,2643000000.0,COP,104
+m2,mediana_precio_m2,9037037.04,COP,99
+m2,area_mediana_m2,87.5,m2,99
+admin,mediana_admin_mes,933700.0,COP,93
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,104
+estrato,estrato_mas_frecuente,6,,103
+habitaciones,2,805000000.0,COP,104
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

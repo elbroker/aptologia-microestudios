@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,517
+filtro,estrato,6,,517
+filtro,edad1,"de 0 a 5 años de construidos",,517
+precio,p25,1600000000.0,COP,517
+precio,mediana,2200000000.0,COP,517
+precio,p75,3490000000.0,COP,517
+precio,minimo,420000000.0,COP,517
+precio,maximo,8000000000.0,COP,517
+m2,mediana_precio_m2,5000000.0,COP,437
+m2,area_mediana_m2,474.0,m2,437
+admin,mediana_admin_mes,709500.0,COP,262
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.8,%,505
+estrato,estrato_mas_frecuente,6,,517
+habitaciones,3+,2200000000.0,COP,510
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

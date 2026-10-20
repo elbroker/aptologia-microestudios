@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,81
+filtro,ban2,"con 2 baños",,81
+filtro,edad1,"de 0 a 5 años de construidos",,81
+precio,p25,225000000.0,COP,81
+precio,mediana,260000000.0,COP,81
+precio,p75,315000000.0,COP,81
+precio,minimo,180000000.0,COP,81
+precio,maximo,3100000000.0,COP,81
+m2,mediana_precio_m2,4162337.66,COP,80
+m2,area_mediana_m2,65.0,m2,80
+admin,mediana_admin_mes,210330.0,COP,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.0,%,66
+estrato,estrato_mas_frecuente,3,,80
+habitaciones,2,290000000.0,COP,13
+habitaciones,3+,260000000.0,COP,68
+ciudad,mediana_ciudad_referencia,380000000.0,COP,
+ciudad,mediana_m2_ciudad,5332555.5,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia/puerto-espejo,,
+fuente,licencia,CC BY 4.0,,

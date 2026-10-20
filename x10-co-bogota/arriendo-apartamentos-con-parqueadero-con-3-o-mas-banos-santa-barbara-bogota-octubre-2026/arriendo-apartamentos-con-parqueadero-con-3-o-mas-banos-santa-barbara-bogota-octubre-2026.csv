@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,166
+filtro,parq1,"con parqueadero",,166
+filtro,ban3,"con 3 o más baños",,166
+precio,p25,5512400.0,COP,166
+precio,mediana,7250000.0,COP,166
+precio,p75,10000000.0,COP,166
+precio,minimo,2600000.0,COP,166
+precio,maximo,20000000.0,COP,166
+m2,mediana_precio_m2,44933.43,COP,164
+m2,area_mediana_m2,160.0,m2,164
+admin,mediana_admin_mes,1300000.0,COP,85
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,166
+estrato,estrato_mas_frecuente,6,,163
+habitaciones,2,5000000.0,COP,33
+habitaciones,3+,8000000.0,COP,132
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-barbara,,
+fuente,licencia,CC BY 4.0,,

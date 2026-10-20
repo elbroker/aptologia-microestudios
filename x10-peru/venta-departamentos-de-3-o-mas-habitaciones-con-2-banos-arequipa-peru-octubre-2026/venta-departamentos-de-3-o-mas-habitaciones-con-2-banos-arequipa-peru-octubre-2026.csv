@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,192
+filtro,habitaciones,3+,,192
+filtro,ban2,"con 2 baños",,192
+precio,p25,430255.5,PEN,192
+precio,mediana,520000.0,PEN,192
+precio,p75,627037.5,PEN,192
+precio,minimo,245000.0,PEN,192
+precio,maximo,2184875.0,PEN,192
+m2,mediana_precio_m2,4462.62,PEN,185
+m2,area_mediana_m2,119.5,m2,185
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,151
+habitaciones,3+,520000.0,PEN,192
+ciudad,mediana_ciudad_referencia,501350.0,PEN,
+ciudad,mediana_m2_ciudad,4214.57,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/arequipa,,
+fuente,licencia,CC BY 4.0,,

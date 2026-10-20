@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,61
+filtro,balc,"con balcón",,61
+filtro,ban3,"con 3 o más baños",,61
+precio,p25,7800000.0,COP,61
+precio,mediana,9600000.0,COP,61
+precio,p75,14000000.0,COP,61
+precio,minimo,4600000.0,COP,61
+precio,maximo,20000000.0,COP,61
+m2,mediana_precio_m2,50909.09,COP,61
+m2,area_mediana_m2,192.0,m2,61
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,61
+estrato,estrato_mas_frecuente,6,,61
+habitaciones,2,8000000.0,COP,13
+habitaciones,3+,9940000.0,COP,48
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-campestre,,
+fuente,licencia,CC BY 4.0,,

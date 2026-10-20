@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,61
+filtro,balc,"con balcón",,61
+filtro,ban2,"con 2 baños",,61
+precio,p25,4400000.0,COP,61
+precio,mediana,5680000.0,COP,61
+precio,p75,6800000.0,COP,61
+precio,minimo,1700000.0,COP,61
+precio,maximo,16000000.0,COP,61
+m2,mediana_precio_m2,63157.89,COP,59
+m2,area_mediana_m2,90.0,m2,59
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,61
+estrato,estrato_mas_frecuente,6,,61
+habitaciones,1,4800000.0,COP,11
+habitaciones,2,5740000.0,COP,48
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/lalinde,,
+fuente,licencia,CC BY 4.0,,

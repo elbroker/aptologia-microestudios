@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,74
+filtro,parq1,"con parqueadero",,74
+filtro,ban3,"con 3 o más baños",,74
+precio,p25,880000000.0,COP,74
+precio,mediana,1172500000.0,COP,74
+precio,p75,1600000000.0,COP,74
+precio,minimo,680000000.0,COP,74
+precio,maximo,3500000000.0,COP,74
+m2,mediana_precio_m2,7238636.36,COP,74
+m2,area_mediana_m2,146.5,m2,74
+admin,mediana_admin_mes,1150000.0,COP,69
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,74
+estrato,estrato_mas_frecuente,6,,74
+habitaciones,2,845000000.0,COP,11
+habitaciones,3+,1250000000.0,COP,61
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-norte-iii,,
+fuente,licencia,CC BY 4.0,,

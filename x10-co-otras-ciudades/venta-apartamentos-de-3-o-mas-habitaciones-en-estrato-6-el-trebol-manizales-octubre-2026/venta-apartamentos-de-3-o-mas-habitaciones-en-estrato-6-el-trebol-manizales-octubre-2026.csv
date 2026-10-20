@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,64
+filtro,habitaciones,3+,,64
+filtro,estrato,6,,64
+precio,p25,611250000.0,COP,64
+precio,mediana,710000000.0,COP,64
+precio,p75,810000000.0,COP,64
+precio,minimo,400000000.0,COP,64
+precio,maximo,1900000000.0,COP,64
+m2,mediana_precio_m2,7204861.11,COP,64
+m2,area_mediana_m2,98.0,m2,64
+admin,mediana_admin_mes,413500.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.8,%,64
+estrato,estrato_mas_frecuente,6,,64
+habitaciones,3+,710000000.0,COP,64
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/el-trebol,,
+fuente,licencia,CC BY 4.0,,

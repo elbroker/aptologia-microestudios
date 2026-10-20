@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,3+,,40
+filtro,area5,"de 150 a 250 m²",,40
+precio,p25,1085000000.0,COP,40
+precio,mediana,1182500000.0,COP,40
+precio,p75,1423750000.0,COP,40
+precio,minimo,705000000.0,COP,40
+precio,maximo,3300000000.0,COP,40
+m2,mediana_precio_m2,5616113.74,COP,39
+m2,area_mediana_m2,218.2,m2,39
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,5,,38
+habitaciones,3+,1182500000.0,COP,40
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/alhambra,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,53
+filtro,ban3,"con 3 o más baños",,53
+filtro,piso2,"en piso 4 a 8",,53
+precio,p25,720000000.0,COP,53
+precio,mediana,927000000.0,COP,53
+precio,p75,1088000000.0,COP,53
+precio,minimo,520000000.0,COP,53
+precio,maximo,1400000000.0,COP,53
+m2,mediana_precio_m2,7132243.68,COP,53
+m2,area_mediana_m2,128.0,m2,53
+admin,mediana_admin_mes,1000500.0,COP,50
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.1,%,53
+estrato,estrato_mas_frecuente,5,,53
+habitaciones,2,720000000.0,COP,10
+habitaciones,3+,930000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/pasadena,,
+fuente,licencia,CC BY 4.0,,

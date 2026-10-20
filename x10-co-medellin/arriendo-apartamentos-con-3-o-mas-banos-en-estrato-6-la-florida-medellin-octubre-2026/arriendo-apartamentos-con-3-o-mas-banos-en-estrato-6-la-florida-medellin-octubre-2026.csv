@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,51
+filtro,estrato,6,,51
+filtro,ban3,"con 3 o más baños",,51
+precio,p25,7350000.0,COP,51
+precio,mediana,8500000.0,COP,51
+precio,p75,11150000.0,COP,51
+precio,minimo,4300000.0,COP,51
+precio,maximo,18500000.0,COP,51
+m2,mediana_precio_m2,50306.75,COP,51
+m2,area_mediana_m2,160.0,m2,51
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,2,8650000.0,COP,9
+habitaciones,3+,8425000.0,COP,42
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-florida,,
+fuente,licencia,CC BY 4.0,,

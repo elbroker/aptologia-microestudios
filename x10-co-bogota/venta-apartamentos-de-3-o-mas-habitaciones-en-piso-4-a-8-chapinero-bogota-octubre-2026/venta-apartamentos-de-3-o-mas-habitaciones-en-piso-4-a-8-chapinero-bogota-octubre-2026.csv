@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,68
+filtro,habitaciones,3+,,68
+filtro,piso2,"en piso 4 a 8",,68
+precio,p25,603750000.0,COP,68
+precio,mediana,1525000000.0,COP,68
+precio,p75,2225000000.0,COP,68
+precio,minimo,225000000.0,COP,68
+precio,maximo,4100000000.0,COP,68
+m2,mediana_precio_m2,7700779.4,COP,66
+m2,area_mediana_m2,185.0,m2,66
+admin,mediana_admin_mes,1400000.0,COP,63
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,96.7,%,61
+estrato,estrato_mas_frecuente,6,,68
+habitaciones,3+,1525000000.0,COP,68
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

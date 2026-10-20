@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,1,,40
+filtro,area2,"de 45 a 70 m²",,40
+precio,p25,521750000.0,COP,40
+precio,mediana,563500000.0,COP,40
+precio,p75,650000000.0,COP,40
+precio,minimo,405000000.0,COP,40
+precio,maximo,1000000000.0,COP,40
+m2,mediana_precio_m2,10009615.38,COP,40
+m2,area_mediana_m2,56.9,m2,40
+admin,mediana_admin_mes,650000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,1,563500000.0,COP,40
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/san-patricio,,
+fuente,licencia,CC BY 4.0,,

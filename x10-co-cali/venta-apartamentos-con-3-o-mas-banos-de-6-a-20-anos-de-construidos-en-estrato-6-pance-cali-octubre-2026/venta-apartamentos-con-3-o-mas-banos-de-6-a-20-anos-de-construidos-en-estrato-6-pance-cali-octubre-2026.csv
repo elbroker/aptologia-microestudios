@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,84
+filtro,estrato,6,,84
+filtro,ban3,"con 3 o más baños",,84
+filtro,edad2,"de 6 a 20 años de construidos",,84
+precio,p25,797500000.0,COP,84
+precio,mediana,1030000000.0,COP,84
+precio,p75,1300000000.0,COP,84
+precio,minimo,535000000.0,COP,84
+precio,maximo,2050000000.0,COP,84
+m2,mediana_precio_m2,6462585.03,COP,83
+m2,area_mediana_m2,144.3,m2,83
+admin,mediana_admin_mes,900000.0,COP,76
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.8,%,84
+estrato,estrato_mas_frecuente,6,,84
+habitaciones,3+,1030000000.0,COP,82
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/pance,,
+fuente,licencia,CC BY 4.0,,

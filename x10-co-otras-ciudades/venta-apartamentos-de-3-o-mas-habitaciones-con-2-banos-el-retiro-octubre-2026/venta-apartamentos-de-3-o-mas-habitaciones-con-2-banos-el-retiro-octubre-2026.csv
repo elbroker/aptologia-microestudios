@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,85
+filtro,habitaciones,3+,,85
+filtro,ban2,"con 2 baños",,85
+precio,p25,560000000.0,COP,85
+precio,mediana,660000000.0,COP,85
+precio,p75,790000000.0,COP,85
+precio,minimo,290000000.0,COP,85
+precio,maximo,1990000000.0,COP,85
+m2,mediana_precio_m2,8750000.0,COP,85
+m2,area_mediana_m2,78.0,m2,85
+admin,mediana_admin_mes,394000.0,COP,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,78
+estrato,estrato_mas_frecuente,5,,80
+habitaciones,3+,660000000.0,COP,85
+ciudad,mediana_ciudad_referencia,730000000.0,COP,
+ciudad,mediana_m2_ciudad,9321839.08,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-retiro,,
+fuente,licencia,CC BY 4.0,,

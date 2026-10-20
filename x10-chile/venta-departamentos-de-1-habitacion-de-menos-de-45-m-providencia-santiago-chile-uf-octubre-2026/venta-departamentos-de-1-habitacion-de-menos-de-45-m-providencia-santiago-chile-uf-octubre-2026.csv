@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,112
+filtro,habitaciones,1,,112
+filtro,area1,"de menos de 45 m²",,112
+precio,p25,3600.0,UF,112
+precio,mediana,4114.68,UF,112
+precio,p75,4500.0,UF,112
+precio,minimo,1405.0,UF,112
+precio,maximo,6500.0,UF,112
+m2,mediana_precio_m2,109.37,UF,110
+m2,area_mediana_m2,37.0,m2,110
+banos,mediana_banos,1.0,,
+habitaciones,1,4114.68,UF,112
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,55
+filtro,habitaciones,3+,,55
+filtro,area3,"de 70 a 100 m²",,55
+filtro,ban3,"con 3 o más baños",,55
+precio,p25,65000.0,USD,55
+precio,mediana,75000.0,USD,55
+precio,p75,87500.0,USD,55
+precio,minimo,49500.0,USD,55
+precio,maximo,498000.0,USD,55
+m2,mediana_precio_m2,823.91,USD,54
+m2,area_mediana_m2,91.0,m2,54
+banos,mediana_banos,3.0,,
+habitaciones,3+,75000.0,USD,55
+ciudad,mediana_ciudad_referencia,220000.0,USD,
+ciudad,mediana_m2_ciudad,945.97,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/guayaquil,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,57
+filtro,parq1,"con estacionamiento",,57
+filtro,ban2,"con 2 baños",,57
+precio,p25,275000.0,USD,57
+precio,mediana,336386.0,USD,57
+precio,p75,441225.0,USD,57
+precio,minimo,199000.0,USD,57
+precio,maximo,1250000.0,USD,57
+m2,mediana_precio_m2,3461.54,USD,47
+m2,area_mediana_m2,96.0,m2,47
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+habitaciones,2,303970.0,USD,43
+habitaciones,3+,620000.0,USD,14
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/la-barra,,
+fuente,licencia,CC BY 4.0,,

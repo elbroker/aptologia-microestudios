@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,75
+filtro,piso2,"en piso 4 a 8",,75
+filtro,edad1,"de 0 a 5 años de construidos",,75
+precio,p25,220000000.0,COP,75
+precio,mediana,250000000.0,COP,75
+precio,p75,290000000.0,COP,75
+precio,minimo,163000000.0,COP,75
+precio,maximo,520000000.0,COP,75
+m2,mediana_precio_m2,3974358.97,COP,75
+m2,area_mediana_m2,62.0,m2,75
+admin,mediana_admin_mes,242000.0,COP,65
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.9,%,33
+estrato,estrato_mas_frecuente,4,,75
+habitaciones,2,239000000.0,COP,49
+habitaciones,3+,262500000.0,COP,26
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-pacifica,,
+fuente,licencia,CC BY 4.0,,

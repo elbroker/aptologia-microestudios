@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,5,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,720000000.0,COP,55
+precio,mediana,810000000.0,COP,55
+precio,p75,900000000.0,COP,55
+precio,minimo,410000000.0,COP,55
+precio,maximo,1750000000.0,COP,55
+m2,mediana_precio_m2,7876106.19,COP,55
+m2,area_mediana_m2,105.0,m2,55
+admin,mediana_admin_mes,600000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,54
+estrato,estrato_mas_frecuente,5,,55
+habitaciones,2,745000000.0,COP,19
+habitaciones,3+,820000000.0,COP,34
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/zuniga,,
+fuente,licencia,CC BY 4.0,,

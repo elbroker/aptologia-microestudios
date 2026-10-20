@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,423
+filtro,estrato,3,,423
+precio,p25,2400000.0,COP,423
+precio,mediana,2950000.0,COP,423
+precio,p75,3675000.0,COP,423
+precio,minimo,1400000.0,COP,423
+precio,maximo,11111111.0,COP,423
+m2,mediana_precio_m2,37638.89,COP,418
+m2,area_mediana_m2,78.0,m2,418
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,74.1,%,286
+estrato,estrato_mas_frecuente,3,,423
+habitaciones,1,2200000.0,COP,17
+habitaciones,2,2600000.0,COP,100
+habitaciones,3+,3000000.0,COP,306
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado,,
+fuente,licencia,CC BY 4.0,,

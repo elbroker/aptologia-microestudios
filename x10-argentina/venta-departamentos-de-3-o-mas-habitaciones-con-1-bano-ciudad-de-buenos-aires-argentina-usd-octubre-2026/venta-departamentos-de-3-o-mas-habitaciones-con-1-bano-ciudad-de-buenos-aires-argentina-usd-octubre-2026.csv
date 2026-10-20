@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,684
+filtro,habitaciones,3+,,684
+filtro,ban1,"con 1 baño",,684
+precio,p25,109000.0,USD,684
+precio,mediana,145000.0,USD,684
+precio,p75,185000.0,USD,684
+precio,minimo,42000.0,USD,684
+precio,maximo,685409.0,USD,684
+m2,mediana_precio_m2,1692.61,USD,658
+m2,area_mediana_m2,81.0,m2,658
+banos,mediana_banos,1.0,,
+habitaciones,3+,145000.0,USD,684
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,2558.48,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

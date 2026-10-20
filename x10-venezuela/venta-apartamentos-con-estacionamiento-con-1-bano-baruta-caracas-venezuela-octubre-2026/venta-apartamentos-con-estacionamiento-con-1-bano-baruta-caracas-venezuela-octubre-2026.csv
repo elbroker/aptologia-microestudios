@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,52
+filtro,parq1,"con estacionamiento",,52
+filtro,ban1,"con 1 baño",,52
+precio,p25,212390.0,USD,52
+precio,mediana,295650.0,USD,52
+precio,p75,345850.0,USD,52
+precio,minimo,95000.0,USD,52
+precio,maximo,749000.0,USD,52
+m2,mediana_precio_m2,5714.29,USD,35
+m2,area_mediana_m2,48.0,m2,35
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+habitaciones,1,287500.0,USD,42
+habitaciones,3+,300920.0,USD,7
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/baruta,,
+fuente,licencia,CC BY 4.0,,

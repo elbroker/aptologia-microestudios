@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,49
+filtro,estrato,4,,49
+filtro,edad2,"de 6 a 20 años de construidos",,49
+precio,p25,420000000.0,COP,49
+precio,mediana,570000000.0,COP,49
+precio,p75,660000000.0,COP,49
+precio,minimo,255000000.0,COP,49
+precio,maximo,890000000.0,COP,49
+m2,mediana_precio_m2,7636363.64,COP,49
+m2,area_mediana_m2,69.0,m2,49
+admin,mediana_admin_mes,400000.0,COP,41
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.9,%,49
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,2,480000000.0,COP,19
+habitaciones,3+,585000000.0,COP,30
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

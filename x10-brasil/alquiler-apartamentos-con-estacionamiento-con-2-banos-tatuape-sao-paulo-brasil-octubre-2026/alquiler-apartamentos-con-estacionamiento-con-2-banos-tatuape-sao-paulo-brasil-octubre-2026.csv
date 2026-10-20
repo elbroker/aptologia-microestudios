@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,45
+filtro,parq1,"con estacionamiento",,45
+filtro,ban2,"con 2 baños",,45
+precio,p25,3268.0,BRL,45
+precio,mediana,3980.0,BRL,45
+precio,p75,5500.0,BRL,45
+precio,minimo,2210.0,BRL,45
+precio,maximo,11800.0,BRL,45
+m2,mediana_precio_m2,57.89,BRL,45
+m2,area_mediana_m2,69.0,m2,45
+admin,mediana_admin_mes,942.5,BRL,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+habitaciones,2,4000.0,BRL,29
+habitaciones,3+,3750.0,BRL,15
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/tatuape,,
+fuente,licencia,CC BY 4.0,,

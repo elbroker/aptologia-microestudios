@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area3,"de 70 a 100 m²",,32
+filtro,ban1,"con 1 baño",,32
+precio,p25,262150.0,USD,32
+precio,mediana,272550.0,USD,32
+precio,p75,292250.0,USD,32
+precio,minimo,176900.0,USD,32
+precio,maximo,340000.0,USD,32
+m2,mediana_precio_m2,3629.38,USD,32
+m2,area_mediana_m2,77.0,m2,32
+banos,mediana_banos,1.0,,
+habitaciones,1,260500.0,USD,12
+habitaciones,2,285500.0,USD,20
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/carrasco,,
+fuente,licencia,CC BY 4.0,,

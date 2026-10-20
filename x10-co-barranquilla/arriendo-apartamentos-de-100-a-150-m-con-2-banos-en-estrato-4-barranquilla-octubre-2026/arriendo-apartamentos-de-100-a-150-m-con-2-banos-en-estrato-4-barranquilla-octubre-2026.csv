@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,92
+filtro,estrato,4,,92
+filtro,area4,"de 100 a 150 m²",,92
+filtro,ban2,"con 2 baños",,92
+precio,p25,2400000.0,COP,92
+precio,mediana,3000000.0,COP,92
+precio,p75,3406250.0,COP,92
+precio,minimo,1600000.0,COP,92
+precio,maximo,7500000.0,COP,92
+m2,mediana_precio_m2,26470.59,COP,90
+m2,area_mediana_m2,110.0,m2,90
+admin,mediana_admin_mes,498000.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.3,%,81
+estrato,estrato_mas_frecuente,4,,92
+habitaciones,2,3000000.0,COP,7
+habitaciones,3+,3000000.0,COP,85
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla,,
+fuente,licencia,CC BY 4.0,,

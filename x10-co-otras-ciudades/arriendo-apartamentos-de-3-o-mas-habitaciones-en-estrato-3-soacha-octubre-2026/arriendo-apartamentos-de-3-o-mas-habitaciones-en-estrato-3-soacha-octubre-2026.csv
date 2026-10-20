@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,58
+filtro,habitaciones,3+,,58
+filtro,estrato,3,,58
+precio,p25,902000.0,COP,58
+precio,mediana,950000.0,COP,58
+precio,p75,1035100.0,COP,58
+precio,minimo,850000.0,COP,58
+precio,maximo,1500000.0,COP,58
+m2,mediana_precio_m2,18679.73,COP,50
+m2,area_mediana_m2,53.0,m2,50
+admin,mediana_admin_mes,120000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,16.1,%,31
+estrato,estrato_mas_frecuente,3,,58
+habitaciones,3+,950000.0,COP,58
+ciudad,mediana_ciudad_referencia,950000.0,COP,
+ciudad,mediana_m2_ciudad,19098.28,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/soacha,,
+fuente,licencia,CC BY 4.0,,

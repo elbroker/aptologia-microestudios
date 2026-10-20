@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,41
+filtro,habitaciones,1,,41
+filtro,parq1,"con estacionamiento",,41
+precio,p25,136000.0,USD,41
+precio,mediana,147000.0,USD,41
+precio,p75,165000.0,USD,41
+precio,minimo,119500.0,USD,41
+precio,maximo,189200.0,USD,41
+m2,mediana_precio_m2,3136.07,USD,40
+m2,area_mediana_m2,48.0,m2,40
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+habitaciones,1,147000.0,USD,41
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,3040.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/la-blanqueada,,
+fuente,licencia,CC BY 4.0,,

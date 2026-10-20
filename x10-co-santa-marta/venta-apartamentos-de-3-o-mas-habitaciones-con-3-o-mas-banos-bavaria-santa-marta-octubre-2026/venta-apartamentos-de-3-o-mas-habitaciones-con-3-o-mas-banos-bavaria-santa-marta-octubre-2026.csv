@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,98
+filtro,habitaciones,3+,,98
+filtro,ban3,"con 3 o más baños",,98
+precio,p25,452250000.0,COP,98
+precio,mediana,599990000.0,COP,98
+precio,p75,925929900.0,COP,98
+precio,minimo,275000000.0,COP,98
+precio,maximo,2330000000.0,COP,98
+m2,mediana_precio_m2,4385410.52,COP,92
+m2,area_mediana_m2,156.0,m2,92
+admin,mediana_admin_mes,844000.0,COP,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.9,%,97
+estrato,estrato_mas_frecuente,6,,97
+habitaciones,3+,599990000.0,COP,98
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bavaria,,
+fuente,licencia,CC BY 4.0,,

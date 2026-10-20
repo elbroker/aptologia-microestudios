@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,45
+filtro,estrato,3,,45
+filtro,edad2,"de 6 a 20 años de construidos",,45
+precio,p25,165000000.0,COP,45
+precio,mediana,185000000.0,COP,45
+precio,p75,220000000.0,COP,45
+precio,minimo,150000000.0,COP,45
+precio,maximo,300000000.0,COP,45
+m2,mediana_precio_m2,3495574.73,COP,44
+m2,area_mediana_m2,54.3,m2,44
+admin,mediana_admin_mes,124700.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,15.6,%,45
+estrato,estrato_mas_frecuente,3,,45
+habitaciones,3+,187000000.0,COP,42
+ciudad,mediana_ciudad_referencia,170000000.0,COP,
+ciudad,mediana_m2_ciudad,3393617.02,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/soacha/ciudad-verde,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,69
+filtro,estrato,6,,69
+filtro,balc,"con balcón",,69
+precio,p25,2550000.0,COP,69
+precio,mediana,3250000.0,COP,69
+precio,p75,4520000.0,COP,69
+precio,minimo,1475000.0,COP,69
+precio,maximo,6623000.0,COP,69
+m2,mediana_precio_m2,90000.0,COP,64
+m2,area_mediana_m2,35.0,m2,64
+admin,mediana_admin_mes,463557.0,COP,35
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,70.9,%,55
+estrato,estrato_mas_frecuente,6,,69
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

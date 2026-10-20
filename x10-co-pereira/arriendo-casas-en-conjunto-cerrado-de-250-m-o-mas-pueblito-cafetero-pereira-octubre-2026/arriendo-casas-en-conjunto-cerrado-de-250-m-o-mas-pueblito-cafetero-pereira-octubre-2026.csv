@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,conj,"en conjunto cerrado",,42
+filtro,area6,"de 250 m² o más",,42
+precio,p25,7350000.0,COP,42
+precio,mediana,8400000.0,COP,42
+precio,p75,9450000.0,COP,42
+precio,minimo,4000000.0,COP,42
+precio,maximo,18000000.0,COP,42
+m2,mediana_precio_m2,22192.19,COP,36
+m2,area_mediana_m2,355.0,m2,36
+admin,mediana_admin_mes,490000.0,COP,30
+banos,mediana_banos,4.5,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,8300000.0,COP,41
+ciudad,mediana_ciudad_referencia,6460000.0,COP,
+ciudad,mediana_m2_ciudad,22058.82,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/pereira/pueblito-cafetero,,
+fuente,licencia,CC BY 4.0,,

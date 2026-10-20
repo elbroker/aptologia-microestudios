@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,area2,"de 45 a 70 m²",,37
+precio,p25,456000000.0,COP,37
+precio,mediana,479000000.0,COP,37
+precio,p75,505000000.0,COP,37
+precio,minimo,400000000.0,COP,37
+precio,maximo,550000000.0,COP,37
+m2,mediana_precio_m2,7424242.42,COP,37
+m2,area_mediana_m2,66.0,m2,37
+admin,mediana_admin_mes,360000.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,4,,37
+habitaciones,3+,479000000.0,COP,37
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-cuenca,,
+fuente,licencia,CC BY 4.0,,

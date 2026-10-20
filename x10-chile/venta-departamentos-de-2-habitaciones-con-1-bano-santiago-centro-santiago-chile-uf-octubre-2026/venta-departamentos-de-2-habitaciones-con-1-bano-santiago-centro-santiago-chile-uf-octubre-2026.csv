@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,473
+filtro,habitaciones,2,,473
+filtro,ban1,"con 1 baño",,473
+precio,p25,1963.0,UF,473
+precio,mediana,2398.0,UF,473
+precio,p75,2950.0,UF,473
+precio,minimo,1300.0,UF,473
+precio,maximo,11000.0,UF,473
+m2,mediana_precio_m2,51.62,UF,354
+m2,area_mediana_m2,46.0,m2,354
+banos,mediana_banos,1.0,,
+habitaciones,2,2398.0,UF,473
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

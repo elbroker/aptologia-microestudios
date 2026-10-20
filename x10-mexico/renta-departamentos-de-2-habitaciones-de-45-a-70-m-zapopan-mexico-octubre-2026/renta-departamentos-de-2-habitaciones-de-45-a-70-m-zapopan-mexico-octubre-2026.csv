@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,2,,38
+filtro,area2,"de 45 a 70 m²",,38
+precio,p25,12750.0,MXN,38
+precio,mediana,17500.0,MXN,38
+precio,p75,21800.0,MXN,38
+precio,minimo,7800.0,MXN,38
+precio,maximo,50000.0,MXN,38
+m2,mediana_precio_m2,285.71,MXN,37
+m2,area_mediana_m2,63.5,m2,37
+banos,mediana_banos,2.0,,
+habitaciones,2,17500.0,MXN,38
+ciudad,mediana_ciudad_referencia,28000.0,MXN,
+ciudad,mediana_m2_ciudad,295.22,MXN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,49
+filtro,habitaciones,1,,49
+filtro,area2,"de 45 a 70 m²",,49
+precio,p25,140500.0,USD,49
+precio,mediana,155000.0,USD,49
+precio,p75,173900.0,USD,49
+precio,minimo,97000.0,USD,49
+precio,maximo,205000.0,USD,49
+m2,mediana_precio_m2,2810.0,USD,49
+m2,area_mediana_m2,59.0,m2,49
+banos,mediana_banos,1.0,,
+habitaciones,1,155000.0,USD,49
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/evaristo-morales,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,139
+filtro,masc,"que aceptan mascotas",,139
+filtro,ban3,"con 3 o más baños",,139
+precio,p25,6000000.0,COP,139
+precio,mediana,8000000.0,COP,139
+precio,p75,12250000.0,COP,139
+precio,minimo,4200000.0,COP,139
+precio,maximo,18000000.0,COP,139
+m2,mediana_precio_m2,50229.36,COP,136
+m2,area_mediana_m2,150.0,m2,136
+admin,mediana_admin_mes,1000000.0,COP,16
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.3,%,137
+estrato,estrato_mas_frecuente,6,,135
+habitaciones,2,6000000.0,COP,27
+habitaciones,3+,9000000.0,COP,112
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

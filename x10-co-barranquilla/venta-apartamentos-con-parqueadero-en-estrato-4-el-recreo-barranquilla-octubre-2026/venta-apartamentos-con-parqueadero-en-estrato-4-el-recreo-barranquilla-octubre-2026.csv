@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,48
+filtro,estrato,4,,48
+filtro,parq1,"con parqueadero",,48
+precio,p25,250000000.0,COP,48
+precio,mediana,315000000.0,COP,48
+precio,p75,359250000.0,COP,48
+precio,minimo,170000000.0,COP,48
+precio,maximo,650000000.0,COP,48
+m2,mediana_precio_m2,3589743.59,COP,47
+m2,area_mediana_m2,86.5,m2,47
+admin,mediana_admin_mes,330500.0,COP,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,2,207500000.0,COP,14
+habitaciones,3+,329000000.0,COP,34
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/el-recreo,,
+fuente,licencia,CC BY 4.0,,

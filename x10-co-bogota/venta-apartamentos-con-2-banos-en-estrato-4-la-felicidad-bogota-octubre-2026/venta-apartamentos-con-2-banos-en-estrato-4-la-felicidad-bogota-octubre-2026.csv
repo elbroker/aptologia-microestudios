@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,67
+filtro,estrato,4,,67
+filtro,ban2,"con 2 baños",,67
+precio,p25,450000000.0,COP,67
+precio,mediana,535000000.0,COP,67
+precio,p75,737500000.0,COP,67
+precio,minimo,288000000.0,COP,67
+precio,maximo,1010000000.0,COP,67
+m2,mediana_precio_m2,8623853.21,COP,67
+m2,area_mediana_m2,65.0,m2,67
+admin,mediana_admin_mes,315000.0,COP,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.1,%,62
+estrato,estrato_mas_frecuente,4,,67
+habitaciones,2,470000000.0,COP,26
+habitaciones,3+,640000000.0,COP,40
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-felicidad,,
+fuente,licencia,CC BY 4.0,,

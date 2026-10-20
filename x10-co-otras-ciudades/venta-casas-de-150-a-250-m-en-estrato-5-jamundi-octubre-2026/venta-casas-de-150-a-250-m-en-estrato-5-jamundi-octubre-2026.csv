@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,199
+filtro,estrato,5,,199
+filtro,area5,"de 150 a 250 m²",,199
+precio,p25,635000000.0,COP,199
+precio,mediana,750000000.0,COP,199
+precio,p75,900000000.0,COP,199
+precio,minimo,395000000.0,COP,199
+precio,maximo,1790000000.0,COP,199
+m2,mediana_precio_m2,4008097.17,COP,199
+m2,area_mediana_m2,190.0,m2,199
+admin,mediana_admin_mes,536000.0,COP,166
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,193
+estrato,estrato_mas_frecuente,5,,199
+habitaciones,3+,750000000.0,COP,197
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,3555315.71,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/jamundi,,
+fuente,licencia,CC BY 4.0,,

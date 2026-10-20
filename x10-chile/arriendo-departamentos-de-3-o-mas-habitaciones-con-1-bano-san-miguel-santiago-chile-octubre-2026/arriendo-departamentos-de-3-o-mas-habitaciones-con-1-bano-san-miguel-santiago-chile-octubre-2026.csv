@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,59
+filtro,habitaciones,3+,,59
+filtro,ban1,"con 1 baño",,59
+precio,p25,300000.0,CLP,59
+precio,mediana,350000.0,CLP,59
+precio,p75,380000.0,CLP,59
+precio,minimo,190000.0,CLP,59
+precio,maximo,500000.0,CLP,59
+m2,mediana_precio_m2,7366.67,CLP,44
+m2,area_mediana_m2,50.0,m2,44
+banos,mediana_banos,1.0,,
+habitaciones,3+,350000.0,CLP,59
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/san-miguel,,
+fuente,licencia,CC BY 4.0,,

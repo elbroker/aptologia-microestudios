@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,120
+filtro,amob,"amoblados",,120
+filtro,parq1,"con parqueadero",,120
+precio,p25,4500000.0,COP,120
+precio,mediana,5600000.0,COP,120
+precio,p75,6825000.0,COP,120
+precio,minimo,2650000.0,COP,120
+precio,maximo,17000000.0,COP,120
+m2,mediana_precio_m2,55555.56,COP,118
+m2,area_mediana_m2,100.5,m2,118
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,120
+estrato,estrato_mas_frecuente,5,,120
+habitaciones,1,3525000.0,COP,14
+habitaciones,2,5100000.0,COP,39
+habitaciones,3+,6000000.0,COP,67
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,173
+filtro,parq1,"con parqueadero",,173
+filtro,edad1,"de 0 a 5 años de construidos",,173
+precio,p25,1500000000.0,COP,173
+precio,mediana,2300000000.0,COP,173
+precio,p75,3750000000.0,COP,173
+precio,minimo,800000000.0,COP,173
+precio,maximo,8000000000.0,COP,173
+m2,mediana_precio_m2,7396449.7,COP,167
+m2,area_mediana_m2,282.5,m2,167
+admin,mediana_admin_mes,976000.0,COP,84
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,173
+estrato,estrato_mas_frecuente,5,,168
+habitaciones,3+,2250000000.0,COP,172
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

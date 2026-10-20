@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,55
+filtro,estrato,3,,55
+precio,p25,1000000.0,COP,55
+precio,mediana,1080000.0,COP,55
+precio,p75,1192300.0,COP,55
+precio,minimo,910000.0,COP,55
+precio,maximo,2600000.0,COP,55
+m2,mediana_precio_m2,18571.43,COP,53
+m2,area_mediana_m2,60.0,m2,53
+admin,mediana_admin_mes,163550.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,55
+habitaciones,2,1090000.0,COP,8
+habitaciones,3+,1066850.0,COP,46
+ciudad,mediana_ciudad_referencia,1100000.0,COP,
+ciudad,mediana_m2_ciudad,18923.94,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/tocancipa,,
+fuente,licencia,CC BY 4.0,,

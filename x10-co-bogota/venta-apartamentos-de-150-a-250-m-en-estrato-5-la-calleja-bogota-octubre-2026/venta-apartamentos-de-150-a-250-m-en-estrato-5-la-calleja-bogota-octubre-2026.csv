@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,87
+filtro,estrato,5,,87
+filtro,area5,"de 150 a 250 m²",,87
+precio,p25,1190000000.0,COP,87
+precio,mediana,1390000000.0,COP,87
+precio,p75,1525000001.0,COP,87
+precio,minimo,937000000.0,COP,87
+precio,maximo,2700000000.0,COP,87
+m2,mediana_precio_m2,7234042.55,COP,87
+m2,area_mediana_m2,184.7,m2,87
+admin,mediana_admin_mes,1300000.0,COP,81
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+estrato,estrato_mas_frecuente,5,,87
+habitaciones,3+,1380000000.0,COP,86
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-calleja,,
+fuente,licencia,CC BY 4.0,,

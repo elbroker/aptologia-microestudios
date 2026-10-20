@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,191
+filtro,estrato,4,,191
+filtro,area3,"de 70 a 100 m²",,191
+precio,p25,549000000.0,COP,191
+precio,mediana,618000000.0,COP,191
+precio,p75,675000000.0,COP,191
+precio,minimo,430000000.0,COP,191
+precio,maximo,850000000.0,COP,191
+m2,mediana_precio_m2,7333333.33,COP,191
+m2,area_mediana_m2,82.3,m2,191
+admin,mediana_admin_mes,395000.0,COP,116
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.8,%,191
+estrato,estrato_mas_frecuente,4,,191
+habitaciones,2,616000000.0,COP,45
+habitaciones,3+,620000000.0,COP,146
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/las-lomitas,,
+fuente,licencia,CC BY 4.0,,

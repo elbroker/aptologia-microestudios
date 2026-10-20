@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,380
+filtro,habitaciones,1,,380
+filtro,area2,"de 45 a 70 m²",,380
+precio,p25,900.0,USD,380
+precio,mediana,1000.0,USD,380
+precio,p75,1191.25,USD,380
+precio,minimo,600.0,USD,380
+precio,maximo,3000.0,USD,380
+m2,mediana_precio_m2,16.94,USD,378
+m2,area_mediana_m2,60.5,m2,378
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,70
+habitaciones,1,1000.0,USD,380
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

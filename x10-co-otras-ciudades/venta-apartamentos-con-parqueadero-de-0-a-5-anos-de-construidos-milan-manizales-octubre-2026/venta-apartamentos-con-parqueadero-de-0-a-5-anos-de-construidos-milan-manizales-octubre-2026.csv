@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,108
+filtro,parq1,"con parqueadero",,108
+filtro,edad1,"de 0 a 5 años de construidos",,108
+precio,p25,547500000.0,COP,108
+precio,mediana,690000000.0,COP,108
+precio,p75,771250000.0,COP,108
+precio,minimo,320000000.0,COP,108
+precio,maximo,1200000000.0,COP,108
+m2,mediana_precio_m2,6600224.84,COP,108
+m2,area_mediana_m2,100.0,m2,108
+admin,mediana_admin_mes,459000.0,COP,88
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,108
+estrato,estrato_mas_frecuente,6,,108
+habitaciones,2,535000000.0,COP,18
+habitaciones,3+,723500000.0,COP,86
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/milan,,
+fuente,licencia,CC BY 4.0,,

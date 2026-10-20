@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,247
+filtro,habitaciones,3+,,247
+filtro,parq1,"con parqueadero",,247
+filtro,ban2,"con 2 baños",,247
+precio,p25,515000000.0,COP,247
+precio,mediana,620000000.0,COP,247
+precio,p75,737500000.0,COP,247
+precio,minimo,274450000.0,COP,247
+precio,maximo,1150000000.0,COP,247
+m2,mediana_precio_m2,7085968.08,COP,246
+m2,area_mediana_m2,86.0,m2,246
+admin,mediana_admin_mes,420000.0,COP,183
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,247
+estrato,estrato_mas_frecuente,5,,224
+habitaciones,3+,620000000.0,COP,247
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

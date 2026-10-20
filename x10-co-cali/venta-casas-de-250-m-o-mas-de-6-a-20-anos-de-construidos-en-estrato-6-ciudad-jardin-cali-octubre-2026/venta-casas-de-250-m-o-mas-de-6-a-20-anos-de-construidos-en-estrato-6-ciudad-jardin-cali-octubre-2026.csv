@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,71
+filtro,estrato,6,,71
+filtro,area6,"de 250 m² o más",,71
+filtro,edad2,"de 6 a 20 años de construidos",,71
+precio,p25,1350000000.0,COP,71
+precio,mediana,1950000000.0,COP,71
+precio,p75,2829000000.0,COP,71
+precio,minimo,740000000.0,COP,71
+precio,maximo,6500000000.0,COP,71
+m2,mediana_precio_m2,4000000.0,COP,71
+m2,area_mediana_m2,450.0,m2,71
+admin,mediana_admin_mes,1787560.0,COP,31
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,98.6,%,71
+estrato,estrato_mas_frecuente,6,,71
+habitaciones,3+,1950000000.0,COP,71
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

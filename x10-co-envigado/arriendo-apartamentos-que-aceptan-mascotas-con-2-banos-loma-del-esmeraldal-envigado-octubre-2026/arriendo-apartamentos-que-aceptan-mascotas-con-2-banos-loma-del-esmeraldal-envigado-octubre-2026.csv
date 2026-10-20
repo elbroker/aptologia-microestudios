@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,49
+filtro,masc,"que aceptan mascotas",,49
+filtro,ban2,"con 2 baños",,49
+precio,p25,3900000.0,COP,49
+precio,mediana,4300000.0,COP,49
+precio,p75,4800000.0,COP,49
+precio,minimo,3200000.0,COP,49
+precio,maximo,8000000.0,COP,49
+m2,mediana_precio_m2,52500.0,COP,49
+m2,area_mediana_m2,84.0,m2,49
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.9,%,48
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,2,4200000.0,COP,33
+habitaciones,3+,4550000.0,COP,13
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

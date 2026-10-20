@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,area1,"de menos de 45 m²",,36
+filtro,piso1,"en piso 1 a 3",,36
+precio,p25,256000000.0,COP,36
+precio,mediana,292500000.0,COP,36
+precio,p75,327525000.0,COP,36
+precio,minimo,170000000.0,COP,36
+precio,maximo,410000000.0,COP,36
+m2,mediana_precio_m2,9417857.14,COP,36
+m2,area_mediana_m2,30.0,m2,36
+admin,mediana_admin_mes,362000.0,COP,29
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,36
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,10000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/apartaestudios-en-venta/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

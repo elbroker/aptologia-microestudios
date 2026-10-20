@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,151
+filtro,balc,"con balcón",,151
+filtro,area5,"de 150 a 250 m²",,151
+precio,p25,8325000.0,COP,151
+precio,mediana,11000000.0,COP,151
+precio,p75,13950000.0,COP,151
+precio,minimo,5700000.0,COP,151
+precio,maximo,20000000.0,COP,151
+m2,mediana_precio_m2,56250.0,COP,150
+m2,area_mediana_m2,180.0,m2,150
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.7,%,151
+estrato,estrato_mas_frecuente,6,,151
+habitaciones,2,8350000.0,COP,19
+habitaciones,3+,11500000.0,COP,132
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

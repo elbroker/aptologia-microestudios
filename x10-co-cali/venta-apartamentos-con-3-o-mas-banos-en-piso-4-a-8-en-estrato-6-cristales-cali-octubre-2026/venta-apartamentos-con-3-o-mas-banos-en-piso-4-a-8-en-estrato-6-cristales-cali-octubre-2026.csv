@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,38
+filtro,estrato,6,,38
+filtro,ban3,"con 3 o más baños",,38
+filtro,piso2,"en piso 4 a 8",,38
+precio,p25,738750000.0,COP,38
+precio,mediana,975000000.0,COP,38
+precio,p75,1390000000.0,COP,38
+precio,minimo,460000000.0,COP,38
+precio,maximo,2203500000.0,COP,38
+m2,mediana_precio_m2,6229468.6,COP,38
+m2,area_mediana_m2,146.5,m2,38
+admin,mediana_admin_mes,1100000.0,COP,36
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,3+,1000000000.0,COP,36
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/cristales,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,869
+filtro,habitaciones,2,,869
+filtro,area2,"de 45 a 70 m²",,869
+precio,p25,2750.0,UF,869
+precio,mediana,3716.41,UF,869
+precio,p75,5600.0,UF,869
+precio,minimo,1300.0,UF,869
+precio,maximo,11550.0,UF,869
+m2,mediana_precio_m2,69.85,UF,854
+m2,area_mediana_m2,57.0,m2,854
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,83
+habitaciones,2,3716.41,UF,869
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

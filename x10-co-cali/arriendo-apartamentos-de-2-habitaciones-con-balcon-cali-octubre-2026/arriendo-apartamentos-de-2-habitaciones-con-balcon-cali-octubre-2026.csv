@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,398
+filtro,habitaciones,2,,398
+filtro,balc,"con balcón",,398
+precio,p25,1400000.0,COP,398
+precio,mediana,1650000.0,COP,398
+precio,p75,2500000.0,COP,398
+precio,minimo,850000.0,COP,398
+precio,maximo,10000000.0,COP,398
+m2,mediana_precio_m2,28378.38,COP,383
+m2,area_mediana_m2,61.0,m2,383
+admin,mediana_admin_mes,300000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,83.6,%,268
+estrato,estrato_mas_frecuente,4,,397
+habitaciones,2,1650000.0,COP,398
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali,,
+fuente,licencia,CC BY 4.0,,

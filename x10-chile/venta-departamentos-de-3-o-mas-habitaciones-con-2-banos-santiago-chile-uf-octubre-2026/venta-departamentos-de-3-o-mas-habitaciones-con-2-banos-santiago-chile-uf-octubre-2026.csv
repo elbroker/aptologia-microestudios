@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,1388
+filtro,habitaciones,3+,,1388
+filtro,ban2,"con 2 baños",,1388
+precio,p25,4500.0,UF,1388
+precio,mediana,7100.0,UF,1388
+precio,p75,9700.0,UF,1388
+precio,minimo,1590.0,UF,1388
+precio,maximo,27600.0,UF,1388
+m2,mediana_precio_m2,72.59,UF,1034
+m2,area_mediana_m2,92.0,m2,1034
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,192
+habitaciones,3+,7100.0,UF,1388
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,103
+filtro,habitaciones,3+,,103
+filtro,parq1,"con parqueadero",,103
+filtro,ban3,"con 3 o más baños",,103
+precio,p25,925000000.0,COP,103
+precio,mediana,1400000000.0,COP,103
+precio,p75,2250000000.5,COP,103
+precio,minimo,390000000.0,COP,103
+precio,maximo,6000000000.0,COP,103
+m2,mediana_precio_m2,3531598.51,COP,103
+m2,area_mediana_m2,424.0,m2,103
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,103
+estrato,estrato_mas_frecuente,5,,102
+habitaciones,3+,1400000000.0,COP,103
+ciudad,mediana_ciudad_referencia,900000000.0,COP,
+ciudad,mediana_m2_ciudad,3463444.36,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

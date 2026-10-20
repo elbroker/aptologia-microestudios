@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×2 filtros",,103
+filtro,estrato,5,,103
+filtro,conj,"en conjunto cerrado",,103
+filtro,area1,"de menos de 45 m²",,103
+precio,p25,2000000.0,COP,103
+precio,mediana,2350000.0,COP,103
+precio,p75,2852500.0,COP,103
+precio,minimo,1300000.0,COP,103
+precio,maximo,4500000.0,COP,103
+m2,mediana_precio_m2,80265.45,COP,100
+m2,area_mediana_m2,28.0,m2,100
+admin,mediana_admin_mes,400000.0,COP,32
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,66.2,%,74
+estrato,estrato_mas_frecuente,5,,103
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

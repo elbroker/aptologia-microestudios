@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,5,,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,3875000.0,COP,36
+precio,mediana,4200000.0,COP,36
+precio,p75,4625000.0,COP,36
+precio,minimo,3500000.0,COP,36
+precio,maximo,6500000.0,COP,36
+m2,mediana_precio_m2,48648.65,COP,36
+m2,area_mediana_m2,91.0,m2,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,4000000.0,COP,6
+habitaciones,3+,4325000.0,COP,30
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/villagrande,,
+fuente,licencia,CC BY 4.0,,

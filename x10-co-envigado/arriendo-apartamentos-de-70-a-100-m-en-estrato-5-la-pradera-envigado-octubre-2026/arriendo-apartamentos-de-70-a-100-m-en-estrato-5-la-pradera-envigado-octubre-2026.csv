@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,5,,39
+filtro,area3,"de 70 a 100 m²",,39
+precio,p25,3800000.0,COP,39
+precio,mediana,4150000.0,COP,39
+precio,p75,4600000.0,COP,39
+precio,minimo,3450000.0,COP,39
+precio,maximo,6450000.0,COP,39
+m2,mediana_precio_m2,50675.68,COP,39
+m2,area_mediana_m2,82.0,m2,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,5,,39
+habitaciones,2,4150000.0,COP,27
+habitaciones,3+,4125000.0,COP,8
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/la-pradera,,
+fuente,licencia,CC BY 4.0,,

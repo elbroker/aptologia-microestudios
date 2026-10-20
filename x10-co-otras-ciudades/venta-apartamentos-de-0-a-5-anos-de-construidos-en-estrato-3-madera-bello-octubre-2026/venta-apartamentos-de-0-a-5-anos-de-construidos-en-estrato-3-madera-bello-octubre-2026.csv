@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,3,,34
+filtro,edad1,"de 0 a 5 años de construidos",,34
+precio,p25,280000000.0,COP,34
+precio,mediana,299000000.0,COP,34
+precio,p75,337000000.0,COP,34
+precio,minimo,192000000.0,COP,34
+precio,maximo,440000000.0,COP,34
+m2,mediana_precio_m2,5197301.91,COP,34
+m2,area_mediana_m2,57.0,m2,34
+admin,mediana_admin_mes,238000.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,34
+habitaciones,2,238000000.0,COP,6
+habitaciones,3+,317500000.0,COP,28
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/madera,,
+fuente,licencia,CC BY 4.0,,

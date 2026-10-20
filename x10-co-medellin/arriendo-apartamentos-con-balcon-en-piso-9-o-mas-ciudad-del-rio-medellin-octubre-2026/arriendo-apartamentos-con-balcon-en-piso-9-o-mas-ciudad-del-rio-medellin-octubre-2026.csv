@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,134
+filtro,balc,"con balcón",,134
+filtro,piso3,"en piso 9 o más",,134
+precio,p25,4000000.0,COP,134
+precio,mediana,4500000.0,COP,134
+precio,p75,5487500.0,COP,134
+precio,minimo,1111111.0,COP,134
+precio,maximo,10500000.0,COP,134
+m2,mediana_precio_m2,58397.44,COP,130
+m2,area_mediana_m2,79.0,m2,130
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,77.6,%,134
+estrato,estrato_mas_frecuente,5,,128
+habitaciones,1,4006673.0,COP,27
+habitaciones,2,4500000.0,COP,48
+habitaciones,3+,4700000.0,COP,57
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

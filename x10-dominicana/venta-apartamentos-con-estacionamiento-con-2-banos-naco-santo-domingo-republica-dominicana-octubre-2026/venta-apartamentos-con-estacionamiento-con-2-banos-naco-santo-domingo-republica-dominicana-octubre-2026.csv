@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,137
+filtro,parq1,"con estacionamiento",,137
+filtro,ban2,"con 2 baños",,137
+precio,p25,230000.0,USD,137
+precio,mediana,285000.0,USD,137
+precio,p75,350000.0,USD,137
+precio,minimo,149800.0,USD,137
+precio,maximo,952000.0,USD,137
+m2,mediana_precio_m2,2516.47,USD,121
+m2,area_mediana_m2,121.0,m2,121
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,137
+habitaciones,1,186212.5,USD,22
+habitaciones,2,283000.0,USD,89
+habitaciones,3+,438000.0,USD,25
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/naco,,
+fuente,licencia,CC BY 4.0,,

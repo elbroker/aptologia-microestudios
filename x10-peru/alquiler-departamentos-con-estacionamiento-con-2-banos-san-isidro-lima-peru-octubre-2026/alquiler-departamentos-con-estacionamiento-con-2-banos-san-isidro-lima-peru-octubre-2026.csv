@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,178
+filtro,parq1,"con estacionamiento",,178
+filtro,ban2,"con 2 baños",,178
+precio,p25,3812.5,PEN,178
+precio,mediana,5148.0,PEN,178
+precio,p75,6592.5,PEN,178
+precio,minimo,1200.0,PEN,178
+precio,maximo,18000.0,PEN,178
+m2,mediana_precio_m2,36.85,PEN,176
+m2,area_mediana_m2,150.0,m2,176
+admin,mediana_admin_mes,545.0,PEN,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,178
+habitaciones,2,4180.0,PEN,69
+habitaciones,3+,5936.0,PEN,103
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

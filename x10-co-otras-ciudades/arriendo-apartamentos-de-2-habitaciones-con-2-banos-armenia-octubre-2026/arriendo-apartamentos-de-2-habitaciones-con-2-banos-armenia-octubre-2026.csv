@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,106
+filtro,habitaciones,2,,106
+filtro,ban2,"con 2 baños",,106
+precio,p25,1800000.0,COP,106
+precio,mediana,2495000.0,COP,106
+precio,p75,2687500.0,COP,106
+precio,minimo,900000.0,COP,106
+precio,maximo,4500000.0,COP,106
+m2,mediana_precio_m2,36042.84,COP,105
+m2,area_mediana_m2,65.0,m2,105
+admin,mediana_admin_mes,380000.0,COP,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.0,%,99
+estrato,estrato_mas_frecuente,5,,106
+habitaciones,2,2495000.0,COP,106
+ciudad,mediana_ciudad_referencia,2500000.0,COP,
+ciudad,mediana_m2_ciudad,32222.22,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/armenia,,
+fuente,licencia,CC BY 4.0,,

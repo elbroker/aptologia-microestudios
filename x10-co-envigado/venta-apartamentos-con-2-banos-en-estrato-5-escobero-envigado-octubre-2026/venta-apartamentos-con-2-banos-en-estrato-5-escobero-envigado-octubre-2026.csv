@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,52
+filtro,estrato,5,,52
+filtro,ban2,"con 2 baños",,52
+precio,p25,700000000.0,COP,52
+precio,mediana,879500000.0,COP,52
+precio,p75,966250000.0,COP,52
+precio,minimo,530000000.0,COP,52
+precio,maximo,1730000000.0,COP,52
+m2,mediana_precio_m2,9812910.8,COP,50
+m2,area_mediana_m2,91.0,m2,50
+admin,mediana_admin_mes,455000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,5,,52
+habitaciones,1,724801500.0,COP,6
+habitaciones,2,900000000.0,COP,19
+habitaciones,3+,866000000.0,COP,26
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/escobero,,
+fuente,licencia,CC BY 4.0,,

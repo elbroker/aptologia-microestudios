@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,41
+filtro,habitaciones,3+,,41
+filtro,estrato,5,,41
+precio,p25,670000000.0,COP,41
+precio,mediana,795000000.0,COP,41
+precio,p75,971000000.0,COP,41
+precio,minimo,410000000.0,COP,41
+precio,maximo,1720000000.0,COP,41
+m2,mediana_precio_m2,6096631.61,COP,41
+m2,area_mediana_m2,126.0,m2,41
+admin,mediana_admin_mes,850000.0,COP,36
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,5,,41
+habitaciones,3+,795000000.0,COP,41
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/batan,,
+fuente,licencia,CC BY 4.0,,

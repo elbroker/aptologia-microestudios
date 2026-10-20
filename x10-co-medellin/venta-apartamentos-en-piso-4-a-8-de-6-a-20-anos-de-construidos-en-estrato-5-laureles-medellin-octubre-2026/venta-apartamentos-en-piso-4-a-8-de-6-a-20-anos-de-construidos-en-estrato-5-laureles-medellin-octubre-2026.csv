@@ -1,0 +1,24 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,68
+filtro,estrato,5,,68
+filtro,piso2,"en piso 4 a 8",,68
+filtro,edad2,"de 6 a 20 años de construidos",,68
+precio,p25,680000000.0,COP,68
+precio,mediana,821000000.0,COP,68
+precio,p75,961250000.0,COP,68
+precio,minimo,430000000.0,COP,68
+precio,maximo,2500000000.0,COP,68
+m2,mediana_precio_m2,7159498.21,COP,68
+m2,area_mediana_m2,118.0,m2,68
+admin,mediana_admin_mes,526500.0,COP,54
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.6,%,68
+estrato,estrato_mas_frecuente,5,,68
+habitaciones,1,595000000.0,COP,9
+habitaciones,2,755000000.0,COP,5
+habitaciones,3+,894500000.0,COP,54
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

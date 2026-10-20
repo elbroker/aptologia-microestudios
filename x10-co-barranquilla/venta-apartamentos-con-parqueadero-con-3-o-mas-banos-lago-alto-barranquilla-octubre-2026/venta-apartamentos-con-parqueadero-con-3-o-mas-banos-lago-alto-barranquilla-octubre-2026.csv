@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,46
+filtro,parq1,"con parqueadero",,46
+filtro,ban3,"con 3 o más baños",,46
+precio,p25,644000000.0,COP,46
+precio,mediana,875000000.0,COP,46
+precio,p75,1200000000.0,COP,46
+precio,minimo,338932410.0,COP,46
+precio,maximo,2060000000.0,COP,46
+m2,mediana_precio_m2,4864126.42,COP,44
+m2,area_mediana_m2,168.5,m2,44
+admin,mediana_admin_mes,868000.0,COP,35
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,6,,46
+habitaciones,3+,875000000.0,COP,44
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/lago-alto,,
+fuente,licencia,CC BY 4.0,,

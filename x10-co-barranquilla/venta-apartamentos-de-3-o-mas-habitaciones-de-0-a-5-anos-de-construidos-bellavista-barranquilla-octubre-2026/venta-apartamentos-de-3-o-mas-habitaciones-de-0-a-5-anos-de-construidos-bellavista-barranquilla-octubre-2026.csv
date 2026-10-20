@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,edad1,"de 0 a 5 años de construidos",,35
+precio,p25,399000000.0,COP,35
+precio,mediana,469912240.0,COP,35
+precio,p75,505000000.0,COP,35
+precio,minimo,240000000.0,COP,35
+precio,maximo,680000000.0,COP,35
+m2,mediana_precio_m2,4801980.2,COP,35
+m2,area_mediana_m2,92.0,m2,35
+admin,mediana_admin_mes,489000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,35
+estrato,estrato_mas_frecuente,4,,35
+habitaciones,3+,469912240.0,COP,35
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/bellavista,,
+fuente,licencia,CC BY 4.0,,

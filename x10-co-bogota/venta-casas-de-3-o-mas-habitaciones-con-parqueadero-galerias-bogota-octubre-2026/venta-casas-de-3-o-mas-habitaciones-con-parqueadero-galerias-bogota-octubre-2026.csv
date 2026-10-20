@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,parq1,"con parqueadero",,55
+precio,p25,1100000000.0,COP,55
+precio,mediana,1300000000.0,COP,55
+precio,p75,1840000000.0,COP,55
+precio,minimo,600000000.0,COP,55
+precio,maximo,4600000000.0,COP,55
+m2,mediana_precio_m2,4528911.56,COP,54
+m2,area_mediana_m2,301.0,m2,54
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,4,,55
+habitaciones,3+,1300000000.0,COP,55
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/galerias,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,parq1,"con parqueadero",,48
+filtro,edad1,"de 0 a 5 años de construidos",,48
+precio,p25,775000000.0,COP,48
+precio,mediana,1047500000.0,COP,48
+precio,p75,1412500000.0,COP,48
+precio,minimo,500000000.0,COP,48
+precio,maximo,3600000000.0,COP,48
+m2,mediana_precio_m2,6185567.01,COP,48
+m2,area_mediana_m2,172.5,m2,48
+admin,mediana_admin_mes,1629000.0,COP,37
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,6,,48
+habitaciones,2,795000000.0,COP,12
+habitaciones,3+,1266500000.0,COP,34
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/arboledas,,
+fuente,licencia,CC BY 4.0,,

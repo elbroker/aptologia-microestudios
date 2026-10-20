@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,49
+filtro,habitaciones,2,,49
+filtro,area2,"de 45 a 70 m²",,49
+filtro,ban2,"con 2 baños",,49
+precio,p25,800000.0,CLP,49
+precio,mediana,900000.0,CLP,49
+precio,p75,1000000.0,CLP,49
+precio,minimo,450000.0,CLP,49
+precio,maximo,1500000.0,CLP,49
+m2,mediana_precio_m2,14918.83,CLP,48
+m2,area_mediana_m2,60.0,m2,48
+banos,mediana_banos,2.0,,
+habitaciones,2,900000.0,CLP,49
+ciudad,mediana_ciudad_referencia,450000.0,CLP,
+ciudad,mediana_m2_ciudad,9800.0,CLP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/providencia,,
+fuente,licencia,CC BY 4.0,,

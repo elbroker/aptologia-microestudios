@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,318437.5,PEN,30
+precio,mediana,396042.5,PEN,30
+precio,p75,587348.5,PEN,30
+precio,minimo,254000.0,PEN,30
+precio,maximo,843750.0,PEN,30
+m2,mediana_precio_m2,5573.91,PEN,30
+m2,area_mediana_m2,75.5,m2,30
+banos,mediana_banos,2.0,,
+habitaciones,3+,396042.5,PEN,30
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/chorrillos,,
+fuente,licencia,CC BY 4.0,,

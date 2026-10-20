@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,50
+filtro,estrato,5,,50
+filtro,ban3,"con 3 o más baños",,50
+precio,p25,4700000.0,COP,50
+precio,mediana,5400000.0,COP,50
+precio,p75,6875000.0,COP,50
+precio,minimo,3900000.0,COP,50
+precio,maximo,13150000.0,COP,50
+m2,mediana_precio_m2,51695.4,COP,50
+m2,area_mediana_m2,105.5,m2,50
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,5,,50
+habitaciones,2,5075000.0,COP,16
+habitaciones,3+,5475000.0,COP,34
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-del-chocho,,
+fuente,licencia,CC BY 4.0,,

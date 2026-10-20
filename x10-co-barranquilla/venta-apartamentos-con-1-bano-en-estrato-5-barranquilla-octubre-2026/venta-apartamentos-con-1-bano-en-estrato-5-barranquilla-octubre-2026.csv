@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,112
+filtro,estrato,5,,112
+filtro,ban1,"con 1 baño",,112
+precio,p25,274500000.0,COP,112
+precio,mediana,330000000.0,COP,112
+precio,p75,400000000.0,COP,112
+precio,minimo,190000000.0,COP,112
+precio,maximo,650000000.0,COP,112
+m2,mediana_precio_m2,5580029.37,COP,111
+m2,area_mediana_m2,54.5,m2,111
+admin,mediana_admin_mes,393977.0,COP,74
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,97.3,%,110
+estrato,estrato_mas_frecuente,5,,112
+habitaciones,1,330000000.0,COP,73
+habitaciones,2,320000000.0,COP,30
+habitaciones,3+,460000000.0,COP,8
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla,,
+fuente,licencia,CC BY 4.0,,

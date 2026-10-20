@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,76
+filtro,habitaciones,3+,,76
+filtro,area2,"de 45 a 70 m²",,76
+precio,p25,282250000.0,COP,76
+precio,mediana,332500000.0,COP,76
+precio,p75,391250000.0,COP,76
+precio,minimo,200000000.0,COP,76
+precio,maximo,490000000.0,COP,76
+m2,mediana_precio_m2,5724789.92,COP,76
+m2,area_mediana_m2,60.0,m2,76
+admin,mediana_admin_mes,242500.0,COP,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,74.2,%,62
+estrato,estrato_mas_frecuente,3,,75
+habitaciones,3+,332500000.0,COP,76
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/castilla,,
+fuente,licencia,CC BY 4.0,,

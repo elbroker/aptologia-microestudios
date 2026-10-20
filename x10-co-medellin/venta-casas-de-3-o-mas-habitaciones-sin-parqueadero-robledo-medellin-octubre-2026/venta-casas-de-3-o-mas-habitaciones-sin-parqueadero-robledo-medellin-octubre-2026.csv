@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,39
+filtro,habitaciones,3+,,39
+filtro,parq0,"sin parqueadero",,39
+precio,p25,278000000.0,COP,39
+precio,mediana,312000000.0,COP,39
+precio,p75,350000000.0,COP,39
+precio,minimo,200000000.0,COP,39
+precio,maximo,1190000000.0,COP,39
+m2,mediana_precio_m2,3258426.97,COP,39
+m2,area_mediana_m2,90.0,m2,39
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,0.0,%,39
+estrato,estrato_mas_frecuente,3,,39
+habitaciones,3+,312000000.0,COP,39
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

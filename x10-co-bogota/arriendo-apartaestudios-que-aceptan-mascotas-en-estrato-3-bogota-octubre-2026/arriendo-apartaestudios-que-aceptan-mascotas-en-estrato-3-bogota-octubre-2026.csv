@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,62
+filtro,estrato,3,,62
+filtro,masc,"que aceptan mascotas",,62
+precio,p25,1312500.0,COP,62
+precio,mediana,1506208.0,COP,62
+precio,p75,1797500.0,COP,62
+precio,minimo,800000.0,COP,62
+precio,maximo,3190000.0,COP,62
+m2,mediana_precio_m2,52522.69,COP,62
+m2,area_mediana_m2,30.0,m2,62
+admin,mediana_admin_mes,230000.0,COP,23
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,44.7,%,38
+estrato,estrato_mas_frecuente,3,,62
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,62000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

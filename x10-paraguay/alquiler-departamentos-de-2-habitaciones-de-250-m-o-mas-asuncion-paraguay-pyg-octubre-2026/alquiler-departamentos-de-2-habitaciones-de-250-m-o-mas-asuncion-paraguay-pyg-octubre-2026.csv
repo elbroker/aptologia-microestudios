@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,40
+filtro,habitaciones,2,,40
+filtro,area6,"de 250 m² o más",,40
+precio,p25,5500000.0,PYG,40
+precio,mediana,6100000.0,PYG,40
+precio,p75,7000000.0,PYG,40
+precio,minimo,2750000.0,PYG,40
+precio,maximo,12000000.0,PYG,40
+m2,area_mediana_m2,788.5,m2,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,2,6100000.0,PYG,40
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

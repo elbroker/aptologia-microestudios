@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,60
+filtro,habitaciones,3+,,60
+filtro,area6,"de 250 m² o más",,60
+precio,p25,1400000000.0,COP,60
+precio,mediana,1895000000.0,COP,60
+precio,p75,2275000000.0,COP,60
+precio,minimo,980000000.0,COP,60
+precio,maximo,5400000000.0,COP,60
+m2,mediana_precio_m2,4838709.68,COP,59
+m2,area_mediana_m2,400.0,m2,59
+admin,mediana_admin_mes,1711000.0,COP,15
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,91.7,%,48
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,3+,1895000000.0,COP,60
+ciudad,mediana_ciudad_referencia,945000000.0,COP,
+ciudad,mediana_m2_ciudad,4000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bucaramanga/cabecera-del-llano,,
+fuente,licencia,CC BY 4.0,,

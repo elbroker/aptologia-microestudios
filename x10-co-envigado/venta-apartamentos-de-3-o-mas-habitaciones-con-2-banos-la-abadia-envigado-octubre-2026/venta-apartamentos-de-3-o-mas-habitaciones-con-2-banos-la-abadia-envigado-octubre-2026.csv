@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,759250000.0,COP,30
+precio,mediana,819500000.0,COP,30
+precio,p75,887500000.0,COP,30
+precio,minimo,320000000.0,COP,30
+precio,maximo,1150000000.0,COP,30
+m2,mediana_precio_m2,9107291.67,COP,30
+m2,area_mediana_m2,93.0,m2,30
+admin,mediana_admin_mes,586500.0,COP,18
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,819500000.0,COP,30
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/la-abadia,,
+fuente,licencia,CC BY 4.0,,

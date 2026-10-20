@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,122
+filtro,estrato,4,,122
+filtro,area2,"de 45 a 70 m²",,122
+precio,p25,350000000.0,COP,122
+precio,mediana,395000000.0,COP,122
+precio,p75,443750000.0,COP,122
+precio,minimo,255000000.0,COP,122
+precio,maximo,650000000.0,COP,122
+m2,mediana_precio_m2,6922287.39,COP,122
+m2,area_mediana_m2,56.5,m2,122
+admin,mediana_admin_mes,288000.0,COP,90
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,73.1,%,104
+estrato,estrato_mas_frecuente,4,,122
+habitaciones,2,392500000.0,COP,42
+habitaciones,3+,395000000.0,COP,80
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

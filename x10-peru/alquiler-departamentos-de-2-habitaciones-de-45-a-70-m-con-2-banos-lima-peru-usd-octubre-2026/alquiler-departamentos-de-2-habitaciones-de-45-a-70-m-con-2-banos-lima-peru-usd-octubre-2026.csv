@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,48
+filtro,habitaciones,2,,48
+filtro,area2,"de 45 a 70 m²",,48
+filtro,ban2,"con 2 baños",,48
+precio,p25,750.0,USD,48
+precio,mediana,930.5,USD,48
+precio,p75,1100.0,USD,48
+precio,minimo,597.0,USD,48
+precio,maximo,1400.0,USD,48
+m2,mediana_precio_m2,15.17,USD,48
+m2,area_mediana_m2,61.0,m2,48
+banos,mediana_banos,2.0,,
+habitaciones,2,930.5,USD,48
+ciudad,mediana_ciudad_referencia,1250.0,USD,
+ciudad,mediana_m2_ciudad,11.11,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima,,
+fuente,licencia,CC BY 4.0,,

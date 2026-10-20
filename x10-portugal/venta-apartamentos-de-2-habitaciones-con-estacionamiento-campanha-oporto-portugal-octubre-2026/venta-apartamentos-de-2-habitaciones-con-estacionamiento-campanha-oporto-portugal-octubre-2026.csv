@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,2,,33
+filtro,parq1,"con estacionamiento",,33
+precio,p25,394200.0,EUR,33
+precio,mediana,420000.0,EUR,33
+precio,p75,450000.0,EUR,33
+precio,minimo,270000.0,EUR,33
+precio,maximo,832500.0,EUR,33
+m2,mediana_precio_m2,4972.06,EUR,33
+m2,area_mediana_m2,90.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,2,420000.0,EUR,33
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto/campanha,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,93
+filtro,estrato,5,,93
+filtro,ban3,"con 3 o más baños",,93
+precio,p25,960000000.0,COP,93
+precio,mediana,1150000000.0,COP,93
+precio,p75,1440000000.0,COP,93
+precio,minimo,660000000.0,COP,93
+precio,maximo,2898964000.0,COP,93
+m2,mediana_precio_m2,9013041.56,COP,92
+m2,area_mediana_m2,118.0,m2,92
+admin,mediana_admin_mes,771100.0,COP,57
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,93
+estrato,estrato_mas_frecuente,5,,93
+habitaciones,2,1020000000.0,COP,24
+habitaciones,3+,1160000000.0,COP,69
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-esmeraldal,,
+fuente,licencia,CC BY 4.0,,

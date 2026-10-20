@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,92
+filtro,ban3,"con 3 o más baños",,92
+filtro,edad1,"de 0 a 5 años de construidos",,92
+precio,p25,950000000.0,COP,92
+precio,mediana,1200000000.0,COP,92
+precio,p75,1562500000.0,COP,92
+precio,minimo,670000000.0,COP,92
+precio,maximo,4800000000.0,COP,92
+m2,mediana_precio_m2,4641025.64,COP,90
+m2,area_mediana_m2,260.0,m2,90
+admin,mediana_admin_mes,955000.0,COP,40
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.6,%,89
+estrato,estrato_mas_frecuente,6,,92
+habitaciones,3+,1200000000.0,COP,91
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

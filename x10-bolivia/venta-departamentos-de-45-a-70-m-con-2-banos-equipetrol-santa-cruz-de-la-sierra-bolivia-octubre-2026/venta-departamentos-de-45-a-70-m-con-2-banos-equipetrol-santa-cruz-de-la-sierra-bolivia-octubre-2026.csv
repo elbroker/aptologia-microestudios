@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,45
+filtro,area2,"de 45 a 70 m²",,45
+filtro,ban2,"con 2 baños",,45
+precio,p25,78708.0,USD,45
+precio,mediana,98500.0,USD,45
+precio,p75,119000.0,USD,45
+precio,minimo,55000.0,USD,45
+precio,maximo,155000.0,USD,45
+m2,mediana_precio_m2,1638.93,USD,44
+m2,area_mediana_m2,58.0,m2,44
+admin,mediana_admin_mes,50.0,USD,16
+banos,mediana_banos,2.0,,
+habitaciones,1,90540.0,USD,30
+habitaciones,2,110000.0,USD,15
+ciudad,mediana_ciudad_referencia,100000.0,USD,
+ciudad,mediana_m2_ciudad,1240.6,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo,,
+fuente,licencia,CC BY 4.0,,

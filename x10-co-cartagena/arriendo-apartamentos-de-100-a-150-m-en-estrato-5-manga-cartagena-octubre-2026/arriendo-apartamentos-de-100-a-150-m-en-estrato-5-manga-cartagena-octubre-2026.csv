@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,52
+filtro,estrato,5,,52
+filtro,area4,"de 100 a 150 m²",,52
+precio,p25,4000000.0,COP,52
+precio,mediana,4774500.0,COP,52
+precio,p75,5913750.0,COP,52
+precio,minimo,3000000.0,COP,52
+precio,maximo,10000000.0,COP,52
+m2,mediana_precio_m2,40641.4,COP,52
+m2,area_mediana_m2,118.5,m2,52
+admin,mediana_admin_mes,847500.0,COP,20
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,5,,52
+habitaciones,3+,4724500.0,COP,50
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

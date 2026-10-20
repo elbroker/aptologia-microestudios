@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,32
+filtro,habitaciones,3+,,32
+filtro,estrato,3,,32
+precio,p25,263750000.0,COP,32
+precio,mediana,302500000.0,COP,32
+precio,p75,341250000.0,COP,32
+precio,minimo,190000000.0,COP,32
+precio,maximo,504713178.0,COP,32
+m2,mediana_precio_m2,5040983.61,COP,32
+m2,area_mediana_m2,61.5,m2,32
+admin,mediana_admin_mes,214550.0,COP,26
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,32
+habitaciones,3+,302500000.0,COP,32
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/san-antonio-norte,,
+fuente,licencia,CC BY 4.0,,

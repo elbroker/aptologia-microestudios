@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,137
+filtro,habitaciones,3+,,137
+filtro,balc,"con balcón",,137
+precio,p25,1220000.0,COP,137
+precio,mediana,1488000.0,COP,137
+precio,p75,2100000.0,COP,137
+precio,minimo,850000.0,COP,137
+precio,maximo,8000000.0,COP,137
+m2,mediana_precio_m2,22580.65,COP,126
+m2,area_mediana_m2,67.0,m2,126
+admin,mediana_admin_mes,301000.0,COP,73
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.8,%,134
+estrato,estrato_mas_frecuente,4,,137
+habitaciones,3+,1488000.0,COP,137
+ciudad,mediana_ciudad_referencia,1400000.0,COP,
+ciudad,mediana_m2_ciudad,22580.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/ibague,,
+fuente,licencia,CC BY 4.0,,

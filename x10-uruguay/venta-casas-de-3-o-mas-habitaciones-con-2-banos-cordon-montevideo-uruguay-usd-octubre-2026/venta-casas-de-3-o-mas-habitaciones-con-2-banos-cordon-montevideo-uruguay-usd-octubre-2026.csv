@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,163750.0,USD,32
+precio,mediana,228000.0,USD,32
+precio,p75,272500.0,USD,32
+precio,minimo,139000.0,USD,32
+precio,maximo,750000.0,USD,32
+m2,mediana_precio_m2,1406.81,USD,32
+m2,area_mediana_m2,169.5,m2,32
+banos,mediana_banos,2.0,,
+habitaciones,3+,228000.0,USD,32
+ciudad,mediana_ciudad_referencia,269000.0,USD,
+ciudad,mediana_m2_ciudad,1625.85,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/montevideo/cordon,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,133
+filtro,habitaciones,2,,133
+filtro,ban2,"con 2 baños",,133
+precio,p25,3900000.0,COP,133
+precio,mediana,4800000.0,COP,133
+precio,p75,6600000.0,COP,133
+precio,minimo,2350000.0,COP,133
+precio,maximo,14000000.0,COP,133
+m2,mediana_precio_m2,60194.17,COP,129
+m2,area_mediana_m2,84.0,m2,129
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,82.7,%,133
+estrato,estrato_mas_frecuente,6,,129
+habitaciones,2,4800000.0,COP,133
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

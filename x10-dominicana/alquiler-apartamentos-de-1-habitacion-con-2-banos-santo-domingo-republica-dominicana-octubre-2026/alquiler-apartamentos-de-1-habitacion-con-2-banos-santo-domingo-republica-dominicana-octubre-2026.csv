@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,178
+filtro,habitaciones,1,,178
+filtro,ban2,"con 2 baños",,178
+precio,p25,1000.0,USD,178
+precio,mediana,1200.0,USD,178
+precio,p75,1350.0,USD,178
+precio,minimo,700.0,USD,178
+precio,maximo,3500.0,USD,178
+m2,mediana_precio_m2,15.55,USD,158
+m2,area_mediana_m2,78.0,m2,158
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,54
+habitaciones,1,1200.0,USD,178
+ciudad,mediana_ciudad_referencia,1350.0,USD,
+ciudad,mediana_m2_ciudad,12.5,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/alquiler/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

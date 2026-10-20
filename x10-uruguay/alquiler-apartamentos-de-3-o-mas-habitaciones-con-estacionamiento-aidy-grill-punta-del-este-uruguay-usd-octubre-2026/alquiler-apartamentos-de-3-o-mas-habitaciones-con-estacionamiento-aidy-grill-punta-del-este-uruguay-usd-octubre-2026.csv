@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,52
+filtro,habitaciones,3+,,52
+filtro,parq1,"con estacionamiento",,52
+precio,p25,2800.0,USD,52
+precio,mediana,3500.0,USD,52
+precio,p75,4650.0,USD,52
+precio,minimo,390.0,USD,52
+precio,maximo,15500.0,USD,52
+m2,mediana_precio_m2,25.87,USD,48
+m2,area_mediana_m2,130.0,m2,48
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,52
+habitaciones,3+,3500.0,USD,52
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/aidy-grill,,
+fuente,licencia,CC BY 4.0,,

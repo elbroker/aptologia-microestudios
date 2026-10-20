@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,35
+filtro,ban2,"con 2 baños",,35
+filtro,edad1,"de 0 a 5 años de construidos",,35
+precio,p25,291000000.0,COP,35
+precio,mediana,325000000.0,COP,35
+precio,p75,420000000.0,COP,35
+precio,minimo,242000000.0,COP,35
+precio,maximo,620000000.0,COP,35
+m2,mediana_precio_m2,5517241.38,COP,35
+m2,area_mediana_m2,56.0,m2,35
+admin,mediana_admin_mes,230000.0,COP,22
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,51.4,%,35
+estrato,estrato_mas_frecuente,4,,35
+habitaciones,2,320000000.0,COP,9
+habitaciones,3+,345000000.0,COP,26
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/navarra,,
+fuente,licencia,CC BY 4.0,,

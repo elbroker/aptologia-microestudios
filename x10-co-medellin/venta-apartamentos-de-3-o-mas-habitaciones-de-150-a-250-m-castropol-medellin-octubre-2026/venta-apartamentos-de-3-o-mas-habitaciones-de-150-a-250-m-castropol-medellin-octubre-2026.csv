@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,95
+filtro,habitaciones,3+,,95
+filtro,area5,"de 150 a 250 m²",,95
+precio,p25,1189000000.0,COP,95
+precio,mediana,1350000000.0,COP,95
+precio,p75,1634500000.0,COP,95
+precio,minimo,410000000.0,COP,95
+precio,maximo,3300000000.0,COP,95
+m2,mediana_precio_m2,6736293.44,COP,92
+m2,area_mediana_m2,189.0,m2,92
+admin,mediana_admin_mes,1170000.0,COP,66
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.9,%,95
+estrato,estrato_mas_frecuente,6,,94
+habitaciones,3+,1350000000.0,COP,95
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

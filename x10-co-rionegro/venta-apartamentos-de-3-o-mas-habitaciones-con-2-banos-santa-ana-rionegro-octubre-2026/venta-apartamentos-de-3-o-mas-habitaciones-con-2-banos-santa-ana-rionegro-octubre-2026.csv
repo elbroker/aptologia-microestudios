@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,3+,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,547500000.0,COP,32
+precio,mediana,605000000.0,COP,32
+precio,p75,725000000.0,COP,32
+precio,minimo,290000000.0,COP,32
+precio,maximo,900000000.0,COP,32
+m2,mediana_precio_m2,7290209.79,COP,32
+m2,area_mediana_m2,82.5,m2,32
+admin,mediana_admin_mes,380000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.3,%,30
+habitaciones,3+,605000000.0,COP,32
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/santa-ana,,
+fuente,licencia,CC BY 4.0,,

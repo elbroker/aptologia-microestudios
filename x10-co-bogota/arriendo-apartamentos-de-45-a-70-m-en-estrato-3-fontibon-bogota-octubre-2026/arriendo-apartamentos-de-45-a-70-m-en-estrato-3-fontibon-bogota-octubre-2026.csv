@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,53
+filtro,estrato,3,,53
+filtro,area2,"de 45 a 70 m²",,53
+precio,p25,1233000.0,COP,53
+precio,mediana,1350000.0,COP,53
+precio,p75,1600000.0,COP,53
+precio,minimo,898900.0,COP,53
+precio,maximo,3000000.0,COP,53
+m2,mediana_precio_m2,28132.61,COP,53
+m2,area_mediana_m2,48.0,m2,53
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,3,,53
+habitaciones,2,1400000.0,COP,31
+habitaciones,3+,1350000.0,COP,21
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/fontibon,,
+fuente,licencia,CC BY 4.0,,

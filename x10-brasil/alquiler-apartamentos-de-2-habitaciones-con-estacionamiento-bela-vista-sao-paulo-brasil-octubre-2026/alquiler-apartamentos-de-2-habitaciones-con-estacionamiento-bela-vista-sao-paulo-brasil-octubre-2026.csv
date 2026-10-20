@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,2,,38
+filtro,parq1,"con estacionamiento",,38
+precio,p25,4150.0,BRL,38
+precio,mediana,5755.0,BRL,38
+precio,p75,6500.0,BRL,38
+precio,minimo,2240.0,BRL,38
+precio,maximo,17000.0,BRL,38
+m2,mediana_precio_m2,83.35,BRL,38
+m2,area_mediana_m2,63.0,m2,38
+admin,mediana_admin_mes,1236.5,BRL,38
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+habitaciones,2,5755.0,BRL,38
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/bela-vista,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,52
+filtro,estrato,6,,52
+filtro,amob,"amoblados",,52
+precio,p25,7375000.0,COP,52
+precio,mediana,8500000.0,COP,52
+precio,p75,11625000.0,COP,52
+precio,minimo,3400000.0,COP,52
+precio,maximo,18300000.0,COP,52
+m2,mediana_precio_m2,67916.67,COP,47
+m2,area_mediana_m2,120.0,m2,47
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,52
+habitaciones,1,7100000.0,COP,10
+habitaciones,2,9500000.0,COP,19
+habitaciones,3+,9000000.0,COP,23
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-lucas,,
+fuente,licencia,CC BY 4.0,,

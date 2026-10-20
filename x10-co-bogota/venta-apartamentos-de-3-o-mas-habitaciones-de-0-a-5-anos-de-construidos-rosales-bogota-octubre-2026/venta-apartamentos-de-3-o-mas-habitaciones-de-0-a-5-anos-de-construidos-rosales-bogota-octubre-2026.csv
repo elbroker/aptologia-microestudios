@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,223
+filtro,habitaciones,3+,,223
+filtro,edad1,"de 0 a 5 años de construidos",,223
+precio,p25,1500000000.0,COP,223
+precio,mediana,1850000000.0,COP,223
+precio,p75,2500000000.0,COP,223
+precio,minimo,550000000.0,COP,223
+precio,maximo,4240600000.0,COP,223
+m2,mediana_precio_m2,8166666.67,COP,217
+m2,area_mediana_m2,237.0,m2,217
+admin,mediana_admin_mes,2189000.0,COP,202
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,218
+estrato,estrato_mas_frecuente,6,,218
+habitaciones,3+,1850000000.0,COP,223
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/los-rosales,,
+fuente,licencia,CC BY 4.0,,

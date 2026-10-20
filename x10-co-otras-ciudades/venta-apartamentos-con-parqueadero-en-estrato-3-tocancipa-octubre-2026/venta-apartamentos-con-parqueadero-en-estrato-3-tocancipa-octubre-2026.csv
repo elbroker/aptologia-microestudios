@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,34
+filtro,estrato,3,,34
+filtro,parq1,"con parqueadero",,34
+precio,p25,202500000.0,COP,34
+precio,mediana,227500000.0,COP,34
+precio,p75,250000000.0,COP,34
+precio,minimo,170000000.0,COP,34
+precio,maximo,319900000.0,COP,34
+m2,mediana_precio_m2,3747087.81,COP,34
+m2,area_mediana_m2,61.0,m2,34
+admin,mediana_admin_mes,175000.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,3,,34
+habitaciones,2,222500000.0,COP,6
+habitaciones,3+,231500000.0,COP,28
+ciudad,mediana_ciudad_referencia,215000000.0,COP,
+ciudad,mediana_m2_ciudad,3644067.8,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/tocancipa,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,ban3,"con 3 o más baños",,30
+filtro,edad3,"de más de 20 años de construidos",,30
+precio,p25,646250000.0,COP,30
+precio,mediana,755000000.0,COP,30
+precio,p75,935000000.0,COP,30
+precio,minimo,430000000.0,COP,30
+precio,maximo,1200000000.0,COP,30
+m2,mediana_precio_m2,5918788.41,COP,30
+m2,area_mediana_m2,128.5,m2,30
+admin,mediana_admin_mes,842000.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,790000000.0,COP,29
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-batan,,
+fuente,licencia,CC BY 4.0,,

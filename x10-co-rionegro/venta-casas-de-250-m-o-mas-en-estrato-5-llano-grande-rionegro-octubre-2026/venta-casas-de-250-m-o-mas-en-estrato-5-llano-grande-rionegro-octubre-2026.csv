@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,147
+filtro,estrato,5,,147
+filtro,area6,"de 250 m² o más",,147
+precio,p25,2525000000.0,COP,147
+precio,mediana,3500000000.0,COP,147
+precio,p75,4500000000.0,COP,147
+precio,minimo,1400000000.0,COP,147
+precio,maximo,7950000000.0,COP,147
+m2,mediana_precio_m2,7621432.91,COP,140
+m2,area_mediana_m2,423.0,m2,140
+admin,mediana_admin_mes,800000.0,COP,62
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,141
+estrato,estrato_mas_frecuente,5,,147
+habitaciones,3+,3500000000.0,COP,142
+ciudad,mediana_ciudad_referencia,2200000000.0,COP,
+ciudad,mediana_m2_ciudad,6689814.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/rionegro/llano-grande,,
+fuente,licencia,CC BY 4.0,,

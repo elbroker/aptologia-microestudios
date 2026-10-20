@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,57
+filtro,parq1,"con parqueadero",,57
+filtro,ban2,"con 2 baños",,57
+precio,p25,700000000.0,COP,57
+precio,mediana,760000000.0,COP,57
+precio,p75,850000000.0,COP,57
+precio,minimo,440000000.0,COP,57
+precio,maximo,1750000000.0,COP,57
+m2,mediana_precio_m2,7841435.19,COP,56
+m2,area_mediana_m2,98.0,m2,56
+admin,mediana_admin_mes,548500.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,5,,52
+habitaciones,2,805000000.0,COP,6
+habitaciones,3+,765000000.0,COP,50
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/otraparte,,
+fuente,licencia,CC BY 4.0,,

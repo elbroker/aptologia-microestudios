@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,35
+filtro,parq1,"con estacionamiento",,35
+filtro,ban1,"con 1 baño",,35
+precio,p25,3700000.0,PYG,35
+precio,mediana,4200000.0,PYG,35
+precio,p75,4800000.0,PYG,35
+precio,minimo,3200000.0,PYG,35
+precio,maximo,8800751.0,PYG,35
+m2,mediana_precio_m2,73264.71,PYG,34
+m2,area_mediana_m2,57.5,m2,34
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,1,4000000.0,PYG,25
+habitaciones,2,5000000.0,PYG,9
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/jara,,
+fuente,licencia,CC BY 4.0,,

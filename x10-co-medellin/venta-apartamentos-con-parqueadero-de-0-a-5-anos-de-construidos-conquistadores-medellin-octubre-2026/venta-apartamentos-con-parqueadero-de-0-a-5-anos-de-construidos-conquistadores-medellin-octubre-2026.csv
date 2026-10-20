@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,166
+filtro,parq1,"con parqueadero",,166
+filtro,edad1,"de 0 a 5 años de construidos",,166
+precio,p25,742500000.0,COP,166
+precio,mediana,885000000.0,COP,166
+precio,p75,1093750000.0,COP,166
+precio,minimo,230000000.0,COP,166
+precio,maximo,2000000000.0,COP,166
+m2,mediana_precio_m2,7500000.0,COP,166
+m2,area_mediana_m2,121.0,m2,166
+admin,mediana_admin_mes,630000.0,COP,95
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,166
+estrato,estrato_mas_frecuente,5,,165
+habitaciones,2,780000000.0,COP,21
+habitaciones,3+,910000000.0,COP,141
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/conquistadores,,
+fuente,licencia,CC BY 4.0,,

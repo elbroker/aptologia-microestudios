@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,123
+filtro,habitaciones,2,,123
+filtro,conj,"en conjunto cerrado",,123
+filtro,ban2,"con 2 baños",,123
+precio,p25,1700000.0,COP,123
+precio,mediana,1950000.0,COP,123
+precio,p75,2225000.0,COP,123
+precio,minimo,1300000.0,COP,123
+precio,maximo,4000000.0,COP,123
+m2,mediana_precio_m2,33928.57,COP,123
+m2,area_mediana_m2,57.0,m2,123
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,78.6,%,98
+estrato,estrato_mas_frecuente,3,,123
+habitaciones,2,1950000.0,COP,123
+ciudad,mediana_ciudad_referencia,2000000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,178
+filtro,estrato,5,,178
+filtro,edad1,"de 0 a 5 años de construidos",,178
+precio,p25,770000000.0,COP,178
+precio,mediana,927500000.0,COP,178
+precio,p75,1073750000.0,COP,178
+precio,minimo,450000000.0,COP,178
+precio,maximo,2150000000.0,COP,178
+m2,mediana_precio_m2,8750000.0,COP,177
+m2,area_mediana_m2,104.0,m2,177
+admin,mediana_admin_mes,658000.0,COP,115
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,176
+estrato,estrato_mas_frecuente,5,,178
+habitaciones,1,770000000.0,COP,7
+habitaciones,2,877500000.0,COP,44
+habitaciones,3+,950000000.0,COP,126
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/cumbres,,
+fuente,licencia,CC BY 4.0,,

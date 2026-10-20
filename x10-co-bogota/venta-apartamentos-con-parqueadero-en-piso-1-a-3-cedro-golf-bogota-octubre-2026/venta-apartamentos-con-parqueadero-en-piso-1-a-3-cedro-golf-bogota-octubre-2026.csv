@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,parq1,"con parqueadero",,36
+filtro,piso1,"en piso 1 a 3",,36
+precio,p25,370000000.0,COP,36
+precio,mediana,492000000.0,COP,36
+precio,p75,607250000.0,COP,36
+precio,minimo,325000000.0,COP,36
+precio,maximo,1050000000.0,COP,36
+m2,mediana_precio_m2,5502107.48,COP,36
+m2,area_mediana_m2,88.5,m2,36
+admin,mediana_admin_mes,409000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,2,375000000.0,COP,8
+habitaciones,3+,549500000.0,COP,28
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/cedro-golf,,
+fuente,licencia,CC BY 4.0,,

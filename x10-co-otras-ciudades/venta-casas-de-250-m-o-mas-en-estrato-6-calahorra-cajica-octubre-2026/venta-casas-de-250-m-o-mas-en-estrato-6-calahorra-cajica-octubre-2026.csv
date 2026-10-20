@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,6,,34
+filtro,area6,"de 250 m² o más",,34
+precio,p25,2095000000.0,COP,34
+precio,mediana,2200000000.0,COP,34
+precio,p75,2670000000.0,COP,34
+precio,minimo,1600000000.0,COP,34
+precio,maximo,3300000000.0,COP,34
+m2,mediana_precio_m2,6818423.07,COP,34
+m2,area_mediana_m2,320.0,m2,34
+admin,mediana_admin_mes,1550000.0,COP,30
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,3+,2200000000.0,COP,34
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cajica/calahorra,,
+fuente,licencia,CC BY 4.0,,

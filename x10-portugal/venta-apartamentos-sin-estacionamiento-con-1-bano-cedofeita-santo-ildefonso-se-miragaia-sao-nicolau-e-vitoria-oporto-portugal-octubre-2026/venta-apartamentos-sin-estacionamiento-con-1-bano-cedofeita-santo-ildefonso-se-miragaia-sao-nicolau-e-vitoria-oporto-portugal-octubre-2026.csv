@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,70
+filtro,parq0,"sin estacionamiento",,70
+filtro,ban1,"con 1 baño",,70
+precio,p25,275482.75,EUR,70
+precio,mediana,310775.0,EUR,70
+precio,p75,380450.0,EUR,70
+precio,minimo,217500.0,EUR,70
+precio,maximo,605000.0,EUR,70
+m2,mediana_precio_m2,5571.9,EUR,68
+m2,area_mediana_m2,58.5,m2,68
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,70
+habitaciones,1,299000.0,EUR,54
+habitaciones,2,395000.0,EUR,15
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto/cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria,,
+fuente,licencia,CC BY 4.0,,

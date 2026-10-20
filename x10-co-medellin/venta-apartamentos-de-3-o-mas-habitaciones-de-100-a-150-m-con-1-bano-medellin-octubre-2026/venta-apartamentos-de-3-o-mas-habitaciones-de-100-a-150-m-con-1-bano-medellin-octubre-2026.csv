@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,31
+filtro,habitaciones,3+,,31
+filtro,area4,"de 100 a 150 m²",,31
+filtro,ban1,"con 1 baño",,31
+precio,p25,330000000.0,COP,31
+precio,mediana,398000000.0,COP,31
+precio,p75,535000000.0,COP,31
+precio,minimo,260000000.0,COP,31
+precio,maximo,1748052026.0,COP,31
+m2,area_mediana_m2,115.0,m2,27
+banos,mediana_banos,1.0,,
+habitaciones,3+,398000000.0,COP,31
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin,,
+fuente,licencia,CC BY 4.0,,

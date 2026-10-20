@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,4,,34
+filtro,area3,"de 70 a 100 m²",,34
+precio,p25,245750000.0,COP,34
+precio,mediana,264000000.0,COP,34
+precio,p75,320000000.0,COP,34
+precio,minimo,220000000.0,COP,34
+precio,maximo,395000000.0,COP,34
+m2,mediana_precio_m2,3611111.11,COP,33
+m2,area_mediana_m2,72.5,m2,33
+admin,mediana_admin_mes,367000.0,COP,27
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,2,250000000.0,COP,7
+habitaciones,3+,270000000.0,COP,27
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/el-refugio,,
+fuente,licencia,CC BY 4.0,,

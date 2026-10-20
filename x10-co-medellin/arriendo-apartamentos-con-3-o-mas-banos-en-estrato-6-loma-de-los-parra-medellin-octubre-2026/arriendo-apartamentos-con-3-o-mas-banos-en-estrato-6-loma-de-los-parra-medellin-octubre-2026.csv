@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,44
+filtro,estrato,6,,44
+filtro,ban3,"con 3 o más baños",,44
+precio,p25,6650000.0,COP,44
+precio,mediana,7925000.0,COP,44
+precio,p75,8850000.0,COP,44
+precio,minimo,3100000.0,COP,44
+precio,maximo,19000000.0,COP,44
+m2,mediana_precio_m2,51500.97,COP,44
+m2,area_mediana_m2,140.0,m2,44
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,6,,44
+habitaciones,2,7650000.0,COP,8
+habitaciones,3+,8000000.0,COP,36
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-de-los-parra,,
+fuente,licencia,CC BY 4.0,,

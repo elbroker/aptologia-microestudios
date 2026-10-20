@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,45
+filtro,parq1,"con parqueadero",,45
+filtro,edad2,"de 6 a 20 años de construidos",,45
+precio,p25,970000000.0,COP,45
+precio,mediana,1550000000.0,COP,45
+precio,p75,2500000000.0,COP,45
+precio,minimo,630000000.0,COP,45
+precio,maximo,4216000000.0,COP,45
+m2,mediana_precio_m2,10158730.16,COP,45
+m2,area_mediana_m2,150.0,m2,45
+admin,mediana_admin_mes,1348000.0,COP,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,6,,45
+habitaciones,2,1130000000.0,COP,10
+habitaciones,3+,2000000000.0,COP,31
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/castillogrande,,
+fuente,licencia,CC BY 4.0,,

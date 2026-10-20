@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban3,"con 3 o más baños",,36
+precio,p25,51500.0,UYU,36
+precio,mediana,64500.0,UYU,36
+precio,p75,70000.0,UYU,36
+precio,minimo,39000.0,UYU,36
+precio,maximo,78000.0,UYU,36
+m2,mediana_precio_m2,509.06,UYU,32
+m2,area_mediana_m2,122.5,m2,32
+admin,mediana_admin_mes,19300.0,UYU,34
+banos,mediana_banos,3.0,,
+habitaciones,3+,64500.0,UYU,36
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,264
+filtro,habitaciones,3+,,264
+filtro,area5,"de 150 a 250 m²",,264
+filtro,ban3,"con 3 o más baños",,264
+precio,p25,624875000.0,COP,264
+precio,mediana,900000000.0,COP,264
+precio,p75,1450000000.0,COP,264
+precio,minimo,280000000.0,COP,264
+precio,maximo,7400000000.0,COP,264
+m2,mediana_precio_m2,4437389.38,COP,242
+m2,area_mediana_m2,200.0,m2,242
+admin,mediana_admin_mes,840000.0,COP,87
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,92.2,%,205
+estrato,estrato_mas_frecuente,4,,256
+habitaciones,3+,900000000.0,COP,264
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,4296875.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena,,
+fuente,licencia,CC BY 4.0,,

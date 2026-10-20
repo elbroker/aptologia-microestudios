@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,49
+filtro,ban3,"con 3 o más baños",,49
+filtro,edad1,"de 0 a 5 años de construidos",,49
+precio,p25,495000000.0,COP,49
+precio,mediana,680000000.0,COP,49
+precio,p75,825000000.0,COP,49
+precio,minimo,299000000.0,COP,49
+precio,maximo,2000000000.0,COP,49
+m2,mediana_precio_m2,6115384.62,COP,49
+m2,area_mediana_m2,100.0,m2,49
+admin,mediana_admin_mes,335683.0,COP,29
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,77.3,%,44
+estrato,estrato_mas_frecuente,4,,46
+habitaciones,3+,680000000.0,COP,45
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

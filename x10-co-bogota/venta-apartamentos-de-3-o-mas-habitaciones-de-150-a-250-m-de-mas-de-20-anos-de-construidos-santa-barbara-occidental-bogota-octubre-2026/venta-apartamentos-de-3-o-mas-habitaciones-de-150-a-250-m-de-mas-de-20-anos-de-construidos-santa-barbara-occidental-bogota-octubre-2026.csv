@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,64
+filtro,habitaciones,3+,,64
+filtro,area5,"de 150 a 250 m²",,64
+filtro,edad3,"de más de 20 años de construidos",,64
+precio,p25,1050000000.0,COP,64
+precio,mediana,1175000000.0,COP,64
+precio,p75,1350000000.0,COP,64
+precio,minimo,700000000.0,COP,64
+precio,maximo,1600000000.0,COP,64
+m2,mediana_precio_m2,6036786.99,COP,64
+m2,area_mediana_m2,186.5,m2,64
+admin,mediana_admin_mes,1325000.0,COP,62
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.4,%,64
+estrato,estrato_mas_frecuente,5,,64
+habitaciones,3+,1175000000.0,COP,64
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-barbara-occidental,,
+fuente,licencia,CC BY 4.0,,

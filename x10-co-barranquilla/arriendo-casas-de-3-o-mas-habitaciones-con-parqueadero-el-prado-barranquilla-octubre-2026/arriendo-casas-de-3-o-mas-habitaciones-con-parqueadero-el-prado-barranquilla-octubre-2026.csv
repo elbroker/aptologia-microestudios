@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,69
+filtro,habitaciones,3+,,69
+filtro,parq1,"con parqueadero",,69
+precio,p25,7000000.0,COP,69
+precio,mediana,11000000.0,COP,69
+precio,p75,15000000.0,COP,69
+precio,minimo,3500000.0,COP,69
+precio,maximo,28000000.0,COP,69
+m2,mediana_precio_m2,24871.79,COP,69
+m2,area_mediana_m2,436.0,m2,69
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,4,,68
+habitaciones,3+,11000000.0,COP,69
+ciudad,mediana_ciudad_referencia,8200000.0,COP,
+ciudad,mediana_m2_ciudad,25000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/barranquilla/el-prado,,
+fuente,licencia,CC BY 4.0,,

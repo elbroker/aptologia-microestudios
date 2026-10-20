@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,45
+filtro,habitaciones,3+,,45
+filtro,area5,"de 150 a 250 m²",,45
+filtro,ban2,"con 2 baños",,45
+precio,p25,289000.0,USD,45
+precio,mediana,330000.0,USD,45
+precio,p75,410000.0,USD,45
+precio,minimo,208000.0,USD,45
+precio,maximo,685000.0,USD,45
+m2,mediana_precio_m2,1903.23,USD,45
+m2,area_mediana_m2,182.0,m2,45
+banos,mediana_banos,2.0,,
+habitaciones,3+,330000.0,USD,45
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo/naco,,
+fuente,licencia,CC BY 4.0,,

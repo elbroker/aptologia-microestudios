@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,3+,,40
+filtro,parq1,"con parqueadero",,40
+precio,p25,449250000.0,COP,40
+precio,mediana,522500000.0,COP,40
+precio,p75,666250000.0,COP,40
+precio,minimo,270000000.0,COP,40
+precio,maximo,1300000000.0,COP,40
+m2,mediana_precio_m2,7274865.59,COP,40
+m2,area_mediana_m2,72.0,m2,40
+admin,mediana_admin_mes,423000.0,COP,29
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,4,,39
+habitaciones,3+,522500000.0,COP,40
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-del-barro,,
+fuente,licencia,CC BY 4.0,,

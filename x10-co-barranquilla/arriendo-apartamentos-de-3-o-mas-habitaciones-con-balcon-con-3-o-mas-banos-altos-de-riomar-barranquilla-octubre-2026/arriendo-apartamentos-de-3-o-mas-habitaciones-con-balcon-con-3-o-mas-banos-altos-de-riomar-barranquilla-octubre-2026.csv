@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,60
+filtro,habitaciones,3+,,60
+filtro,balc,"con balcón",,60
+filtro,ban3,"con 3 o más baños",,60
+precio,p25,4390000.0,COP,60
+precio,mediana,5900000.0,COP,60
+precio,p75,7812500.0,COP,60
+precio,minimo,1850000.0,COP,60
+precio,maximo,17500000.0,COP,60
+m2,mediana_precio_m2,37014.71,COP,60
+m2,area_mediana_m2,155.5,m2,60
+admin,mediana_admin_mes,854500.0,COP,24
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+estrato,estrato_mas_frecuente,6,,60
+habitaciones,3+,5900000.0,COP,60
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/altos-de-riomar,,
+fuente,licencia,CC BY 4.0,,

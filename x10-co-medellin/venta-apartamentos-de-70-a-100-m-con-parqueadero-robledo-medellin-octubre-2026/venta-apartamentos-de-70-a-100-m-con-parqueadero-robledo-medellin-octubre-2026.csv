@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,area3,"de 70 a 100 m²",,40
+filtro,parq1,"con parqueadero",,40
+precio,p25,375000000.0,COP,40
+precio,mediana,504000000.0,COP,40
+precio,p75,591250000.0,COP,40
+precio,minimo,280000000.0,COP,40
+precio,maximo,750000000.0,COP,40
+m2,mediana_precio_m2,6428395.06,COP,40
+m2,area_mediana_m2,77.0,m2,40
+admin,mediana_admin_mes,355000.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,592500000.0,COP,8
+habitaciones,3+,457500000.0,COP,32
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

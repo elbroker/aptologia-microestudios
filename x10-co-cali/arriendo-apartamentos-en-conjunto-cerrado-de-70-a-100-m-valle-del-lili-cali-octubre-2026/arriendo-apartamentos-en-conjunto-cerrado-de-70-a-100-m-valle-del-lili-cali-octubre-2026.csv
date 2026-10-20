@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,conj,"en conjunto cerrado",,30
+filtro,area3,"de 70 a 100 m²",,30
+precio,p25,1925000.0,COP,30
+precio,mediana,2650000.0,COP,30
+precio,p75,3375000.0,COP,30
+precio,minimo,1550000.0,COP,30
+precio,maximo,6200000.0,COP,30
+m2,mediana_precio_m2,32161.42,COP,30
+m2,area_mediana_m2,77.0,m2,30
+banos,mediana_banos,2.0,,
+habitaciones,2,2400000.0,COP,12
+habitaciones,3+,2800000.0,COP,18
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cali/valle-del-lili,,
+fuente,licencia,CC BY 4.0,,

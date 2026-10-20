@@ -1,0 +1,23 @@
+# Precio de venta de departamentos de 3 o más habitaciones con estacionamiento en Oeste, Santa Cruz de la Sierra (Bolivia) — octubre 2026
+
+En Oeste, Santa Cruz de la Sierra (Bolivia), la mediana de precio de venta de departamentos de 3 o más habitaciones con estacionamiento es USD 130.000, según 63 avisos vigentes.
+
+Frente a la mediana de los departamentos de 3 o más habitaciones en venta de Oeste (USD 125.000, n = 91), queda 4 % por encima; este segmento reúne el 69 % de esos avisos.
+
+Por metro cuadrado, la mediana es USD 982/m² (n = 60), 0 % por encima de los departamentos de 3 o más habitaciones en venta de Oeste (USD 979/m²).
+
+El área mediana anunciada es 138 m².
+
+La cuota de mantenimiento o condominio mediana declarada es USD 80,00 al mes (n = 49).
+
+La mediana de todos los departamentos en venta de Santa Cruz de la Sierra es USD 100.000 (+30 % de diferencia).
+
+La mitad central de los avisos va de USD 109.500 a USD 175.000 (razón 1,6), una dispersión moderada.
+
+- n = 63 avisos vigentes · datos del 2026-10-18 · moneda USD
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/bo
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Bolivia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en USD, sin gastos comunes ni mantenimiento; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `venta-departamentos-de-3-o-mas-habitaciones-con-estacionamiento-oeste-santa-cruz-de-la-sierra-bolivia-octubre-2026.pdf`, `venta-departamentos-de-3-o-mas-habitaciones-con-estacionamiento-oeste-santa-cruz-de-la-sierra-bolivia-octubre-2026.csv`, `venta-departamentos-de-3-o-mas-habitaciones-con-estacionamiento-oeste-santa-cruz-de-la-sierra-bolivia-octubre-2026.png`.

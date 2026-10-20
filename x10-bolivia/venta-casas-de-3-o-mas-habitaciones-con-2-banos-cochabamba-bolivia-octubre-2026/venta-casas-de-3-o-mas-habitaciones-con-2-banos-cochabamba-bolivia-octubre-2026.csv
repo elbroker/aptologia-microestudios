@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,ban2,"con 2 baños",,37
+precio,p25,124000.0,USD,37
+precio,mediana,140000.0,USD,37
+precio,p75,215000.0,USD,37
+precio,minimo,69200.0,USD,37
+precio,maximo,580000.0,USD,37
+m2,mediana_precio_m2,770.95,USD,31
+m2,area_mediana_m2,188.5,m2,31
+banos,mediana_banos,2.0,,
+habitaciones,3+,140000.0,USD,37
+ciudad,mediana_ciudad_referencia,205500.0,USD,
+ciudad,mediana_m2_ciudad,775.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/cochabamba,,
+fuente,licencia,CC BY 4.0,,

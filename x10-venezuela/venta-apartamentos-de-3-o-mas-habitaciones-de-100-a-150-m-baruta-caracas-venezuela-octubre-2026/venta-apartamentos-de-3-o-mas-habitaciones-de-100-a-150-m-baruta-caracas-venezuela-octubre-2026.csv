@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,77
+filtro,habitaciones,3+,,77
+filtro,area4,"de 100 a 150 m²",,77
+precio,p25,150000.0,USD,77
+precio,mediana,170000.0,USD,77
+precio,p75,205000.0,USD,77
+precio,minimo,100000.0,USD,77
+precio,maximo,650000.0,USD,77
+m2,mediana_precio_m2,1362.32,USD,77
+m2,area_mediana_m2,124.0,m2,77
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,77
+habitaciones,3+,170000.0,USD,77
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas/baruta,,
+fuente,licencia,CC BY 4.0,,

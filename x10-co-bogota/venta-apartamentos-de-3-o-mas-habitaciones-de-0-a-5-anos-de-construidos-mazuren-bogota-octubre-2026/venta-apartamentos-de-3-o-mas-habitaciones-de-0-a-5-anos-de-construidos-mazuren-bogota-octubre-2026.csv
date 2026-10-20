@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,edad1,"de 0 a 5 años de construidos",,36
+precio,p25,456000000.0,COP,36
+precio,mediana,589500000.0,COP,36
+precio,p75,762500000.0,COP,36
+precio,minimo,365000000.0,COP,36
+precio,maximo,1300000009.0,COP,36
+m2,mediana_precio_m2,6653435.67,COP,36
+m2,area_mediana_m2,85.0,m2,36
+admin,mediana_admin_mes,439500.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,3+,589500000.0,COP,36
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/mazuren,,
+fuente,licencia,CC BY 4.0,,

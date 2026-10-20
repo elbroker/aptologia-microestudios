@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,65
+filtro,habitaciones,2,,65
+filtro,ban2,"con 2 baños",,65
+precio,p25,540000000.0,COP,65
+precio,mediana,615000000.0,COP,65
+precio,p75,1250000000.0,COP,65
+precio,minimo,249000000.0,COP,65
+precio,maximo,1680000000.0,COP,65
+m2,mediana_precio_m2,8582089.55,COP,65
+m2,area_mediana_m2,75.0,m2,65
+admin,mediana_admin_mes,420000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+estrato,estrato_mas_frecuente,5,,59
+habitaciones,2,615000000.0,COP,65
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/llano-grande,,
+fuente,licencia,CC BY 4.0,,

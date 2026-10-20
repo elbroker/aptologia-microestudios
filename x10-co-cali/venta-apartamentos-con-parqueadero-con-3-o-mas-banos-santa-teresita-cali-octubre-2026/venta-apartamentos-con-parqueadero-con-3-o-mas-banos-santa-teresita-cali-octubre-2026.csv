@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,294
+filtro,parq1,"con parqueadero",,294
+filtro,ban3,"con 3 o más baños",,294
+precio,p25,850000000.0,COP,294
+precio,mediana,1050000000.0,COP,294
+precio,p75,1500000000.0,COP,294
+precio,minimo,420000000.0,COP,294
+precio,maximo,3000000000.0,COP,294
+m2,mediana_precio_m2,5251578.95,COP,294
+m2,area_mediana_m2,204.0,m2,294
+admin,mediana_admin_mes,1429000.0,COP,248
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,294
+estrato,estrato_mas_frecuente,6,,294
+habitaciones,2,1075000000.0,COP,28
+habitaciones,3+,1050000000.0,COP,266
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/santa-teresita,,
+fuente,licencia,CC BY 4.0,,

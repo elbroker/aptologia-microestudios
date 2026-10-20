@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,66
+filtro,parq1,"con estacionamiento",,66
+filtro,ban1,"con 1 baño",,66
+precio,p25,700.0,USD,66
+precio,mediana,900.0,USD,66
+precio,p75,1187.5,USD,66
+precio,minimo,500.0,USD,66
+precio,maximo,3100.0,USD,66
+m2,mediana_precio_m2,12.22,USD,63
+m2,area_mediana_m2,69.0,m2,63
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+habitaciones,1,850.0,USD,47
+habitaciones,2,1100.0,USD,14
+ciudad,mediana_ciudad_referencia,1250.0,USD,
+ciudad,mediana_m2_ciudad,11.11,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/miraflores,,
+fuente,licencia,CC BY 4.0,,

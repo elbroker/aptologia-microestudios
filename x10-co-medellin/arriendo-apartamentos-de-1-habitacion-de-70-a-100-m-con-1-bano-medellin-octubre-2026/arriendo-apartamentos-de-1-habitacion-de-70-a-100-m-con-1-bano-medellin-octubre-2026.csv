@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,63
+filtro,habitaciones,1,,63
+filtro,area3,"de 70 a 100 m²",,63
+filtro,ban1,"con 1 baño",,63
+precio,p25,3150000.0,COP,63
+precio,mediana,3750000.0,COP,63
+precio,p75,5200000.0,COP,63
+precio,minimo,900000.0,COP,63
+precio,maximo,11700000.0,COP,63
+m2,mediana_precio_m2,51355.31,COP,56
+m2,area_mediana_m2,75.0,m2,56
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,85.5,%,55
+estrato,estrato_mas_frecuente,6,,61
+habitaciones,1,3750000.0,COP,63
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,57
+filtro,estrato,6,,57
+filtro,area1,"de menos de 45 m²",,57
+precio,p25,1650000.0,COP,57
+precio,mediana,2100000.0,COP,57
+precio,p75,2400000.0,COP,57
+precio,minimo,950000.0,COP,57
+precio,maximo,3330000.0,COP,57
+m2,mediana_precio_m2,53846.15,COP,57
+m2,area_mediana_m2,40.0,m2,57
+admin,mediana_admin_mes,280000.0,COP,33
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,96.2,%,53
+estrato,estrato_mas_frecuente,6,,57
+ciudad,mediana_ciudad_referencia,1900000.0,COP,
+ciudad,mediana_m2_ciudad,42078.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira,,
+fuente,licencia,CC BY 4.0,,

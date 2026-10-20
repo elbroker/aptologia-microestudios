@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,44
+filtro,estrato,3,,44
+filtro,ban2,"con 2 baños",,44
+filtro,edad1,"de 0 a 5 años de construidos",,44
+precio,p25,311249999.75,COP,44
+precio,mediana,392500000.0,COP,44
+precio,p75,460000000.0,COP,44
+precio,minimo,220000000.0,COP,44
+precio,maximo,510000000.0,COP,44
+m2,mediana_precio_m2,5769230.75,COP,43
+m2,area_mediana_m2,65.0,m2,43
+admin,mediana_admin_mes,266550.0,COP,34
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,34
+estrato,estrato_mas_frecuente,3,,44
+habitaciones,3+,395000000.0,COP,43
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/castilla,,
+fuente,licencia,CC BY 4.0,,

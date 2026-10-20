@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,77
+filtro,area2,"de 45 a 70 m²",,77
+filtro,ban2,"con 2 baños",,77
+precio,p25,486278.0,PEN,77
+precio,mediana,540000.0,PEN,77
+precio,p75,617000.0,PEN,77
+precio,minimo,397000.0,PEN,77
+precio,maximo,794000.0,PEN,77
+m2,mediana_precio_m2,9228.07,PEN,77
+m2,area_mediana_m2,60.0,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,60
+habitaciones,1,422656.0,PEN,11
+habitaciones,2,547000.0,PEN,65
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

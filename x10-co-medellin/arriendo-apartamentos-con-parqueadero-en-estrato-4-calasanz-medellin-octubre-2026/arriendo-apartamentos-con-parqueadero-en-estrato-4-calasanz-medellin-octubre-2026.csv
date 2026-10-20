@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,100
+filtro,estrato,4,,100
+filtro,parq1,"con parqueadero",,100
+precio,p25,2600000.0,COP,100
+precio,mediana,2900000.0,COP,100
+precio,p75,3400000.0,COP,100
+precio,minimo,1111111.0,COP,100
+precio,maximo,5500000.0,COP,100
+m2,mediana_precio_m2,43107.53,COP,100
+m2,area_mediana_m2,70.5,m2,100
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,100
+estrato,estrato_mas_frecuente,4,,100
+habitaciones,2,2700000.0,COP,31
+habitaciones,3+,3100000.0,COP,69
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

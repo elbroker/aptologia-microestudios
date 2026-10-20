@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,43
+filtro,estrato,3,,43
+precio,p25,1400000.0,COP,43
+precio,mediana,1650000.0,COP,43
+precio,p75,1700000.0,COP,43
+precio,minimo,900000.0,COP,43
+precio,maximo,3500000.0,COP,43
+m2,mediana_precio_m2,28000.0,COP,41
+m2,area_mediana_m2,59.5,m2,41
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,43
+habitaciones,2,1600000.0,COP,24
+habitaciones,3+,1700000.0,COP,17
+ciudad,mediana_ciudad_referencia,1700000.0,COP,
+ciudad,mediana_m2_ciudad,29090.91,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/marinilla,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,77
+filtro,habitaciones,3+,,77
+filtro,ban3,"con 3 o más baños",,77
+precio,p25,220000.0,USD,77
+precio,mediana,323000.0,USD,77
+precio,p75,495000.0,USD,77
+precio,minimo,80900.0,USD,77
+precio,maximo,1390000.0,USD,77
+m2,mediana_precio_m2,1097.55,USD,74
+m2,area_mediana_m2,347.0,m2,74
+banos,mediana_banos,4.0,,
+habitaciones,3+,323000.0,USD,77
+ciudad,mediana_ciudad_referencia,165000.0,USD,
+ciudad,mediana_m2_ciudad,1242.72,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/cordoba,,
+fuente,licencia,CC BY 4.0,,

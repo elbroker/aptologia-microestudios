@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,3,,35
+filtro,balc,"con balcón",,35
+precio,p25,2335000.0,COP,35
+precio,mediana,2688000.0,COP,35
+precio,p75,2950000.0,COP,35
+precio,minimo,1800000.0,COP,35
+precio,maximo,3500000.0,COP,35
+m2,mediana_precio_m2,47576.92,COP,35
+m2,area_mediana_m2,56.0,m2,35
+admin,mediana_admin_mes,305000.0,COP,21
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,35
+habitaciones,2,2614000.0,COP,15
+habitaciones,3+,2744000.0,COP,20
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/torices,,
+fuente,licencia,CC BY 4.0,,

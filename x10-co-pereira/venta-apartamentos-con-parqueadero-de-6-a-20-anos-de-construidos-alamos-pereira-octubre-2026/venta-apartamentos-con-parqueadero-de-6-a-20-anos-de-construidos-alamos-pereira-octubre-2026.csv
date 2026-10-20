@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,107
+filtro,parq1,"con parqueadero",,107
+filtro,edad2,"de 6 a 20 años de construidos",,107
+precio,p25,400000000.0,COP,107
+precio,mediana,480000000.0,COP,107
+precio,p75,555000000.0,COP,107
+precio,minimo,250000000.0,COP,107
+precio,maximo,1650000000.0,COP,107
+m2,mediana_precio_m2,5739495.8,COP,106
+m2,area_mediana_m2,82.0,m2,106
+admin,mediana_admin_mes,385000.0,COP,95
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,107
+estrato,estrato_mas_frecuente,6,,107
+habitaciones,2,420000000.0,COP,36
+habitaciones,3+,520000000.0,COP,67
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/alamos,,
+fuente,licencia,CC BY 4.0,,

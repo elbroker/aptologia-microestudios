@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,area4,"de 100 a 150 m²",,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,5000000.0,COP,32
+precio,mediana,5500000.0,COP,32
+precio,p75,6000000.0,COP,32
+precio,minimo,4000000.0,COP,32
+precio,maximo,9500000.0,COP,32
+m2,mediana_precio_m2,50000.0,COP,32
+m2,area_mediana_m2,115.0,m2,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.8,%,31
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,2,5000000.0,COP,6
+habitaciones,3+,5750000.0,COP,26
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-de-las-brujas,,
+fuente,licencia,CC BY 4.0,,

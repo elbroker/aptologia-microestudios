@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,parq1,"con parqueadero",,33
+filtro,piso2,"en piso 4 a 8",,33
+precio,p25,400000000.0,COP,33
+precio,mediana,440000000.0,COP,33
+precio,p75,500000000.0,COP,33
+precio,minimo,340000000.0,COP,33
+precio,maximo,585000000.0,COP,33
+m2,mediana_precio_m2,6984169.22,COP,33
+m2,area_mediana_m2,63.0,m2,33
+admin,mediana_admin_mes,288000.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,2,400000000.0,COP,10
+habitaciones,3+,485000000.0,COP,23
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/baja-suiza,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,33
+filtro,estrato,3,,33
+filtro,edad1,"de 0 a 5 años de construidos",,33
+precio,p25,263000000.0,COP,33
+precio,mediana,297000000.0,COP,33
+precio,p75,338900000.0,COP,33
+precio,minimo,230000000.0,COP,33
+precio,maximo,560000000.0,COP,33
+m2,mediana_precio_m2,5576923.08,COP,33
+m2,area_mediana_m2,54.0,m2,33
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,33
+habitaciones,2,292500000.0,COP,16
+habitaciones,3+,310000000.0,COP,17
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/santa-ana,,
+fuente,licencia,CC BY 4.0,,

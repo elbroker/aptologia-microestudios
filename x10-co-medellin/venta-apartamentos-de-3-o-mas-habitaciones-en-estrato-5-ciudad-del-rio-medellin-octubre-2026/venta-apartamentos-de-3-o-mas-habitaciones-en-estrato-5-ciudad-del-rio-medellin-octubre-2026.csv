@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,85
+filtro,habitaciones,3+,,85
+filtro,estrato,5,,85
+precio,p25,780000000.0,COP,85
+precio,mediana,930000000.0,COP,85
+precio,p75,1100000000.0,COP,85
+precio,minimo,560000000.0,COP,85
+precio,maximo,1480000000.0,COP,85
+m2,mediana_precio_m2,9905660.38,COP,85
+m2,area_mediana_m2,92.0,m2,85
+admin,mediana_admin_mes,490000.0,COP,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.8,%,85
+estrato,estrato_mas_frecuente,5,,85
+habitaciones,3+,930000000.0,COP,85
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/ciudad-del-rio,,
+fuente,licencia,CC BY 4.0,,

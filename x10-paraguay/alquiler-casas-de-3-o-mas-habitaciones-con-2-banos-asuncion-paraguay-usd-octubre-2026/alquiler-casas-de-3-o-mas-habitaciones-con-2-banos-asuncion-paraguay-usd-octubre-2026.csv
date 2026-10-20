@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,103
+filtro,habitaciones,3+,,103
+filtro,ban2,"con 2 baños",,103
+precio,p25,1800.0,USD,103
+precio,mediana,2637.0,USD,103
+precio,p75,3500.0,USD,103
+precio,minimo,985.0,USD,103
+precio,maximo,6500.0,USD,103
+m2,mediana_precio_m2,7.64,USD,91
+m2,area_mediana_m2,300.0,m2,91
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,90
+habitaciones,3+,2637.0,USD,103
+ciudad,mediana_ciudad_referencia,2800.0,USD,
+ciudad,mediana_m2_ciudad,7.11,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion,,
+fuente,licencia,CC BY 4.0,,

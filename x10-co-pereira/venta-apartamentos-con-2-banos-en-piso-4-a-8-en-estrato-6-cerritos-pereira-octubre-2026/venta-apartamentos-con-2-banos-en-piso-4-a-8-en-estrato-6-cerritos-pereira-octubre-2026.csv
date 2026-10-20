@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,52
+filtro,estrato,6,,52
+filtro,ban2,"con 2 baños",,52
+filtro,piso2,"en piso 4 a 8",,52
+precio,p25,550000000.0,COP,52
+precio,mediana,671000000.0,COP,52
+precio,p75,780950000.0,COP,52
+precio,minimo,330000000.0,COP,52
+precio,maximo,1180000000.0,COP,52
+m2,mediana_precio_m2,7497191.01,COP,52
+m2,area_mediana_m2,91.0,m2,52
+admin,mediana_admin_mes,465000.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.0,%,51
+estrato,estrato_mas_frecuente,6,,52
+habitaciones,2,667000000.0,COP,29
+habitaciones,3+,680000000.0,COP,19
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/cerritos,,
+fuente,licencia,CC BY 4.0,,

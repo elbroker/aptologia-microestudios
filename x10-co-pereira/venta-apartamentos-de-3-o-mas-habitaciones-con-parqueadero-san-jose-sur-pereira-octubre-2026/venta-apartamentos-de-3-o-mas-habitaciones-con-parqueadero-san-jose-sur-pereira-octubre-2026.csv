@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,parq1,"con parqueadero",,31
+precio,p25,330000000.0,COP,31
+precio,mediana,486000000.0,COP,31
+precio,p75,640000000.0,COP,31
+precio,minimo,240000000.0,COP,31
+precio,maximo,1050000000.0,COP,31
+m2,mediana_precio_m2,4995039.68,COP,30
+m2,area_mediana_m2,101.0,m2,30
+admin,mediana_admin_mes,505253.0,COP,20
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,486000000.0,COP,31
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/san-jose-sur,,
+fuente,licencia,CC BY 4.0,,

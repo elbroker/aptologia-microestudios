@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,43
+filtro,habitaciones,3+,,43
+filtro,area2,"de 45 a 70 m²",,43
+precio,p25,1500000.0,COP,43
+precio,mediana,1686000.0,COP,43
+precio,p75,2000000.0,COP,43
+precio,minimo,950000.0,COP,43
+precio,maximo,3500000.0,COP,43
+m2,mediana_precio_m2,30000.0,COP,43
+m2,area_mediana_m2,58.0,m2,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.7,%,30
+estrato,estrato_mas_frecuente,4,,43
+habitaciones,3+,1686000.0,COP,43
+ciudad,mediana_ciudad_referencia,2050000.0,COP,
+ciudad,mediana_m2_ciudad,31198.77,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/manizales,,
+fuente,licencia,CC BY 4.0,,

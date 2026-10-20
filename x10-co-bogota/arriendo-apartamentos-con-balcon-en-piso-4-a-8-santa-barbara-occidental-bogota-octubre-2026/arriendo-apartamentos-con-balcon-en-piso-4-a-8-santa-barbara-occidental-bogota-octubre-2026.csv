@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,balc,"con balcón",,33
+filtro,piso2,"en piso 4 a 8",,33
+precio,p25,4000000.0,COP,33
+precio,mediana,6500000.0,COP,33
+precio,p75,12500000.0,COP,33
+precio,minimo,3200000.0,COP,33
+precio,maximo,20000000.0,COP,33
+m2,mediana_precio_m2,53913.52,COP,32
+m2,area_mediana_m2,160.0,m2,32
+admin,mediana_admin_mes,1210500.0,COP,20
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,6,,33
+habitaciones,1,3600000.0,COP,9
+habitaciones,2,4800000.0,COP,5
+habitaciones,3+,12345000.0,COP,19
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental,,
+fuente,licencia,CC BY 4.0,,

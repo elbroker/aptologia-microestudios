@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,139
+filtro,habitaciones,3+,,139
+filtro,parq1,"con parqueadero",,139
+filtro,ban2,"con 2 baños",,139
+precio,p25,1900000.0,COP,139
+precio,mediana,2580000.0,COP,139
+precio,p75,3499000.0,COP,139
+precio,minimo,1050000.0,COP,139
+precio,maximo,6700000.0,COP,139
+m2,mediana_precio_m2,30769.23,COP,138
+m2,area_mediana_m2,82.0,m2,138
+admin,mediana_admin_mes,416000.0,COP,102
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,139
+estrato,estrato_mas_frecuente,4,,135
+habitaciones,3+,2580000.0,COP,139
+ciudad,mediana_ciudad_referencia,2350000.0,COP,
+ciudad,mediana_m2_ciudad,29588.48,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bucaramanga,,
+fuente,licencia,CC BY 4.0,,

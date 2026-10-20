@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,area2,"de 45 a 70 m²",,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,360000000.0,COP,55
+precio,mediana,405000000.0,COP,55
+precio,p75,465000000.0,COP,55
+precio,minimo,264000000.0,COP,55
+precio,maximo,720000000.0,COP,55
+m2,mediana_precio_m2,7017543.86,COP,55
+m2,area_mediana_m2,60.0,m2,55
+admin,mediana_admin_mes,395000.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.3,%,54
+estrato,estrato_mas_frecuente,6,,55
+habitaciones,1,414500000.0,COP,10
+habitaciones,2,400000000.0,COP,37
+habitaciones,3+,425000000.0,COP,8
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,3+,,40
+filtro,area4,"de 100 a 150 m²",,40
+precio,p25,4700000.0,COP,40
+precio,mediana,5500000.0,COP,40
+precio,p75,6275000.0,COP,40
+precio,minimo,3700000.0,COP,40
+precio,maximo,12000000.0,COP,40
+m2,mediana_precio_m2,42972.03,COP,40
+m2,area_mediana_m2,130.0,m2,40
+banos,mediana_banos,2.5,,
+parqueadero,pct_con_parqueadero,100.0,%,39
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,3+,5500000.0,COP,40
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/patio-bonito,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,141
+filtro,estrato,4,,141
+filtro,area4,"de 100 a 150 m²",,141
+precio,p25,3400000.0,COP,141
+precio,mediana,3900000.0,COP,141
+precio,p75,4500000.0,COP,141
+precio,minimo,1800000.0,COP,141
+precio,maximo,11000000.0,COP,141
+m2,mediana_precio_m2,31818.18,COP,139
+m2,area_mediana_m2,120.0,m2,139
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,56.2,%,112
+estrato,estrato_mas_frecuente,4,,141
+habitaciones,3+,3900000.0,COP,138
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin,,
+fuente,licencia,CC BY 4.0,,

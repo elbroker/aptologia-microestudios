@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,6,,35
+filtro,edad1,"de 0 a 5 años de construidos",,35
+precio,p25,1150000000.0,COP,35
+precio,mediana,1480000000.0,COP,35
+precio,p75,2440000000.0,COP,35
+precio,minimo,747000000.0,COP,35
+precio,maximo,3500000000.0,COP,35
+m2,mediana_precio_m2,8966292.13,COP,35
+m2,area_mediana_m2,171.0,m2,35
+admin,mediana_admin_mes,1038400.0,COP,21
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.1,%,35
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,2,2190000000.0,COP,12
+habitaciones,3+,1310000000.0,COP,22
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/vizcaya,,
+fuente,licencia,CC BY 4.0,,

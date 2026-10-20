@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,315
+filtro,parq1,"con parqueadero",,315
+filtro,ban3,"con 3 o más baños",,315
+precio,p25,7500000.0,COP,315
+precio,mediana,9800000.0,COP,315
+precio,p75,13000000.0,COP,315
+precio,minimo,3900000.0,COP,315
+precio,maximo,20000000.0,COP,315
+m2,mediana_precio_m2,54333.53,COP,314
+m2,area_mediana_m2,176.0,m2,314
+admin,mediana_admin_mes,1250000.0,COP,19
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,315
+estrato,estrato_mas_frecuente,6,,315
+habitaciones,2,7500000.0,COP,57
+habitaciones,3+,11000000.0,COP,258
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-tesoro,,
+fuente,licencia,CC BY 4.0,,

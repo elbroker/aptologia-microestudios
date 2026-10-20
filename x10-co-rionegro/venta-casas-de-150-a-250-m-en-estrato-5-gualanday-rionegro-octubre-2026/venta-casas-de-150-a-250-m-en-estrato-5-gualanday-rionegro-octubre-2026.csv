@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,5,,39
+filtro,area5,"de 150 a 250 m²",,39
+precio,p25,1100000000.0,COP,39
+precio,mediana,1180000000.0,COP,39
+precio,p75,1264750000.0,COP,39
+precio,minimo,830000000.0,COP,39
+precio,maximo,1800000000.0,COP,39
+m2,mediana_precio_m2,7058823.53,COP,39
+m2,area_mediana_m2,167.0,m2,39
+admin,mediana_admin_mes,338500.0,COP,18
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,38
+estrato,estrato_mas_frecuente,5,,39
+habitaciones,3+,1180000000.0,COP,39
+ciudad,mediana_ciudad_referencia,2200000000.0,COP,
+ciudad,mediana_m2_ciudad,6689814.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/rionegro/gualanday,,
+fuente,licencia,CC BY 4.0,,

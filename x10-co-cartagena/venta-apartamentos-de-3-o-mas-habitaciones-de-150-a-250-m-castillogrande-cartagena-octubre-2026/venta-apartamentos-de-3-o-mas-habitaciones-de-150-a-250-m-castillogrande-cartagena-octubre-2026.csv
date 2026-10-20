@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,100
+filtro,habitaciones,3+,,100
+filtro,area5,"de 150 a 250 m²",,100
+precio,p25,1250000000.0,COP,100
+precio,mediana,1850000000.0,COP,100
+precio,p75,2357500000.0,COP,100
+precio,minimo,650000000.0,COP,100
+precio,maximo,4000000000.0,COP,100
+m2,mediana_precio_m2,9333333.33,COP,91
+m2,area_mediana_m2,190.0,m2,91
+admin,mediana_admin_mes,1600000.0,COP,83
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,97
+estrato,estrato_mas_frecuente,6,,100
+habitaciones,3+,1850000000.0,COP,100
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/castillogrande,,
+fuente,licencia,CC BY 4.0,,

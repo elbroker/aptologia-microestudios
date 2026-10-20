@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,156
+filtro,parq1,"con parqueadero",,156
+filtro,ban3,"con 3 o más baños",,156
+precio,p25,847905250.0,COP,156
+precio,mediana,1150000000.0,COP,156
+precio,p75,1471669500.0,COP,156
+precio,minimo,520000000.0,COP,156
+precio,maximo,2995000000.0,COP,156
+m2,mediana_precio_m2,6941609.98,COP,156
+m2,area_mediana_m2,162.0,m2,156
+admin,mediana_admin_mes,904500.0,COP,108
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,156
+estrato,estrato_mas_frecuente,6,,149
+habitaciones,2,650000000.0,COP,11
+habitaciones,3+,1190000000.0,COP,145
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/buenavista,,
+fuente,licencia,CC BY 4.0,,

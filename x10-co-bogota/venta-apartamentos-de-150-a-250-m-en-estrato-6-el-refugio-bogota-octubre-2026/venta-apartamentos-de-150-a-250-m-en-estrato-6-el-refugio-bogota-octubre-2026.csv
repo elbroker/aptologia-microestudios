@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,69
+filtro,estrato,6,,69
+filtro,area5,"de 150 a 250 m²",,69
+precio,p25,1450000000.0,COP,69
+precio,mediana,1750000000.0,COP,69
+precio,p75,2100000000.0,COP,69
+precio,minimo,895000000.0,COP,69
+precio,maximo,3000000000.0,COP,69
+m2,mediana_precio_m2,9090909.09,COP,69
+m2,area_mediana_m2,187.0,m2,69
+admin,mediana_admin_mes,1600000.0,COP,63
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,69
+estrato,estrato_mas_frecuente,6,,69
+habitaciones,2,1590000000.0,COP,20
+habitaciones,3+,1800000000.0,COP,48
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/el-refugio,,
+fuente,licencia,CC BY 4.0,,

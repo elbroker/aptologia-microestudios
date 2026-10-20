@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,59
+filtro,habitaciones,3+,,59
+filtro,area6,"de 250 m² o más",,59
+precio,p25,1400000000.0,COP,59
+precio,mediana,1600000000.0,COP,59
+precio,p75,1900000000.0,COP,59
+precio,minimo,680000000.0,COP,59
+precio,maximo,3000000000.0,COP,59
+m2,mediana_precio_m2,3563492.06,COP,44
+m2,area_mediana_m2,550.0,m2,44
+admin,mediana_admin_mes,547700.0,COP,43
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,94.9,%,59
+estrato,estrato_mas_frecuente,6,,59
+habitaciones,3+,1600000000.0,COP,59
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/pereira/via-armenia,,
+fuente,licencia,CC BY 4.0,,

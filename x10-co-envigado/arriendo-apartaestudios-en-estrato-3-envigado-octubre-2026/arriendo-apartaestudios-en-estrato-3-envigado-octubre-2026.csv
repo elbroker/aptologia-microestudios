@@ -1,0 +1,17 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,45
+filtro,estrato,3,,45
+precio,p25,1600000.0,COP,45
+precio,mediana,1700000.0,COP,45
+precio,p75,1800000.0,COP,45
+precio,minimo,1000000.0,COP,45
+precio,maximo,3800000.0,COP,45
+m2,mediana_precio_m2,73320.16,COP,44
+m2,area_mediana_m2,23.0,m2,44
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,3,,45
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,64142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado,,
+fuente,licencia,CC BY 4.0,,

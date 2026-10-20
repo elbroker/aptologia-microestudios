@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,66
+filtro,estrato,4,,66
+filtro,area3,"de 70 a 100 m²",,66
+precio,p25,552000000.0,COP,66
+precio,mediana,600000000.0,COP,66
+precio,p75,668750000.0,COP,66
+precio,minimo,470000000.0,COP,66
+precio,maximo,780000000.0,COP,66
+m2,mediana_precio_m2,7485955.06,COP,66
+m2,area_mediana_m2,80.0,m2,66
+admin,mediana_admin_mes,384500.0,COP,46
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,66
+estrato,estrato_mas_frecuente,4,,66
+habitaciones,2,590000000.0,COP,25
+habitaciones,3+,620000000.0,COP,41
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/loma-de-san-jose,,
+fuente,licencia,CC BY 4.0,,

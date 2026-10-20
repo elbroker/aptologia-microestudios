@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,57
+filtro,parq1,"con parqueadero",,57
+filtro,piso3,"en piso 9 o más",,57
+precio,p25,3400000.0,COP,57
+precio,mediana,3600000.0,COP,57
+precio,p75,4000000.0,COP,57
+precio,minimo,2500000.0,COP,57
+precio,maximo,11000000.0,COP,57
+m2,mediana_precio_m2,46575.34,COP,57
+m2,area_mediana_m2,80.0,m2,57
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+estrato,estrato_mas_frecuente,4,,57
+habitaciones,2,3300000.0,COP,13
+habitaciones,3+,3650000.0,COP,43
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/camino-verde,,
+fuente,licencia,CC BY 4.0,,

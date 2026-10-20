@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,44
+filtro,parq1,"con parqueadero",,44
+filtro,piso3,"en piso 9 o más",,44
+precio,p25,417500000.0,COP,44
+precio,mediana,517500000.0,COP,44
+precio,p75,717000000.0,COP,44
+precio,minimo,245000000.0,COP,44
+precio,maximo,1400000000.0,COP,44
+m2,mediana_precio_m2,6436588.39,COP,44
+m2,area_mediana_m2,80.0,m2,44
+admin,mediana_admin_mes,383000.0,COP,31
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,44
+estrato,estrato_mas_frecuente,6,,44
+habitaciones,2,532500000.0,COP,10
+habitaciones,3+,517500000.0,COP,34
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/galicia,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,32
+filtro,estrato,1,,32
+precio,p25,332500000.0,COP,32
+precio,mediana,585000000.0,COP,32
+precio,p75,1150000000.0,COP,32
+precio,minimo,250000000.0,COP,32
+precio,maximo,3500000000.0,COP,32
+banos,mediana_banos,2.5,,
+estrato,estrato_mas_frecuente,1,,32
+habitaciones,3+,545000000.0,COP,28
+ciudad,mediana_ciudad_referencia,1100000000.0,COP,
+ciudad,mediana_m2_ciudad,4166666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira,,
+fuente,licencia,CC BY 4.0,,

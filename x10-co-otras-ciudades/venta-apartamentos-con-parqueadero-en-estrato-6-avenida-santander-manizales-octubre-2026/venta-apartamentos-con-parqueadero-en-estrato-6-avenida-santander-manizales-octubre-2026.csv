@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,67
+filtro,estrato,6,,67
+filtro,parq1,"con parqueadero",,67
+precio,p25,535000000.0,COP,67
+precio,mediana,645000000.0,COP,67
+precio,p75,780000000.0,COP,67
+precio,minimo,320000000.0,COP,67
+precio,maximo,1300000000.0,COP,67
+m2,mediana_precio_m2,5632267.44,COP,66
+m2,area_mediana_m2,111.0,m2,66
+admin,mediana_admin_mes,725000.0,COP,55
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,67
+estrato,estrato_mas_frecuente,6,,67
+habitaciones,2,450000000.0,COP,11
+habitaciones,3+,685000000.0,COP,54
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/avenida-santander,,
+fuente,licencia,CC BY 4.0,,

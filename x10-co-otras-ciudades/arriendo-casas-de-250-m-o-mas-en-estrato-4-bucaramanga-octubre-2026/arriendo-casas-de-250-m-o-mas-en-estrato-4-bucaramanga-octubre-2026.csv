@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,32
+filtro,estrato,4,,32
+filtro,area6,"de 250 m² o más",,32
+precio,p25,5850000.0,COP,32
+precio,mediana,7000000.0,COP,32
+precio,p75,10000000.0,COP,32
+precio,minimo,4200000.0,COP,32
+precio,maximo,28500000.0,COP,32
+m2,mediana_precio_m2,19672.13,COP,32
+m2,area_mediana_m2,348.0,m2,32
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,3+,6950000.0,COP,27
+ciudad,mediana_ciudad_referencia,6000000.0,COP,
+ciudad,mediana_m2_ciudad,25000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bucaramanga,,
+fuente,licencia,CC BY 4.0,,

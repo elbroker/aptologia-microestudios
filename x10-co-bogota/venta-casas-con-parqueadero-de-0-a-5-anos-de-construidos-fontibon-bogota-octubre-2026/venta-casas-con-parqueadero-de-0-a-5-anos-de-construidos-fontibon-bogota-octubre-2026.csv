@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,92
+filtro,parq1,"con parqueadero",,92
+filtro,edad1,"de 0 a 5 años de construidos",,92
+precio,p25,645000000.0,COP,92
+precio,mediana,965000000.0,COP,92
+precio,p75,1292500000.0,COP,92
+precio,minimo,285000000.0,COP,92
+precio,maximo,4500000000.0,COP,92
+m2,mediana_precio_m2,4071428.57,COP,89
+m2,area_mediana_m2,225.0,m2,89
+admin,mediana_admin_mes,175000.0,COP,17
+banos,mediana_banos,3.5,,
+parqueadero,pct_con_parqueadero,100.0,%,92
+estrato,estrato_mas_frecuente,3,,85
+habitaciones,3+,942500000.0,COP,90
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/fontibon,,
+fuente,licencia,CC BY 4.0,,

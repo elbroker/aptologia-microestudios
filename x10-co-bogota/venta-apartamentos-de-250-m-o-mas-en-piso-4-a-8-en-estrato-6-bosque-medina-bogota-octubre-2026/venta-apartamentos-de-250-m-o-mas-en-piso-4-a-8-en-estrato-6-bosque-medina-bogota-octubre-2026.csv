@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,50
+filtro,estrato,6,,50
+filtro,area6,"de 250 m² o más",,50
+filtro,piso2,"en piso 4 a 8",,50
+precio,p25,2100000000.0,COP,50
+precio,mediana,2350000000.0,COP,50
+precio,p75,2875000000.0,COP,50
+precio,minimo,1700000000.0,COP,50
+precio,maximo,4200000000.0,COP,50
+m2,mediana_precio_m2,7709090.91,COP,50
+m2,area_mediana_m2,308.5,m2,50
+admin,mediana_admin_mes,2000000.0,COP,49
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,6,,50
+habitaciones,3+,2350000000.0,COP,50
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/bosque-medina,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area3,"de 70 a 100 m²",,35
+precio,p25,447896.0,PEN,35
+precio,mediana,600960.0,PEN,35
+precio,p75,820000.0,PEN,35
+precio,minimo,244550.0,PEN,35
+precio,maximo,1700000.0,PEN,35
+m2,mediana_precio_m2,6607.2,PEN,34
+m2,area_mediana_m2,89.0,m2,34
+banos,mediana_banos,2.0,,
+habitaciones,3+,600960.0,PEN,35
+ciudad,mediana_ciudad_referencia,2173590.0,PEN,
+ciudad,mediana_m2_ciudad,5926.03,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,41
+filtro,estrato,6,,41
+filtro,piso2,"en piso 4 a 8",,41
+precio,p25,880000000.0,COP,41
+precio,mediana,1025000000.0,COP,41
+precio,p75,1300000000.0,COP,41
+precio,minimo,570000000.0,COP,41
+precio,maximo,2995000000.0,COP,41
+m2,mediana_precio_m2,6944444.44,COP,41
+m2,area_mediana_m2,154.0,m2,41
+admin,mediana_admin_mes,909000.0,COP,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,6,,41
+habitaciones,3+,1085000000.0,COP,38
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/buenavista,,
+fuente,licencia,CC BY 4.0,,

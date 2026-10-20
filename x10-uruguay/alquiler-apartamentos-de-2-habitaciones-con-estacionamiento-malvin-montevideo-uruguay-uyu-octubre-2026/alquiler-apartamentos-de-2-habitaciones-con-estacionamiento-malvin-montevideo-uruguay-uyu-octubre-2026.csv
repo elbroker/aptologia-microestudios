@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,parq1,"con estacionamiento",,32
+precio,p25,40000.0,UYU,32
+precio,mediana,41750.0,UYU,32
+precio,p75,50500.0,UYU,32
+precio,minimo,33000.0,UYU,32
+precio,maximo,65000.0,UYU,32
+m2,mediana_precio_m2,693.21,UYU,32
+m2,area_mediana_m2,67.5,m2,32
+admin,mediana_admin_mes,9100.0,UYU,28
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,2,41750.0,UYU,32
+ciudad,mediana_ciudad_referencia,30000.0,UYU,
+ciudad,mediana_m2_ciudad,586.96,UYU,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/montevideo/malvin,,
+fuente,licencia,CC BY 4.0,,

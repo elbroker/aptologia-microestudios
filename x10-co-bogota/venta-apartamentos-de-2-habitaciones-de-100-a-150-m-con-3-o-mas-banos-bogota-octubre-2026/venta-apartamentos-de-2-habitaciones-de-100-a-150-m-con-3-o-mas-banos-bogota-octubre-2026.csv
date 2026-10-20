@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,726
+filtro,habitaciones,2,,726
+filtro,area4,"de 100 a 150 m²",,726
+filtro,ban3,"con 3 o más baños",,726
+precio,p25,850000000.0,COP,726
+precio,mediana,1150000000.0,COP,726
+precio,p75,1400000000.0,COP,726
+precio,minimo,420000000.0,COP,726
+precio,maximo,2700000000.0,COP,726
+m2,mediana_precio_m2,9049671.59,COP,688
+m2,area_mediana_m2,120.0,m2,688
+admin,mediana_admin_mes,1100000.0,COP,649
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,98.3,%,724
+estrato,estrato_mas_frecuente,6,,723
+habitaciones,2,1150000000.0,COP,726
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota,,
+fuente,licencia,CC BY 4.0,,

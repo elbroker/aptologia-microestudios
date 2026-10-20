@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,109
+filtro,habitaciones,3+,,109
+filtro,area5,"de 150 a 250 m²",,109
+precio,p25,30000.0,MXN,109
+precio,mediana,38000.0,MXN,109
+precio,p75,48900.0,MXN,109
+precio,minimo,13500.0,MXN,109
+precio,maximo,135000.0,MXN,109
+m2,mediana_precio_m2,176.83,MXN,109
+m2,area_mediana_m2,200.0,m2,109
+banos,mediana_banos,3.0,,
+habitaciones,3+,38000.0,MXN,109
+ciudad,mediana_ciudad_referencia,70000.0,MXN,
+ciudad,mediana_m2_ciudad,208.33,MXN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/,,
+fuente,licencia,CC BY 4.0,,

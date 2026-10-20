@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,32
+filtro,balc,"con balcón",,32
+filtro,ban3,"con 3 o más baños",,32
+precio,p25,4000000.0,COP,32
+precio,mediana,5150000.0,COP,32
+precio,p75,6875000.0,COP,32
+precio,minimo,3200000.0,COP,32
+precio,maximo,10500000.0,COP,32
+m2,mediana_precio_m2,39446.97,COP,32
+m2,area_mediana_m2,155.5,m2,32
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,75.0,%,32
+estrato,estrato_mas_frecuente,5,,32
+habitaciones,3+,5150000.0,COP,32
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/el-portal,,
+fuente,licencia,CC BY 4.0,,

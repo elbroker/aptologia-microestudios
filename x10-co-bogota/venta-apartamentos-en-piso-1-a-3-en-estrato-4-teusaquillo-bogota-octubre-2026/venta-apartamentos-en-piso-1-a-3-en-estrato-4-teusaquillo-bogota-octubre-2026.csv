@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,4,,34
+filtro,piso1,"en piso 1 a 3",,34
+precio,p25,412500000.0,COP,34
+precio,mediana,567500000.0,COP,34
+precio,p75,699500000.0,COP,34
+precio,minimo,190000000.0,COP,34
+precio,maximo,1640000000.0,COP,34
+m2,mediana_precio_m2,7614035.09,COP,34
+m2,area_mediana_m2,75.0,m2,34
+admin,mediana_admin_mes,320350.0,COP,24
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,60.6,%,33
+estrato,estrato_mas_frecuente,4,,34
+habitaciones,1,390000000.0,COP,10
+habitaciones,2,440000000.0,COP,7
+habitaciones,3+,650000000.0,COP,17
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/teusaquillo,,
+fuente,licencia,CC BY 4.0,,

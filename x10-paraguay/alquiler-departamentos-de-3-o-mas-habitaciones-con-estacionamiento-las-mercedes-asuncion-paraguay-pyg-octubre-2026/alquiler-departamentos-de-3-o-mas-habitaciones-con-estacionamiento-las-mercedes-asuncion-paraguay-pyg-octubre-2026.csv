@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,49
+filtro,habitaciones,3+,,49
+filtro,parq1,"con estacionamiento",,49
+precio,p25,7100000.0,PYG,49
+precio,mediana,9000000.0,PYG,49
+precio,p75,9500000.0,PYG,49
+precio,minimo,3800000.0,PYG,49
+precio,maximo,12000000.0,PYG,49
+m2,mediana_precio_m2,68521.97,PYG,42
+m2,area_mediana_m2,109.5,m2,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,49
+habitaciones,3+,9000000.0,PYG,49
+ciudad,mediana_ciudad_referencia,5200000.0,PYG,
+ciudad,mediana_m2_ciudad,71428.57,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/las-mercedes,,
+fuente,licencia,CC BY 4.0,,

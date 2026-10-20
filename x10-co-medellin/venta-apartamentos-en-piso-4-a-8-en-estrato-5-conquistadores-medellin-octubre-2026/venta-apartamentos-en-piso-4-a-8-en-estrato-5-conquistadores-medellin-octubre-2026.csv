@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,60
+filtro,estrato,5,,60
+filtro,piso2,"en piso 4 a 8",,60
+precio,p25,747500000.0,COP,60
+precio,mediana,855000000.0,COP,60
+precio,p75,1050000000.0,COP,60
+precio,minimo,410000000.0,COP,60
+precio,maximo,1600000000.0,COP,60
+m2,mediana_precio_m2,6962025.32,COP,59
+m2,area_mediana_m2,127.0,m2,59
+admin,mediana_admin_mes,580000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,60
+estrato,estrato_mas_frecuente,5,,60
+habitaciones,3+,870000000.0,COP,53
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/conquistadores,,
+fuente,licencia,CC BY 4.0,,

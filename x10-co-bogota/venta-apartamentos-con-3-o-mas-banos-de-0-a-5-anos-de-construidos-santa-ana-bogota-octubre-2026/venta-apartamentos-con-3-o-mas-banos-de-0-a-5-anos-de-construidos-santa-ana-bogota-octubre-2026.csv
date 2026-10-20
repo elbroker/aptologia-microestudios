@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,ban3,"con 3 o más baños",,30
+filtro,edad1,"de 0 a 5 años de construidos",,30
+precio,p25,1110250000.0,COP,30
+precio,mediana,1700000000.0,COP,30
+precio,p75,2097500000.0,COP,30
+precio,minimo,530000000.0,COP,30
+precio,maximo,4200000000.0,COP,30
+m2,area_mediana_m2,158.0,m2,28
+admin,mediana_admin_mes,1200000.0,COP,25
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,2,1952968883.0,COP,5
+habitaciones,3+,1700000000.0,COP,25
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-ana,,
+fuente,licencia,CC BY 4.0,,

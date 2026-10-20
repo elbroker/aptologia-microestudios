@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,72
+filtro,estrato,4,,72
+filtro,piso3,"en piso 9 o más",,72
+precio,p25,520000000.0,COP,72
+precio,mediana,552500000.0,COP,72
+precio,p75,626250000.0,COP,72
+precio,minimo,278000000.0,COP,72
+precio,maximo,870000000.0,COP,72
+m2,mediana_precio_m2,7662037.04,COP,72
+m2,area_mediana_m2,75.0,m2,72
+admin,mediana_admin_mes,401500.0,COP,64
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.1,%,70
+estrato,estrato_mas_frecuente,4,,72
+habitaciones,2,530000000.0,COP,37
+habitaciones,3+,590000000.0,COP,35
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/pan-de-azucar,,
+fuente,licencia,CC BY 4.0,,

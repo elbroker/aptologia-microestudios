@@ -1,0 +1,25 @@
+# Precio de arriendo de apartamentos de 3 o más habitaciones con balcón de 150 a 250 m² en Rósales, Bogotá — octubre 2026
+
+Con 50 avisos vigentes, el canon mediano de apartamentos de 3 o más habitaciones con balcón de 150 a 250 m² en arriendo en Rósales, Bogotá es COP 11,62 millones al mes.
+
+Frente a la mediana de los apartamentos de 3 o más habitaciones con balcón en arriendo de Rósales (COP 14,11 millones, n = 124), queda 18 % por debajo; este segmento reúne el 40 % de esos avisos.
+
+Por metro cuadrado, la mediana es COP 56.203/m² al mes (n = 50), 8 % por encima de los apartamentos de 3 o más habitaciones con balcón en arriendo de Rósales (COP 51.836/m²).
+
+El área mediana anunciada es 206 m².
+
+La administración mediana declarada es COP 2,15 millones al mes (n = 39), aparte del canon.
+
+El estrato más frecuente es 6 (94 % de los avisos con estrato).
+
+La mediana de todos los apartamentos en arriendo de Bogotá es COP 3,30 millones (+252 % de diferencia).
+
+La mitad central de los avisos va de COP 10,13 millones a COP 13,50 millones (razón 1,3), una dispersión baja.
+
+- n = 50 avisos vigentes · datos del 2026-10-18 · moneda COP
+- Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
+- Licencia: CC BY 4.0
+- Datos: Aptología (aptologia.com), CC BY 4.0 — https://www.aptologia.com/arriendo/bogota/los-rosales
+- Metodología: Fuente: exportes nocturnos de la base de datos de Aptología (aptologia.com) del 2026-10-18: avisos residenciales vigentes (vistos en línea entre el 2026-10-11 y el 2026-10-18) en portales inmobiliarios de Colombia, sin duplicados exactos y sin atípicos (fuera de P1–P99 por país, operación, moneda y tipo). Precios pedidos en COP, sin administración; nunca se mezclan monedas. Solo se publican celdas con al menos 30 avisos; el precio por m² solo cuando al menos 30 avisos de la celda declaran área (entre 12 y 2.000 m²). Sin datos personales: solo agregados. Archivos: PDF, CSV con las cifras y gráfica PNG. Licencia CC BY 4.0.
+
+Archivos: `arriendo-apartamentos-de-3-o-mas-habitaciones-con-balcon-de-150-a-250-m-rosales-bogota-octubre-2026.pdf`, `arriendo-apartamentos-de-3-o-mas-habitaciones-con-balcon-de-150-a-250-m-rosales-bogota-octubre-2026.csv`, `arriendo-apartamentos-de-3-o-mas-habitaciones-con-balcon-de-150-a-250-m-rosales-bogota-octubre-2026.png`.

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,221
+filtro,habitaciones,3+,,221
+filtro,ban3,"con 3 o más baños",,221
+precio,p25,199000.0,USD,221
+precio,mediana,280000.0,USD,221
+precio,p75,428000.0,USD,221
+precio,minimo,95000.0,USD,221
+precio,maximo,1200000.0,USD,221
+m2,mediana_precio_m2,1097.49,USD,210
+m2,area_mediana_m2,263.0,m2,210
+admin,mediana_admin_mes,100.0,USD,19
+banos,mediana_banos,3.0,,
+habitaciones,3+,280000.0,USD,221
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,765.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/tumbaco,,
+fuente,licencia,CC BY 4.0,,

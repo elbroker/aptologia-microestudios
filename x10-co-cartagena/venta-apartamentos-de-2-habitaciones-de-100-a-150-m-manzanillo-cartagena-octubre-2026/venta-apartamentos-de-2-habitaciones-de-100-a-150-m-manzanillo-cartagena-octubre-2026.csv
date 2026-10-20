@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,2,,35
+filtro,area4,"de 100 a 150 m²",,35
+precio,p25,1205000000.0,COP,35
+precio,mediana,1340000000.0,COP,35
+precio,p75,1490000000.0,COP,35
+precio,minimo,650000000.0,COP,35
+precio,maximo,1650000000.0,COP,35
+m2,mediana_precio_m2,12015503.88,COP,35
+m2,area_mediana_m2,111.0,m2,35
+admin,mediana_admin_mes,1175000.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,32
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,2,1340000000.0,COP,35
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/manzanillo,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,224
+filtro,habitaciones,2,,224
+filtro,area3,"de 70 a 100 m²",,224
+filtro,ban2,"con 2 baños",,224
+precio,p25,167202.5,USD,224
+precio,mediana,218500.0,USD,224
+precio,p75,255670.25,USD,224
+precio,minimo,75000.0,USD,224
+precio,maximo,536000.0,USD,224
+m2,mediana_precio_m2,2550.0,USD,219
+m2,area_mediana_m2,83.0,m2,219
+admin,mediana_admin_mes,330.0,USD,17
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,154
+habitaciones,2,218500.0,USD,224
+ciudad,mediana_ciudad_referencia,258023.0,USD,
+ciudad,mediana_m2_ciudad,2305.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima,,
+fuente,licencia,CC BY 4.0,,

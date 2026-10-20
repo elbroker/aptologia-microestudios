@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,3+,,58
+filtro,edad1,"de 0 a 5 años de construidos",,58
+precio,p25,391250000.0,COP,58
+precio,mediana,572500000.0,COP,58
+precio,p75,727500000.0,COP,58
+precio,minimo,300000000.0,COP,58
+precio,maximo,1400000000.0,COP,58
+m2,mediana_precio_m2,3962142.86,COP,58
+m2,area_mediana_m2,136.0,m2,58
+admin,mediana_admin_mes,645000.0,COP,42
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,5,,57
+habitaciones,3+,572500000.0,COP,58
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/san-vicente,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,area6,"de 250 m² o más",,34
+precio,p25,3500.0,USD,34
+precio,mediana,5000.0,USD,34
+precio,p75,8875.0,USD,34
+precio,minimo,750.0,USD,34
+precio,maximo,28000.0,USD,34
+m2,mediana_precio_m2,8.75,USD,33
+m2,area_mediana_m2,486.5,m2,33
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+habitaciones,3+,5000.0,USD,34
+ciudad,mediana_ciudad_referencia,3500.0,USD,
+ciudad,mediana_m2_ciudad,8.42,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/alquiler/caracas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,57
+filtro,habitaciones,3+,,57
+filtro,balc,"con balcón",,57
+precio,p25,16500000.0,COP,57
+precio,mediana,19000000.0,COP,57
+precio,p75,23000000.0,COP,57
+precio,minimo,7500000.0,COP,57
+precio,maximo,28000000.0,COP,57
+m2,mediana_precio_m2,50000.0,COP,51
+m2,area_mediana_m2,361.5,m2,51
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,5,,57
+habitaciones,3+,19000000.0,COP,57
+ciudad,mediana_ciudad_referencia,11800000.0,COP,
+ciudad,mediana_m2_ciudad,41747.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/envigado/las-palmas,,
+fuente,licencia,CC BY 4.0,,

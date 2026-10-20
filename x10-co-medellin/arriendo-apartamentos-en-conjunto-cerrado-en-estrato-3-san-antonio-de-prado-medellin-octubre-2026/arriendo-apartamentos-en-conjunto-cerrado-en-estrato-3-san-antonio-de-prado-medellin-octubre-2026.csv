@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,36
+filtro,estrato,3,,36
+filtro,conj,"en conjunto cerrado",,36
+precio,p25,1345000.0,COP,36
+precio,mediana,1475000.0,COP,36
+precio,p75,1650000.0,COP,36
+precio,minimo,1250000.0,COP,36
+precio,maximo,1800000.0,COP,36
+m2,mediana_precio_m2,30573.59,COP,36
+m2,area_mediana_m2,50.0,m2,36
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,3,,36
+habitaciones,2,1500000.0,COP,20
+habitaciones,3+,1450000.0,COP,14
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/san-antonio-de-prado,,
+fuente,licencia,CC BY 4.0,,

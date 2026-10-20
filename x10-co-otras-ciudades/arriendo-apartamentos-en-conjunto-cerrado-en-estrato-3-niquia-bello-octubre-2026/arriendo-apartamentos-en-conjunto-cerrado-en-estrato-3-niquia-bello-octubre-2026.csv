@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,34
+filtro,estrato,3,,34
+filtro,conj,"en conjunto cerrado",,34
+precio,p25,1712500.0,COP,34
+precio,mediana,1835000.0,COP,34
+precio,p75,2175000.0,COP,34
+precio,minimo,1400000.0,COP,34
+precio,maximo,2750000.0,COP,34
+m2,mediana_precio_m2,31034.48,COP,33
+m2,area_mediana_m2,60.0,m2,33
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,34
+habitaciones,2,1850000.0,COP,8
+habitaciones,3+,1835000.0,COP,26
+ciudad,mediana_ciudad_referencia,2000000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bello,,
+fuente,licencia,CC BY 4.0,,

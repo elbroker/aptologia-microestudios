@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area3,"de 70 a 100 m²",,38
+precio,p25,350000000.0,COP,38
+precio,mediana,422500000.0,COP,38
+precio,p75,485000000.0,COP,38
+precio,minimo,250000000.0,COP,38
+precio,maximo,590000000.0,COP,38
+m2,mediana_precio_m2,4859126.98,COP,38
+m2,area_mediana_m2,83.0,m2,38
+admin,mediana_admin_mes,450000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.4,%,38
+estrato,estrato_mas_frecuente,6,,38
+habitaciones,3+,422500000.0,COP,38
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/circunvalar,,
+fuente,licencia,CC BY 4.0,,

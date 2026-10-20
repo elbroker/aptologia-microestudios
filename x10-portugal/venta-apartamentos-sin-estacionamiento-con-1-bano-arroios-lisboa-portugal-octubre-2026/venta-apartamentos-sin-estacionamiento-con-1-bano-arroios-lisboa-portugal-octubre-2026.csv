@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,51
+filtro,parq0,"sin estacionamiento",,51
+filtro,ban1,"con 1 baño",,51
+precio,p25,342500.0,EUR,51
+precio,mediana,375000.0,EUR,51
+precio,p75,458500.0,EUR,51
+precio,minimo,240000.0,EUR,51
+precio,maximo,882000.0,EUR,51
+m2,mediana_precio_m2,6795.45,EUR,50
+m2,area_mediana_m2,58.0,m2,50
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,51
+habitaciones,1,360000.0,EUR,24
+habitaciones,2,355000.0,EUR,15
+habitaciones,3+,435000.0,EUR,12
+ciudad,mediana_ciudad_referencia,660000.0,EUR,
+ciudad,mediana_m2_ciudad,7457.58,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/lisboa/arroios,,
+fuente,licencia,CC BY 4.0,,

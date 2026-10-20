@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,113
+filtro,parq1,"con parqueadero",,113
+filtro,ban2,"con 2 baños",,113
+precio,p25,450000000.0,COP,113
+precio,mediana,495000000.0,COP,113
+precio,p75,570000000.0,COP,113
+precio,minimo,260000000.0,COP,113
+precio,maximo,1350000000.0,COP,113
+m2,mediana_precio_m2,5178125.0,COP,112
+m2,area_mediana_m2,95.0,m2,112
+admin,mediana_admin_mes,350000.0,COP,92
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,113
+estrato,estrato_mas_frecuente,6,,112
+habitaciones,2,480000000.0,COP,33
+habitaciones,3+,520000000.0,COP,78
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/palermo,,
+fuente,licencia,CC BY 4.0,,

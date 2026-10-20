@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,988
+filtro,habitaciones,3+,,988
+filtro,ban2,"con 2 baños",,988
+precio,p25,340000000.0,COP,988
+precio,mediana,470000000.0,COP,988
+precio,p75,626250000.0,COP,988
+precio,minimo,200000000.0,COP,988
+precio,maximo,1050000000.0,COP,988
+m2,mediana_precio_m2,6796226.42,COP,982
+m2,area_mediana_m2,69.0,m2,982
+admin,mediana_admin_mes,303125.5,COP,522
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,87.5,%,915
+estrato,estrato_mas_frecuente,4,,939
+habitaciones,3+,470000000.0,COP,988
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,90
+filtro,habitaciones,3+,,90
+filtro,area6,"de 250 m² o más",,90
+precio,p25,1350000000.0,COP,90
+precio,mediana,2350000000.0,COP,90
+precio,p75,4325000000.0,COP,90
+precio,minimo,950000000.0,COP,90
+precio,maximo,8000000000.0,COP,90
+m2,mediana_precio_m2,4973821.99,COP,83
+m2,area_mediana_m2,402.5,m2,83
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,85.4,%,82
+estrato,estrato_mas_frecuente,5,,89
+habitaciones,3+,2350000000.0,COP,90
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,4296875.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cartagena/manga,,
+fuente,licencia,CC BY 4.0,,

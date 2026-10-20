@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,ban3,"con 3 o más baños",,30
+precio,p25,371250000.0,COP,30
+precio,mediana,472500000.0,COP,30
+precio,p75,627500000.0,COP,30
+precio,minimo,320000000.0,COP,30
+precio,maximo,980000000.0,COP,30
+m2,mediana_precio_m2,3765697.81,COP,30
+m2,area_mediana_m2,148.0,m2,30
+admin,mediana_admin_mes,500000.0,COP,28
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,3+,495000000.0,COP,29
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4666666.67,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bucaramanga/mejoras-publicas,,
+fuente,licencia,CC BY 4.0,,

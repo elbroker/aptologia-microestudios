@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,edad1,"de 0 a 5 años de construidos",,55
+precio,p25,302500000.0,COP,55
+precio,mediana,380000000.0,COP,55
+precio,p75,685500000.0,COP,55
+precio,minimo,200000000.0,COP,55
+precio,maximo,2500000000.0,COP,55
+m2,mediana_precio_m2,3734756.1,COP,54
+m2,area_mediana_m2,112.0,m2,54
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,3,,48
+habitaciones,3+,380000000.0,COP,55
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

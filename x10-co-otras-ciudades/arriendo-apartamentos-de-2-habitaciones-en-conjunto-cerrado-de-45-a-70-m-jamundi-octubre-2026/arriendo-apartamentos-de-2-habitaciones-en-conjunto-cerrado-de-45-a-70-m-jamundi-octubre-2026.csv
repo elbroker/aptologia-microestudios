@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,49
+filtro,habitaciones,2,,49
+filtro,conj,"en conjunto cerrado",,49
+filtro,area2,"de 45 a 70 m²",,49
+precio,p25,1100000.0,COP,49
+precio,mediana,1220000.0,COP,49
+precio,p75,1350000.0,COP,49
+precio,minimo,850000.0,COP,49
+precio,maximo,1730000.0,COP,49
+m2,mediana_precio_m2,21357.49,COP,44
+m2,area_mediana_m2,60.0,m2,44
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,45
+estrato,estrato_mas_frecuente,4,,48
+habitaciones,2,1220000.0,COP,49
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20689.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/jamundi,,
+fuente,licencia,CC BY 4.0,,

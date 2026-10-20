@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,53
+filtro,habitaciones,1,,53
+filtro,estrato,3,,53
+precio,p25,1470000.0,COP,53
+precio,mediana,1700000.0,COP,53
+precio,p75,1950000.0,COP,53
+precio,minimo,930000.0,COP,53
+precio,maximo,2800000.0,COP,53
+m2,mediana_precio_m2,58125.0,COP,53
+m2,area_mediana_m2,31.0,m2,53
+admin,mediana_admin_mes,338000.0,COP,23
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,39.5,%,38
+estrato,estrato_mas_frecuente,3,,53
+habitaciones,1,1700000.0,COP,53
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chapinero,,
+fuente,licencia,CC BY 4.0,,

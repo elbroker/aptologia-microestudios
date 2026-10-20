@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,ban2,"con 2 baños",,35
+precio,p25,6750.0,BRL,35
+precio,mediana,8710.0,BRL,35
+precio,p75,13500.0,BRL,35
+precio,minimo,4300.0,BRL,35
+precio,maximo,23000.0,BRL,35
+m2,mediana_precio_m2,63.58,BRL,35
+m2,area_mediana_m2,139.0,m2,35
+admin,mediana_admin_mes,2509.0,BRL,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+habitaciones,3+,8710.0,BRL,35
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/jardim-paulista,,
+fuente,licencia,CC BY 4.0,,

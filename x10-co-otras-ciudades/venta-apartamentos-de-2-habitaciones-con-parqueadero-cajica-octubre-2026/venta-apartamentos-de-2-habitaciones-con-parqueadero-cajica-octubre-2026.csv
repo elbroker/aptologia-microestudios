@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,476
+filtro,habitaciones,2,,476
+filtro,parq1,"con parqueadero",,476
+precio,p25,310000000.0,COP,476
+precio,mediana,342269952.5,COP,476
+precio,p75,436225000.0,COP,476
+precio,minimo,185000000.0,COP,476
+precio,maximo,1530000000.0,COP,476
+m2,mediana_precio_m2,5857142.86,COP,473
+m2,area_mediana_m2,59.2,m2,473
+admin,mediana_admin_mes,292000.0,COP,389
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,476
+estrato,estrato_mas_frecuente,4,,462
+habitaciones,2,342269952.5,COP,476
+ciudad,mediana_ciudad_referencia,390000000.0,COP,
+ciudad,mediana_m2_ciudad,5671641.79,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica,,
+fuente,licencia,CC BY 4.0,,

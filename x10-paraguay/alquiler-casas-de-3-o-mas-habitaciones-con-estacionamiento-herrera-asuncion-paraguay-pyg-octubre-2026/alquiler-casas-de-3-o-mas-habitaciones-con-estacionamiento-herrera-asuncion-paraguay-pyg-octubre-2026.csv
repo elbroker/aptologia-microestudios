@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,43
+filtro,habitaciones,3+,,43
+filtro,parq1,"con estacionamiento",,43
+precio,p25,8000000.0,PYG,43
+precio,mediana,11000000.0,PYG,43
+precio,p75,13500000.0,PYG,43
+precio,minimo,5500000.0,PYG,43
+precio,maximo,20000000.0,PYG,43
+m2,mediana_precio_m2,37321.43,PYG,38
+m2,area_mediana_m2,239.5,m2,38
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+habitaciones,3+,11000000.0,PYG,43
+ciudad,mediana_ciudad_referencia,8500000.0,PYG,
+ciudad,mediana_m2_ciudad,34285.71,PYG,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/alquiler/asuncion/herrera,,
+fuente,licencia,CC BY 4.0,,

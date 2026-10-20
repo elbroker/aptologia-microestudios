@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,58
+filtro,habitaciones,2,,58
+filtro,ban1,"con 1 baño",,58
+precio,p25,2020.0,BRL,58
+precio,mediana,2300.0,BRL,58
+precio,p75,2815.0,BRL,58
+precio,minimo,1560.0,BRL,58
+precio,maximo,4250.0,BRL,58
+m2,mediana_precio_m2,54.62,BRL,58
+m2,area_mediana_m2,40.5,m2,58
+admin,mediana_admin_mes,550.0,BRL,57
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,65.6,%,32
+habitaciones,2,2300.0,BRL,58
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/mooca,,
+fuente,licencia,CC BY 4.0,,

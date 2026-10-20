@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,47
+filtro,parq1,"con parqueadero",,47
+filtro,piso1,"en piso 1 a 3",,47
+precio,p25,187500000.0,COP,47
+precio,mediana,218000000.0,COP,47
+precio,p75,287500000.0,COP,47
+precio,minimo,150000000.0,COP,47
+precio,maximo,450000000.0,COP,47
+m2,mediana_precio_m2,3843137.25,COP,45
+m2,area_mediana_m2,57.0,m2,45
+admin,mediana_admin_mes,226000.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,47
+estrato,estrato_mas_frecuente,4,,47
+habitaciones,2,205000000.0,COP,39
+habitaciones,3+,224000000.0,COP,8
+ciudad,mediana_ciudad_referencia,210000000.0,COP,
+ciudad,mediana_m2_ciudad,3582207.21,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/jamundi/parque-natura,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,30
+filtro,habitaciones,3+,,30
+filtro,ban2,"con 2 baños",,30
+precio,p25,542500000.0,COP,30
+precio,mediana,596000000.0,COP,30
+precio,p75,703750000.0,COP,30
+precio,minimo,448503000.0,COP,30
+precio,maximo,870000000.0,COP,30
+m2,mediana_precio_m2,7850694.44,COP,30
+m2,area_mediana_m2,76.0,m2,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.3,%,30
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,3+,596000000.0,COP,30
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/ojo-de-agua,,
+fuente,licencia,CC BY 4.0,,

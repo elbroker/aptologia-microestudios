@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,59
+filtro,estrato,6,,59
+filtro,ban3,"con 3 o más baños",,59
+precio,p25,875000000.0,COP,59
+precio,mediana,1500000000.0,COP,59
+precio,p75,1998500000.0,COP,59
+precio,minimo,480000000.0,COP,59
+precio,maximo,3580200000.0,COP,59
+m2,mediana_precio_m2,7608695.65,COP,59
+m2,area_mediana_m2,164.0,m2,59
+admin,mediana_admin_mes,1087500.0,COP,53
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,6,,59
+habitaciones,2,965000000.0,COP,14
+habitaciones,3+,1600000000.0,COP,45
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/rodadero-sur,,
+fuente,licencia,CC BY 4.0,,

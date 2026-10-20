@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,piso1,"en piso 1 a 3",,31
+precio,p25,350000000.0,COP,31
+precio,mediana,408495000.0,COP,31
+precio,p75,525000000.0,COP,31
+precio,minimo,259000000.0,COP,31
+precio,maximo,780000000.0,COP,31
+m2,mediana_precio_m2,5008347.25,COP,31
+m2,area_mediana_m2,77.0,m2,31
+admin,mediana_admin_mes,225850.0,COP,18
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,6,,31
+habitaciones,3+,408495000.0,COP,31
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/la-francia,,
+fuente,licencia,CC BY 4.0,,

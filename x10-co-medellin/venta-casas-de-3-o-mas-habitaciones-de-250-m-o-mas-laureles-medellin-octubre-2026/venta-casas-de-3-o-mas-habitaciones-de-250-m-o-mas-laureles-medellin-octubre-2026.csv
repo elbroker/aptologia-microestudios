@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,182
+filtro,habitaciones,3+,,182
+filtro,area6,"de 250 m² o más",,182
+precio,p25,1600000000.0,COP,182
+precio,mediana,2200000000.0,COP,182
+precio,p75,2962400000.0,COP,182
+precio,minimo,600000000.0,COP,182
+precio,maximo,5700000000.0,COP,182
+m2,mediana_precio_m2,6333333.33,COP,181
+m2,area_mediana_m2,338.0,m2,181
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,91.1,%,169
+estrato,estrato_mas_frecuente,5,,169
+habitaciones,3+,2200000000.0,COP,182
+ciudad,mediana_ciudad_referencia,1390000000.0,COP,
+ciudad,mediana_m2_ciudad,5531914.89,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

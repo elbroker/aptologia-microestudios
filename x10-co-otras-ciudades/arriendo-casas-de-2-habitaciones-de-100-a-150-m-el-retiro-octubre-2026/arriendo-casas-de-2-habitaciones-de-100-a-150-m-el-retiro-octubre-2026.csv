@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,31
+filtro,habitaciones,2,,31
+filtro,area4,"de 100 a 150 m²",,31
+precio,p25,4850000.0,COP,31
+precio,mediana,6700000.0,COP,31
+precio,p75,8000000.0,COP,31
+precio,minimo,2800000.0,COP,31
+precio,maximo,8900000.0,COP,31
+m2,mediana_precio_m2,50769.23,COP,30
+m2,area_mediana_m2,130.0,m2,30
+banos,mediana_banos,3.0,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,2,6700000.0,COP,31
+ciudad,mediana_ciudad_referencia,11500000.0,COP,
+ciudad,mediana_m2_ciudad,40625.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-retiro,,
+fuente,licencia,CC BY 4.0,,

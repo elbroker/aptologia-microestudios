@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,63
+filtro,balc,"con balcón",,63
+filtro,piso2,"en piso 4 a 8",,63
+precio,p25,4225000.0,COP,63
+precio,mediana,5700000.0,COP,63
+precio,p75,10000000.0,COP,63
+precio,minimo,2200000.0,COP,63
+precio,maximo,20000000.0,COP,63
+m2,mediana_precio_m2,59077.78,COP,59
+m2,area_mediana_m2,94.0,m2,59
+admin,mediana_admin_mes,1103400.0,COP,40
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,63
+estrato,estrato_mas_frecuente,6,,62
+habitaciones,1,3750000.0,COP,18
+habitaciones,2,5408500.0,COP,20
+habitaciones,3+,13900000.0,COP,25
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/san-patricio,,
+fuente,licencia,CC BY 4.0,,

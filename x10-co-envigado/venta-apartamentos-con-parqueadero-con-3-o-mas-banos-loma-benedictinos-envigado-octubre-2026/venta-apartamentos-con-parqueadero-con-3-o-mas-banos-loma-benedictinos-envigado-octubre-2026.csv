@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,80
+filtro,parq1,"con parqueadero",,80
+filtro,ban3,"con 3 o más baños",,80
+precio,p25,1050000000.0,COP,80
+precio,mediana,1315000000.0,COP,80
+precio,p75,1567500000.0,COP,80
+precio,minimo,695000000.0,COP,80
+precio,maximo,2890000000.0,COP,80
+m2,mediana_precio_m2,8424600.88,COP,80
+m2,area_mediana_m2,158.0,m2,80
+admin,mediana_admin_mes,819900.0,COP,40
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,80
+estrato,estrato_mas_frecuente,5,,76
+habitaciones,3+,1330000000.0,COP,76
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/loma-benedictinos,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,58
+filtro,estrato,4,,58
+filtro,parq1,"con parqueadero",,58
+precio,p25,466250000.0,COP,58
+precio,mediana,555000000.0,COP,58
+precio,p75,680000000.0,COP,58
+precio,minimo,395000000.0,COP,58
+precio,maximo,900000000.0,COP,58
+m2,mediana_precio_m2,6541095.89,COP,58
+m2,area_mediana_m2,75.5,m2,58
+admin,mediana_admin_mes,338155.0,COP,36
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,4,,58
+habitaciones,2,550000000.0,COP,25
+habitaciones,3+,640000000.0,COP,28
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/san-antonio-de-pereira,,
+fuente,licencia,CC BY 4.0,,

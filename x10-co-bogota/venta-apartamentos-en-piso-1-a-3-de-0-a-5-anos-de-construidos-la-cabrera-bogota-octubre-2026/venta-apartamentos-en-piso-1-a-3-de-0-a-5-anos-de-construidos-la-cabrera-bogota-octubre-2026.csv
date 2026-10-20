@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,43
+filtro,piso1,"en piso 1 a 3",,43
+filtro,edad1,"de 0 a 5 años de construidos",,43
+precio,p25,1600000000.0,COP,43
+precio,mediana,2142000000.0,COP,43
+precio,p75,3028816795.0,COP,43
+precio,minimo,410000000.0,COP,43
+precio,maximo,4200000000.0,COP,43
+m2,mediana_precio_m2,10649819.49,COP,33
+m2,area_mediana_m2,203.0,m2,33
+admin,mediana_admin_mes,1850000.0,COP,39
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.7,%,43
+estrato,estrato_mas_frecuente,6,,43
+habitaciones,2,1690000000.0,COP,12
+habitaciones,3+,2875000000.0,COP,30
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/la-cabrera,,
+fuente,licencia,CC BY 4.0,,

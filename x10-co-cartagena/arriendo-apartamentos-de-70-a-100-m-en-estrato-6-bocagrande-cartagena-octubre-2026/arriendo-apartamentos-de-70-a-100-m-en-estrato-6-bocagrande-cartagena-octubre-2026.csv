@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,6,,35
+filtro,area3,"de 70 a 100 m²",,35
+precio,p25,3856500.0,COP,35
+precio,mediana,5417000.0,COP,35
+precio,p75,7400000.0,COP,35
+precio,minimo,3000000.0,COP,35
+precio,maximo,9077000.0,COP,35
+m2,mediana_precio_m2,62300.41,COP,34
+m2,area_mediana_m2,90.0,m2,34
+admin,mediana_admin_mes,886500.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,31
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,1,7300000.0,COP,8
+habitaciones,2,4900000.0,COP,25
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

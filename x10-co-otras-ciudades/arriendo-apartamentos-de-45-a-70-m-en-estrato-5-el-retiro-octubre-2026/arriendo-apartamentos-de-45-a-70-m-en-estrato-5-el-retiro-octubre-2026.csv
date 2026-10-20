@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,87
+filtro,estrato,5,,87
+filtro,area2,"de 45 a 70 m²",,87
+precio,p25,2700000.0,COP,87
+precio,mediana,3000000.0,COP,87
+precio,p75,3500000.0,COP,87
+precio,minimo,2300000.0,COP,87
+precio,maximo,6000000.0,COP,87
+m2,mediana_precio_m2,50943.4,COP,86
+m2,area_mediana_m2,62.0,m2,86
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,79
+estrato,estrato_mas_frecuente,5,,87
+habitaciones,1,3200000.0,COP,43
+habitaciones,2,2900000.0,COP,40
+ciudad,mediana_ciudad_referencia,4200000.0,COP,
+ciudad,mediana_m2_ciudad,49253.73,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/el-retiro,,
+fuente,licencia,CC BY 4.0,,

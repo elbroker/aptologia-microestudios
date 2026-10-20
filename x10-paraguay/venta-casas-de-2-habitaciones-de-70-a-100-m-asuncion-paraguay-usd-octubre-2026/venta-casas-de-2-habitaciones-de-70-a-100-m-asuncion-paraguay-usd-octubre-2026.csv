@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,40
+filtro,habitaciones,2,,40
+filtro,area3,"de 70 a 100 m²",,40
+precio,p25,134612.5,USD,40
+precio,mediana,148950.0,USD,40
+precio,p75,178499.25,USD,40
+precio,minimo,70000.0,USD,40
+precio,maximo,276960.0,USD,40
+m2,mediana_precio_m2,1821.05,USD,40
+m2,area_mediana_m2,80.5,m2,40
+banos,mediana_banos,2.0,,
+habitaciones,2,148950.0,USD,40
+ciudad,mediana_ciudad_referencia,350000.0,USD,
+ciudad,mediana_m2_ciudad,1028.29,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,108
+filtro,habitaciones,3+,,108
+filtro,edad1,"de 0 a 5 años de construidos",,108
+precio,p25,950000000.0,COP,108
+precio,mediana,1287500000.0,COP,108
+precio,p75,1527500000.0,COP,108
+precio,minimo,330000000.0,COP,108
+precio,maximo,3200000000.0,COP,108
+m2,mediana_precio_m2,8571428.57,COP,107
+m2,area_mediana_m2,153.0,m2,107
+admin,mediana_admin_mes,970400.0,COP,73
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,107
+estrato,estrato_mas_frecuente,6,,103
+habitaciones,3+,1287500000.0,COP,108
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/santa-maria-de-los-angeles,,
+fuente,licencia,CC BY 4.0,,

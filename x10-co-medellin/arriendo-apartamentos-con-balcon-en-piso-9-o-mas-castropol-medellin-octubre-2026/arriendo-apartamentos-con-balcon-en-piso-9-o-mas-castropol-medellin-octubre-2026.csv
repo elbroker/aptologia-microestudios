@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,97
+filtro,balc,"con balcón",,97
+filtro,piso3,"en piso 9 o más",,97
+precio,p25,4300000.0,COP,97
+precio,mediana,5500000.0,COP,97
+precio,p75,6500000.0,COP,97
+precio,minimo,2800000.0,COP,97
+precio,maximo,20000000.0,COP,97
+m2,mediana_precio_m2,53333.33,COP,95
+m2,area_mediana_m2,97.0,m2,95
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,96
+estrato,estrato_mas_frecuente,6,,96
+habitaciones,2,5350000.0,COP,30
+habitaciones,3+,5450000.0,COP,66
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/castropol,,
+fuente,licencia,CC BY 4.0,,

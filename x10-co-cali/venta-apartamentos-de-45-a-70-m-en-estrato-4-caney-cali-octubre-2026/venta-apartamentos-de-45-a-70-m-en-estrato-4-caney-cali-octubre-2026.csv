@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,57
+filtro,estrato,4,,57
+filtro,area2,"de 45 a 70 m²",,57
+precio,p25,208000000.0,COP,57
+precio,mediana,225000000.0,COP,57
+precio,p75,245000000.0,COP,57
+precio,minimo,175000000.0,COP,57
+precio,maximo,300000000.0,COP,57
+m2,mediana_precio_m2,3937500.0,COP,57
+m2,area_mediana_m2,60.0,m2,57
+admin,mediana_admin_mes,325000.0,COP,39
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.0,%,40
+estrato,estrato_mas_frecuente,4,,57
+habitaciones,2,215000000.0,COP,29
+habitaciones,3+,230000000.0,COP,27
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

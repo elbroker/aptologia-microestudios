@@ -1,0 +1,16 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,31
+filtro,habitaciones,3+,,31
+filtro,ban2,"con 2 baños",,31
+precio,p25,3100.0,USD,31
+precio,mediana,3550.0,USD,31
+precio,p75,6000.0,USD,31
+precio,minimo,2000.0,USD,31
+precio,maximo,26500.0,USD,31
+banos,mediana_banos,2.0,,
+habitaciones,3+,3550.0,USD,31
+ciudad,mediana_ciudad_referencia,7300.0,USD,
+ciudad,mediana_m2_ciudad,28.7,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/playa-mansa,,
+fuente,licencia,CC BY 4.0,,

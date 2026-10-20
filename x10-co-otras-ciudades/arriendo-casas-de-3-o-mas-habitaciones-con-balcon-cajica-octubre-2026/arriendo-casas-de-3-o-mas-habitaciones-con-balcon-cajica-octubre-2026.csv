@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,346
+filtro,habitaciones,3+,,346
+filtro,balc,"con balcón",,346
+precio,p25,6200000.0,COP,346
+precio,mediana,7500000.0,COP,346
+precio,p75,11000000.0,COP,346
+precio,minimo,2700000.0,COP,346
+precio,maximo,28000000.0,COP,346
+m2,mediana_precio_m2,31250.0,COP,341
+m2,area_mediana_m2,280.0,m2,341
+admin,mediana_admin_mes,1200000.0,COP,183
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,98.8,%,344
+estrato,estrato_mas_frecuente,5,,339
+habitaciones,3+,7500000.0,COP,346
+ciudad,mediana_ciudad_referencia,7000000.0,COP,
+ciudad,mediana_m2_ciudad,32034.66,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cajica,,
+fuente,licencia,CC BY 4.0,,

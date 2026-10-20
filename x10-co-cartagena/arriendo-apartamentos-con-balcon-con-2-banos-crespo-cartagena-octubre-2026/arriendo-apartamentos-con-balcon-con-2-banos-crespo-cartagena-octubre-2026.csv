@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,55
+filtro,balc,"con balcón",,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,3200000.0,COP,55
+precio,mediana,4000000.0,COP,55
+precio,p75,5250000.0,COP,55
+precio,minimo,2000000.0,COP,55
+precio,maximo,7000000.0,COP,55
+m2,mediana_precio_m2,44636.02,COP,54
+m2,area_mediana_m2,90.0,m2,54
+admin,mediana_admin_mes,693500.0,COP,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,93.9,%,49
+estrato,estrato_mas_frecuente,5,,55
+habitaciones,1,3200000.0,COP,14
+habitaciones,2,4152800.0,COP,25
+habitaciones,3+,5500000.0,COP,16
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/crespo,,
+fuente,licencia,CC BY 4.0,,

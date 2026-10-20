@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,36
+filtro,habitaciones,2,,36
+filtro,parq0,"sin estacionamiento",,36
+filtro,ban1,"con 1 baño",,36
+precio,p25,273750.0,EUR,36
+precio,mediana,337500.0,EUR,36
+precio,p75,421250.0,EUR,36
+precio,minimo,225000.0,EUR,36
+precio,maximo,605000.0,EUR,36
+m2,mediana_precio_m2,4653.57,EUR,34
+m2,area_mediana_m2,76.5,m2,34
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,0.0,%,36
+habitaciones,2,337500.0,EUR,36
+ciudad,mediana_ciudad_referencia,425000.0,EUR,
+ciudad,mediana_m2_ciudad,5177.22,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto,,
+fuente,licencia,CC BY 4.0,,

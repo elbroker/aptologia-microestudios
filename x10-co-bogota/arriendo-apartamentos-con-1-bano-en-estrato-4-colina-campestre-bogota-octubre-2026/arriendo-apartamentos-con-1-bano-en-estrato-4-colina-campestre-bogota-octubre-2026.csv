@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,41
+filtro,estrato,4,,41
+filtro,ban1,"con 1 baño",,41
+precio,p25,1700000.0,COP,41
+precio,mediana,1850000.0,COP,41
+precio,p75,2000000.0,COP,41
+precio,minimo,1150000.0,COP,41
+precio,maximo,2700000.0,COP,41
+m2,mediana_precio_m2,51428.57,COP,41
+m2,area_mediana_m2,37.0,m2,41
+admin,mediana_admin_mes,207500.0,COP,22
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,4,,41
+habitaciones,1,1900000.0,COP,15
+habitaciones,2,1800000.0,COP,25
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

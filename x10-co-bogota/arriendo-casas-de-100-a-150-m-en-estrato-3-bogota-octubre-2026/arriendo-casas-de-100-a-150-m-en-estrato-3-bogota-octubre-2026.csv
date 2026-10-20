@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,72
+filtro,estrato,3,,72
+filtro,area4,"de 100 a 150 m²",,72
+precio,p25,2500000.0,COP,72
+precio,mediana,3300000.0,COP,72
+precio,p75,4050000.0,COP,72
+precio,minimo,1350000.0,COP,72
+precio,maximo,9000000.0,COP,72
+m2,mediana_precio_m2,25000.0,COP,72
+m2,area_mediana_m2,130.0,m2,72
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,71.9,%,57
+estrato,estrato_mas_frecuente,3,,72
+habitaciones,3+,3300000.0,COP,69
+ciudad,mediana_ciudad_referencia,10000000.0,COP,
+ciudad,mediana_m2_ciudad,30000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,88
+filtro,habitaciones,3+,,88
+filtro,ban3,"con 3 o más baños",,88
+precio,p25,627500000.0,COP,88
+precio,mediana,760000000.0,COP,88
+precio,p75,962500000.0,COP,88
+precio,minimo,315000000.0,COP,88
+precio,maximo,1780000000.0,COP,88
+m2,mediana_precio_m2,6302631.58,COP,87
+m2,area_mediana_m2,119.0,m2,87
+admin,mediana_admin_mes,490000.0,COP,53
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,79.3,%,87
+estrato,estrato_mas_frecuente,4,,79
+habitaciones,3+,760000000.0,COP,88
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/las-lomitas,,
+fuente,licencia,CC BY 4.0,,

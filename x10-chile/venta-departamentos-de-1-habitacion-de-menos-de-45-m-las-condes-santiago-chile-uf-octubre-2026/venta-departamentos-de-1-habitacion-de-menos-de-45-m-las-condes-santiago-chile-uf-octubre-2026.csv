@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,90
+filtro,habitaciones,1,,90
+filtro,area1,"de menos de 45 m²",,90
+precio,p25,4500.0,UF,90
+precio,mediana,4895.0,UF,90
+precio,p75,5475.0,UF,90
+precio,minimo,3300.0,UF,90
+precio,maximo,7598.0,UF,90
+m2,mediana_precio_m2,125.32,UF,76
+m2,area_mediana_m2,39.0,m2,76
+banos,mediana_banos,1.0,,
+habitaciones,1,4895.0,UF,90
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/las-condes,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,74
+filtro,estrato,3,,74
+filtro,masc,"que aceptan mascotas",,74
+precio,p25,1245250.0,COP,74
+precio,mediana,1569000.0,COP,74
+precio,p75,1981250.0,COP,74
+precio,minimo,879000.0,COP,74
+precio,maximo,4500000.0,COP,74
+m2,mediana_precio_m2,27894.74,COP,74
+m2,area_mediana_m2,57.0,m2,74
+admin,mediana_admin_mes,210000.0,COP,48
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,74
+habitaciones,2,1565000.0,COP,46
+habitaciones,3+,1750000.0,COP,27
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla,,
+fuente,licencia,CC BY 4.0,,

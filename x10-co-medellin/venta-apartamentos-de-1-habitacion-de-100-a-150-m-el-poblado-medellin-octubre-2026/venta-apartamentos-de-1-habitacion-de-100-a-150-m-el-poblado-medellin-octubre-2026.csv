@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,1,,40
+filtro,area4,"de 100 a 150 m²",,40
+precio,p25,935000000.0,COP,40
+precio,mediana,1294000000.0,COP,40
+precio,p75,1456000000.0,COP,40
+precio,minimo,530000000.0,COP,40
+precio,maximo,1800000000.0,COP,40
+m2,mediana_precio_m2,10964912.28,COP,39
+m2,area_mediana_m2,112.0,m2,39
+admin,mediana_admin_mes,816750.0,COP,30
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.4,%,39
+estrato,estrato_mas_frecuente,6,,34
+habitaciones,1,1294000000.0,COP,40
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,54
+filtro,habitaciones,3+,,54
+filtro,ban3,"con 3 o más baños",,54
+precio,p25,1420000000.0,COP,54
+precio,mediana,2250000000.0,COP,54
+precio,p75,3900000000.0,COP,54
+precio,minimo,600000000.0,COP,54
+precio,maximo,6500000000.0,COP,54
+m2,mediana_precio_m2,7138888.89,COP,50
+m2,area_mediana_m2,302.0,m2,50
+admin,mediana_admin_mes,962000.0,COP,28
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,51
+estrato,estrato_mas_frecuente,5,,50
+habitaciones,3+,2250000000.0,COP,54
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/mesa,,
+fuente,licencia,CC BY 4.0,,

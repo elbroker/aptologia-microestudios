@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,conj,"en conjunto cerrado",,48
+filtro,area4,"de 100 a 150 m²",,48
+precio,p25,4450000.0,COP,48
+precio,mediana,4875000.0,COP,48
+precio,p75,5612500.0,COP,48
+precio,minimo,3700000.0,COP,48
+precio,maximo,11200000.0,COP,48
+m2,mediana_precio_m2,41702.9,COP,48
+m2,area_mediana_m2,115.5,m2,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,3+,4875000.0,COP,48
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/otraparte,,
+fuente,licencia,CC BY 4.0,,

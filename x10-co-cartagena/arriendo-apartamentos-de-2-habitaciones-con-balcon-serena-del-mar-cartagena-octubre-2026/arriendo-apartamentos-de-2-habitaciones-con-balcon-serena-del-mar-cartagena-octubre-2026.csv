@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,183
+filtro,habitaciones,2,,183
+filtro,balc,"con balcón",,183
+precio,p25,2600000.0,COP,183
+precio,mediana,3100000.0,COP,183
+precio,p75,3700000.0,COP,183
+precio,minimo,1519000.0,COP,183
+precio,maximo,13000000.0,COP,183
+m2,mediana_precio_m2,43529.41,COP,181
+m2,area_mediana_m2,70.0,m2,181
+admin,mediana_admin_mes,421000.0,COP,58
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,99.4,%,177
+estrato,estrato_mas_frecuente,5,,183
+habitaciones,2,3100000.0,COP,183
+ciudad,mediana_ciudad_referencia,3700000.0,COP,
+ciudad,mediana_m2_ciudad,44117.65,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena/serena-del-mar,,
+fuente,licencia,CC BY 4.0,,

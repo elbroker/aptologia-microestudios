@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,103
+filtro,estrato,6,,103
+filtro,area6,"de 250 m² o más",,103
+precio,p25,1455000000.0,COP,103
+precio,mediana,1950000000.0,COP,103
+precio,p75,2575000000.0,COP,103
+precio,minimo,950000000.0,COP,103
+precio,maximo,4500000000.0,COP,103
+m2,mediana_precio_m2,4635761.59,COP,102
+m2,area_mediana_m2,400.0,m2,102
+admin,mediana_admin_mes,782000.0,COP,64
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,97.9,%,94
+estrato,estrato_mas_frecuente,6,,103
+habitaciones,3+,1985000000.0,COP,101
+ciudad,mediana_ciudad_referencia,1000000000.0,COP,
+ciudad,mediana_m2_ciudad,4439252.34,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/armenia,,
+fuente,licencia,CC BY 4.0,,

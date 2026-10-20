@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,127
+filtro,habitaciones,3+,,127
+filtro,estrato,6,,127
+precio,p25,11500000.0,COP,127
+precio,mediana,14000000.0,COP,127
+precio,p75,16000000.0,COP,127
+precio,minimo,6500000.0,COP,127
+precio,maximo,20000000.0,COP,127
+m2,mediana_precio_m2,62957.32,COP,126
+m2,area_mediana_m2,215.0,m2,126
+admin,mediana_admin_mes,2133500.0,COP,104
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,127
+estrato,estrato_mas_frecuente,6,,127
+habitaciones,3+,14000000.0,COP,127
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/chico-reservado,,
+fuente,licencia,CC BY 4.0,,

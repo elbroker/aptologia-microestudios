@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,32
+filtro,habitaciones,2,,32
+filtro,parq1,"con estacionamiento",,32
+precio,p25,2300.0,BRL,32
+precio,mediana,2850.0,BRL,32
+precio,p75,3900.0,BRL,32
+precio,minimo,1550.0,BRL,32
+precio,maximo,10000.0,BRL,32
+m2,mediana_precio_m2,43.52,BRL,31
+m2,area_mediana_m2,70.0,m2,31
+admin,mediana_admin_mes,1008.5,BRL,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+habitaciones,2,2850.0,BRL,32
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/santana,,
+fuente,licencia,CC BY 4.0,,

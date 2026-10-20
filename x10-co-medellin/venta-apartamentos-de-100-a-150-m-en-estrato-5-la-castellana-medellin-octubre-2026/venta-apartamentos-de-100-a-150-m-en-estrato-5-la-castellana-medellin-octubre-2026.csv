@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,82
+filtro,estrato,5,,82
+filtro,area4,"de 100 a 150 m²",,82
+precio,p25,720000000.0,COP,82
+precio,mediana,894500000.0,COP,82
+precio,p75,970000000.0,COP,82
+precio,minimo,500000000.0,COP,82
+precio,maximo,1170000000.0,COP,82
+m2,mediana_precio_m2,7205769.23,COP,82
+m2,area_mediana_m2,116.8,m2,82
+admin,mediana_admin_mes,420000.0,COP,45
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.1,%,81
+estrato,estrato_mas_frecuente,5,,82
+habitaciones,2,930000000.0,COP,5
+habitaciones,3+,890000000.0,COP,77
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/la-castellana,,
+fuente,licencia,CC BY 4.0,,

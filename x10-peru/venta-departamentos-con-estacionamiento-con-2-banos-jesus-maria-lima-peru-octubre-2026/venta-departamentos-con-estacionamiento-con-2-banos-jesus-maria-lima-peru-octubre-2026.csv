@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,138
+filtro,parq1,"con estacionamiento",,138
+filtro,ban2,"con 2 baños",,138
+precio,p25,446280.25,PEN,138
+precio,mediana,535475.5,PEN,138
+precio,p75,628475.0,PEN,138
+precio,minimo,319559.0,PEN,138
+precio,maximo,1241935.0,PEN,138
+m2,mediana_precio_m2,7212.26,PEN,138
+m2,area_mediana_m2,74.0,m2,138
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,138
+habitaciones,2,447163.0,PEN,61
+habitaciones,3+,592000.0,PEN,75
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/jesus-maria,,
+fuente,licencia,CC BY 4.0,,

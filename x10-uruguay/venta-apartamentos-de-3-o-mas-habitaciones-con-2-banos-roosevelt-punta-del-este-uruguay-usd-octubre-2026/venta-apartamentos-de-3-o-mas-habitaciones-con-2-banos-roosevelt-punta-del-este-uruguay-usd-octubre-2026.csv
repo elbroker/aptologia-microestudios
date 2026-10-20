@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,82
+filtro,habitaciones,3+,,82
+filtro,ban2,"con 2 baños",,82
+precio,p25,236000.0,USD,82
+precio,mediana,260000.0,USD,82
+precio,p75,330000.0,USD,82
+precio,minimo,190000.0,USD,82
+precio,maximo,680000.0,USD,82
+m2,mediana_precio_m2,2587.37,USD,77
+m2,area_mediana_m2,99.5,m2,77
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,57
+habitaciones,3+,260000.0,USD,82
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/roosevelt,,
+fuente,licencia,CC BY 4.0,,

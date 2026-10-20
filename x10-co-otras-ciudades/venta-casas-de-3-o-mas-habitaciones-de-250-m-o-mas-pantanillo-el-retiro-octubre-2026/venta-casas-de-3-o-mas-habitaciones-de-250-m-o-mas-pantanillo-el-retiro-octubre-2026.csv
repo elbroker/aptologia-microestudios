@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,169
+filtro,habitaciones,3+,,169
+filtro,area6,"de 250 m² o más",,169
+precio,p25,2650000000.0,COP,169
+precio,mediana,3150000000.0,COP,169
+precio,p75,3500000000.0,COP,169
+precio,minimo,1292000000.0,COP,169
+precio,maximo,6100000000.0,COP,169
+m2,mediana_precio_m2,8324022.35,COP,166
+m2,area_mediana_m2,361.0,m2,166
+admin,mediana_admin_mes,499000.0,COP,93
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,162
+estrato,estrato_mas_frecuente,5,,161
+habitaciones,3+,3150000000.0,COP,169
+ciudad,mediana_ciudad_referencia,2500000000.0,COP,
+ciudad,mediana_m2_ciudad,7842105.26,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/el-retiro/pantanillo,,
+fuente,licencia,CC BY 4.0,,

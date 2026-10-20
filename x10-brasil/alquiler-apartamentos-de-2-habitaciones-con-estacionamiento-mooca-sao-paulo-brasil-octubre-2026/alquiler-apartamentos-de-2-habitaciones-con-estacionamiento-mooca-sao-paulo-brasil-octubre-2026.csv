@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,40
+filtro,habitaciones,2,,40
+filtro,parq1,"con estacionamiento",,40
+precio,p25,2507.5,BRL,40
+precio,mediana,2975.0,BRL,40
+precio,p75,4167.5,BRL,40
+precio,minimo,1977.0,BRL,40
+precio,maximo,10479.0,BRL,40
+m2,mediana_precio_m2,53.4,BRL,39
+m2,area_mediana_m2,50.0,m2,39
+admin,mediana_admin_mes,800.0,BRL,40
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+habitaciones,2,2975.0,BRL,40
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/mooca,,
+fuente,licencia,CC BY 4.0,,

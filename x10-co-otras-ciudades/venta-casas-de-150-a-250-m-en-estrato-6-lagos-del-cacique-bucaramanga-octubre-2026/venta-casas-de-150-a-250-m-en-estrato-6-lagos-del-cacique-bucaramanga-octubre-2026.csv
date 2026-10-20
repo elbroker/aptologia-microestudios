@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,42
+filtro,estrato,6,,42
+filtro,area5,"de 150 a 250 m²",,42
+precio,p25,1200000000.0,COP,42
+precio,mediana,1400000000.0,COP,42
+precio,p75,1587500000.0,COP,42
+precio,minimo,950000000.0,COP,42
+precio,maximo,1850000000.0,COP,42
+m2,mediana_precio_m2,6490036.23,COP,42
+m2,area_mediana_m2,218.9,m2,42
+admin,mediana_admin_mes,850000.0,COP,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,6,,42
+habitaciones,3+,1400000000.0,COP,42
+ciudad,mediana_ciudad_referencia,945000000.0,COP,
+ciudad,mediana_m2_ciudad,4000000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bucaramanga/lagos-del-cacique,,
+fuente,licencia,CC BY 4.0,,

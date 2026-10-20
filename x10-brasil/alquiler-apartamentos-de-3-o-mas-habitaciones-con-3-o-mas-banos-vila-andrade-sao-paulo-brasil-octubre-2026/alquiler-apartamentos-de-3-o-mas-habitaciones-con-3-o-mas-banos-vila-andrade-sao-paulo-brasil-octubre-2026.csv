@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,73
+filtro,habitaciones,3+,,73
+filtro,ban3,"con 3 o más baños",,73
+precio,p25,6000.0,BRL,73
+precio,mediana,9000.0,BRL,73
+precio,p75,14000.0,BRL,73
+precio,minimo,2185.0,BRL,73
+precio,maximo,29060.0,BRL,73
+m2,mediana_precio_m2,51.29,BRL,66
+m2,area_mediana_m2,184.0,m2,66
+admin,mediana_admin_mes,3219.0,BRL,72
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+habitaciones,3+,9000.0,BRL,73
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-andrade,,
+fuente,licencia,CC BY 4.0,,

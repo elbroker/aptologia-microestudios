@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,89
+filtro,estrato,5,,89
+filtro,ban2,"con 2 baños",,89
+precio,p25,3650000.0,COP,89
+precio,mediana,4150000.0,COP,89
+precio,p75,4750000.0,COP,89
+precio,minimo,2200000.0,COP,89
+precio,maximo,7800000.0,COP,89
+m2,mediana_precio_m2,48529.41,COP,89
+m2,area_mediana_m2,85.0,m2,89
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,87
+estrato,estrato_mas_frecuente,5,,89
+habitaciones,2,4200000.0,COP,41
+habitaciones,3+,4075000.0,COP,46
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/loma-benedictinos,,
+fuente,licencia,CC BY 4.0,,

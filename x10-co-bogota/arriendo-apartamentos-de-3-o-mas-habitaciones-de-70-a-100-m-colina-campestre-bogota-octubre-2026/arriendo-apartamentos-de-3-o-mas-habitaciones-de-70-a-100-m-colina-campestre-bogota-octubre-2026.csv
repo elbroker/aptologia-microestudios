@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,area3,"de 70 a 100 m²",,33
+precio,p25,3100000.0,COP,33
+precio,mediana,3450000.0,COP,33
+precio,p75,3970000.0,COP,33
+precio,minimo,1800000.0,COP,33
+precio,maximo,5500000.0,COP,33
+m2,mediana_precio_m2,41477.27,COP,33
+m2,area_mediana_m2,87.0,m2,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,4,,33
+habitaciones,3+,3450000.0,COP,33
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota/colina-campestre,,
+fuente,licencia,CC BY 4.0,,

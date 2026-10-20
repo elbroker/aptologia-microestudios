@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,area5,"de 150 a 250 m²",,35
+precio,p25,7000000.0,COP,35
+precio,mediana,8200000.0,COP,35
+precio,p75,9250000.0,COP,35
+precio,minimo,4900000.0,COP,35
+precio,maximo,13000000.0,COP,35
+m2,mediana_precio_m2,47311.83,COP,35
+m2,area_mediana_m2,165.0,m2,35
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,34
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,3+,8200000.0,COP,35
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/la-florida,,
+fuente,licencia,CC BY 4.0,,

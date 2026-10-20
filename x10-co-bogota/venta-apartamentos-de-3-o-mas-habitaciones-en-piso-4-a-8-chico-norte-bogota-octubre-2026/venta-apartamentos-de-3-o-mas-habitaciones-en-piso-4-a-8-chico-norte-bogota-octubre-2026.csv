@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,160
+filtro,habitaciones,3+,,160
+filtro,piso2,"en piso 4 a 8",,160
+precio,p25,1200000000.0,COP,160
+precio,mediana,1600000000.0,COP,160
+precio,p75,2385000000.0,COP,160
+precio,minimo,480000000.0,COP,160
+precio,maximo,4200000000.0,COP,160
+m2,mediana_precio_m2,7761437.91,COP,154
+m2,area_mediana_m2,191.0,m2,154
+admin,mediana_admin_mes,1800000.0,COP,149
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,159
+estrato,estrato_mas_frecuente,6,,160
+habitaciones,3+,1600000000.0,COP,160
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-norte,,
+fuente,licencia,CC BY 4.0,,

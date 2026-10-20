@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,43
+filtro,ban3,"con 3 o más baños",,43
+filtro,edad3,"de más de 20 años de construidos",,43
+precio,p25,3700000000.0,COP,43
+precio,mediana,5000000000.0,COP,43
+precio,p75,6050000000.0,COP,43
+precio,minimo,1250000000.0,COP,43
+precio,maximo,8000000000.0,COP,43
+m2,mediana_precio_m2,8937853.54,COP,36
+m2,area_mediana_m2,450.0,m2,36
+admin,mediana_admin_mes,500000.0,COP,15
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+estrato,estrato_mas_frecuente,6,,43
+habitaciones,3+,5000000000.0,COP,43
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/santa-ana,,
+fuente,licencia,CC BY 4.0,,

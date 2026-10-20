@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,159
+filtro,parq1,"con parqueadero",,159
+filtro,edad2,"de 6 a 20 años de construidos",,159
+precio,p25,1100000000.0,COP,159
+precio,mediana,1750000000.0,COP,159
+precio,p75,2550000000.0,COP,159
+precio,minimo,480000000.0,COP,159
+precio,maximo,4200000000.0,COP,159
+m2,mediana_precio_m2,10119047.62,COP,155
+m2,area_mediana_m2,166.0,m2,155
+admin,mediana_admin_mes,1567500.0,COP,148
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,159
+estrato,estrato_mas_frecuente,6,,159
+habitaciones,1,730000000.0,COP,21
+habitaciones,2,1125000000.0,COP,38
+habitaciones,3+,2325000000.0,COP,100
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/chico-reservado,,
+fuente,licencia,CC BY 4.0,,

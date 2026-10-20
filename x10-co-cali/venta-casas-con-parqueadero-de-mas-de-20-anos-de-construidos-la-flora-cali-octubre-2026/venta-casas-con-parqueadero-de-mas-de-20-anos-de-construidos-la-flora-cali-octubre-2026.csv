@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,33
+filtro,parq1,"con parqueadero",,33
+filtro,edad3,"de más de 20 años de construidos",,33
+precio,p25,700000000.0,COP,33
+precio,mediana,900000000.0,COP,33
+precio,p75,1050000000.0,COP,33
+precio,minimo,500000000.0,COP,33
+precio,maximo,1950000000.0,COP,33
+m2,mediana_precio_m2,3187134.5,COP,33
+m2,area_mediana_m2,314.0,m2,33
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,33
+estrato,estrato_mas_frecuente,5,,33
+habitaciones,3+,900000000.0,COP,33
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/la-flora,,
+fuente,licencia,CC BY 4.0,,

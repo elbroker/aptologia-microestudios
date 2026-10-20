@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,36
+filtro,parq1,"con parqueadero",,36
+filtro,edad2,"de 6 a 20 años de construidos",,36
+precio,p25,337500000.0,COP,36
+precio,mediana,387500000.0,COP,36
+precio,p75,465000000.0,COP,36
+precio,minimo,250000000.0,COP,36
+precio,maximo,960000000.0,COP,36
+m2,mediana_precio_m2,4974226.8,COP,36
+m2,area_mediana_m2,86.0,m2,36
+admin,mediana_admin_mes,455000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,2,340000000.0,COP,9
+habitaciones,3+,430000000.0,COP,26
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/la-hacienda,,
+fuente,licencia,CC BY 4.0,,

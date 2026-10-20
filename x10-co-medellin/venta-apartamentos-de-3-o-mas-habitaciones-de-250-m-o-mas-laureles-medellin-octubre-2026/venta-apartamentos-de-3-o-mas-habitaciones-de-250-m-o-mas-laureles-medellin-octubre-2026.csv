@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,104
+filtro,habitaciones,3+,,104
+filtro,area6,"de 250 m² o más",,104
+precio,p25,1399750000.0,COP,104
+precio,mediana,1800000000.0,COP,104
+precio,p75,2500000000.0,COP,104
+precio,minimo,890000000.0,COP,104
+precio,maximo,4200000000.0,COP,104
+m2,mediana_precio_m2,5353849.47,COP,104
+m2,area_mediana_m2,320.0,m2,104
+admin,mediana_admin_mes,1000000.0,COP,66
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,97.1,%,104
+estrato,estrato_mas_frecuente,5,,98
+habitaciones,3+,1800000000.0,COP,104
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/laureles,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,75
+filtro,estrato,4,,75
+precio,p25,330000000.0,COP,75
+precio,mediana,358000000.0,COP,75
+precio,p75,432000000.0,COP,75
+precio,minimo,230000000.0,COP,75
+precio,maximo,635000000.0,COP,75
+m2,mediana_precio_m2,5895833.33,COP,75
+m2,area_mediana_m2,64.0,m2,75
+admin,mediana_admin_mes,280000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,64
+estrato,estrato_mas_frecuente,4,,75
+habitaciones,2,370000000.0,COP,33
+habitaciones,3+,355000000.0,COP,39
+ciudad,mediana_ciudad_referencia,347000000.0,COP,
+ciudad,mediana_m2_ciudad,5649750.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/marinilla,,
+fuente,licencia,CC BY 4.0,,

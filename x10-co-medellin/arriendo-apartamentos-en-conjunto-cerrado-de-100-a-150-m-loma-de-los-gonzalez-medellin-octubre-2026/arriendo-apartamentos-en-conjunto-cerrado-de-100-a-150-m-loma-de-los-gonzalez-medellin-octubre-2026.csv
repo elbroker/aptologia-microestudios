@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,40
+filtro,conj,"en conjunto cerrado",,40
+filtro,area4,"de 100 a 150 m²",,40
+precio,p25,6000000.0,COP,40
+precio,mediana,6550000.0,COP,40
+precio,p75,7625000.0,COP,40
+precio,minimo,3000000.0,COP,40
+precio,maximo,10950000.0,COP,40
+m2,mediana_precio_m2,60000.0,COP,40
+m2,area_mediana_m2,111.0,m2,40
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,97.5,%,40
+estrato,estrato_mas_frecuente,6,,40
+habitaciones,2,7400000.0,COP,8
+habitaciones,3+,6500000.0,COP,31
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-de-los-gonzalez,,
+fuente,licencia,CC BY 4.0,,

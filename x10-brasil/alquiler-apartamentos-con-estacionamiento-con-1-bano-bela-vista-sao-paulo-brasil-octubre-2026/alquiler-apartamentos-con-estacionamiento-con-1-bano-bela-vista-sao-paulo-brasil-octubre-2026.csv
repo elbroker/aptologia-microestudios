@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,73
+filtro,parq1,"con estacionamiento",,73
+filtro,ban1,"con 1 baño",,73
+precio,p25,2288.0,BRL,73
+precio,mediana,3000.0,BRL,73
+precio,p75,3960.0,BRL,73
+precio,minimo,1500.0,BRL,73
+precio,maximo,11500.0,BRL,73
+m2,mediana_precio_m2,66.79,BRL,73
+m2,area_mediana_m2,42.0,m2,73
+admin,mediana_admin_mes,889.0,BRL,73
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,73
+habitaciones,1,2850.0,BRL,57
+habitaciones,2,4300.0,BRL,13
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/bela-vista,,
+fuente,licencia,CC BY 4.0,,

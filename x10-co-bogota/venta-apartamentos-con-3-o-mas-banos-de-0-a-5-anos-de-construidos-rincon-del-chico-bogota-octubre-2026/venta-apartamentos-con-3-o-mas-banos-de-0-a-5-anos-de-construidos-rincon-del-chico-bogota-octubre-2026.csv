@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,35
+filtro,ban3,"con 3 o más baños",,35
+filtro,edad1,"de 0 a 5 años de construidos",,35
+precio,p25,700000000.0,COP,35
+precio,mediana,859825000.0,COP,35
+precio,p75,1150000000.0,COP,35
+precio,minimo,590000000.0,COP,35
+precio,maximo,3417500000.0,COP,35
+m2,mediana_precio_m2,7008547.01,COP,33
+m2,area_mediana_m2,117.0,m2,33
+admin,mediana_admin_mes,1223000.0,COP,21
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,6,,35
+habitaciones,2,700000000.0,COP,7
+habitaciones,3+,972165000.0,COP,28
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/rincon-del-chico,,
+fuente,licencia,CC BY 4.0,,

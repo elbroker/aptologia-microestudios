@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,630000000.0,COP,36
+precio,mediana,824425750.0,COP,36
+precio,p75,985000000.0,COP,36
+precio,minimo,410000000.0,COP,36
+precio,maximo,1590000000.0,COP,36
+m2,mediana_precio_m2,8142857.14,COP,35
+m2,area_mediana_m2,95.9,m2,35
+admin,mediana_admin_mes,712500.0,COP,28
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,94.3,%,35
+estrato,estrato_mas_frecuente,6,,36
+habitaciones,3+,824425750.0,COP,36
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/bello-horizonte,,
+fuente,licencia,CC BY 4.0,,

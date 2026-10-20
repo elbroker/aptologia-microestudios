@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,64
+filtro,estrato,5,,64
+filtro,ban2,"con 2 baños",,64
+precio,p25,699750000.0,COP,64
+precio,mediana,782500000.0,COP,64
+precio,p75,896249999.75,COP,64
+precio,minimo,440000000.0,COP,64
+precio,maximo,1350000000.0,COP,64
+m2,mediana_precio_m2,8647311.43,COP,64
+m2,area_mediana_m2,93.5,m2,64
+admin,mediana_admin_mes,713400.0,COP,47
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,5,,64
+habitaciones,1,665000000.0,COP,10
+habitaciones,2,856000000.0,COP,37
+habitaciones,3+,779900000.0,COP,17
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/cielo-mar,,
+fuente,licencia,CC BY 4.0,,

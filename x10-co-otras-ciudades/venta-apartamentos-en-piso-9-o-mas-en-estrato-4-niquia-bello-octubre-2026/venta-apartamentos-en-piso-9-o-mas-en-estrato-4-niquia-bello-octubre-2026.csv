@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,62
+filtro,estrato,4,,62
+filtro,piso3,"en piso 9 o más",,62
+precio,p25,330000000.0,COP,62
+precio,mediana,398500000.0,COP,62
+precio,p75,435750000.0,COP,62
+precio,minimo,263000000.0,COP,62
+precio,maximo,830000000.0,COP,62
+m2,mediana_precio_m2,5710250.2,COP,62
+m2,area_mediana_m2,70.0,m2,62
+admin,mediana_admin_mes,260100.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,76.3,%,59
+estrato,estrato_mas_frecuente,4,,62
+habitaciones,2,340000000.0,COP,13
+habitaciones,3+,407500000.0,COP,48
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/niquia,,
+fuente,licencia,CC BY 4.0,,

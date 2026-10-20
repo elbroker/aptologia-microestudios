@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,140
+filtro,habitaciones,1,,140
+filtro,parq1,"con estacionamiento",,140
+precio,p25,4641.25,BRL,140
+precio,mediana,6340.0,BRL,140
+precio,p75,9880.0,BRL,140
+precio,minimo,2580.0,BRL,140
+precio,maximo,22000.0,BRL,140
+m2,mediana_precio_m2,119.48,BRL,114
+m2,area_mediana_m2,50.5,m2,114
+admin,mediana_admin_mes,1390.0,BRL,135
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,140
+habitaciones,1,6340.0,BRL,140
+ciudad,mediana_ciudad_referencia,3621.0,BRL,
+ciudad,mediana_m2_ciudad,63.16,BRL,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/br/aluguel/sao-paulo/vila-olimpia,,
+fuente,licencia,CC BY 4.0,,

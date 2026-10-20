@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,51
+filtro,habitaciones,3+,,51
+filtro,estrato,6,,51
+precio,p25,785000000.0,COP,51
+precio,mediana,939000000.0,COP,51
+precio,p75,1035300000.0,COP,51
+precio,minimo,435000000.0,COP,51
+precio,maximo,1755000000.0,COP,51
+m2,mediana_precio_m2,8088281.25,COP,51
+m2,area_mediana_m2,128.0,m2,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.4,%,48
+estrato,estrato_mas_frecuente,6,,51
+habitaciones,3+,939000000.0,COP,51
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales/cerro-de-oro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,70
+filtro,habitaciones,2,,70
+filtro,ban3,"con 3 o más baños",,70
+precio,p25,217500.25,USD,70
+precio,mediana,267972.5,USD,70
+precio,p75,325553.0,USD,70
+precio,minimo,143000.0,USD,70
+precio,maximo,2290000.0,USD,70
+m2,mediana_precio_m2,2044.59,USD,64
+m2,area_mediana_m2,135.0,m2,64
+banos,mediana_banos,3.0,,
+habitaciones,2,267972.5,USD,70
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

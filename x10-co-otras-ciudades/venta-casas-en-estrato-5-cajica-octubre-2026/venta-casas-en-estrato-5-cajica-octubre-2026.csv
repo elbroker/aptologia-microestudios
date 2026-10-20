@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,1089
+filtro,estrato,5,,1089
+precio,p25,1150000000.0,COP,1089
+precio,mediana,1300000000.0,COP,1089
+precio,p75,1500000000.0,COP,1089
+precio,minimo,315000000.0,COP,1089
+precio,maximo,7340000000.0,COP,1089
+m2,mediana_precio_m2,6822884.01,COP,1084
+m2,area_mediana_m2,183.0,m2,1084
+admin,mediana_admin_mes,975000.0,COP,924
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.7,%,1081
+estrato,estrato_mas_frecuente,5,,1089
+habitaciones,2,1225000000.0,COP,17
+habitaciones,3+,1300000000.0,COP,1070
+ciudad,mediana_ciudad_referencia,1300000000.0,COP,
+ciudad,mediana_m2_ciudad,6333333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cajica,,
+fuente,licencia,CC BY 4.0,,

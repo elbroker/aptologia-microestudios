@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,39
+filtro,estrato,6,,39
+filtro,piso3,"en piso 9 o más",,39
+precio,p25,680000000.0,COP,39
+precio,mediana,830000000.0,COP,39
+precio,p75,1150000000.0,COP,39
+precio,minimo,310000000.0,COP,39
+precio,maximo,1997000000.0,COP,39
+m2,mediana_precio_m2,9756097.56,COP,39
+m2,area_mediana_m2,87.0,m2,39
+admin,mediana_admin_mes,680000.0,COP,33
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,32
+estrato,estrato_mas_frecuente,6,,39
+habitaciones,1,579000000.0,COP,10
+habitaciones,2,840000000.0,COP,14
+habitaciones,3+,1100000000.0,COP,15
+ciudad,mediana_ciudad_referencia,600000000.0,COP,
+ciudad,mediana_m2_ciudad,8720930.23,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/santa-marta/urbanizacion-salguero,,
+fuente,licencia,CC BY 4.0,,

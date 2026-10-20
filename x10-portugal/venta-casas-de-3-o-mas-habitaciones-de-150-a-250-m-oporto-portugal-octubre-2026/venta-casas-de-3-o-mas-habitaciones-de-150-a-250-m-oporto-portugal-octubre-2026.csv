@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,37
+filtro,habitaciones,3+,,37
+filtro,area5,"de 150 a 250 m²",,37
+precio,p25,537500.0,EUR,37
+precio,mediana,690000.0,EUR,37
+precio,p75,950000.0,EUR,37
+precio,minimo,290000.0,EUR,37
+precio,maximo,3250000.0,EUR,37
+m2,mediana_precio_m2,3371.31,EUR,35
+m2,area_mediana_m2,197.0,m2,35
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,59.5,%,37
+habitaciones,3+,690000.0,EUR,37
+ciudad,mediana_ciudad_referencia,692500.0,EUR,
+ciudad,mediana_m2_ciudad,4434.03,EUR,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pt/venda/porto,,
+fuente,licencia,CC BY 4.0,,

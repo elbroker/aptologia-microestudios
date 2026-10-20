@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,71
+filtro,habitaciones,3+,,71
+filtro,masc,"que aceptan mascotas",,71
+precio,p25,1040000.0,COP,71
+precio,mediana,1200000.0,COP,71
+precio,p75,1300000.0,COP,71
+precio,minimo,900000.0,COP,71
+precio,maximo,2800000.0,COP,71
+m2,mediana_precio_m2,20967.74,COP,63
+m2,area_mediana_m2,58.0,m2,63
+admin,mediana_admin_mes,183000.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,3+,1200000.0,COP,71
+ciudad,mediana_ciudad_referencia,1200000.0,COP,
+ciudad,mediana_m2_ciudad,20833.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/madrid,,
+fuente,licencia,CC BY 4.0,,

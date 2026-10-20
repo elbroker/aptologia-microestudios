@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,89
+filtro,habitaciones,2,,89
+filtro,estrato,6,,89
+precio,p25,4700000.0,COP,89
+precio,mediana,6200000.0,COP,89
+precio,p75,7500000.0,COP,89
+precio,minimo,3600000.0,COP,89
+precio,maximo,16500000.0,COP,89
+m2,mediana_precio_m2,66869.92,COP,88
+m2,area_mediana_m2,85.0,m2,88
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.9,%,89
+estrato,estrato_mas_frecuente,6,,89
+habitaciones,2,6200000.0,COP,89
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/altos-del-poblado,,
+fuente,licencia,CC BY 4.0,,

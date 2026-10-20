@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,276
+filtro,estrato,6,,276
+filtro,ban2,"con 2 baños",,276
+precio,p25,777500000.0,COP,276
+precio,mediana,1000000000.0,COP,276
+precio,p75,1260000000.0,COP,276
+precio,minimo,390000000.0,COP,276
+precio,maximo,3600000000.0,COP,276
+m2,mediana_precio_m2,10817669.17,COP,242
+m2,area_mediana_m2,97.0,m2,242
+admin,mediana_admin_mes,850000.0,COP,216
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.2,%,249
+estrato,estrato_mas_frecuente,6,,276
+habitaciones,1,900000000.0,COP,61
+habitaciones,2,1100000000.0,COP,114
+habitaciones,3+,890000000.0,COP,101
+ciudad,mediana_ciudad_referencia,800000000.0,COP,
+ciudad,mediana_m2_ciudad,7857142.86,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cartagena/bocagrande,,
+fuente,licencia,CC BY 4.0,,

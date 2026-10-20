@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,1514
+filtro,estrato,5,,1514
+precio,p25,700000000.0,COP,1514
+precio,mediana,880000000.0,COP,1514
+precio,p75,1200000000.0,COP,1514
+precio,minimo,320000000.0,COP,1514
+precio,maximo,8000000000.0,COP,1514
+m2,mediana_precio_m2,3243243.24,COP,1490
+m2,area_mediana_m2,290.0,m2,1490
+admin,mediana_admin_mes,618600.0,COP,393
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,96.8,%,1424
+estrato,estrato_mas_frecuente,5,,1514
+habitaciones,1,1790000000.0,COP,6
+habitaciones,2,536700000.0,COP,10
+habitaciones,3+,880000000.0,COP,1485
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali,,
+fuente,licencia,CC BY 4.0,,

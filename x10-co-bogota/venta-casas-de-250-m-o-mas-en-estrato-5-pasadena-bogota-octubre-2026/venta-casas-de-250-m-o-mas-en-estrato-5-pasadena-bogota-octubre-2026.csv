@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,72
+filtro,estrato,5,,72
+filtro,area6,"de 250 m² o más",,72
+precio,p25,1390000000.0,COP,72
+precio,mediana,1550000000.0,COP,72
+precio,p75,1900000000.0,COP,72
+precio,minimo,910000000.0,COP,72
+precio,maximo,4500000000.0,COP,72
+m2,mediana_precio_m2,4843750.0,COP,71
+m2,area_mediana_m2,344.9,m2,71
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,97.2,%,71
+estrato,estrato_mas_frecuente,5,,72
+habitaciones,3+,1550000000.0,COP,71
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/pasadena,,
+fuente,licencia,CC BY 4.0,,

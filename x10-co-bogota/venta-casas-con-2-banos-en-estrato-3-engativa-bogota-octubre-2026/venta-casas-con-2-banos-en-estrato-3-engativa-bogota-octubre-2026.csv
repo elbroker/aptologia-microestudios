@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,62
+filtro,estrato,3,,62
+filtro,ban2,"con 2 baños",,62
+precio,p25,365000000.0,COP,62
+precio,mediana,499000000.0,COP,62
+precio,p75,650000000.0,COP,62
+precio,minimo,279000000.0,COP,62
+precio,maximo,1600000000.0,COP,62
+m2,mediana_precio_m2,4196969.7,COP,62
+m2,area_mediana_m2,125.5,m2,62
+admin,mediana_admin_mes,187000.0,COP,15
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.8,%,45
+estrato,estrato_mas_frecuente,3,,62
+habitaciones,3+,500000000.0,COP,57
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/engativa,,
+fuente,licencia,CC BY 4.0,,

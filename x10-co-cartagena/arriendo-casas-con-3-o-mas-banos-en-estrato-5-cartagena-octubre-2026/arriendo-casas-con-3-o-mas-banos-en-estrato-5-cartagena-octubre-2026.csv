@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,70
+filtro,estrato,5,,70
+filtro,ban3,"con 3 o más baños",,70
+precio,p25,6000000.0,COP,70
+precio,mediana,10000000.0,COP,70
+precio,p75,16000000.0,COP,70
+precio,minimo,2800000.0,COP,70
+precio,maximo,25000000.0,COP,70
+m2,mediana_precio_m2,31555.56,COP,66
+m2,area_mediana_m2,299.0,m2,66
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,84.8,%,46
+estrato,estrato_mas_frecuente,5,,70
+habitaciones,3+,10000000.0,COP,67
+ciudad,mediana_ciudad_referencia,7189500.0,COP,
+ciudad,mediana_m2_ciudad,28341.92,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/cartagena,,
+fuente,licencia,CC BY 4.0,,

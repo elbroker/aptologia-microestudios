@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,85
+filtro,habitaciones,3+,,85
+filtro,area2,"de 45 a 70 m²",,85
+filtro,parq1,"con parqueadero",,85
+precio,p25,265000000.0,COP,85
+precio,mediana,300000000.0,COP,85
+precio,p75,355000000.0,COP,85
+precio,minimo,180000000.0,COP,85
+precio,maximo,530000000.0,COP,85
+m2,mediana_precio_m2,5163934.43,COP,85
+m2,area_mediana_m2,60.0,m2,85
+admin,mediana_admin_mes,250000.0,COP,74
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,85
+estrato,estrato_mas_frecuente,3,,85
+habitaciones,3+,300000000.0,COP,85
+ciudad,mediana_ciudad_referencia,335000000.0,COP,
+ciudad,mediana_m2_ciudad,5529411.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/chia,,
+fuente,licencia,CC BY 4.0,,

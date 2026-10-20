@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,327
+filtro,habitaciones,2,,327
+filtro,area3,"de 70 a 100 m²",,327
+precio,p25,2000.0,USD,327
+precio,mediana,3000.0,USD,327
+precio,p75,6000.0,USD,327
+precio,minimo,750.0,USD,327
+precio,maximo,26000.0,USD,327
+m2,mediana_precio_m2,36.84,USD,321
+m2,area_mediana_m2,81.0,m2,321
+admin,mediana_admin_mes,600.0,USD,37
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,267
+habitaciones,2,3000.0,USD,327
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este,,
+fuente,licencia,CC BY 4.0,,

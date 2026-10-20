@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,5,,30
+filtro,balc,"con balcón",,30
+precio,p25,2537500.0,COP,30
+precio,mediana,3175000.0,COP,30
+precio,p75,3685250.0,COP,30
+precio,minimo,1410000.0,COP,30
+precio,maximo,4300000.0,COP,30
+m2,mediana_precio_m2,34432.14,COP,30
+m2,area_mediana_m2,92.0,m2,30
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,5,,30
+habitaciones,2,2900000.0,COP,9
+habitaciones,3+,3550000.0,COP,18
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla/el-tabor,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,118
+filtro,habitaciones,3+,,118
+filtro,conj,"en conjunto cerrado",,118
+filtro,ban2,"con 2 baños",,118
+precio,p25,2012500.0,COP,118
+precio,mediana,2400000.0,COP,118
+precio,p75,2700000.0,COP,118
+precio,minimo,1100000.0,COP,118
+precio,maximo,4500000.0,COP,118
+m2,mediana_precio_m2,29393.38,COP,116
+m2,area_mediana_m2,83.6,m2,116
+admin,mediana_admin_mes,418000.0,COP,95
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.2,%,115
+estrato,estrato_mas_frecuente,4,,117
+habitaciones,3+,2400000.0,COP,118
+ciudad,mediana_ciudad_referencia,2400000.0,COP,
+ciudad,mediana_m2_ciudad,29411.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/floridablanca,,
+fuente,licencia,CC BY 4.0,,

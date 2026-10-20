@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,58
+filtro,ban2,"con 2 baños",,58
+filtro,piso2,"en piso 4 a 8",,58
+precio,p25,210000000.0,COP,58
+precio,mediana,230000000.0,COP,58
+precio,p75,290000000.0,COP,58
+precio,minimo,170000000.0,COP,58
+precio,maximo,700000000.0,COP,58
+m2,mediana_precio_m2,4271870.29,COP,58
+m2,area_mediana_m2,57.0,m2,58
+admin,mediana_admin_mes,220000.0,COP,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,84.8,%,46
+estrato,estrato_mas_frecuente,3,,58
+habitaciones,2,230000000.0,COP,25
+habitaciones,3+,229000000.0,COP,33
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/alameda-del-rio,,
+fuente,licencia,CC BY 4.0,,

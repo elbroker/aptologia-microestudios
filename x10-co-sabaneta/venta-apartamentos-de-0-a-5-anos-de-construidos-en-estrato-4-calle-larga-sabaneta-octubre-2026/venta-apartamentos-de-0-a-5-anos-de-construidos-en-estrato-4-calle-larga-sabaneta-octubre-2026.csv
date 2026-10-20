@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,42
+filtro,estrato,4,,42
+filtro,edad1,"de 0 a 5 años de construidos",,42
+precio,p25,464875000.0,COP,42
+precio,mediana,570000000.0,COP,42
+precio,p75,692500000.0,COP,42
+precio,minimo,300000000.0,COP,42
+precio,maximo,985000000.0,COP,42
+m2,mediana_precio_m2,7519230.77,COP,42
+m2,area_mediana_m2,65.5,m2,42
+admin,mediana_admin_mes,365000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,85.7,%,35
+estrato,estrato_mas_frecuente,4,,42
+habitaciones,2,595000000.0,COP,19
+habitaciones,3+,570000000.0,COP,20
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/calle-larga,,
+fuente,licencia,CC BY 4.0,,

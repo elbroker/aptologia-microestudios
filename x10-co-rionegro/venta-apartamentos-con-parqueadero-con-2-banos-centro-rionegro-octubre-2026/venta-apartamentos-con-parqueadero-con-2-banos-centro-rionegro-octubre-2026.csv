@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,54
+filtro,parq1,"con parqueadero",,54
+filtro,ban2,"con 2 baños",,54
+precio,p25,330000000.0,COP,54
+precio,mediana,380000000.0,COP,54
+precio,p75,547500000.0,COP,54
+precio,minimo,259000000.0,COP,54
+precio,maximo,685000000.0,COP,54
+m2,mediana_precio_m2,6666666.67,COP,53
+m2,area_mediana_m2,59.5,m2,53
+admin,mediana_admin_mes,270000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,54
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,2,455000000.0,COP,28
+habitaciones,3+,350000000.0,COP,25
+ciudad,mediana_ciudad_referencia,520000000.0,COP,
+ciudad,mediana_m2_ciudad,7437500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/rionegro/centro,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,75
+filtro,habitaciones,2,,75
+filtro,area4,"de 100 a 150 m²",,75
+filtro,ban2,"con 2 baños",,75
+precio,p25,160000.0,USD,75
+precio,mediana,424800.0,USD,75
+precio,p75,502445.0,USD,75
+precio,minimo,62000.0,USD,75
+precio,maximo,702000.0,USD,75
+m2,mediana_precio_m2,4007.55,USD,75
+m2,area_mediana_m2,108.0,m2,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.3,%,75
+habitaciones,2,424800.0,USD,75
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1400.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ve/venta/caracas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,193
+filtro,habitaciones,3+,,193
+filtro,area2,"de 45 a 70 m²",,193
+precio,p25,2350.0,UF,193
+precio,mediana,2816.0,UF,193
+precio,p75,3300.0,UF,193
+precio,minimo,1342.0,UF,193
+precio,maximo,4700.0,UF,193
+m2,mediana_precio_m2,48.2,UF,188
+m2,area_mediana_m2,60.0,m2,188
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+habitaciones,3+,2816.0,UF,193
+ciudad,mediana_ciudad_referencia,6950.0,UF,
+ciudad,mediana_m2_ciudad,78.67,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/venta/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

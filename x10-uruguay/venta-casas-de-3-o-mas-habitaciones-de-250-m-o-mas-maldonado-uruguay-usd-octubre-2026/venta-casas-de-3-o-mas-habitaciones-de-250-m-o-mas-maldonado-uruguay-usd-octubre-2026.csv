@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,50
+filtro,habitaciones,3+,,50
+filtro,area6,"de 250 m² o más",,50
+precio,p25,350000.0,USD,50
+precio,mediana,635000.0,USD,50
+precio,p75,911250.0,USD,50
+precio,minimo,127000.0,USD,50
+precio,maximo,4950000.0,USD,50
+m2,mediana_precio_m2,1597.3,USD,50
+m2,area_mediana_m2,348.0,m2,50
+banos,mediana_banos,3.0,,
+habitaciones,3+,635000.0,USD,50
+ciudad,mediana_ciudad_referencia,200000.0,USD,
+ciudad,mediana_m2_ciudad,1864.75,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/maldonado,,
+fuente,licencia,CC BY 4.0,,

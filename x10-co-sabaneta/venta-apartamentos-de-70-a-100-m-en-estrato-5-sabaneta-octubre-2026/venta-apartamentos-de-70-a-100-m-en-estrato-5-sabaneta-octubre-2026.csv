@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,136
+filtro,estrato,5,,136
+filtro,area3,"de 70 a 100 m²",,136
+precio,p25,563750000.0,COP,136
+precio,mediana,649000000.0,COP,136
+precio,p75,700000000.0,COP,136
+precio,minimo,280000000.0,COP,136
+precio,maximo,1200000000.0,COP,136
+m2,mediana_precio_m2,7838209.98,COP,136
+m2,area_mediana_m2,83.0,m2,136
+admin,mediana_admin_mes,405813.0,COP,72
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.6,%,136
+estrato,estrato_mas_frecuente,5,,136
+habitaciones,2,600000000.0,COP,20
+habitaciones,3+,650000000.0,COP,115
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta,,
+fuente,licencia,CC BY 4.0,,

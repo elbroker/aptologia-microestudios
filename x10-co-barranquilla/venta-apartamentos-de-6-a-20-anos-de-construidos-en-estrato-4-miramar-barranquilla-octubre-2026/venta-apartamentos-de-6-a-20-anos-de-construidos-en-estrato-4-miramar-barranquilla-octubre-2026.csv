@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,80
+filtro,estrato,4,,80
+filtro,edad2,"de 6 a 20 años de construidos",,80
+precio,p25,285000000.0,COP,80
+precio,mediana,357500000.0,COP,80
+precio,p75,402500000.0,COP,80
+precio,minimo,220000000.0,COP,80
+precio,maximo,750000000.0,COP,80
+m2,mediana_precio_m2,4488095.24,COP,80
+m2,area_mediana_m2,76.0,m2,80
+admin,mediana_admin_mes,293000.0,COP,67
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.2,%,80
+estrato,estrato_mas_frecuente,4,,80
+habitaciones,2,284000000.0,COP,9
+habitaciones,3+,365000000.0,COP,71
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

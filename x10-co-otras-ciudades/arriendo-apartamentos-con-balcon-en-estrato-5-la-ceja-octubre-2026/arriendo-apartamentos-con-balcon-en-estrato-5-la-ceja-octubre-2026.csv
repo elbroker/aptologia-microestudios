@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,62
+filtro,estrato,5,,62
+filtro,balc,"con balcón",,62
+precio,p25,2625000.0,COP,62
+precio,mediana,3150000.0,COP,62
+precio,p75,3987500.0,COP,62
+precio,minimo,1550000.0,COP,62
+precio,maximo,11500000.0,COP,62
+m2,mediana_precio_m2,39365.14,COP,62
+m2,area_mediana_m2,74.0,m2,62
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,5,,62
+habitaciones,2,2850000.0,COP,20
+habitaciones,3+,3450000.0,COP,42
+ciudad,mediana_ciudad_referencia,2700000.0,COP,
+ciudad,mediana_m2_ciudad,37323.38,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-ceja,,
+fuente,licencia,CC BY 4.0,,

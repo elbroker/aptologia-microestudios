@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,125
+filtro,ban3,"con 3 o más baños",,125
+filtro,edad1,"de 0 a 5 años de construidos",,125
+precio,p25,1660000000.0,COP,125
+precio,mediana,2200000000.0,COP,125
+precio,p75,3200000000.0,COP,125
+precio,minimo,330000000.0,COP,125
+precio,maximo,7000000000.0,COP,125
+m2,mediana_precio_m2,6150793.65,COP,122
+m2,area_mediana_m2,362.0,m2,122
+admin,mediana_admin_mes,1000000.0,COP,106
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,123
+estrato,estrato_mas_frecuente,5,,125
+habitaciones,3+,2200000000.0,COP,125
+ciudad,mediana_ciudad_referencia,1200000000.0,COP,
+ciudad,mediana_m2_ciudad,4686644.57,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/bogota/san-jose-de-bavaria,,
+fuente,licencia,CC BY 4.0,,

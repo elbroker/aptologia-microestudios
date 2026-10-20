@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,41
+filtro,habitaciones,3+,,41
+filtro,area4,"de 100 a 150 m²",,41
+filtro,ban2,"con 2 baños",,41
+precio,p25,115000.0,USD,41
+precio,mediana,126000.0,USD,41
+precio,p75,138000.0,USD,41
+precio,minimo,75000.0,USD,41
+precio,maximo,395000.0,USD,41
+m2,mediana_precio_m2,1002.07,USD,40
+m2,area_mediana_m2,126.3,m2,40
+banos,mediana_banos,2.0,,
+habitaciones,3+,126000.0,USD,41
+ciudad,mediana_ciudad_referencia,215000.0,USD,
+ciudad,mediana_m2_ciudad,866.26,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/cuenca,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,30
+filtro,estrato,4,,30
+filtro,edad1,"de 0 a 5 años de construidos",,30
+precio,p25,503875000.0,COP,30
+precio,mediana,607500000.0,COP,30
+precio,p75,792500000.0,COP,30
+precio,minimo,295000000.0,COP,30
+precio,maximo,1600000000.0,COP,30
+m2,area_mediana_m2,57.5,m2,29
+admin,mediana_admin_mes,516700.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,1,509250000.0,COP,14
+habitaciones,2,745000000.0,COP,8
+habitaciones,3+,820000000.0,COP,7
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/centro-internacional,,
+fuente,licencia,CC BY 4.0,,

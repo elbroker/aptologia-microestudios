@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,55
+filtro,habitaciones,3+,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,410000000.0,COP,55
+precio,mediana,530000000.0,COP,55
+precio,p75,662500000.0,COP,55
+precio,minimo,220000000.0,COP,55
+precio,maximo,977357037.0,COP,55
+m2,mediana_precio_m2,6615384.62,COP,55
+m2,area_mediana_m2,76.0,m2,55
+admin,mediana_admin_mes,425000.0,COP,45
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,92.7,%,55
+estrato,estrato_mas_frecuente,4,,55
+habitaciones,3+,530000000.0,COP,55
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/mazuren,,
+fuente,licencia,CC BY 4.0,,

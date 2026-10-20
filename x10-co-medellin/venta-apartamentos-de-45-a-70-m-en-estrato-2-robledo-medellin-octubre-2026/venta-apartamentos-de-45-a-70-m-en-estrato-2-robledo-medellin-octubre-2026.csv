@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,35
+filtro,estrato,2,,35
+filtro,area2,"de 45 a 70 m²",,35
+precio,p25,170000000.0,COP,35
+precio,mediana,180000000.0,COP,35
+precio,p75,215000000.0,COP,35
+precio,minimo,150000000.0,COP,35
+precio,maximo,320000000.0,COP,35
+m2,mediana_precio_m2,3777777.78,COP,35
+m2,area_mediana_m2,47.0,m2,35
+admin,mediana_admin_mes,37500.0,COP,16
+banos,mediana_banos,1.0,,
+estrato,estrato_mas_frecuente,2,,35
+habitaciones,2,173000000.0,COP,13
+habitaciones,3+,199000000.0,COP,22
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/robledo,,
+fuente,licencia,CC BY 4.0,,

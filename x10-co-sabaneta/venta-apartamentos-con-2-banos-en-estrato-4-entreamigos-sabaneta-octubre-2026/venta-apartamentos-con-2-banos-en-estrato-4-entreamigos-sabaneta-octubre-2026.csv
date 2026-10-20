@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,32
+filtro,estrato,4,,32
+filtro,ban2,"con 2 baños",,32
+precio,p25,440000000.0,COP,32
+precio,mediana,515000000.0,COP,32
+precio,p75,592250000.0,COP,32
+precio,minimo,280000000.0,COP,32
+precio,maximo,810000000.0,COP,32
+m2,mediana_precio_m2,7613636.36,COP,32
+m2,area_mediana_m2,70.5,m2,32
+admin,mediana_admin_mes,348500.0,COP,24
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,32
+habitaciones,2,540000000.0,COP,10
+habitaciones,3+,510000000.0,COP,19
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/entreamigos,,
+fuente,licencia,CC BY 4.0,,

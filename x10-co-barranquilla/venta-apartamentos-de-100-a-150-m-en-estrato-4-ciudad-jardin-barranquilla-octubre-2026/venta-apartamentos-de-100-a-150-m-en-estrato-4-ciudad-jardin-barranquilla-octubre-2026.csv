@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,74
+filtro,estrato,4,,74
+filtro,area4,"de 100 a 150 m²",,74
+precio,p25,396250000.0,COP,74
+precio,mediana,530000000.0,COP,74
+precio,p75,615000000.0,COP,74
+precio,minimo,257000000.0,COP,74
+precio,maximo,950000000.0,COP,74
+m2,mediana_precio_m2,4294478.53,COP,71
+m2,area_mediana_m2,115.0,m2,71
+admin,mediana_admin_mes,511000.0,COP,51
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.9,%,64
+estrato,estrato_mas_frecuente,4,,74
+habitaciones,3+,531000000.0,COP,70
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

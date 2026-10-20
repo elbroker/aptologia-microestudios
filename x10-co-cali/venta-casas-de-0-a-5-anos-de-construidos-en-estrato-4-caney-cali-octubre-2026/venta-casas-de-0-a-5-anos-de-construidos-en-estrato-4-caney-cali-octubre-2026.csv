@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,62
+filtro,estrato,4,,62
+filtro,edad1,"de 0 a 5 años de construidos",,62
+precio,p25,471250000.0,COP,62
+precio,mediana,570000000.0,COP,62
+precio,p75,630000000.0,COP,62
+precio,minimo,270000000.0,COP,62
+precio,maximo,1200000000.0,COP,62
+m2,mediana_precio_m2,2791304.35,COP,62
+m2,area_mediana_m2,187.0,m2,62
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,58
+estrato,estrato_mas_frecuente,4,,62
+habitaciones,3+,570000000.0,COP,59
+ciudad,mediana_ciudad_referencia,930000000.0,COP,
+ciudad,mediana_m2_ciudad,3400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/cali/caney,,
+fuente,licencia,CC BY 4.0,,

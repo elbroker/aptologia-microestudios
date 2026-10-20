@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,40
+filtro,estrato,4,,40
+filtro,parq1,"con parqueadero",,40
+precio,p25,498750000.0,COP,40
+precio,mediana,587500000.0,COP,40
+precio,p75,712500000.0,COP,40
+precio,minimo,260000000.0,COP,40
+precio,maximo,985000000.0,COP,40
+m2,mediana_precio_m2,7540069.62,COP,40
+m2,area_mediana_m2,76.0,m2,40
+admin,mediana_admin_mes,396000.0,COP,32
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,4,,40
+habitaciones,2,595000000.0,COP,13
+habitaciones,3+,610000000.0,COP,26
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/calle-larga,,
+fuente,licencia,CC BY 4.0,,

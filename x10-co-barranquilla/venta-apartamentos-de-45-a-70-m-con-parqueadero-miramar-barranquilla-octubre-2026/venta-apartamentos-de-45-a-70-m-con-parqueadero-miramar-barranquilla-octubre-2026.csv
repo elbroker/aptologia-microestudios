@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,102
+filtro,area2,"de 45 a 70 m²",,102
+filtro,parq1,"con parqueadero",,102
+precio,p25,270000000.0,COP,102
+precio,mediana,300000000.0,COP,102
+precio,p75,333750000.0,COP,102
+precio,minimo,209000000.0,COP,102
+precio,maximo,450000000.0,COP,102
+m2,mediana_precio_m2,4953914.64,COP,102
+m2,area_mediana_m2,62.0,m2,102
+admin,mediana_admin_mes,256000.0,COP,83
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,102
+estrato,estrato_mas_frecuente,4,,101
+habitaciones,2,292500000.0,COP,34
+habitaciones,3+,315000000.0,COP,68
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,4531706.87,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/barranquilla/miramar,,
+fuente,licencia,CC BY 4.0,,

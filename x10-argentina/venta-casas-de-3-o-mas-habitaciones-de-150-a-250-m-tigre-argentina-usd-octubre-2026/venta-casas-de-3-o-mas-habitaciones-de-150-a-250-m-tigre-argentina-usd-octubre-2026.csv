@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,38
+filtro,habitaciones,3+,,38
+filtro,area5,"de 150 a 250 m²",,38
+precio,p25,340000.0,USD,38
+precio,mediana,489000.0,USD,38
+precio,p75,540000.0,USD,38
+precio,minimo,145000.0,USD,38
+precio,maximo,650000.0,USD,38
+m2,mediana_precio_m2,2278.35,USD,38
+m2,area_mediana_m2,209.0,m2,38
+banos,mediana_banos,3.0,,
+habitaciones,3+,489000.0,USD,38
+ciudad,mediana_ciudad_referencia,310000.0,USD,
+ciudad,mediana_m2_ciudad,2083.33,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar/venta/tigre,,
+fuente,licencia,CC BY 4.0,,

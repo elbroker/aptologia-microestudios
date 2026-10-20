@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,74
+filtro,habitaciones,3+,,74
+filtro,ban3,"con 3 o más baños",,74
+precio,p25,252500.0,USD,74
+precio,mediana,395000.0,USD,74
+precio,p75,740000.0,USD,74
+precio,minimo,115000.0,USD,74
+precio,maximo,4950000.0,USD,74
+m2,mediana_precio_m2,2107.34,USD,64
+m2,area_mediana_m2,259.5,m2,64
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,30
+habitaciones,3+,395000.0,USD,74
+ciudad,mediana_ciudad_referencia,200000.0,USD,
+ciudad,mediana_m2_ciudad,1864.75,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/maldonado,,
+fuente,licencia,CC BY 4.0,,

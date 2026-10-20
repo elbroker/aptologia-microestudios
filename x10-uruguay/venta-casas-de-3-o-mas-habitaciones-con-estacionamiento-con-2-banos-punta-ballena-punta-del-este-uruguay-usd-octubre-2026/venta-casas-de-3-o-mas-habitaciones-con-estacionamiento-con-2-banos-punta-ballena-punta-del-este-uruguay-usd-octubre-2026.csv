@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,43
+filtro,habitaciones,3+,,43
+filtro,parq1,"con estacionamiento",,43
+filtro,ban2,"con 2 baños",,43
+precio,p25,320000.0,USD,43
+precio,mediana,398000.0,USD,43
+precio,p75,597500.0,USD,43
+precio,minimo,170000.0,USD,43
+precio,maximo,1000000.0,USD,43
+m2,mediana_precio_m2,2182.19,USD,40
+m2,area_mediana_m2,185.0,m2,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,43
+habitaciones,3+,398000.0,USD,43
+ciudad,mediana_ciudad_referencia,700000.0,USD,
+ciudad,mediana_m2_ciudad,2734.16,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/punta-ballena,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,34
+filtro,estrato,3,,34
+filtro,conj,"en conjunto cerrado",,34
+precio,p25,1200000.0,COP,34
+precio,mediana,1275000.0,COP,34
+precio,p75,1475000.0,COP,34
+precio,minimo,850000.0,COP,34
+precio,maximo,1950000.0,COP,34
+m2,mediana_precio_m2,25111.11,COP,34
+m2,area_mediana_m2,50.0,m2,34
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,34
+habitaciones,2,1200000.0,COP,7
+habitaciones,3+,1300000.0,COP,26
+ciudad,mediana_ciudad_referencia,1500000.0,COP,
+ciudad,mediana_m2_ciudad,28571.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/mosquera,,
+fuente,licencia,CC BY 4.0,,

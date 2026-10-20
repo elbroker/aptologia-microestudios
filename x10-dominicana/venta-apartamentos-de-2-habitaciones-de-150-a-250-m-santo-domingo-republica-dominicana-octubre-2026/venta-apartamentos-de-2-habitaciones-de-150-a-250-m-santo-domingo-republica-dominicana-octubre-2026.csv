@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,243
+filtro,habitaciones,2,,243
+filtro,area5,"de 150 a 250 m²",,243
+precio,p25,240500.0,USD,243
+precio,mediana,275000.0,USD,243
+precio,p75,350000.0,USD,243
+precio,minimo,105000.0,USD,243
+precio,maximo,1100000.0,USD,243
+m2,mediana_precio_m2,1666.67,USD,236
+m2,area_mediana_m2,165.0,m2,236
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,65
+habitaciones,2,275000.0,USD,243
+ciudad,mediana_ciudad_referencia,240000.0,USD,
+ciudad,mediana_m2_ciudad,1975.41,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/do/venta/santo-domingo,,
+fuente,licencia,CC BY 4.0,,

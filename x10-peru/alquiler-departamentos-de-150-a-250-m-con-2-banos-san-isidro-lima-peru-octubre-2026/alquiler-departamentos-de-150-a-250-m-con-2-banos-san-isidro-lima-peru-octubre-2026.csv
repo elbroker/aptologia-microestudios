@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,83
+filtro,area5,"de 150 a 250 m²",,83
+filtro,ban2,"con 2 baños",,83
+precio,p25,5157.0,PEN,83
+precio,mediana,6000.0,PEN,83
+precio,p75,7072.5,PEN,83
+precio,minimo,1200.0,PEN,83
+precio,maximo,13895.0,PEN,83
+m2,mediana_precio_m2,34.47,PEN,82
+m2,area_mediana_m2,179.0,m2,82
+admin,mediana_admin_mes,636.0,PEN,16
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,80
+habitaciones,2,5300.0,PEN,21
+habitaciones,3+,6150.0,PEN,62
+ciudad,mediana_ciudad_referencia,3050.0,PEN,
+ciudad,mediana_m2_ciudad,32.91,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/alquiler/lima/san-isidro,,
+fuente,licencia,CC BY 4.0,,

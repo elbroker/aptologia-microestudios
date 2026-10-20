@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×habitaciones",,56
+filtro,habitaciones,2,,56
+filtro,estrato,4,,56
+precio,p25,2400000.0,COP,56
+precio,mediana,2565000.0,COP,56
+precio,p75,2725000.0,COP,56
+precio,minimo,1800000.0,COP,56
+precio,maximo,4600000.0,COP,56
+m2,mediana_precio_m2,41324.58,COP,56
+m2,area_mediana_m2,61.0,m2,56
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,50
+estrato,estrato_mas_frecuente,4,,56
+habitaciones,2,2565000.0,COP,56
+ciudad,mediana_ciudad_referencia,2600000.0,COP,
+ciudad,mediana_m2_ciudad,38333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/la-estrella,,
+fuente,licencia,CC BY 4.0,,

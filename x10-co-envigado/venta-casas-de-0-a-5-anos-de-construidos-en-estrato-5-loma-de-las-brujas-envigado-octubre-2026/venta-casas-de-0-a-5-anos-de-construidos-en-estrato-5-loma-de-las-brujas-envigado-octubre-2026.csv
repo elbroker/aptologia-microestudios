@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,5,,55
+filtro,edad1,"de 0 a 5 años de construidos",,55
+precio,p25,1450000000.0,COP,55
+precio,mediana,2200000000.0,COP,55
+precio,p75,2525000000.0,COP,55
+precio,minimo,650000000.0,COP,55
+precio,maximo,4550000000.0,COP,55
+m2,mediana_precio_m2,7509894.46,COP,52
+m2,area_mediana_m2,233.0,m2,52
+admin,mediana_admin_mes,780000.0,COP,22
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,94.2,%,52
+estrato,estrato_mas_frecuente,5,,55
+habitaciones,3+,2100000000.0,COP,52
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/loma-de-las-brujas,,
+fuente,licencia,CC BY 4.0,,

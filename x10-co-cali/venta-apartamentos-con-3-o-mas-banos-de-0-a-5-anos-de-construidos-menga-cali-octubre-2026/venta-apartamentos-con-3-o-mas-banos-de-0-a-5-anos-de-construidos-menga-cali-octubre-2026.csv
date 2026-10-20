@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,41
+filtro,ban3,"con 3 o más baños",,41
+filtro,edad1,"de 0 a 5 años de construidos",,41
+precio,p25,880000000.0,COP,41
+precio,mediana,980000000.0,COP,41
+precio,p75,1200000000.0,COP,41
+precio,minimo,504270000.0,COP,41
+precio,maximo,3900000000.0,COP,41
+m2,mediana_precio_m2,6347826.09,COP,41
+m2,area_mediana_m2,158.0,m2,41
+admin,mediana_admin_mes,1105000.0,COP,35
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,41
+estrato,estrato_mas_frecuente,6,,41
+habitaciones,3+,990000000.0,COP,37
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/menga,,
+fuente,licencia,CC BY 4.0,,

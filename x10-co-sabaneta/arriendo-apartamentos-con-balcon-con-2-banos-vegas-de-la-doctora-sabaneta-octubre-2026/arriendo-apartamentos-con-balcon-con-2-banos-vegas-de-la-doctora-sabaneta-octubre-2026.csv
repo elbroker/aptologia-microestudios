@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,62
+filtro,balc,"con balcón",,62
+filtro,ban2,"con 2 baños",,62
+precio,p25,2925000.0,COP,62
+precio,mediana,3425000.0,COP,62
+precio,p75,3837500.0,COP,62
+precio,minimo,1950000.0,COP,62
+precio,maximo,6200000.0,COP,62
+m2,mediana_precio_m2,39524.56,COP,62
+m2,area_mediana_m2,80.0,m2,62
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,62
+estrato,estrato_mas_frecuente,4,,61
+habitaciones,2,3350000.0,COP,17
+habitaciones,3+,3500000.0,COP,41
+ciudad,mediana_ciudad_referencia,3100000.0,COP,
+ciudad,mediana_m2_ciudad,41025.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/sabaneta,,
+fuente,licencia,CC BY 4.0,,

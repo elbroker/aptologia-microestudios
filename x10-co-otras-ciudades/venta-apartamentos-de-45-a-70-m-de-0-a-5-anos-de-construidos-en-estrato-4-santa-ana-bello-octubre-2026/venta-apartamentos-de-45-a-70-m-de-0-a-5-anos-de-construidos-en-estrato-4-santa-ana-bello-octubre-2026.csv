@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×2 filtros",,66
+filtro,estrato,4,,66
+filtro,area2,"de 45 a 70 m²",,66
+filtro,edad1,"de 0 a 5 años de construidos",,66
+precio,p25,360000000.0,COP,66
+precio,mediana,399500000.0,COP,66
+precio,p75,430000000.0,COP,66
+precio,minimo,280000000.0,COP,66
+precio,maximo,580000000.0,COP,66
+m2,mediana_precio_m2,6711850.65,COP,66
+m2,area_mediana_m2,57.0,m2,66
+admin,mediana_admin_mes,261000.0,COP,48
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,95.2,%,63
+estrato,estrato_mas_frecuente,4,,66
+habitaciones,2,400000000.0,COP,34
+habitaciones,3+,395000000.0,COP,30
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/santa-ana,,
+fuente,licencia,CC BY 4.0,,

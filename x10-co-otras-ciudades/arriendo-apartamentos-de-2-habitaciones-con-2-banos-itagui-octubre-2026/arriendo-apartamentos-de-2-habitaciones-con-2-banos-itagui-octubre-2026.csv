@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,217
+filtro,habitaciones,2,,217
+filtro,ban2,"con 2 baños",,217
+precio,p25,2400000.0,COP,217
+precio,mediana,2700000.0,COP,217
+precio,p75,3200000.0,COP,217
+precio,minimo,1500000.0,COP,217
+precio,maximo,6000000.0,COP,217
+m2,mediana_precio_m2,41379.31,COP,217
+m2,area_mediana_m2,65.0,m2,217
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,86.0,%,186
+estrato,estrato_mas_frecuente,4,,214
+habitaciones,2,2700000.0,COP,217
+ciudad,mediana_ciudad_referencia,2725000.0,COP,
+ciudad,mediana_m2_ciudad,40000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/itagui,,
+fuente,licencia,CC BY 4.0,,

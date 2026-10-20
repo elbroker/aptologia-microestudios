@@ -1,0 +1,23 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,136
+filtro,parq1,"con parqueadero",,136
+filtro,edad2,"de 6 a 20 años de construidos",,136
+precio,p25,827500000.0,COP,136
+precio,mediana,1157500000.0,COP,136
+precio,p75,1560000000.0,COP,136
+precio,minimo,340000000.0,COP,136
+precio,maximo,3600000000.0,COP,136
+m2,mediana_precio_m2,8979591.84,COP,135
+m2,area_mediana_m2,134.5,m2,135
+admin,mediana_admin_mes,1200000.0,COP,131
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,136
+estrato,estrato_mas_frecuente,6,,136
+habitaciones,1,525000000.0,COP,14
+habitaciones,2,850000000.0,COP,35
+habitaciones,3+,1350000000.0,COP,87
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/santa-paula,,
+fuente,licencia,CC BY 4.0,,

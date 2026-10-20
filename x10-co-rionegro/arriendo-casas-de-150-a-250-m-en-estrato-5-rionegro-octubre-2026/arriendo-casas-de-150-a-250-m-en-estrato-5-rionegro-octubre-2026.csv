@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,190
+filtro,estrato,5,,190
+filtro,area5,"de 150 a 250 m²",,190
+precio,p25,6000000.0,COP,190
+precio,mediana,6800000.0,COP,190
+precio,p75,8000000.0,COP,190
+precio,minimo,3800000.0,COP,190
+precio,maximo,20000000.0,COP,190
+m2,mediana_precio_m2,38233.77,COP,188
+m2,area_mediana_m2,180.0,m2,188
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.5,%,188
+estrato,estrato_mas_frecuente,5,,190
+habitaciones,2,8750000.0,COP,8
+habitaciones,3+,6800000.0,COP,182
+ciudad,mediana_ciudad_referencia,10500000.0,COP,
+ciudad,mediana_m2_ciudad,36784.18,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

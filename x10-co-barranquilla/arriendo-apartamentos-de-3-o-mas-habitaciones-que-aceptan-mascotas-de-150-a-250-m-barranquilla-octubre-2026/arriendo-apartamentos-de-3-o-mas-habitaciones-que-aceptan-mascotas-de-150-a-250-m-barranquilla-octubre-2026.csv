@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,30
+filtro,habitaciones,3+,,30
+filtro,masc,"que aceptan mascotas",,30
+filtro,area5,"de 150 a 250 m²",,30
+precio,p25,6791060.0,COP,30
+precio,mediana,8048500.0,COP,30
+precio,p75,11022546.0,COP,30
+precio,minimo,4000000.0,COP,30
+precio,maximo,18000000.0,COP,30
+m2,mediana_precio_m2,47240.89,COP,30
+m2,area_mediana_m2,181.5,m2,30
+admin,mediana_admin_mes,1142880.0,COP,20
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,6,,30
+habitaciones,3+,8048500.0,COP,30
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33653.85,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/barranquilla,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,58
+filtro,estrato,6,,58
+filtro,area6,"de 250 m² o más",,58
+precio,p25,12500000.0,COP,58
+precio,mediana,15450000.0,COP,58
+precio,p75,20000000.0,COP,58
+precio,minimo,4000000.0,COP,58
+precio,maximo,29000000.0,COP,58
+m2,mediana_precio_m2,39767.44,COP,58
+m2,area_mediana_m2,425.0,m2,58
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,96.6,%,58
+estrato,estrato_mas_frecuente,6,,58
+habitaciones,3+,15400000.0,COP,57
+ciudad,mediana_ciudad_referencia,8500000.0,COP,
+ciudad,mediana_m2_ciudad,33613.45,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/medellin/poblado,,
+fuente,licencia,CC BY 4.0,,

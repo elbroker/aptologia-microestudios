@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,76
+filtro,habitaciones,2,,76
+filtro,balc,"con balcón",,76
+filtro,parq1,"con parqueadero",,76
+precio,p25,2898750.0,COP,76
+precio,mediana,3450000.0,COP,76
+precio,p75,4100000.0,COP,76
+precio,minimo,2200000.0,COP,76
+precio,maximo,9800000.0,COP,76
+m2,mediana_precio_m2,45080.65,COP,76
+m2,area_mediana_m2,75.0,m2,76
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,76
+estrato,estrato_mas_frecuente,5,,76
+habitaciones,2,3450000.0,COP,76
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/belen,,
+fuente,licencia,CC BY 4.0,,

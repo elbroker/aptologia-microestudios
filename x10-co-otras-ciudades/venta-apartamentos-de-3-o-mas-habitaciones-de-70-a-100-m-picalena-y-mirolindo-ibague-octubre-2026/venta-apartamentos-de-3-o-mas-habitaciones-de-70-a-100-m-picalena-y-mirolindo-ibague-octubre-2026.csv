@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,50
+filtro,habitaciones,3+,,50
+filtro,area3,"de 70 a 100 m²",,50
+precio,p25,282500000.0,COP,50
+precio,mediana,360000000.0,COP,50
+precio,p75,407500000.0,COP,50
+precio,minimo,200000000.0,COP,50
+precio,maximo,570000000.0,COP,50
+m2,mediana_precio_m2,4040915.92,COP,50
+m2,area_mediana_m2,82.1,m2,50
+admin,mediana_admin_mes,350000.0,COP,42
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,46
+estrato,estrato_mas_frecuente,4,,49
+habitaciones,3+,360000000.0,COP,50
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,4239130.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/ibague/picalena-y-mirolindo,,
+fuente,licencia,CC BY 4.0,,

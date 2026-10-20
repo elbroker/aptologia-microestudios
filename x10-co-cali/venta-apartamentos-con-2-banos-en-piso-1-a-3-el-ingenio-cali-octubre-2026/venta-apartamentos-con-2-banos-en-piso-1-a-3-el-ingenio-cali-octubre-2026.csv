@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,ban2,"con 2 baños",,48
+filtro,piso1,"en piso 1 a 3",,48
+precio,p25,333750000.0,COP,48
+precio,mediana,412500000.0,COP,48
+precio,p75,502500000.0,COP,48
+precio,minimo,256000000.0,COP,48
+precio,maximo,700000000.0,COP,48
+m2,mediana_precio_m2,4413492.06,COP,48
+m2,area_mediana_m2,88.0,m2,48
+admin,mediana_admin_mes,520000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,97.9,%,48
+estrato,estrato_mas_frecuente,5,,48
+habitaciones,2,392500000.0,COP,6
+habitaciones,3+,432500000.0,COP,38
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/el-ingenio,,
+fuente,licencia,CC BY 4.0,,

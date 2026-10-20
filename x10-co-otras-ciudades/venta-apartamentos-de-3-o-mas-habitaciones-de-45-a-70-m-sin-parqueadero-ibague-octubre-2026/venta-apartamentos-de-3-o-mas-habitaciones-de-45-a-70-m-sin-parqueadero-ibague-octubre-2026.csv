@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,43
+filtro,habitaciones,3+,,43
+filtro,area2,"de 45 a 70 m²",,43
+filtro,parq0,"sin parqueadero",,43
+precio,p25,160000000.0,COP,43
+precio,mediana,170000000.0,COP,43
+precio,p75,231500000.0,COP,43
+precio,minimo,150000000.0,COP,43
+precio,maximo,290000000.0,COP,43
+m2,mediana_precio_m2,3448275.86,COP,41
+m2,area_mediana_m2,56.0,m2,41
+admin,mediana_admin_mes,172000.0,COP,35
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,0.0,%,43
+estrato,estrato_mas_frecuente,3,,43
+habitaciones,3+,170000000.0,COP,43
+ciudad,mediana_ciudad_referencia,330000000.0,COP,
+ciudad,mediana_m2_ciudad,4239130.43,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/ibague,,
+fuente,licencia,CC BY 4.0,,

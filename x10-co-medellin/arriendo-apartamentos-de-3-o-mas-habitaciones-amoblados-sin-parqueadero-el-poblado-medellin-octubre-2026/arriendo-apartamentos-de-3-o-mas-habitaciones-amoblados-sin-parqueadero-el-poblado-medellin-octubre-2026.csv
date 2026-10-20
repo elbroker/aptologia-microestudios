@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,69
+filtro,habitaciones,3+,,69
+filtro,amob,"amoblados",,69
+filtro,parq0,"sin parqueadero",,69
+precio,p25,5500000.0,COP,69
+precio,mediana,7500000.0,COP,69
+precio,p75,11111111.0,COP,69
+precio,minimo,1111111.0,COP,69
+precio,maximo,20000000.0,COP,69
+m2,mediana_precio_m2,67340.07,COP,55
+m2,area_mediana_m2,90.0,m2,55
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,0.0,%,69
+estrato,estrato_mas_frecuente,6,,69
+habitaciones,3+,7500000.0,COP,69
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/el-poblado,,
+fuente,licencia,CC BY 4.0,,

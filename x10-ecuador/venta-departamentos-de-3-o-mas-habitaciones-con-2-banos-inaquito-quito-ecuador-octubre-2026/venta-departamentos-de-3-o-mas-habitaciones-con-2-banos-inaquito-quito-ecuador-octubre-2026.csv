@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,ban2,"con 2 baños",,36
+precio,p25,128749.25,USD,36
+precio,mediana,156500.0,USD,36
+precio,p75,189250.0,USD,36
+precio,minimo,64990.0,USD,36
+precio,maximo,350000.0,USD,36
+m2,mediana_precio_m2,984.23,USD,34
+m2,area_mediana_m2,147.5,m2,34
+banos,mediana_banos,2.0,,
+habitaciones,3+,156500.0,USD,36
+ciudad,mediana_ciudad_referencia,145000.0,USD,
+ciudad,mediana_m2_ciudad,1000.0,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito/inaquito,,
+fuente,licencia,CC BY 4.0,,

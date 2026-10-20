@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,194
+filtro,habitaciones,3+,,194
+filtro,parq1,"con parqueadero",,194
+filtro,ban3,"con 3 o más baños",,194
+precio,p25,3300000.0,COP,194
+precio,mediana,3800000.0,COP,194
+precio,p75,8400000.0,COP,194
+precio,minimo,1600000.0,COP,194
+precio,maximo,20500000.0,COP,194
+m2,mediana_precio_m2,40000.0,COP,192
+m2,area_mediana_m2,96.0,m2,192
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,194
+estrato,estrato_mas_frecuente,5,,193
+habitaciones,3+,3800000.0,COP,194
+ciudad,mediana_ciudad_referencia,2650000.0,COP,
+ciudad,mediana_m2_ciudad,37500.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/rionegro,,
+fuente,licencia,CC BY 4.0,,

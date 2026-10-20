@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×2 filtros",,219
+filtro,habitaciones,3+,,219
+filtro,area4,"de 100 a 150 m²",,219
+filtro,ban3,"con 3 o más baños",,219
+precio,p25,530000000.0,COP,219
+precio,mediana,650000000.0,COP,219
+precio,p75,755000000.0,COP,219
+precio,minimo,300000000.0,COP,219
+precio,maximo,1250000000.0,COP,219
+m2,mediana_precio_m2,5263157.89,COP,217
+m2,area_mediana_m2,120.0,m2,217
+admin,mediana_admin_mes,400000.0,COP,158
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,93.9,%,213
+estrato,estrato_mas_frecuente,6,,217
+habitaciones,3+,650000000.0,COP,219
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,5653955.81,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/manizales,,
+fuente,licencia,CC BY 4.0,,

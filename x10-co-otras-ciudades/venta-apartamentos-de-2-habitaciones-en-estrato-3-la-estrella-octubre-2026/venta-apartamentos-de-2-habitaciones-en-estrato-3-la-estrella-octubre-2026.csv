@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,94
+filtro,habitaciones,2,,94
+filtro,estrato,3,,94
+precio,p25,256250000.0,COP,94
+precio,mediana,280000000.0,COP,94
+precio,p75,310000000.0,COP,94
+precio,minimo,200000000.0,COP,94
+precio,maximo,550000000.0,COP,94
+m2,mediana_precio_m2,5545219.64,COP,94
+m2,area_mediana_m2,52.0,m2,94
+admin,mediana_admin_mes,200000.0,COP,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,40
+estrato,estrato_mas_frecuente,3,,94
+habitaciones,2,280000000.0,COP,94
+ciudad,mediana_ciudad_referencia,450000000.0,COP,
+ciudad,mediana_m2_ciudad,6438356.16,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/la-estrella,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,87
+filtro,estrato,5,,87
+filtro,area4,"de 100 a 150 m²",,87
+precio,p25,4600000.0,COP,87
+precio,mediana,5000000.0,COP,87
+precio,p75,5600000.0,COP,87
+precio,minimo,2400000.0,COP,87
+precio,maximo,8500000.0,COP,87
+m2,mediana_precio_m2,43333.33,COP,87
+m2,area_mediana_m2,120.0,m2,87
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,95.3,%,86
+estrato,estrato_mas_frecuente,5,,87
+habitaciones,2,4900000.0,COP,21
+habitaciones,3+,5050000.0,COP,66
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/zuniga,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,56
+filtro,habitaciones,3+,,56
+filtro,ban3,"con 3 o más baños",,56
+precio,p25,6000000.0,COP,56
+precio,mediana,7150000.0,COP,56
+precio,p75,9350000.0,COP,56
+precio,minimo,4500000.0,COP,56
+precio,maximo,11500000.0,COP,56
+m2,mediana_precio_m2,49786.32,COP,56
+m2,area_mediana_m2,145.0,m2,56
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,56
+estrato,estrato_mas_frecuente,5,,56
+habitaciones,3+,7150000.0,COP,56
+ciudad,mediana_ciudad_referencia,4400000.0,COP,
+ciudad,mediana_m2_ciudad,48863.64,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/envigado/las-brujas,,
+fuente,licencia,CC BY 4.0,,

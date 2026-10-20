@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,38
+filtro,estrato,4,,38
+filtro,edad1,"de 0 a 5 años de construidos",,38
+precio,p25,480750000.0,COP,38
+precio,mediana,539950000.0,COP,38
+precio,p75,606000000.0,COP,38
+precio,minimo,390000000.0,COP,38
+precio,maximo,850000000.0,COP,38
+m2,mediana_precio_m2,7590579.71,COP,38
+m2,area_mediana_m2,71.0,m2,38
+admin,mediana_admin_mes,390000.0,COP,21
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,91.7,%,36
+estrato,estrato_mas_frecuente,4,,38
+habitaciones,2,520000000.0,COP,12
+habitaciones,3+,550000000.0,COP,25
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta/prados-de-sabaneta,,
+fuente,licencia,CC BY 4.0,,

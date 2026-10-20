@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,54
+filtro,habitaciones,3+,,54
+filtro,ban3,"con 3 o más baños",,54
+precio,p25,58.25,UF,54
+precio,mediana,80.0,UF,54
+precio,p75,93.75,UF,54
+precio,minimo,15.79,UF,54
+precio,maximo,120.0,UF,54
+m2,mediana_precio_m2,0.36,UF,38
+m2,area_mediana_m2,209.0,m2,38
+banos,mediana_banos,4.0,,
+habitaciones,3+,80.0,UF,54
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/lo-barnechea,,
+fuente,licencia,CC BY 4.0,,

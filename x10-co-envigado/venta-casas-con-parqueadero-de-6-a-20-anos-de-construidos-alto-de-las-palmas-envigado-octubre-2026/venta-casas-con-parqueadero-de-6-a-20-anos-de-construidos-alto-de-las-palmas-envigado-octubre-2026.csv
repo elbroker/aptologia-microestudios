@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,42
+filtro,parq1,"con parqueadero",,42
+filtro,edad2,"de 6 a 20 años de construidos",,42
+precio,p25,3500000000.0,COP,42
+precio,mediana,4200000000.0,COP,42
+precio,p75,4887500000.0,COP,42
+precio,minimo,2550000000.0,COP,42
+precio,maximo,7500000000.0,COP,42
+m2,area_mediana_m2,470.0,m2,29
+admin,mediana_admin_mes,1100000.0,COP,34
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,100.0,%,42
+estrato,estrato_mas_frecuente,5,,42
+habitaciones,3+,4200000000.0,COP,42
+ciudad,mediana_ciudad_referencia,2300000000.0,COP,
+ciudad,mediana_m2_ciudad,7022394.04,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-venta/envigado/alto-de-las-palmas,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,59
+filtro,area2,"de 45 a 70 m²",,59
+filtro,parq1,"con estacionamiento",,59
+precio,p25,101641.5,USD,59
+precio,mediana,122000.0,USD,59
+precio,p75,131653.0,USD,59
+precio,minimo,65524.0,USD,59
+precio,maximo,172000.0,USD,59
+m2,mediana_precio_m2,2222.22,USD,59
+m2,area_mediana_m2,53.0,m2,59
+banos,mediana_banos,1.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+habitaciones,1,118000.0,USD,45
+habitaciones,2,140933.5,USD,12
+ciudad,mediana_ciudad_referencia,140000.0,USD,
+ciudad,mediana_m2_ciudad,1868.57,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/py/venta/asuncion/las-lomas,,
+fuente,licencia,CC BY 4.0,,

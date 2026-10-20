@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,123
+filtro,area2,"de 45 a 70 m²",,123
+filtro,ban1,"con 1 baño",,123
+precio,p25,9.23,UF,123
+precio,mediana,10.93,UF,123
+precio,p75,14.78,UF,123
+precio,minimo,5.27,UF,123
+precio,maximo,41.29,UF,123
+m2,mediana_precio_m2,0.22,UF,122
+m2,area_mediana_m2,50.0,m2,122
+banos,mediana_banos,1.0,,
+habitaciones,1,17.5,UF,37
+habitaciones,2,10.2,UF,70
+habitaciones,3+,10.96,UF,16
+ciudad,mediana_ciudad_referencia,13.85,UF,
+ciudad,mediana_m2_ciudad,0.28,UF,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/cl/arriendo/santiago/santiago-centro,,
+fuente,licencia,CC BY 4.0,,

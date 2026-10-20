@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,35
+filtro,habitaciones,3+,,35
+filtro,ban3,"con 3 o más baños",,35
+precio,p25,8500000.0,COP,35
+precio,mediana,12000000.0,COP,35
+precio,p75,13500000.0,COP,35
+precio,minimo,4500000.0,COP,35
+precio,maximo,25000000.0,COP,35
+m2,mediana_precio_m2,33557.05,COP,35
+m2,area_mediana_m2,372.0,m2,35
+banos,mediana_banos,4.0,,
+estrato,estrato_mas_frecuente,4,,35
+habitaciones,3+,12000000.0,COP,35
+ciudad,mediana_ciudad_referencia,8200000.0,COP,
+ciudad,mediana_m2_ciudad,25000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/casas-en-arriendo/barranquilla/el-porvenir,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,49
+filtro,estrato,3,,49
+filtro,piso2,"en piso 4 a 8",,49
+precio,p25,280000000.0,COP,49
+precio,mediana,310000000.0,COP,49
+precio,p75,380000000.0,COP,49
+precio,minimo,160000000.0,COP,49
+precio,maximo,680000000.0,COP,49
+m2,mediana_precio_m2,5333333.33,COP,49
+m2,area_mediana_m2,63.0,m2,49
+admin,mediana_admin_mes,250000.0,COP,41
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,3,,49
+habitaciones,2,301500000.0,COP,8
+habitaciones,3+,320000000.0,COP,37
+ciudad,mediana_ciudad_referencia,750000000.0,COP,
+ciudad,mediana_m2_ciudad,7261904.76,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bogota/engativa,,
+fuente,licencia,CC BY 4.0,,

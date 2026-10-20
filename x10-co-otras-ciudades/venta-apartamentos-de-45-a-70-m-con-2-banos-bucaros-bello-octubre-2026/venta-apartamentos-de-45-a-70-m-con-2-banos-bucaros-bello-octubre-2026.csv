@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,48
+filtro,area2,"de 45 a 70 m²",,48
+filtro,ban2,"con 2 baños",,48
+precio,p25,303750000.0,COP,48
+precio,mediana,339400000.0,COP,48
+precio,p75,369450000.0,COP,48
+precio,minimo,225000000.0,COP,48
+precio,maximo,440000000.0,COP,48
+m2,mediana_precio_m2,6035575.05,COP,48
+m2,area_mediana_m2,54.5,m2,48
+admin,mediana_admin_mes,224570.0,COP,26
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,80.0,%,35
+estrato,estrato_mas_frecuente,3,,40
+habitaciones,2,327500000.0,COP,22
+habitaciones,3+,350000000.0,COP,25
+ciudad,mediana_ciudad_referencia,340000000.0,COP,
+ciudad,mediana_m2_ciudad,5461538.46,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/bello/bucaros,,
+fuente,licencia,CC BY 4.0,,

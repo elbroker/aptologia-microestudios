@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,48
+filtro,habitaciones,3+,,48
+filtro,balc,"con balcón",,48
+filtro,area4,"de 100 a 150 m²",,48
+precio,p25,2987500.0,COP,48
+precio,mediana,3625000.0,COP,48
+precio,p75,4512500.0,COP,48
+precio,minimo,2200000.0,COP,48
+precio,maximo,7000000.0,COP,48
+m2,mediana_precio_m2,29746.99,COP,48
+m2,area_mediana_m2,121.5,m2,48
+admin,mediana_admin_mes,560000.0,COP,25
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,48
+estrato,estrato_mas_frecuente,6,,47
+habitaciones,3+,3625000.0,COP,48
+ciudad,mediana_ciudad_referencia,2800000.0,COP,
+ciudad,mediana_m2_ciudad,33333.33,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/pereira/pinares,,
+fuente,licencia,CC BY 4.0,,

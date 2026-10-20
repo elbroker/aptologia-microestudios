@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,558
+filtro,habitaciones,3+,,558
+filtro,ban3,"con 3 o más baños",,558
+precio,p25,620000000.0,COP,558
+precio,mediana,750000000.0,COP,558
+precio,p75,950000000.0,COP,558
+precio,minimo,230000000.0,COP,558
+precio,maximo,3500000000.0,COP,558
+m2,mediana_precio_m2,6297327.92,COP,552
+m2,area_mediana_m2,119.0,m2,552
+admin,mediana_admin_mes,480000.0,COP,374
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,79.9,%,548
+estrato,estrato_mas_frecuente,4,,530
+habitaciones,3+,750000000.0,COP,558
+ciudad,mediana_ciudad_referencia,550000000.0,COP,
+ciudad,mediana_m2_ciudad,7121212.12,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/sabaneta,,
+fuente,licencia,CC BY 4.0,,

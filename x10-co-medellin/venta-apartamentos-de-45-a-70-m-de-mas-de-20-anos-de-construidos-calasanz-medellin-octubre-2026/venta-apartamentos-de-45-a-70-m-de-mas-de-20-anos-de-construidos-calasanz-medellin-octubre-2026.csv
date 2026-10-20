@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,30
+filtro,area2,"de 45 a 70 m²",,30
+filtro,edad3,"de más de 20 años de construidos",,30
+precio,p25,290000000.0,COP,30
+precio,mediana,327500000.0,COP,30
+precio,p75,350000000.0,COP,30
+precio,minimo,270000000.0,COP,30
+precio,maximo,440000000.0,COP,30
+m2,mediana_precio_m2,5717433.3,COP,30
+m2,area_mediana_m2,55.5,m2,30
+admin,mediana_admin_mes,200000.0,COP,27
+banos,mediana_banos,5.0,,
+parqueadero,pct_con_parqueadero,3.3,%,30
+estrato,estrato_mas_frecuente,4,,30
+habitaciones,2,307000000.0,COP,12
+habitaciones,3+,330000000.0,COP,17
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/calasanz,,
+fuente,licencia,CC BY 4.0,,

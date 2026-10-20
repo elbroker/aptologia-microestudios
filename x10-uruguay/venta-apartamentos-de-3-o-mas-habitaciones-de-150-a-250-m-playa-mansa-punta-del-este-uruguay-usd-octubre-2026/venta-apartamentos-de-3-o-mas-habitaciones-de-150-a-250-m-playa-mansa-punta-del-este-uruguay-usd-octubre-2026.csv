@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,256
+filtro,habitaciones,3+,,256
+filtro,area5,"de 150 a 250 m²",,256
+precio,p25,640000.0,USD,256
+precio,mediana,850000.0,USD,256
+precio,p75,1150000.0,USD,256
+precio,minimo,281000.0,USD,256
+precio,maximo,2600000.0,USD,256
+m2,mediana_precio_m2,4411.76,USD,248
+m2,area_mediana_m2,180.0,m2,248
+admin,mediana_admin_mes,1500.0,USD,41
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,229
+habitaciones,3+,850000.0,USD,256
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/playa-mansa,,
+fuente,licencia,CC BY 4.0,,

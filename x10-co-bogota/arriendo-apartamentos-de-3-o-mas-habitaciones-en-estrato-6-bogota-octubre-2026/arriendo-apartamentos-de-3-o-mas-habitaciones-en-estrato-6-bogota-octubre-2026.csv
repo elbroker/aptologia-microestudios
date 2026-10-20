@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×habitaciones",,2491
+filtro,habitaciones,3+,,2491
+filtro,estrato,6,,2491
+precio,p25,8456000.0,COP,2491
+precio,mediana,11500000.0,COP,2491
+precio,p75,15000000.0,COP,2491
+precio,minimo,1800000.0,COP,2491
+precio,maximo,20500000.0,COP,2491
+m2,mediana_precio_m2,53050.4,COP,2473
+m2,area_mediana_m2,204.0,m2,2473
+admin,mediana_admin_mes,1856000.0,COP,1781
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,99.5,%,2484
+estrato,estrato_mas_frecuente,6,,2491
+habitaciones,3+,11500000.0,COP,2491
+ciudad,mediana_ciudad_referencia,3300000.0,COP,
+ciudad,mediana_m2_ciudad,48245.61,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/bogota,,
+fuente,licencia,CC BY 4.0,,

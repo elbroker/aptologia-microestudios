@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,190
+filtro,parq1,"con estacionamiento",,190
+filtro,ban2,"con 2 baños",,190
+precio,p25,2800.0,USD,190
+precio,mediana,4050.0,USD,190
+precio,p75,7700.0,USD,190
+precio,minimo,800.0,USD,190
+precio,maximo,26000.0,USD,190
+m2,mediana_precio_m2,42.53,USD,163
+m2,area_mediana_m2,99.0,m2,163
+admin,mediana_admin_mes,725.0,USD,19
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,190
+habitaciones,1,1300.0,USD,5
+habitaciones,2,4000.0,USD,137
+habitaciones,3+,5850.0,USD,48
+ciudad,mediana_ciudad_referencia,4800.0,USD,
+ciudad,mediana_m2_ciudad,41.27,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/alquiler/punta-del-este/playa-mansa,,
+fuente,licencia,CC BY 4.0,,

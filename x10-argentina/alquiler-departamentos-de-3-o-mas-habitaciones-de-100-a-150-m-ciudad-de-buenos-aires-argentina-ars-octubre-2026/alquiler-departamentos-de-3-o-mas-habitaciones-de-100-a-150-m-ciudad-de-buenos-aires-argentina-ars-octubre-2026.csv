@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×tipo×habitaciones×filtro",,86
+filtro,habitaciones,3+,,86
+filtro,area4,"de 100 a 150 m²",,86
+precio,p25,1500000.0,ARS,86
+precio,mediana,1800000.0,ARS,86
+precio,p75,2200000.0,ARS,86
+precio,minimo,750000.0,ARS,86
+precio,maximo,2700000.0,ARS,86
+m2,mediana_precio_m2,15126.05,ARS,83
+m2,area_mediana_m2,115.5,m2,83
+banos,mediana_banos,2.0,,
+habitaciones,3+,1800000.0,ARS,86
+ciudad,mediana_ciudad_referencia,850000.0,ARS,
+ciudad,mediana_m2_ciudad,18888.89,ARS,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ar,,
+fuente,licencia,CC BY 4.0,,

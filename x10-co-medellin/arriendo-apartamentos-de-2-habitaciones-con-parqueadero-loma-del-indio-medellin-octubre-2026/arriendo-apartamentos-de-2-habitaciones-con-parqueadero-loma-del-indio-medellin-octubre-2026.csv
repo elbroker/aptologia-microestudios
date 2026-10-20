@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,71
+filtro,habitaciones,2,,71
+filtro,parq1,"con parqueadero",,71
+precio,p25,3025000.0,COP,71
+precio,mediana,3800000.0,COP,71
+precio,p75,4325000.0,COP,71
+precio,minimo,2200000.0,COP,71
+precio,maximo,8000000.0,COP,71
+m2,mediana_precio_m2,54666.67,COP,71
+m2,area_mediana_m2,68.0,m2,71
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,71
+estrato,estrato_mas_frecuente,4,,71
+habitaciones,2,3800000.0,COP,71
+ciudad,mediana_ciudad_referencia,4800000.0,COP,
+ciudad,mediana_m2_ciudad,49206.35,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/arriendo/medellin/loma-del-indio,,
+fuente,licencia,CC BY 4.0,,

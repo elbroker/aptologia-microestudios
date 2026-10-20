@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×2 filtros",,43
+filtro,habitaciones,3+,,43
+filtro,area4,"de 100 a 150 m²",,43
+filtro,ban2,"con 2 baños",,43
+precio,p25,340000.0,USD,43
+precio,mediana,395000.0,USD,43
+precio,p75,500000.0,USD,43
+precio,minimo,270000.0,USD,43
+precio,maximo,815000.0,USD,43
+m2,mediana_precio_m2,3390.41,USD,43
+m2,area_mediana_m2,124.0,m2,43
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,36
+habitaciones,3+,395000.0,USD,43
+ciudad,mediana_ciudad_referencia,360000.0,USD,
+ciudad,mediana_m2_ciudad,3603.98,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/uy/venta/punta-del-este/playa-brava,,
+fuente,licencia,CC BY 4.0,,

@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,4,,55
+filtro,piso1,"en piso 1 a 3",,55
+precio,p25,255000000.0,COP,55
+precio,mediana,270000000.0,COP,55
+precio,p75,296000000.0,COP,55
+precio,minimo,157000000.0,COP,55
+precio,maximo,450000000.0,COP,55
+m2,mediana_precio_m2,4818121.69,COP,54
+m2,area_mediana_m2,57.0,m2,54
+admin,mediana_admin_mes,220500.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,96.3,%,54
+estrato,estrato_mas_frecuente,4,,55
+habitaciones,2,290000000.0,COP,9
+habitaciones,3+,270000000.0,COP,46
+ciudad,mediana_ciudad_referencia,435000000.0,COP,
+ciudad,mediana_m2_ciudad,5500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/pereira/condina,,
+fuente,licencia,CC BY 4.0,,

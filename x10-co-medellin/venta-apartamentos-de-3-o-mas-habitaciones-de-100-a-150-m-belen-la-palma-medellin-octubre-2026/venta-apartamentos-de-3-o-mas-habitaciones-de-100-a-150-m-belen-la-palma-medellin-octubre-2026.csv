@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,36
+filtro,habitaciones,3+,,36
+filtro,area4,"de 100 a 150 m²",,36
+precio,p25,697500000.0,COP,36
+precio,mediana,905000000.0,COP,36
+precio,p75,982500000.0,COP,36
+precio,minimo,530000000.0,COP,36
+precio,maximo,1700000000.0,COP,36
+m2,mediana_precio_m2,7947368.42,COP,36
+m2,area_mediana_m2,114.0,m2,36
+admin,mediana_admin_mes,408000.0,COP,26
+banos,mediana_banos,3.0,,
+parqueadero,pct_con_parqueadero,100.0,%,35
+estrato,estrato_mas_frecuente,5,,36
+habitaciones,3+,905000000.0,COP,36
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/belen-la-palma,,
+fuente,licencia,CC BY 4.0,,

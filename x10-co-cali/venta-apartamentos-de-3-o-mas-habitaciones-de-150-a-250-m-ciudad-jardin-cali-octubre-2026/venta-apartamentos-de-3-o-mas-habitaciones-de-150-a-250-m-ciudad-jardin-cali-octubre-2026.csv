@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,117
+filtro,habitaciones,3+,,117
+filtro,area5,"de 150 a 250 m²",,117
+precio,p25,850000000.0,COP,117
+precio,mediana,1050000000.0,COP,117
+precio,p75,1400000000.0,COP,117
+precio,minimo,400000000.0,COP,117
+precio,maximo,2437000000.0,COP,117
+m2,mediana_precio_m2,6481481.48,COP,116
+m2,area_mediana_m2,171.0,m2,116
+admin,mediana_admin_mes,1050000.0,COP,91
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,117
+estrato,estrato_mas_frecuente,6,,116
+habitaciones,3+,1050000000.0,COP,117
+ciudad,mediana_ciudad_referencia,430000000.0,COP,
+ciudad,mediana_m2_ciudad,4650000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/cali/ciudad-jardin,,
+fuente,licencia,CC BY 4.0,,

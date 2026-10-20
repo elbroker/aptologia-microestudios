@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,33
+filtro,habitaciones,3+,,33
+filtro,area5,"de 150 a 250 m²",,33
+precio,p25,120000.0,USD,33
+precio,mediana,160000.0,USD,33
+precio,p75,195000.0,USD,33
+precio,minimo,77500.0,USD,33
+precio,maximo,320000.0,USD,33
+m2,mediana_precio_m2,940.59,USD,33
+m2,area_mediana_m2,155.1,m2,33
+admin,mediana_admin_mes,53.5,USD,22
+banos,mediana_banos,3.0,,
+habitaciones,3+,160000.0,USD,33
+ciudad,mediana_ciudad_referencia,130000.0,USD,
+ciudad,mediana_m2_ciudad,1098.78,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/bo/venta/la-paz/achumani,,
+fuente,licencia,CC BY 4.0,,

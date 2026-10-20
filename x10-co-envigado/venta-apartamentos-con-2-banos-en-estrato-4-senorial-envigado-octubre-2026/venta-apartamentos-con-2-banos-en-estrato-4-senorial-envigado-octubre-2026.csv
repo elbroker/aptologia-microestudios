@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×estrato×tipo×filtro",,55
+filtro,estrato,4,,55
+filtro,ban2,"con 2 baños",,55
+precio,p25,515000000.0,COP,55
+precio,mediana,575000000.0,COP,55
+precio,p75,670000000.0,COP,55
+precio,minimo,410000000.0,COP,55
+precio,maximo,850000000.0,COP,55
+m2,mediana_precio_m2,8019150.21,COP,55
+m2,area_mediana_m2,72.6,m2,55
+admin,mediana_admin_mes,421069.0,COP,40
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,4,,55
+habitaciones,2,625000000.0,COP,16
+habitaciones,3+,572500000.0,COP,36
+ciudad,mediana_ciudad_referencia,820000000.0,COP,
+ciudad,mediana_m2_ciudad,8452380.95,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/envigado/senorial,,
+fuente,licencia,CC BY 4.0,,

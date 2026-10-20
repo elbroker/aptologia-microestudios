@@ -1,0 +1,22 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×2 filtros",,110
+filtro,ban2,"con 2 baños",,110
+filtro,edad1,"de 0 a 5 años de construidos",,110
+precio,p25,560000000.0,COP,110
+precio,mediana,705000000.0,COP,110
+precio,p75,800000000.0,COP,110
+precio,minimo,410000000.0,COP,110
+precio,maximo,1150000000.0,COP,110
+m2,mediana_precio_m2,8623385.94,COP,110
+m2,area_mediana_m2,78.0,m2,110
+admin,mediana_admin_mes,422500.0,COP,60
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,98.1,%,104
+estrato,estrato_mas_frecuente,4,,110
+habitaciones,2,690000000.0,COP,20
+habitaciones,3+,710000000.0,COP,90
+ciudad,mediana_ciudad_referencia,840000000.0,COP,
+ciudad,mediana_m2_ciudad,7500000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/medellin/los-colores,,
+fuente,licencia,CC BY 4.0,,

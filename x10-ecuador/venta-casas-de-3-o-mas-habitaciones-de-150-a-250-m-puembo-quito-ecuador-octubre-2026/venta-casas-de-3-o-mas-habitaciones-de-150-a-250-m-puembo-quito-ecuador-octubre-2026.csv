@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,34
+filtro,habitaciones,3+,,34
+filtro,area5,"de 150 a 250 m²",,34
+precio,p25,175750.0,USD,34
+precio,mediana,211863.5,USD,34
+precio,p75,247826.5,USD,34
+precio,minimo,124500.0,USD,34
+precio,maximo,380000.0,USD,34
+m2,mediana_precio_m2,1153.53,USD,34
+m2,area_mediana_m2,180.0,m2,34
+banos,mediana_banos,3.0,,
+habitaciones,3+,211863.5,USD,34
+ciudad,mediana_ciudad_referencia,185000.0,USD,
+ciudad,mediana_m2_ciudad,765.17,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/venta/quito,,
+fuente,licencia,CC BY 4.0,,

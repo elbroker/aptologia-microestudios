@@ -1,0 +1,18 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,45
+filtro,habitaciones,3+,,45
+filtro,ban3,"con 3 o más baños",,45
+precio,p25,1500.0,USD,45
+precio,mediana,2300.0,USD,45
+precio,p75,3200.0,USD,45
+precio,minimo,850.0,USD,45
+precio,maximo,6000.0,USD,45
+m2,mediana_precio_m2,6.12,USD,44
+m2,area_mediana_m2,360.0,m2,44
+banos,mediana_banos,4.0,,
+habitaciones,3+,2300.0,USD,45
+ciudad,mediana_ciudad_referencia,1500.0,USD,
+ciudad,mediana_m2_ciudad,5.09,USD,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/ec/alquiler/quito/cumbaya,,
+fuente,licencia,CC BY 4.0,,

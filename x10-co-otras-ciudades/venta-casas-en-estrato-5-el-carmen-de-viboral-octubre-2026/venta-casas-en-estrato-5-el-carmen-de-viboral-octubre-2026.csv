@@ -1,0 +1,20 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo",,61
+filtro,estrato,5,,61
+precio,p25,2040000000.0,COP,61
+precio,mediana,2500000000.0,COP,61
+precio,p75,3400000000.0,COP,61
+precio,minimo,440000000.0,COP,61
+precio,maximo,6100000000.0,COP,61
+m2,mediana_precio_m2,7333333.33,COP,47
+m2,area_mediana_m2,400.0,m2,47
+admin,mediana_admin_mes,500000.0,COP,22
+banos,mediana_banos,4.0,,
+parqueadero,pct_con_parqueadero,100.0,%,55
+estrato,estrato_mas_frecuente,5,,61
+habitaciones,3+,2610000000.0,COP,56
+ciudad,mediana_ciudad_referencia,1850000000.0,COP,
+ciudad,mediana_m2_ciudad,5400000.0,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/el-carmen-de-viboral,,
+fuente,licencia,CC BY 4.0,,

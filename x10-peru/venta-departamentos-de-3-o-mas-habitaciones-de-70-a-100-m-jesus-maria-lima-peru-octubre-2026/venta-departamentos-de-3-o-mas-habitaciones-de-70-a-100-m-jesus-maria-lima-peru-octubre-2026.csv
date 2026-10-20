@@ -1,0 +1,19 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"zona×tipo×habitaciones×filtro",,75
+filtro,habitaciones,3+,,75
+filtro,area3,"de 70 a 100 m²",,75
+precio,p25,511416.5,PEN,75
+precio,mediana,578460.0,PEN,75
+precio,p75,650950.5,PEN,75
+precio,minimo,361000.0,PEN,75
+precio,maximo,850000.0,PEN,75
+m2,mediana_precio_m2,7166.67,PEN,75
+m2,area_mediana_m2,78.0,m2,75
+banos,mediana_banos,2.0,,
+parqueadero,pct_con_parqueadero,100.0,%,59
+habitaciones,3+,578460.0,PEN,75
+ciudad,mediana_ciudad_referencia,621600.0,PEN,
+ciudad,mediana_m2_ciudad,7342.72,PEN,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/pe/venta/lima/jesus-maria,,
+fuente,licencia,CC BY 4.0,,

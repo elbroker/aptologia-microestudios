@@ -1,0 +1,21 @@
+seccion,metrica,valor,moneda,n
+filtro,corte,"ciudad×estrato×tipo×filtro",,36
+filtro,estrato,4,,36
+filtro,area2,"de 45 a 70 m²",,36
+precio,p25,210000000.0,COP,36
+precio,mediana,232500000.0,COP,36
+precio,p75,261250000.0,COP,36
+precio,minimo,175000000.0,COP,36
+precio,maximo,330000000.0,COP,36
+m2,mediana_precio_m2,4000362.84,COP,36
+m2,area_mediana_m2,61.0,m2,36
+admin,mediana_admin_mes,223500.0,COP,28
+banos,mediana_banos,2.0,,
+estrato,estrato_mas_frecuente,4,,36
+habitaciones,2,219990000.0,COP,17
+habitaciones,3+,244000000.0,COP,19
+ciudad,mediana_ciudad_referencia,217495000.0,COP,
+ciudad,mediana_m2_ciudad,3664235.92,COP,
+fuente,fecha_datos,2026-10-18,,
+fuente,atribucion,https://www.aptologia.com/venta/piedecuesta,,
+fuente,licencia,CC BY 4.0,,
