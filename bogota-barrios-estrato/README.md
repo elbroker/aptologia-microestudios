@@ -17,8 +17,8 @@
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
 | [Precio de arriendo de vivienda en estrato 5 en San Jose de Bavaria, Bogotá — octubre 2026](arriendo-estrato-5-san-jose-de-bavaria-bogota-octubre-2026/) | 183 | COP 10.000.000 | [10.5281/zenodo.23485987](https://doi.org/10.5281/zenodo.23485987) |
-| [Precio de arriendo de vivienda en estrato 5 en La Calleja, Bogotá — octubre 2026](arriendo-estrato-5-la-calleja-bogota-octubre-2026/) | 64 | COP 4.400.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Las Orquideas, Bogotá — octubre 2026](venta-estrato-3-las-orquideas-bogota-octubre-2026/) | 33 | COP 400.000.000 |  |
+| [Precio de arriendo de vivienda en estrato 5 en La Calleja, Bogotá — octubre 2026](arriendo-estrato-5-la-calleja-bogota-octubre-2026/) | 64 | COP 4.400.000 | [10.5281/zenodo.23487631](https://doi.org/10.5281/zenodo.23487631) |
+| [Precio de venta de vivienda en estrato 3 en Las Orquideas, Bogotá — octubre 2026](venta-estrato-3-las-orquideas-bogota-octubre-2026/) | 33 | COP 400.000.000 | [10.5281/zenodo.23487672](https://doi.org/10.5281/zenodo.23487672) |
 | [Precio de venta de vivienda en estrato 4 en Cedritos, Bogotá — octubre 2026](venta-estrato-4-cedritos-bogota-octubre-2026/) | 1201 | COP 610.000.000 |  |
 | [Precio de venta de vivienda en estrato 6 en Santa Barbara, Bogotá — octubre 2026](venta-estrato-6-santa-barbara-bogota-octubre-2026/) | 1026 | COP 1.150.000.000 |  |
 | [Precio de venta de vivienda en estrato 5 en Colina Campestre, Bogotá — octubre 2026](venta-estrato-5-colina-campestre-bogota-octubre-2026/) | 560 | COP 950.000.000 |  |

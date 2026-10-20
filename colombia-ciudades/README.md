@@ -20,14 +20,14 @@
 | [Precio de arriendo de vivienda con parqueadero en Armenia — octubre 2026](arriendo-con-parqueadero-armenia-octubre-2026/) | 55 | COP 2.500.000 | [10.5281/zenodo.23485900](https://doi.org/10.5281/zenodo.23485900) |
 | [Precio de arriendo de vivienda con piscina en Bogotá — octubre 2026](arriendo-con-piscina-bogota-octubre-2026/) | 1394 | COP 4.500.000 | [10.5281/zenodo.23485922](https://doi.org/10.5281/zenodo.23485922) |
 | [Precio de venta de casas de 4 o más habitaciones en Cúcuta — octubre 2026](venta-casas-4-o-mas-habitaciones-cucuta-octubre-2026/) | 256 | COP 575.000.000 | [10.5281/zenodo.23485938](https://doi.org/10.5281/zenodo.23485938) |
-| [Precio de venta de apartamentos de 3 habitaciones en Madrid — octubre 2026](venta-apartamentos-3-habitaciones-madrid-octubre-2026/) | 78 | COP 205.000.000 |  |
-| [Precio de arriendo de vivienda con vigilancia o portería en Armenia — octubre 2026](arriendo-con-vigilancia-o-porteria-armenia-octubre-2026/) | 41 | COP 1.900.000 |  |
-| [Precio de arriendo de apartamentos de 3 habitaciones en estrato 6 en Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-estrato-6-bogota-octubre-2026/) | 2339 | COP 12.000.000 |  |
-| [Precio de arriendo de vivienda en Bogotá — octubre 2026](arriendo-bogota-octubre-2026/) | 19947 | COP 3.495.000 |  |
-| [Precio de venta de vivienda en Cúcuta — octubre 2026](venta-cucuta-octubre-2026/) | 694 | COP 380.000.000 |  |
-| [Precio de arriendo de vivienda en Cúcuta — octubre 2026](arriendo-cucuta-octubre-2026/) | 213 | COP 1.300.000 |  |
-| [Precio de venta de vivienda en Cali — octubre 2026](venta-cali-octubre-2026/) | 195 | COP 330.000.000 |  |
-| [Precio de venta de vivienda en Soacha — octubre 2026](venta-soacha-octubre-2026/) | 194 | COP 155.935.000 |  |
+| [Precio de venta de apartamentos de 3 habitaciones en Madrid — octubre 2026](venta-apartamentos-3-habitaciones-madrid-octubre-2026/) | 78 | COP 205.000.000 | [10.5281/zenodo.23487623](https://doi.org/10.5281/zenodo.23487623) |
+| [Precio de arriendo de vivienda con vigilancia o portería en Armenia — octubre 2026](arriendo-con-vigilancia-o-porteria-armenia-octubre-2026/) | 41 | COP 1.900.000 | [10.5281/zenodo.23487642](https://doi.org/10.5281/zenodo.23487642) |
+| [Precio de arriendo de apartamentos de 3 habitaciones en estrato 6 en Bogotá — octubre 2026](arriendo-apartamentos-3-habitaciones-estrato-6-bogota-octubre-2026/) | 2339 | COP 12.000.000 | [10.5281/zenodo.23487686](https://doi.org/10.5281/zenodo.23487686) |
+| [Precio de arriendo de vivienda en Bogotá — octubre 2026](arriendo-bogota-octubre-2026/) | 19947 | COP 3.495.000 | [10.5281/zenodo.23487720](https://doi.org/10.5281/zenodo.23487720) |
+| [Precio de venta de vivienda en Cúcuta — octubre 2026](venta-cucuta-octubre-2026/) | 694 | COP 380.000.000 | [10.5281/zenodo.23487731](https://doi.org/10.5281/zenodo.23487731) |
+| [Precio de arriendo de vivienda en Cúcuta — octubre 2026](arriendo-cucuta-octubre-2026/) | 213 | COP 1.300.000 | [10.5281/zenodo.23487740](https://doi.org/10.5281/zenodo.23487740) |
+| [Precio de venta de vivienda en Cali — octubre 2026](venta-cali-octubre-2026/) | 195 | COP 330.000.000 | [10.5281/zenodo.23487769](https://doi.org/10.5281/zenodo.23487769) |
+| [Precio de venta de vivienda en Soacha — octubre 2026](venta-soacha-octubre-2026/) | 194 | COP 155.935.000 | [10.5281/zenodo.23490003](https://doi.org/10.5281/zenodo.23490003) |
 | [Precio de venta de vivienda en Tunja — octubre 2026](venta-tunja-octubre-2026/) | 185 | COP 390.000.000 |  |
 | [Precio de venta de vivienda en Ibagué — octubre 2026](venta-ibague-octubre-2026/) | 182 | COP 280.000.000 |  |
 | [Precio de venta de vivienda en Los Patios — octubre 2026](venta-los-patios-octubre-2026/) | 134 | COP 380.000.000 |  |
