@@ -26,7 +26,7 @@
 | [Precio de venta de vivienda con piscina en la localidad de Chapinero, Bogotá — octubre 2026](venta-con-piscina-localidad-chapinero-bogota-octubre-2026/) | 490 | COP 2.886.913.500 | [10.5281/zenodo.23487692](https://doi.org/10.5281/zenodo.23487692) |
 | [Precio de venta de vivienda en conjunto cerrado en la localidad de Santa Fe, Bogotá — octubre 2026](venta-en-conjunto-cerrado-localidad-santa-fe-bogota-octubre-2026/) | 168 | COP 437.500.000 | [10.5281/zenodo.23487708](https://doi.org/10.5281/zenodo.23487708) |
 | [Precio de venta de casas de 4 o más habitaciones en la localidad de Usme, Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-localidad-usme-bogota-octubre-2026/) | 75 | COP 399.000.000 | [10.5281/zenodo.23487716](https://doi.org/10.5281/zenodo.23487716) |
-| [Precio de venta de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](venta-localidad-usaquen-bogota-octubre-2026/) | 14884 | COP 1.030.000.000 |  |
+| [Precio de venta de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](venta-localidad-usaquen-bogota-octubre-2026/) | 14884 | COP 1.030.000.000 | [10.5281/zenodo.23493843](https://doi.org/10.5281/zenodo.23493843) |
 | [Precio de venta de vivienda en la localidad de Suba, Bogotá — octubre 2026](venta-localidad-suba-bogota-octubre-2026/) | 10115 | COP 1.150.000.000 |  |
 | [Precio de venta de vivienda en la localidad de Chapinero, Bogotá — octubre 2026](venta-localidad-chapinero-bogota-octubre-2026/) | 6938 | COP 1.600.000.000 |  |
 | [Precio de arriendo de vivienda en la localidad de Usaquén, Bogotá — octubre 2026](arriendo-localidad-usaquen-bogota-octubre-2026/) | 5391 | COP 4.600.000 |  |
