@@ -303,49 +303,49 @@
 | [Precio de venta de vivienda con vigilancia o portería en Cúcuta — octubre 2026](venta-con-vigilancia-o-porteria-cucuta-octubre-2026/) | 232 | COP 292.500.000 | [10.5281/zenodo.23513438](https://doi.org/10.5281/zenodo.23513438) |
 | [Precio de venta de apartamentos en estrato 1 en Bogotá — octubre 2026](venta-apartamentos-estrato-1-bogota-octubre-2026/) | 216 | COP 250.000.000 | [10.5281/zenodo.23513332](https://doi.org/10.5281/zenodo.23513332) |
 | [Precio de venta de casas en estrato 1 en Bogotá — octubre 2026](venta-casas-estrato-1-bogota-octubre-2026/) | 187 | COP 600.000.000 | [10.5281/zenodo.23514223](https://doi.org/10.5281/zenodo.23514223) |
-| [Precio de venta de apartamentos de 3 habitaciones en Cúcuta — octubre 2026](venta-apartamentos-3-habitaciones-cucuta-octubre-2026/) | 176 | COP 275.000.000 |  |
-| [Precio de venta de casas en estrato 4 en Cúcuta — octubre 2026](venta-casas-estrato-4-cucuta-octubre-2026/) | 160 | COP 590.000.000 |  |
-| [Precio de venta de casas de 3 habitaciones en Cúcuta — octubre 2026](venta-casas-3-habitaciones-cucuta-octubre-2026/) | 155 | COP 390.000.000 |  |
-| [Precio de venta de casas en estrato 3 en Cúcuta — octubre 2026](venta-casas-estrato-3-cucuta-octubre-2026/) | 148 | COP 390.000.000 |  |
-| [Precio de venta de vivienda con piscina en Cúcuta — octubre 2026](venta-con-piscina-cucuta-octubre-2026/) | 148 | COP 280.000.000 |  |
-| [Precio de venta de apartamentos en estrato 3 en Soacha — octubre 2026](venta-apartamentos-estrato-3-soacha-octubre-2026/) | 144 | COP 157.500.000 |  |
-| [Precio de venta de casas de 1 habitación en Bogotá — octubre 2026](venta-casas-1-habitaciones-bogota-octubre-2026/) | 133 | COP 1.600.000.000 |  |
-| [Precio de venta de vivienda con ascensor en Cúcuta — octubre 2026](venta-con-ascensor-cucuta-octubre-2026/) | 116 | COP 280.000.000 |  |
-| [Precio de venta de vivienda con vigilancia o portería en Ibagué — octubre 2026](venta-con-vigilancia-o-porteria-ibague-octubre-2026/) | 112 | COP 230.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Soacha — octubre 2026](venta-apartamentos-3-habitaciones-soacha-octubre-2026/) | 102 | COP 165.000.000 |  |
-| [Precio de venta de vivienda con terraza o balcón en Ibagué — octubre 2026](venta-con-terraza-o-balcon-ibague-octubre-2026/) | 102 | COP 342.500.000 |  |
-| [Precio de venta de apartamentos en estrato 3 en Cúcuta — octubre 2026](venta-apartamentos-estrato-3-cucuta-octubre-2026/) | 98 | COP 210.000.000 |  |
-| [Precio de venta de vivienda con ascensor en Cali — octubre 2026](venta-con-ascensor-cali-octubre-2026/) | 96 | COP 296.500.000 |  |
-| [Precio de arriendo de apartaestudios en estrato 2 en Bogotá — octubre 2026](arriendo-apartaestudios-estrato-2-bogota-octubre-2026/) | 95 | COP 1.300.000 |  |
-| [Precio de venta de vivienda con piscina en Ibagué — octubre 2026](venta-con-piscina-ibague-octubre-2026/) | 93 | COP 205.000.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Cali — octubre 2026](venta-apartamentos-3-habitaciones-cali-octubre-2026/) | 88 | COP 270.500.000 |  |
-| [Precio de arriendo de apartamentos de 3 habitaciones en Cúcuta — octubre 2026](arriendo-apartamentos-3-habitaciones-cucuta-octubre-2026/) | 87 | COP 1.300.000 |  |
-| [Precio de venta de apartamentos de 3 habitaciones en Ibagué — octubre 2026](venta-apartamentos-3-habitaciones-ibague-octubre-2026/) | 87 | COP 205.000.000 |  |
-| [Precio de venta de apartamentos en estrato 4 en Cúcuta — octubre 2026](venta-apartamentos-estrato-4-cucuta-octubre-2026/) | 86 | COP 315.000.000 |  |
-| [Precio de arriendo de casas en estrato 2 en Bogotá — octubre 2026](arriendo-casas-estrato-2-bogota-octubre-2026/) | 76 | COP 2.050.000 |  |
-| [Precio de arriendo de vivienda con terraza o balcón en Cúcuta — octubre 2026](arriendo-con-terraza-o-balcon-cucuta-octubre-2026/) | 76 | COP 1.770.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Soacha — octubre 2026](venta-apartamentos-2-habitaciones-soacha-octubre-2026/) | 74 | COP 144.000.000 |  |
-| [Precio de arriendo de casas de 2 habitaciones en Bogotá — octubre 2026](arriendo-casas-2-habitaciones-bogota-octubre-2026/) | 73 | COP 4.500.000 |  |
-| [Precio de arriendo de apartamentos en estrato 1 en Bogotá — octubre 2026](arriendo-apartamentos-estrato-1-bogota-octubre-2026/) | 72 | COP 4.400.000 |  |
-| [Precio de venta de apartamentos en estrato 4 en Cali — octubre 2026](venta-apartamentos-estrato-4-cali-octubre-2026/) | 70 | COP 245.000.000 |  |
-| [Precio de arriendo de vivienda con vigilancia o portería en Cúcuta — octubre 2026](arriendo-con-vigilancia-o-porteria-cucuta-octubre-2026/) | 70 | COP 1.400.000 |  |
-| [Precio de venta de vivienda en conjunto cerrado en Ibagué — octubre 2026](venta-en-conjunto-cerrado-ibague-octubre-2026/) | 68 | COP 185.000.000 |  |
-| [Precio de arriendo de apartamentos en estrato 3 en Cúcuta — octubre 2026](arriendo-apartamentos-estrato-3-cucuta-octubre-2026/) | 67 | COP 1.100.000 |  |
-| [Precio de venta de vivienda con ascensor en Barranquilla — octubre 2026](venta-con-ascensor-barranquilla-octubre-2026/) | 67 | COP 284.000.000 |  |
-| [Precio de venta de vivienda con ascensor en Madrid — octubre 2026](venta-con-ascensor-madrid-octubre-2026/) | 67 | COP 208.000.000 |  |
-| [Precio de venta de vivienda con terraza o balcón en Los Patios — octubre 2026](venta-con-terraza-o-balcon-los-patios-octubre-2026/) | 67 | COP 400.000.000 |  |
-| [Precio de venta de vivienda con vigilancia o portería en Los Patios — octubre 2026](venta-con-vigilancia-o-porteria-los-patios-octubre-2026/) | 66 | COP 390.000.000 |  |
-| [Precio de venta de casas de 4 o más habitaciones en Tunja — octubre 2026](venta-casas-4-o-mas-habitaciones-tunja-octubre-2026/) | 64 | COP 605.000.000 |  |
-| [Precio de venta de casas en estrato 2 en Cúcuta — octubre 2026](venta-casas-estrato-2-cucuta-octubre-2026/) | 63 | COP 300.000.000 |  |
-| [Precio de venta de vivienda con terraza o balcón en Cali — octubre 2026](venta-con-terraza-o-balcon-cali-octubre-2026/) | 63 | COP 790.000.000 |  |
-| [Precio de venta de vivienda en conjunto cerrado en Los Patios — octubre 2026](venta-en-conjunto-cerrado-los-patios-octubre-2026/) | 63 | COP 400.000.000 |  |
-| [Precio de venta de apartaestudios en estrato 2 en Bogotá — octubre 2026](venta-apartaestudios-estrato-2-bogota-octubre-2026/) | 59 | COP 202.000.000 |  |
-| [Precio de venta de vivienda con piscina en Los Patios — octubre 2026](venta-con-piscina-los-patios-octubre-2026/) | 58 | COP 380.000.000 |  |
-| [Precio de venta de vivienda con chimenea en La Calera — octubre 2026](venta-con-chimenea-la-calera-octubre-2026/) | 57 | COP 2.200.000.000 |  |
-| [Precio de venta de casas en estrato 5 en Cúcuta — octubre 2026](venta-casas-estrato-5-cucuta-octubre-2026/) | 56 | COP 1.100.000.000 |  |
+| [Precio de venta de apartamentos de 3 habitaciones en Cúcuta — octubre 2026](venta-apartamentos-3-habitaciones-cucuta-octubre-2026/) | 176 | COP 275.000.000 | [10.5281/zenodo.23514887](https://doi.org/10.5281/zenodo.23514887) |
+| [Precio de venta de casas en estrato 4 en Cúcuta — octubre 2026](venta-casas-estrato-4-cucuta-octubre-2026/) | 160 | COP 590.000.000 | [10.5281/zenodo.23515055](https://doi.org/10.5281/zenodo.23515055) |
+| [Precio de venta de casas de 3 habitaciones en Cúcuta — octubre 2026](venta-casas-3-habitaciones-cucuta-octubre-2026/) | 155 | COP 390.000.000 | [10.5281/zenodo.23514509](https://doi.org/10.5281/zenodo.23514509) |
+| [Precio de venta de casas en estrato 3 en Cúcuta — octubre 2026](venta-casas-estrato-3-cucuta-octubre-2026/) | 148 | COP 390.000.000 | [10.5281/zenodo.23514886](https://doi.org/10.5281/zenodo.23514886) |
+| [Precio de venta de vivienda con piscina en Cúcuta — octubre 2026](venta-con-piscina-cucuta-octubre-2026/) | 148 | COP 280.000.000 | [10.5281/zenodo.23515105](https://doi.org/10.5281/zenodo.23515105) |
+| [Precio de venta de apartamentos en estrato 3 en Soacha — octubre 2026](venta-apartamentos-estrato-3-soacha-octubre-2026/) | 144 | COP 157.500.000 | [10.5281/zenodo.23514927](https://doi.org/10.5281/zenodo.23514927) |
+| [Precio de venta de casas de 1 habitación en Bogotá — octubre 2026](venta-casas-1-habitaciones-bogota-octubre-2026/) | 133 | COP 1.600.000.000 | [10.5281/zenodo.23515057](https://doi.org/10.5281/zenodo.23515057) |
+| [Precio de venta de vivienda con ascensor en Cúcuta — octubre 2026](venta-con-ascensor-cucuta-octubre-2026/) | 116 | COP 280.000.000 | [10.5281/zenodo.23516209](https://doi.org/10.5281/zenodo.23516209) |
+| [Precio de venta de vivienda con vigilancia o portería en Ibagué — octubre 2026](venta-con-vigilancia-o-porteria-ibague-octubre-2026/) | 112 | COP 230.000.000 | [10.5281/zenodo.23517557](https://doi.org/10.5281/zenodo.23517557) |
+| [Precio de venta de apartamentos de 3 habitaciones en Soacha — octubre 2026](venta-apartamentos-3-habitaciones-soacha-octubre-2026/) | 102 | COP 165.000.000 | [10.5281/zenodo.23516455](https://doi.org/10.5281/zenodo.23516455) |
+| [Precio de venta de vivienda con terraza o balcón en Ibagué — octubre 2026](venta-con-terraza-o-balcon-ibague-octubre-2026/) | 102 | COP 342.500.000 | [10.5281/zenodo.23518162](https://doi.org/10.5281/zenodo.23518162) |
+| [Precio de venta de apartamentos en estrato 3 en Cúcuta — octubre 2026](venta-apartamentos-estrato-3-cucuta-octubre-2026/) | 98 | COP 210.000.000 | [10.5281/zenodo.23517618](https://doi.org/10.5281/zenodo.23517618) |
+| [Precio de venta de vivienda con ascensor en Cali — octubre 2026](venta-con-ascensor-cali-octubre-2026/) | 96 | COP 296.500.000 | [10.5281/zenodo.23517787](https://doi.org/10.5281/zenodo.23517787) |
+| [Precio de arriendo de apartaestudios en estrato 2 en Bogotá — octubre 2026](arriendo-apartaestudios-estrato-2-bogota-octubre-2026/) | 95 | COP 1.300.000 | [10.5281/zenodo.23518254](https://doi.org/10.5281/zenodo.23518254) |
+| [Precio de venta de vivienda con piscina en Ibagué — octubre 2026](venta-con-piscina-ibague-octubre-2026/) | 93 | COP 205.000.000 | [10.5281/zenodo.23518064](https://doi.org/10.5281/zenodo.23518064) |
+| [Precio de venta de apartamentos de 3 habitaciones en Cali — octubre 2026](venta-apartamentos-3-habitaciones-cali-octubre-2026/) | 88 | COP 270.500.000 | [10.5281/zenodo.23518197](https://doi.org/10.5281/zenodo.23518197) |
+| [Precio de arriendo de apartamentos de 3 habitaciones en Cúcuta — octubre 2026](arriendo-apartamentos-3-habitaciones-cucuta-octubre-2026/) | 87 | COP 1.300.000 | [10.5281/zenodo.23518393](https://doi.org/10.5281/zenodo.23518393) |
+| [Precio de venta de apartamentos de 3 habitaciones en Ibagué — octubre 2026](venta-apartamentos-3-habitaciones-ibague-octubre-2026/) | 87 | COP 205.000.000 | [10.5281/zenodo.23518302](https://doi.org/10.5281/zenodo.23518302) |
+| [Precio de venta de apartamentos en estrato 4 en Cúcuta — octubre 2026](venta-apartamentos-estrato-4-cucuta-octubre-2026/) | 86 | COP 315.000.000 | [10.5281/zenodo.23518411](https://doi.org/10.5281/zenodo.23518411) |
+| [Precio de arriendo de casas en estrato 2 en Bogotá — octubre 2026](arriendo-casas-estrato-2-bogota-octubre-2026/) | 76 | COP 2.050.000 | [10.5281/zenodo.23518554](https://doi.org/10.5281/zenodo.23518554) |
+| [Precio de arriendo de vivienda con terraza o balcón en Cúcuta — octubre 2026](arriendo-con-terraza-o-balcon-cucuta-octubre-2026/) | 76 | COP 1.770.000 | [10.5281/zenodo.23519173](https://doi.org/10.5281/zenodo.23519173) |
+| [Precio de venta de apartamentos de 2 habitaciones en Soacha — octubre 2026](venta-apartamentos-2-habitaciones-soacha-octubre-2026/) | 74 | COP 144.000.000 | [10.5281/zenodo.23518579](https://doi.org/10.5281/zenodo.23518579) |
+| [Precio de arriendo de casas de 2 habitaciones en Bogotá — octubre 2026](arriendo-casas-2-habitaciones-bogota-octubre-2026/) | 73 | COP 4.500.000 | [10.5281/zenodo.23518488](https://doi.org/10.5281/zenodo.23518488) |
+| [Precio de arriendo de apartamentos en estrato 1 en Bogotá — octubre 2026](arriendo-apartamentos-estrato-1-bogota-octubre-2026/) | 72 | COP 4.400.000 | [10.5281/zenodo.23518506](https://doi.org/10.5281/zenodo.23518506) |
+| [Precio de venta de apartamentos en estrato 4 en Cali — octubre 2026](venta-apartamentos-estrato-4-cali-octubre-2026/) | 70 | COP 245.000.000 | [10.5281/zenodo.23518636](https://doi.org/10.5281/zenodo.23518636) |
+| [Precio de arriendo de vivienda con vigilancia o portería en Cúcuta — octubre 2026](arriendo-con-vigilancia-o-porteria-cucuta-octubre-2026/) | 70 | COP 1.400.000 | [10.5281/zenodo.23519810](https://doi.org/10.5281/zenodo.23519810) |
+| [Precio de venta de vivienda en conjunto cerrado en Ibagué — octubre 2026](venta-en-conjunto-cerrado-ibague-octubre-2026/) | 68 | COP 185.000.000 | [10.5281/zenodo.23518660](https://doi.org/10.5281/zenodo.23518660) |
+| [Precio de arriendo de apartamentos en estrato 3 en Cúcuta — octubre 2026](arriendo-apartamentos-estrato-3-cucuta-octubre-2026/) | 67 | COP 1.100.000 | [10.5281/zenodo.23518683](https://doi.org/10.5281/zenodo.23518683) |
+| [Precio de venta de vivienda con ascensor en Barranquilla — octubre 2026](venta-con-ascensor-barranquilla-octubre-2026/) | 67 | COP 284.000.000 | [10.5281/zenodo.23518810](https://doi.org/10.5281/zenodo.23518810) |
+| [Precio de venta de vivienda con ascensor en Madrid — octubre 2026](venta-con-ascensor-madrid-octubre-2026/) | 67 | COP 208.000.000 | [10.5281/zenodo.23518656](https://doi.org/10.5281/zenodo.23518656) |
+| [Precio de venta de vivienda con terraza o balcón en Los Patios — octubre 2026](venta-con-terraza-o-balcon-los-patios-octubre-2026/) | 67 | COP 400.000.000 | [10.5281/zenodo.23518790](https://doi.org/10.5281/zenodo.23518790) |
+| [Precio de venta de vivienda con vigilancia o portería en Los Patios — octubre 2026](venta-con-vigilancia-o-porteria-los-patios-octubre-2026/) | 66 | COP 390.000.000 | [10.5281/zenodo.23518945](https://doi.org/10.5281/zenodo.23518945) |
+| [Precio de venta de casas de 4 o más habitaciones en Tunja — octubre 2026](venta-casas-4-o-mas-habitaciones-tunja-octubre-2026/) | 64 | COP 605.000.000 | [10.5281/zenodo.23519039](https://doi.org/10.5281/zenodo.23519039) |
+| [Precio de venta de casas en estrato 2 en Cúcuta — octubre 2026](venta-casas-estrato-2-cucuta-octubre-2026/) | 63 | COP 300.000.000 | [10.5281/zenodo.23518777](https://doi.org/10.5281/zenodo.23518777) |
+| [Precio de venta de vivienda con terraza o balcón en Cali — octubre 2026](venta-con-terraza-o-balcon-cali-octubre-2026/) | 63 | COP 790.000.000 | [10.5281/zenodo.23518939](https://doi.org/10.5281/zenodo.23518939) |
+| [Precio de venta de vivienda en conjunto cerrado en Los Patios — octubre 2026](venta-en-conjunto-cerrado-los-patios-octubre-2026/) | 63 | COP 400.000.000 | [10.5281/zenodo.23518994](https://doi.org/10.5281/zenodo.23518994) |
+| [Precio de venta de apartaestudios en estrato 2 en Bogotá — octubre 2026](venta-apartaestudios-estrato-2-bogota-octubre-2026/) | 59 | COP 202.000.000 | [10.5281/zenodo.23519615](https://doi.org/10.5281/zenodo.23519615) |
+| [Precio de venta de vivienda con piscina en Los Patios — octubre 2026](venta-con-piscina-los-patios-octubre-2026/) | 58 | COP 380.000.000 | [10.5281/zenodo.23519612](https://doi.org/10.5281/zenodo.23519612) |
+| [Precio de venta de vivienda con chimenea en La Calera — octubre 2026](venta-con-chimenea-la-calera-octubre-2026/) | 57 | COP 2.200.000.000 | [10.5281/zenodo.23519671](https://doi.org/10.5281/zenodo.23519671) |
+| [Precio de venta de casas en estrato 5 en Cúcuta — octubre 2026](venta-casas-estrato-5-cucuta-octubre-2026/) | 56 | COP 1.100.000.000 | [10.5281/zenodo.23519699](https://doi.org/10.5281/zenodo.23519699) |
 | [Precio de venta de vivienda con ascensor en Ibagué — octubre 2026](venta-con-ascensor-ibague-octubre-2026/) | 56 | COP 265.000.000 |  |
 | [Precio de venta de vivienda con terraza o balcón en La Calera — octubre 2026](venta-con-terraza-o-balcon-la-calera-octubre-2026/) | 56 | COP 2.495.000.000 |  |
-| [Precio de arriendo de vivienda en conjunto cerrado en Cúcuta — octubre 2026](arriendo-en-conjunto-cerrado-cucuta-octubre-2026/) | 55 | COP 1.350.000 |  |
+| [Precio de arriendo de vivienda en conjunto cerrado en Cúcuta — octubre 2026](arriendo-en-conjunto-cerrado-cucuta-octubre-2026/) | 55 | COP 1.350.000 | [10.5281/zenodo.23519812](https://doi.org/10.5281/zenodo.23519812) |
 | [Precio de venta de apartamentos en estrato 3 en Ibagué — octubre 2026](venta-apartamentos-estrato-3-ibague-octubre-2026/) | 54 | COP 180.000.000 |  |
 | [Precio de arriendo de casas de 1 habitación en Bogotá — octubre 2026](arriendo-casas-1-habitaciones-bogota-octubre-2026/) | 53 | COP 15.000.000 |  |
 | [Precio de venta de apartamentos de 3 habitaciones en Tunja — octubre 2026](venta-apartamentos-3-habitaciones-tunja-octubre-2026/) | 53 | COP 320.000.000 |  |

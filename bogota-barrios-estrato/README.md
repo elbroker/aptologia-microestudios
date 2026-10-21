@@ -39,138 +39,138 @@
 | [Precio de arriendo de vivienda en estrato 4 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-4-chapinero-bogota-octubre-2026/) | 237 | COP 2.300.000 | [10.5281/zenodo.23513095](https://doi.org/10.5281/zenodo.23513095) |
 | [Precio de venta de vivienda en estrato 6 en El Nogal, Bogotá — octubre 2026](venta-estrato-6-el-nogal-bogota-octubre-2026/) | 226 | COP 2.200.000.000 | [10.5281/zenodo.23513547](https://doi.org/10.5281/zenodo.23513547) |
 | [Precio de arriendo de vivienda en estrato 4 en Chapinero Alto, Bogotá — octubre 2026](arriendo-estrato-4-chapinero-alto-bogota-octubre-2026/) | 194 | COP 2.800.000 | [10.5281/zenodo.23513470](https://doi.org/10.5281/zenodo.23513470) |
-| [Precio de venta de vivienda en estrato 5 en Santa Barbara Occidental, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-occidental-bogota-octubre-2026/) | 194 | COP 1.050.000.000 |  |
+| [Precio de venta de vivienda en estrato 5 en Santa Barbara Occidental, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-occidental-bogota-octubre-2026/) | 194 | COP 1.050.000.000 | [10.5281/zenodo.23514531](https://doi.org/10.5281/zenodo.23514531) |
 | [Precio de venta de vivienda en estrato 6 en Bosque de Pinos, Bogotá — octubre 2026](venta-estrato-6-bosque-de-pinos-bogota-octubre-2026/) | 189 | COP 1.900.000.000 | [10.5281/zenodo.23514188](https://doi.org/10.5281/zenodo.23514188) |
-| [Precio de venta de vivienda en estrato 6 en Santa Barbara Occidental, Bogotá — octubre 2026](venta-estrato-6-santa-barbara-occidental-bogota-octubre-2026/) | 187 | COP 1.100.000.000 |  |
+| [Precio de venta de vivienda en estrato 6 en Santa Barbara Occidental, Bogotá — octubre 2026](venta-estrato-6-santa-barbara-occidental-bogota-octubre-2026/) | 187 | COP 1.100.000.000 | [10.5281/zenodo.23514670](https://doi.org/10.5281/zenodo.23514670) |
 | [Precio de venta de vivienda en estrato 6 en Santa Ana, Bogotá — octubre 2026](venta-estrato-6-santa-ana-bogota-octubre-2026/) | 183 | COP 4.500.000.000 | [10.5281/zenodo.23514313](https://doi.org/10.5281/zenodo.23514313) |
 | [Precio de venta de vivienda en estrato 3 en Chapinero, Bogotá — octubre 2026](venta-estrato-3-chapinero-bogota-octubre-2026/) | 182 | COP 442.500.000 | [10.5281/zenodo.23513662](https://doi.org/10.5281/zenodo.23513662) |
-| [Precio de venta de vivienda en estrato 4 en Quinta Paredes, Bogotá — octubre 2026](venta-estrato-4-quinta-paredes-bogota-octubre-2026/) | 180 | COP 722.951.400 |  |
-| [Precio de arriendo de vivienda en estrato 6 en El Nogal, Bogotá — octubre 2026](arriendo-estrato-6-el-nogal-bogota-octubre-2026/) | 178 | COP 10.500.000 |  |
+| [Precio de venta de vivienda en estrato 4 en Quinta Paredes, Bogotá — octubre 2026](venta-estrato-4-quinta-paredes-bogota-octubre-2026/) | 180 | COP 722.951.400 | [10.5281/zenodo.23514803](https://doi.org/10.5281/zenodo.23514803) |
+| [Precio de arriendo de vivienda en estrato 6 en El Nogal, Bogotá — octubre 2026](arriendo-estrato-6-el-nogal-bogota-octubre-2026/) | 178 | COP 10.500.000 | [10.5281/zenodo.23514869](https://doi.org/10.5281/zenodo.23514869) |
 | [Precio de arriendo de vivienda en estrato 6 en San Patricio, Bogotá — octubre 2026](arriendo-estrato-6-san-patricio-bogota-octubre-2026/) | 163 | COP 5.500.000 | [10.5281/zenodo.23514243](https://doi.org/10.5281/zenodo.23514243) |
-| [Precio de arriendo de vivienda en estrato 5 en Santa Barbara, Bogotá — octubre 2026](arriendo-estrato-5-santa-barbara-bogota-octubre-2026/) | 162 | COP 4.161.500 |  |
+| [Precio de arriendo de vivienda en estrato 5 en Santa Barbara, Bogotá — octubre 2026](arriendo-estrato-5-santa-barbara-bogota-octubre-2026/) | 162 | COP 4.161.500 | [10.5281/zenodo.23514715](https://doi.org/10.5281/zenodo.23514715) |
 | [Precio de venta de vivienda en estrato 6 en Chapinero, Bogotá — octubre 2026](venta-estrato-6-chapinero-bogota-octubre-2026/) | 159 | COP 1.800.000.000 | [10.5281/zenodo.23514380](https://doi.org/10.5281/zenodo.23514380) |
-| [Precio de arriendo de vivienda en estrato 3 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-3-chapinero-bogota-octubre-2026/) | 156 | COP 1.800.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Cedritos, Bogotá — octubre 2026](venta-estrato-5-cedritos-bogota-octubre-2026/) | 155 | COP 820.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Normandia, Bogotá — octubre 2026](venta-estrato-4-normandia-bogota-octubre-2026/) | 155 | COP 870.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Fontibon, Bogotá — octubre 2026](venta-estrato-4-fontibon-bogota-octubre-2026/) | 143 | COP 580.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Rincon del Chico, Bogotá — octubre 2026](venta-estrato-6-rincon-del-chico-bogota-octubre-2026/) | 143 | COP 850.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Usaquen, Bogotá — octubre 2026](venta-estrato-6-usaquen-bogota-octubre-2026/) | 143 | COP 2.300.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Santa Paula, Bogotá — octubre 2026](arriendo-estrato-6-santa-paula-bogota-octubre-2026/) | 142 | COP 6.175.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Nicolas de Federman, Bogotá — octubre 2026](venta-estrato-5-nicolas-de-federman-bogota-octubre-2026/) | 142 | COP 951.850.000 |  |
-| [Precio de venta de vivienda en estrato 4 en La Castellana, Bogotá — octubre 2026](venta-estrato-4-la-castellana-bogota-octubre-2026/) | 140 | COP 815.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Colina Campestre, Bogotá — octubre 2026](arriendo-estrato-4-colina-campestre-bogota-octubre-2026/) | 138 | COP 2.490.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Central, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-central-bogota-octubre-2026/) | 134 | COP 5.500.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Quinta Camacho, Bogotá — octubre 2026](venta-estrato-4-quinta-camacho-bogota-octubre-2026/) | 134 | COP 1.990.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en El Virrey, Bogotá — octubre 2026](venta-estrato-6-el-virrey-bogota-octubre-2026/) | 128 | COP 1.550.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Fontibon, Bogotá — octubre 2026](arriendo-estrato-3-fontibon-bogota-octubre-2026/) | 123 | COP 1.450.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Centro Internacional, Bogotá — octubre 2026](arriendo-estrato-4-centro-internacional-bogota-octubre-2026/) | 121 | COP 2.800.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Lisboa, Bogotá — octubre 2026](venta-estrato-5-lisboa-bogota-octubre-2026/) | 120 | COP 795.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Kennedy Central, Bogotá — octubre 2026](venta-estrato-3-kennedy-central-bogota-octubre-2026/) | 117 | COP 620.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en El Virrey, Bogotá — octubre 2026](arriendo-estrato-6-el-virrey-bogota-octubre-2026/) | 116 | COP 8.630.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Mazuren, Bogotá — octubre 2026](venta-estrato-4-mazuren-bogota-octubre-2026/) | 116 | COP 550.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Nicolas de Federman, Bogotá — octubre 2026](venta-estrato-4-nicolas-de-federman-bogota-octubre-2026/) | 114 | COP 797.500.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Barrios Unidos, Bogotá — octubre 2026](venta-estrato-4-barrios-unidos-bogota-octubre-2026/) | 112 | COP 900.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Alta, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-alta-bogota-octubre-2026/) | 111 | COP 18.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Bella Suiza, Bogotá — octubre 2026](arriendo-estrato-5-bella-suiza-bogota-octubre-2026/) | 110 | COP 3.925.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Guaymaral, Bogotá — octubre 2026](arriendo-estrato-6-guaymaral-bogota-octubre-2026/) | 109 | COP 13.070.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Gran Granada, Bogotá — octubre 2026](venta-estrato-4-gran-granada-bogota-octubre-2026/) | 108 | COP 450.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en La Calleja, Bogotá — octubre 2026](venta-estrato-6-la-calleja-bogota-octubre-2026/) | 107 | COP 1.400.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Chapinero Central, Bogotá — octubre 2026](venta-estrato-3-chapinero-central-bogota-octubre-2026/) | 105 | COP 325.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Barrios Unidos, Bogotá — octubre 2026](venta-estrato-3-barrios-unidos-bogota-octubre-2026/) | 104 | COP 800.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Las Nieves, Bogotá — octubre 2026](venta-estrato-3-las-nieves-bogota-octubre-2026/) | 104 | COP 320.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Prado Veraniego, Bogotá — octubre 2026](venta-estrato-3-prado-veraniego-bogota-octubre-2026/) | 104 | COP 480.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Gratamira, Bogotá — octubre 2026](venta-estrato-5-gratamira-bogota-octubre-2026/) | 103 | COP 1.150.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Santa Barbara Oriental, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-oriental-bogota-octubre-2026/) | 103 | COP 870.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Teusaquillo, Bogotá — octubre 2026](arriendo-estrato-4-teusaquillo-bogota-octubre-2026/) | 102 | COP 2.600.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Galerias, Bogotá — octubre 2026](venta-estrato-4-galerias-bogota-octubre-2026/) | 102 | COP 725.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Hayuelos, Bogotá — octubre 2026](venta-estrato-4-hayuelos-bogota-octubre-2026/) | 102 | COP 543.590.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Los Andes, Bogotá — octubre 2026](venta-estrato-4-los-andes-bogota-octubre-2026/) | 101 | COP 850.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Pasadena, Bogotá — octubre 2026](arriendo-estrato-5-pasadena-bogota-octubre-2026/) | 100 | COP 3.400.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Pontevedra, Bogotá — octubre 2026](venta-estrato-4-pontevedra-bogota-octubre-2026/) | 100 | COP 807.500.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Belmira, Bogotá — octubre 2026](venta-estrato-4-belmira-bogota-octubre-2026/) | 99 | COP 680.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Lagos de Torca, Bogotá — octubre 2026](venta-estrato-4-lagos-de-torca-bogota-octubre-2026/) | 99 | COP 530.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-6-chapinero-bogota-octubre-2026/) | 98 | COP 10.300.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Las Nieves, Bogotá — octubre 2026](arriendo-estrato-3-las-nieves-bogota-octubre-2026/) | 98 | COP 1.750.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Ciudad Salitre, Bogotá — octubre 2026](arriendo-estrato-4-ciudad-salitre-bogota-octubre-2026/) | 96 | COP 3.087.050 |  |
-| [Precio de venta de vivienda en estrato 4 en Centro Internacional, Bogotá — octubre 2026](venta-estrato-4-centro-internacional-bogota-octubre-2026/) | 95 | COP 520.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en San Luis, Bogotá — octubre 2026](venta-estrato-4-san-luis-bogota-octubre-2026/) | 95 | COP 1.150.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Las Villas, Bogotá — octubre 2026](venta-estrato-4-las-villas-bogota-octubre-2026/) | 93 | COP 1.135.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Chapinero Central, Bogotá — octubre 2026](arriendo-estrato-3-chapinero-central-bogota-octubre-2026/) | 92 | COP 1.800.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Santa Ana Occidental, Bogotá — octubre 2026](venta-estrato-5-santa-ana-occidental-bogota-octubre-2026/) | 90 | COP 1.390.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Ciudad Salitre, Bogotá — octubre 2026](venta-estrato-4-ciudad-salitre-bogota-octubre-2026/) | 89 | COP 827.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en La Castellana, Bogotá — octubre 2026](arriendo-estrato-4-la-castellana-bogota-octubre-2026/) | 88 | COP 4.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Engativá, Bogotá — octubre 2026](arriendo-estrato-3-engativa-bogota-octubre-2026/) | 88 | COP 1.600.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en La Felicidad, Bogotá — octubre 2026](arriendo-estrato-4-la-felicidad-bogota-octubre-2026/) | 88 | COP 2.801.100 |  |
-| [Precio de venta de vivienda en estrato 4 en Engativá, Bogotá — octubre 2026](venta-estrato-4-engativa-bogota-octubre-2026/) | 88 | COP 680.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Santa Paula, Bogotá — octubre 2026](venta-estrato-5-santa-paula-bogota-octubre-2026/) | 88 | COP 845.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en San Antonio Norte, Bogotá — octubre 2026](venta-estrato-3-san-antonio-norte-bogota-octubre-2026/) | 87 | COP 270.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Suba, Bogotá — octubre 2026](venta-estrato-3-suba-bogota-octubre-2026/) | 87 | COP 290.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Chico Norte, Bogotá — octubre 2026](arriendo-estrato-5-chico-norte-bogota-octubre-2026/) | 86 | COP 3.970.000 |  |
-| [Precio de venta de vivienda en estrato 5 en La Castellana, Bogotá — octubre 2026](venta-estrato-5-la-castellana-bogota-octubre-2026/) | 86 | COP 780.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Antiguo Country, Bogotá — octubre 2026](arriendo-estrato-5-antiguo-country-bogota-octubre-2026/) | 84 | COP 4.800.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Las Villas, Bogotá — octubre 2026](venta-estrato-5-las-villas-bogota-octubre-2026/) | 84 | COP 1.175.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en El Nogal, Bogotá — octubre 2026](venta-estrato-5-el-nogal-bogota-octubre-2026/) | 81 | COP 1.350.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Palermo, Bogotá — octubre 2026](venta-estrato-4-palermo-bogota-octubre-2026/) | 81 | COP 1.100.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Alejandria, Bogotá — octubre 2026](venta-estrato-5-alejandria-bogota-octubre-2026/) | 80 | COP 1.130.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Chico Norte, Bogotá — octubre 2026](venta-estrato-5-chico-norte-bogota-octubre-2026/) | 79 | COP 755.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Pontevedra, Bogotá — octubre 2026](venta-estrato-5-pontevedra-bogota-octubre-2026/) | 79 | COP 1.160.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Chapinero Alto, Bogotá — octubre 2026](venta-estrato-5-chapinero-alto-bogota-octubre-2026/) | 78 | COP 1.065.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Santa Barbara Central, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-central-bogota-octubre-2026/) | 78 | COP 870.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Lagos de Torca, Bogotá — octubre 2026](venta-estrato-3-lagos-de-torca-bogota-octubre-2026/) | 77 | COP 295.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en San Jose de Bavaria, Bogotá — octubre 2026](venta-estrato-6-san-jose-de-bavaria-bogota-octubre-2026/) | 77 | COP 2.200.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Barrios Unidos, Bogotá — octubre 2026](arriendo-estrato-4-barrios-unidos-bogota-octubre-2026/) | 76 | COP 2.106.500 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Quinta Paredes, Bogotá — octubre 2026](arriendo-estrato-4-quinta-paredes-bogota-octubre-2026/) | 76 | COP 3.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Lagos de Torca, Bogotá — octubre 2026](arriendo-estrato-3-lagos-de-torca-bogota-octubre-2026/) | 75 | COP 1.580.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Chapinero, Bogotá — octubre 2026](venta-estrato-5-chapinero-bogota-octubre-2026/) | 74 | COP 967.500.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Chico, Bogotá — octubre 2026](venta-estrato-5-chico-bogota-octubre-2026/) | 74 | COP 1.125.000.000 |  |
-| [Precio de venta de vivienda en estrato 2 en Engativá, Bogotá — octubre 2026](venta-estrato-2-engativa-bogota-octubre-2026/) | 74 | COP 450.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en El Redil, Bogotá — octubre 2026](venta-estrato-4-el-redil-bogota-octubre-2026/) | 74 | COP 350.000.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Santa Barbara Oriental, Bogotá — octubre 2026](venta-estrato-6-santa-barbara-oriental-bogota-octubre-2026/) | 74 | COP 1.450.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Antiguo Country, Bogotá — octubre 2026](venta-estrato-5-antiguo-country-bogota-octubre-2026/) | 73 | COP 770.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 3 en Barrios Unidos, Bogotá — octubre 2026](arriendo-estrato-3-barrios-unidos-bogota-octubre-2026/) | 71 | COP 1.602.000 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Santa Ana, Bogotá — octubre 2026](arriendo-estrato-6-santa-ana-bogota-octubre-2026/) | 71 | COP 20.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en Marsella, Bogotá — octubre 2026](venta-estrato-3-marsella-bogota-octubre-2026/) | 71 | COP 850.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Usaquen, Bogotá — octubre 2026](venta-estrato-5-usaquen-bogota-octubre-2026/) | 71 | COP 880.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Nuevo Country, Bogotá — octubre 2026](venta-estrato-5-nuevo-country-bogota-octubre-2026/) | 70 | COP 682.500.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Quinta Camacho, Bogotá — octubre 2026](arriendo-estrato-4-quinta-camacho-bogota-octubre-2026/) | 69 | COP 12.000.000 |  |
-| [Precio de venta de vivienda en estrato 3 en La Candelaria, Bogotá — octubre 2026](venta-estrato-3-la-candelaria-bogota-octubre-2026/) | 69 | COP 660.000.000 |  |
+| [Precio de arriendo de vivienda en estrato 3 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-3-chapinero-bogota-octubre-2026/) | 156 | COP 1.800.000 | [10.5281/zenodo.23514804](https://doi.org/10.5281/zenodo.23514804) |
+| [Precio de venta de vivienda en estrato 5 en Cedritos, Bogotá — octubre 2026](venta-estrato-5-cedritos-bogota-octubre-2026/) | 155 | COP 820.000.000 | [10.5281/zenodo.23514579](https://doi.org/10.5281/zenodo.23514579) |
+| [Precio de venta de vivienda en estrato 4 en Normandia, Bogotá — octubre 2026](venta-estrato-4-normandia-bogota-octubre-2026/) | 155 | COP 870.000.000 | [10.5281/zenodo.23514615](https://doi.org/10.5281/zenodo.23514615) |
+| [Precio de venta de vivienda en estrato 4 en Fontibon, Bogotá — octubre 2026](venta-estrato-4-fontibon-bogota-octubre-2026/) | 143 | COP 580.000.000 | [10.5281/zenodo.23514960](https://doi.org/10.5281/zenodo.23514960) |
+| [Precio de venta de vivienda en estrato 6 en Rincon del Chico, Bogotá — octubre 2026](venta-estrato-6-rincon-del-chico-bogota-octubre-2026/) | 143 | COP 850.000.000 | [10.5281/zenodo.23515204](https://doi.org/10.5281/zenodo.23515204) |
+| [Precio de venta de vivienda en estrato 6 en Usaquen, Bogotá — octubre 2026](venta-estrato-6-usaquen-bogota-octubre-2026/) | 143 | COP 2.300.000.000 | [10.5281/zenodo.23514994](https://doi.org/10.5281/zenodo.23514994) |
+| [Precio de arriendo de vivienda en estrato 6 en Santa Paula, Bogotá — octubre 2026](arriendo-estrato-6-santa-paula-bogota-octubre-2026/) | 142 | COP 6.175.000 | [10.5281/zenodo.23514841](https://doi.org/10.5281/zenodo.23514841) |
+| [Precio de venta de vivienda en estrato 5 en Nicolas de Federman, Bogotá — octubre 2026](venta-estrato-5-nicolas-de-federman-bogota-octubre-2026/) | 142 | COP 951.850.000 | [10.5281/zenodo.23515226](https://doi.org/10.5281/zenodo.23515226) |
+| [Precio de venta de vivienda en estrato 4 en La Castellana, Bogotá — octubre 2026](venta-estrato-4-la-castellana-bogota-octubre-2026/) | 140 | COP 815.000.000 | [10.5281/zenodo.23516075](https://doi.org/10.5281/zenodo.23516075) |
+| [Precio de arriendo de vivienda en estrato 4 en Colina Campestre, Bogotá — octubre 2026](arriendo-estrato-4-colina-campestre-bogota-octubre-2026/) | 138 | COP 2.490.000 | [10.5281/zenodo.23516161](https://doi.org/10.5281/zenodo.23516161) |
+| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Central, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-central-bogota-octubre-2026/) | 134 | COP 5.500.000 | [10.5281/zenodo.23514939](https://doi.org/10.5281/zenodo.23514939) |
+| [Precio de venta de vivienda en estrato 4 en Quinta Camacho, Bogotá — octubre 2026](venta-estrato-4-quinta-camacho-bogota-octubre-2026/) | 134 | COP 1.990.000.000 | [10.5281/zenodo.23516225](https://doi.org/10.5281/zenodo.23516225) |
+| [Precio de venta de vivienda en estrato 6 en El Virrey, Bogotá — octubre 2026](venta-estrato-6-el-virrey-bogota-octubre-2026/) | 128 | COP 1.550.000.000 | [10.5281/zenodo.23515182](https://doi.org/10.5281/zenodo.23515182) |
+| [Precio de arriendo de vivienda en estrato 3 en Fontibon, Bogotá — octubre 2026](arriendo-estrato-3-fontibon-bogota-octubre-2026/) | 123 | COP 1.450.000 | [10.5281/zenodo.23516392](https://doi.org/10.5281/zenodo.23516392) |
+| [Precio de arriendo de vivienda en estrato 4 en Centro Internacional, Bogotá — octubre 2026](arriendo-estrato-4-centro-internacional-bogota-octubre-2026/) | 121 | COP 2.800.000 | [10.5281/zenodo.23515215](https://doi.org/10.5281/zenodo.23515215) |
+| [Precio de venta de vivienda en estrato 5 en Lisboa, Bogotá — octubre 2026](venta-estrato-5-lisboa-bogota-octubre-2026/) | 120 | COP 795.000.000 | [10.5281/zenodo.23516421](https://doi.org/10.5281/zenodo.23516421) |
+| [Precio de venta de vivienda en estrato 3 en Kennedy Central, Bogotá — octubre 2026](venta-estrato-3-kennedy-central-bogota-octubre-2026/) | 117 | COP 620.000.000 | [10.5281/zenodo.23516079](https://doi.org/10.5281/zenodo.23516079) |
+| [Precio de arriendo de vivienda en estrato 6 en El Virrey, Bogotá — octubre 2026](arriendo-estrato-6-el-virrey-bogota-octubre-2026/) | 116 | COP 8.630.000 | [10.5281/zenodo.23516171](https://doi.org/10.5281/zenodo.23516171) |
+| [Precio de venta de vivienda en estrato 4 en Mazuren, Bogotá — octubre 2026](venta-estrato-4-mazuren-bogota-octubre-2026/) | 116 | COP 550.000.000 | [10.5281/zenodo.23515246](https://doi.org/10.5281/zenodo.23515246) |
+| [Precio de venta de vivienda en estrato 4 en Nicolas de Federman, Bogotá — octubre 2026](venta-estrato-4-nicolas-de-federman-bogota-octubre-2026/) | 114 | COP 797.500.000 | [10.5281/zenodo.23515931](https://doi.org/10.5281/zenodo.23515931) |
+| [Precio de venta de vivienda en estrato 4 en Barrios Unidos, Bogotá — octubre 2026](venta-estrato-4-barrios-unidos-bogota-octubre-2026/) | 112 | COP 900.000.000 | [10.5281/zenodo.23516237](https://doi.org/10.5281/zenodo.23516237) |
+| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Alta, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-alta-bogota-octubre-2026/) | 111 | COP 18.000.000 | [10.5281/zenodo.23517783](https://doi.org/10.5281/zenodo.23517783) |
+| [Precio de arriendo de vivienda en estrato 5 en Bella Suiza, Bogotá — octubre 2026](arriendo-estrato-5-bella-suiza-bogota-octubre-2026/) | 110 | COP 3.925.000 | [10.5281/zenodo.23516032](https://doi.org/10.5281/zenodo.23516032) |
+| [Precio de arriendo de vivienda en estrato 6 en Guaymaral, Bogotá — octubre 2026](arriendo-estrato-6-guaymaral-bogota-octubre-2026/) | 109 | COP 13.070.000 | [10.5281/zenodo.23516081](https://doi.org/10.5281/zenodo.23516081) |
+| [Precio de venta de vivienda en estrato 4 en Gran Granada, Bogotá — octubre 2026](venta-estrato-4-gran-granada-bogota-octubre-2026/) | 108 | COP 450.000.000 | [10.5281/zenodo.23516124](https://doi.org/10.5281/zenodo.23516124) |
+| [Precio de venta de vivienda en estrato 6 en La Calleja, Bogotá — octubre 2026](venta-estrato-6-la-calleja-bogota-octubre-2026/) | 107 | COP 1.400.000.000 | [10.5281/zenodo.23516207](https://doi.org/10.5281/zenodo.23516207) |
+| [Precio de venta de vivienda en estrato 3 en Chapinero Central, Bogotá — octubre 2026](venta-estrato-3-chapinero-central-bogota-octubre-2026/) | 105 | COP 325.000.000 | [10.5281/zenodo.23518092](https://doi.org/10.5281/zenodo.23518092) |
+| [Precio de venta de vivienda en estrato 3 en Barrios Unidos, Bogotá — octubre 2026](venta-estrato-3-barrios-unidos-bogota-octubre-2026/) | 104 | COP 800.000.000 | [10.5281/zenodo.23516357](https://doi.org/10.5281/zenodo.23516357) |
+| [Precio de venta de vivienda en estrato 3 en Las Nieves, Bogotá — octubre 2026](venta-estrato-3-las-nieves-bogota-octubre-2026/) | 104 | COP 320.000.000 | [10.5281/zenodo.23516328](https://doi.org/10.5281/zenodo.23516328) |
+| [Precio de venta de vivienda en estrato 3 en Prado Veraniego, Bogotá — octubre 2026](venta-estrato-3-prado-veraniego-bogota-octubre-2026/) | 104 | COP 480.000.000 | [10.5281/zenodo.23516355](https://doi.org/10.5281/zenodo.23516355) |
+| [Precio de venta de vivienda en estrato 5 en Gratamira, Bogotá — octubre 2026](venta-estrato-5-gratamira-bogota-octubre-2026/) | 103 | COP 1.150.000.000 | [10.5281/zenodo.23516395](https://doi.org/10.5281/zenodo.23516395) |
+| [Precio de venta de vivienda en estrato 5 en Santa Barbara Oriental, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-oriental-bogota-octubre-2026/) | 103 | COP 870.000.000 | [10.5281/zenodo.23516419](https://doi.org/10.5281/zenodo.23516419) |
+| [Precio de arriendo de vivienda en estrato 4 en Teusaquillo, Bogotá — octubre 2026](arriendo-estrato-4-teusaquillo-bogota-octubre-2026/) | 102 | COP 2.600.000 | [10.5281/zenodo.23516547](https://doi.org/10.5281/zenodo.23516547) |
+| [Precio de venta de vivienda en estrato 4 en Galerias, Bogotá — octubre 2026](venta-estrato-4-galerias-bogota-octubre-2026/) | 102 | COP 725.000.000 | [10.5281/zenodo.23516420](https://doi.org/10.5281/zenodo.23516420) |
+| [Precio de venta de vivienda en estrato 4 en Hayuelos, Bogotá — octubre 2026](venta-estrato-4-hayuelos-bogota-octubre-2026/) | 102 | COP 543.590.000 | [10.5281/zenodo.23517504](https://doi.org/10.5281/zenodo.23517504) |
+| [Precio de venta de vivienda en estrato 4 en Los Andes, Bogotá — octubre 2026](venta-estrato-4-los-andes-bogota-octubre-2026/) | 101 | COP 850.000.000 | [10.5281/zenodo.23518199](https://doi.org/10.5281/zenodo.23518199) |
+| [Precio de arriendo de vivienda en estrato 5 en Pasadena, Bogotá — octubre 2026](arriendo-estrato-5-pasadena-bogota-octubre-2026/) | 100 | COP 3.400.000 | [10.5281/zenodo.23516486](https://doi.org/10.5281/zenodo.23516486) |
+| [Precio de venta de vivienda en estrato 4 en Pontevedra, Bogotá — octubre 2026](venta-estrato-4-pontevedra-bogota-octubre-2026/) | 100 | COP 807.500.000 | [10.5281/zenodo.23518152](https://doi.org/10.5281/zenodo.23518152) |
+| [Precio de venta de vivienda en estrato 4 en Belmira, Bogotá — octubre 2026](venta-estrato-4-belmira-bogota-octubre-2026/) | 99 | COP 680.000.000 | [10.5281/zenodo.23518167](https://doi.org/10.5281/zenodo.23518167) |
+| [Precio de venta de vivienda en estrato 4 en Lagos de Torca, Bogotá — octubre 2026](venta-estrato-4-lagos-de-torca-bogota-octubre-2026/) | 99 | COP 530.000.000 | [10.5281/zenodo.23518186](https://doi.org/10.5281/zenodo.23518186) |
+| [Precio de arriendo de vivienda en estrato 6 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-6-chapinero-bogota-octubre-2026/) | 98 | COP 10.300.000 | [10.5281/zenodo.23518158](https://doi.org/10.5281/zenodo.23518158) |
+| [Precio de arriendo de vivienda en estrato 3 en Las Nieves, Bogotá — octubre 2026](arriendo-estrato-3-las-nieves-bogota-octubre-2026/) | 98 | COP 1.750.000 | [10.5281/zenodo.23517501](https://doi.org/10.5281/zenodo.23517501) |
+| [Precio de arriendo de vivienda en estrato 4 en Ciudad Salitre, Bogotá — octubre 2026](arriendo-estrato-4-ciudad-salitre-bogota-octubre-2026/) | 96 | COP 3.087.050 | [10.5281/zenodo.23517671](https://doi.org/10.5281/zenodo.23517671) |
+| [Precio de venta de vivienda en estrato 4 en Centro Internacional, Bogotá — octubre 2026](venta-estrato-4-centro-internacional-bogota-octubre-2026/) | 95 | COP 520.000.000 | [10.5281/zenodo.23518292](https://doi.org/10.5281/zenodo.23518292) |
+| [Precio de venta de vivienda en estrato 4 en San Luis, Bogotá — octubre 2026](venta-estrato-4-san-luis-bogota-octubre-2026/) | 95 | COP 1.150.000.000 | [10.5281/zenodo.23517961](https://doi.org/10.5281/zenodo.23517961) |
+| [Precio de venta de vivienda en estrato 4 en Las Villas, Bogotá — octubre 2026](venta-estrato-4-las-villas-bogota-octubre-2026/) | 93 | COP 1.135.000.000 | [10.5281/zenodo.23518038](https://doi.org/10.5281/zenodo.23518038) |
+| [Precio de arriendo de vivienda en estrato 3 en Chapinero Central, Bogotá — octubre 2026](arriendo-estrato-3-chapinero-central-bogota-octubre-2026/) | 92 | COP 1.800.000 | [10.5281/zenodo.23517908](https://doi.org/10.5281/zenodo.23517908) |
+| [Precio de venta de vivienda en estrato 5 en Santa Ana Occidental, Bogotá — octubre 2026](venta-estrato-5-santa-ana-occidental-bogota-octubre-2026/) | 90 | COP 1.390.000.000 | [10.5281/zenodo.23518093](https://doi.org/10.5281/zenodo.23518093) |
+| [Precio de venta de vivienda en estrato 4 en Ciudad Salitre, Bogotá — octubre 2026](venta-estrato-4-ciudad-salitre-bogota-octubre-2026/) | 89 | COP 827.000.000 | [10.5281/zenodo.23518122](https://doi.org/10.5281/zenodo.23518122) |
+| [Precio de arriendo de vivienda en estrato 4 en La Castellana, Bogotá — octubre 2026](arriendo-estrato-4-la-castellana-bogota-octubre-2026/) | 88 | COP 4.000.000 | [10.5281/zenodo.23518470](https://doi.org/10.5281/zenodo.23518470) |
+| [Precio de arriendo de vivienda en estrato 3 en Engativá, Bogotá — octubre 2026](arriendo-estrato-3-engativa-bogota-octubre-2026/) | 88 | COP 1.600.000 | [10.5281/zenodo.23518313](https://doi.org/10.5281/zenodo.23518313) |
+| [Precio de arriendo de vivienda en estrato 4 en La Felicidad, Bogotá — octubre 2026](arriendo-estrato-4-la-felicidad-bogota-octubre-2026/) | 88 | COP 2.801.100 | [10.5281/zenodo.23518234](https://doi.org/10.5281/zenodo.23518234) |
+| [Precio de venta de vivienda en estrato 4 en Engativá, Bogotá — octubre 2026](venta-estrato-4-engativa-bogota-octubre-2026/) | 88 | COP 680.000.000 | [10.5281/zenodo.23518264](https://doi.org/10.5281/zenodo.23518264) |
+| [Precio de venta de vivienda en estrato 5 en Santa Paula, Bogotá — octubre 2026](venta-estrato-5-santa-paula-bogota-octubre-2026/) | 88 | COP 845.000.000 | [10.5281/zenodo.23518496](https://doi.org/10.5281/zenodo.23518496) |
+| [Precio de venta de vivienda en estrato 3 en San Antonio Norte, Bogotá — octubre 2026](venta-estrato-3-san-antonio-norte-bogota-octubre-2026/) | 87 | COP 270.000.000 | [10.5281/zenodo.23518431](https://doi.org/10.5281/zenodo.23518431) |
+| [Precio de venta de vivienda en estrato 3 en Suba, Bogotá — octubre 2026](venta-estrato-3-suba-bogota-octubre-2026/) | 87 | COP 290.000.000 | [10.5281/zenodo.23518514](https://doi.org/10.5281/zenodo.23518514) |
+| [Precio de arriendo de vivienda en estrato 5 en Chico Norte, Bogotá — octubre 2026](arriendo-estrato-5-chico-norte-bogota-octubre-2026/) | 86 | COP 3.970.000 | [10.5281/zenodo.23518427](https://doi.org/10.5281/zenodo.23518427) |
+| [Precio de venta de vivienda en estrato 5 en La Castellana, Bogotá — octubre 2026](venta-estrato-5-la-castellana-bogota-octubre-2026/) | 86 | COP 780.000.000 | [10.5281/zenodo.23518530](https://doi.org/10.5281/zenodo.23518530) |
+| [Precio de arriendo de vivienda en estrato 5 en Antiguo Country, Bogotá — octubre 2026](arriendo-estrato-5-antiguo-country-bogota-octubre-2026/) | 84 | COP 4.800.000 | [10.5281/zenodo.23518548](https://doi.org/10.5281/zenodo.23518548) |
+| [Precio de venta de vivienda en estrato 5 en Las Villas, Bogotá — octubre 2026](venta-estrato-5-las-villas-bogota-octubre-2026/) | 84 | COP 1.175.000.000 | [10.5281/zenodo.23518571](https://doi.org/10.5281/zenodo.23518571) |
+| [Precio de venta de vivienda en estrato 5 en El Nogal, Bogotá — octubre 2026](venta-estrato-5-el-nogal-bogota-octubre-2026/) | 81 | COP 1.350.000.000 | [10.5281/zenodo.23518462](https://doi.org/10.5281/zenodo.23518462) |
+| [Precio de venta de vivienda en estrato 4 en Palermo, Bogotá — octubre 2026](venta-estrato-4-palermo-bogota-octubre-2026/) | 81 | COP 1.100.000.000 | [10.5281/zenodo.23518260](https://doi.org/10.5281/zenodo.23518260) |
+| [Precio de venta de vivienda en estrato 5 en Alejandria, Bogotá — octubre 2026](venta-estrato-5-alejandria-bogota-octubre-2026/) | 80 | COP 1.130.000.000 | [10.5281/zenodo.23518691](https://doi.org/10.5281/zenodo.23518691) |
+| [Precio de venta de vivienda en estrato 5 en Chico Norte, Bogotá — octubre 2026](venta-estrato-5-chico-norte-bogota-octubre-2026/) | 79 | COP 755.000.000 | [10.5281/zenodo.23518345](https://doi.org/10.5281/zenodo.23518345) |
+| [Precio de venta de vivienda en estrato 5 en Pontevedra, Bogotá — octubre 2026](venta-estrato-5-pontevedra-bogota-octubre-2026/) | 79 | COP 1.160.000.000 | [10.5281/zenodo.23518476](https://doi.org/10.5281/zenodo.23518476) |
+| [Precio de venta de vivienda en estrato 5 en Chapinero Alto, Bogotá — octubre 2026](venta-estrato-5-chapinero-alto-bogota-octubre-2026/) | 78 | COP 1.065.000.000 | [10.5281/zenodo.23518958](https://doi.org/10.5281/zenodo.23518958) |
+| [Precio de venta de vivienda en estrato 5 en Santa Barbara Central, Bogotá — octubre 2026](venta-estrato-5-santa-barbara-central-bogota-octubre-2026/) | 78 | COP 870.000.000 | [10.5281/zenodo.23518504](https://doi.org/10.5281/zenodo.23518504) |
+| [Precio de venta de vivienda en estrato 3 en Lagos de Torca, Bogotá — octubre 2026](venta-estrato-3-lagos-de-torca-bogota-octubre-2026/) | 77 | COP 295.000.000 | [10.5281/zenodo.23519069](https://doi.org/10.5281/zenodo.23519069) |
+| [Precio de venta de vivienda en estrato 6 en San Jose de Bavaria, Bogotá — octubre 2026](venta-estrato-6-san-jose-de-bavaria-bogota-octubre-2026/) | 77 | COP 2.200.000.000 | [10.5281/zenodo.23518534](https://doi.org/10.5281/zenodo.23518534) |
+| [Precio de arriendo de vivienda en estrato 4 en Barrios Unidos, Bogotá — octubre 2026](arriendo-estrato-4-barrios-unidos-bogota-octubre-2026/) | 76 | COP 2.106.500 | [10.5281/zenodo.23518399](https://doi.org/10.5281/zenodo.23518399) |
+| [Precio de arriendo de vivienda en estrato 4 en Quinta Paredes, Bogotá — octubre 2026](arriendo-estrato-4-quinta-paredes-bogota-octubre-2026/) | 76 | COP 3.000.000 | [10.5281/zenodo.23518419](https://doi.org/10.5281/zenodo.23518419) |
+| [Precio de arriendo de vivienda en estrato 3 en Lagos de Torca, Bogotá — octubre 2026](arriendo-estrato-3-lagos-de-torca-bogota-octubre-2026/) | 75 | COP 1.580.000 | [10.5281/zenodo.23518446](https://doi.org/10.5281/zenodo.23518446) |
+| [Precio de venta de vivienda en estrato 5 en Chapinero, Bogotá — octubre 2026](venta-estrato-5-chapinero-bogota-octubre-2026/) | 74 | COP 967.500.000 | [10.5281/zenodo.23518528](https://doi.org/10.5281/zenodo.23518528) |
+| [Precio de venta de vivienda en estrato 5 en Chico, Bogotá — octubre 2026](venta-estrato-5-chico-bogota-octubre-2026/) | 74 | COP 1.125.000.000 | [10.5281/zenodo.23518597](https://doi.org/10.5281/zenodo.23518597) |
+| [Precio de venta de vivienda en estrato 2 en Engativá, Bogotá — octubre 2026](venta-estrato-2-engativa-bogota-octubre-2026/) | 74 | COP 450.000.000 | [10.5281/zenodo.23518546](https://doi.org/10.5281/zenodo.23518546) |
+| [Precio de venta de vivienda en estrato 4 en El Redil, Bogotá — octubre 2026](venta-estrato-4-el-redil-bogota-octubre-2026/) | 74 | COP 350.000.000 | [10.5281/zenodo.23519233](https://doi.org/10.5281/zenodo.23519233) |
+| [Precio de venta de vivienda en estrato 6 en Santa Barbara Oriental, Bogotá — octubre 2026](venta-estrato-6-santa-barbara-oriental-bogota-octubre-2026/) | 74 | COP 1.450.000.000 | [10.5281/zenodo.23518464](https://doi.org/10.5281/zenodo.23518464) |
+| [Precio de venta de vivienda en estrato 5 en Antiguo Country, Bogotá — octubre 2026](venta-estrato-5-antiguo-country-bogota-octubre-2026/) | 73 | COP 770.000.000 | [10.5281/zenodo.23519618](https://doi.org/10.5281/zenodo.23519618) |
+| [Precio de arriendo de vivienda en estrato 3 en Barrios Unidos, Bogotá — octubre 2026](arriendo-estrato-3-barrios-unidos-bogota-octubre-2026/) | 71 | COP 1.602.000 | [10.5281/zenodo.23518601](https://doi.org/10.5281/zenodo.23518601) |
+| [Precio de arriendo de vivienda en estrato 6 en Santa Ana, Bogotá — octubre 2026](arriendo-estrato-6-santa-ana-bogota-octubre-2026/) | 71 | COP 20.000.000 | [10.5281/zenodo.23518616](https://doi.org/10.5281/zenodo.23518616) |
+| [Precio de venta de vivienda en estrato 3 en Marsella, Bogotá — octubre 2026](venta-estrato-3-marsella-bogota-octubre-2026/) | 71 | COP 850.000.000 | [10.5281/zenodo.23518623](https://doi.org/10.5281/zenodo.23518623) |
+| [Precio de venta de vivienda en estrato 5 en Usaquen, Bogotá — octubre 2026](venta-estrato-5-usaquen-bogota-octubre-2026/) | 71 | COP 880.000.000 | [10.5281/zenodo.23519702](https://doi.org/10.5281/zenodo.23519702) |
+| [Precio de venta de vivienda en estrato 5 en Nuevo Country, Bogotá — octubre 2026](venta-estrato-5-nuevo-country-bogota-octubre-2026/) | 70 | COP 682.500.000 | [10.5281/zenodo.23519737](https://doi.org/10.5281/zenodo.23519737) |
+| [Precio de arriendo de vivienda en estrato 4 en Quinta Camacho, Bogotá — octubre 2026](arriendo-estrato-4-quinta-camacho-bogota-octubre-2026/) | 69 | COP 12.000.000 | [10.5281/zenodo.23521108](https://doi.org/10.5281/zenodo.23521108) |
+| [Precio de venta de vivienda en estrato 3 en La Candelaria, Bogotá — octubre 2026](venta-estrato-3-la-candelaria-bogota-octubre-2026/) | 69 | COP 660.000.000 | [10.5281/zenodo.23518618](https://doi.org/10.5281/zenodo.23518618) |
 | [Precio de venta de vivienda en estrato 5 en Niza Norte, Bogotá — octubre 2026](venta-estrato-5-niza-norte-bogota-octubre-2026/) | 69 | COP 1.200.000.000 |  |
 | [Precio de venta de vivienda en estrato 4 en Alameda, Bogotá — octubre 2026](venta-estrato-4-alameda-bogota-octubre-2026/) | 68 | COP 582.500.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Bella Suiza, Bogotá — octubre 2026](venta-estrato-6-bella-suiza-bogota-octubre-2026/) | 68 | COP 1.250.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Modelia, Bogotá — octubre 2026](arriendo-estrato-4-modelia-bogota-octubre-2026/) | 67 | COP 2.500.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-5-chapinero-bogota-octubre-2026/) | 66 | COP 4.296.500 |  |
-| [Precio de arriendo de vivienda en estrato 5 en Santa Barbara Occidental, Bogotá — octubre 2026](arriendo-estrato-5-santa-barbara-occidental-bogota-octubre-2026/) | 66 | COP 4.450.000 |  |
-| [Precio de venta de vivienda en estrato 2 en La Candelaria, Bogotá — octubre 2026](venta-estrato-2-la-candelaria-bogota-octubre-2026/) | 64 | COP 535.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en La Floresta, Bogotá — octubre 2026](venta-estrato-4-la-floresta-bogota-octubre-2026/) | 64 | COP 894.995.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Chapinero Central, Bogotá — octubre 2026](arriendo-estrato-4-chapinero-central-bogota-octubre-2026/) | 63 | COP 1.993.970 |  |
-| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Occidental, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-occidental-bogota-octubre-2026/) | 63 | COP 4.200.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Chapinero Central, Bogotá — octubre 2026](venta-estrato-4-chapinero-central-bogota-octubre-2026/) | 63 | COP 380.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Ciudad Salitre, Bogotá — octubre 2026](venta-estrato-5-ciudad-salitre-bogota-octubre-2026/) | 63 | COP 1.450.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Nueva Autopista, Bogotá — octubre 2026](venta-estrato-5-nueva-autopista-bogota-octubre-2026/) | 63 | COP 980.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en El Virrey, Bogotá — octubre 2026](venta-estrato-5-el-virrey-bogota-octubre-2026/) | 63 | COP 1.285.000.000 |  |
-| [Precio de arriendo de vivienda en estrato 4 en Fontibon, Bogotá — octubre 2026](arriendo-estrato-4-fontibon-bogota-octubre-2026/) | 62 | COP 2.400.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Colina Campestre, Bogotá — octubre 2026](venta-estrato-6-colina-campestre-bogota-octubre-2026/) | 62 | COP 1.810.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Santa Ana, Bogotá — octubre 2026](venta-estrato-5-santa-ana-bogota-octubre-2026/) | 62 | COP 1.499.700.000 |  |
-| [Precio de venta de vivienda en estrato 3 en El Tintal, Bogotá — octubre 2026](venta-estrato-3-el-tintal-bogota-octubre-2026/) | 62 | COP 262.500.000 |  |
-| [Precio de venta de vivienda en estrato 2 en Bosa, Bogotá — octubre 2026](venta-estrato-2-bosa-bogota-octubre-2026/) | 61 | COP 260.000.000 |  |
-| [Precio de venta de vivienda en estrato 4 en Usaquen, Bogotá — octubre 2026](venta-estrato-4-usaquen-bogota-octubre-2026/) | 61 | COP 605.000.000 |  |
+| [Precio de venta de vivienda en estrato 6 en Bella Suiza, Bogotá — octubre 2026](venta-estrato-6-bella-suiza-bogota-octubre-2026/) | 68 | COP 1.250.000.000 | [10.5281/zenodo.23518767](https://doi.org/10.5281/zenodo.23518767) |
+| [Precio de arriendo de vivienda en estrato 4 en Modelia, Bogotá — octubre 2026](arriendo-estrato-4-modelia-bogota-octubre-2026/) | 67 | COP 2.500.000 | [10.5281/zenodo.23518735](https://doi.org/10.5281/zenodo.23518735) |
+| [Precio de arriendo de vivienda en estrato 5 en Chapinero, Bogotá — octubre 2026](arriendo-estrato-5-chapinero-bogota-octubre-2026/) | 66 | COP 4.296.500 | [10.5281/zenodo.23518883](https://doi.org/10.5281/zenodo.23518883) |
+| [Precio de arriendo de vivienda en estrato 5 en Santa Barbara Occidental, Bogotá — octubre 2026](arriendo-estrato-5-santa-barbara-occidental-bogota-octubre-2026/) | 66 | COP 4.450.000 | [10.5281/zenodo.23518929](https://doi.org/10.5281/zenodo.23518929) |
+| [Precio de venta de vivienda en estrato 2 en La Candelaria, Bogotá — octubre 2026](venta-estrato-2-la-candelaria-bogota-octubre-2026/) | 64 | COP 535.000.000 | [10.5281/zenodo.23519004](https://doi.org/10.5281/zenodo.23519004) |
+| [Precio de venta de vivienda en estrato 4 en La Floresta, Bogotá — octubre 2026](venta-estrato-4-la-floresta-bogota-octubre-2026/) | 64 | COP 894.995.000 | [10.5281/zenodo.23519059](https://doi.org/10.5281/zenodo.23519059) |
+| [Precio de arriendo de vivienda en estrato 4 en Chapinero Central, Bogotá — octubre 2026](arriendo-estrato-4-chapinero-central-bogota-octubre-2026/) | 63 | COP 1.993.970 | [10.5281/zenodo.23519108](https://doi.org/10.5281/zenodo.23519108) |
+| [Precio de arriendo de vivienda en estrato 6 en Santa Barbara Occidental, Bogotá — octubre 2026](arriendo-estrato-6-santa-barbara-occidental-bogota-octubre-2026/) | 63 | COP 4.200.000 | [10.5281/zenodo.23519091](https://doi.org/10.5281/zenodo.23519091) |
+| [Precio de venta de vivienda en estrato 4 en Chapinero Central, Bogotá — octubre 2026](venta-estrato-4-chapinero-central-bogota-octubre-2026/) | 63 | COP 380.000.000 | [10.5281/zenodo.23518879](https://doi.org/10.5281/zenodo.23518879) |
+| [Precio de venta de vivienda en estrato 5 en Ciudad Salitre, Bogotá — octubre 2026](venta-estrato-5-ciudad-salitre-bogota-octubre-2026/) | 63 | COP 1.450.000.000 | [10.5281/zenodo.23519163](https://doi.org/10.5281/zenodo.23519163) |
+| [Precio de venta de vivienda en estrato 5 en Nueva Autopista, Bogotá — octubre 2026](venta-estrato-5-nueva-autopista-bogota-octubre-2026/) | 63 | COP 980.000.000 | [10.5281/zenodo.23519219](https://doi.org/10.5281/zenodo.23519219) |
+| [Precio de venta de vivienda en estrato 5 en El Virrey, Bogotá — octubre 2026](venta-estrato-5-el-virrey-bogota-octubre-2026/) | 63 | COP 1.285.000.000 | [10.5281/zenodo.23519386](https://doi.org/10.5281/zenodo.23519386) |
+| [Precio de arriendo de vivienda en estrato 4 en Fontibon, Bogotá — octubre 2026](arriendo-estrato-4-fontibon-bogota-octubre-2026/) | 62 | COP 2.400.000 | [10.5281/zenodo.23519197](https://doi.org/10.5281/zenodo.23519197) |
+| [Precio de venta de vivienda en estrato 6 en Colina Campestre, Bogotá — octubre 2026](venta-estrato-6-colina-campestre-bogota-octubre-2026/) | 62 | COP 1.810.000.000 | [10.5281/zenodo.23519553](https://doi.org/10.5281/zenodo.23519553) |
+| [Precio de venta de vivienda en estrato 5 en Santa Ana, Bogotá — octubre 2026](venta-estrato-5-santa-ana-bogota-octubre-2026/) | 62 | COP 1.499.700.000 | [10.5281/zenodo.23519169](https://doi.org/10.5281/zenodo.23519169) |
+| [Precio de venta de vivienda en estrato 3 en El Tintal, Bogotá — octubre 2026](venta-estrato-3-el-tintal-bogota-octubre-2026/) | 62 | COP 262.500.000 | [10.5281/zenodo.23519225](https://doi.org/10.5281/zenodo.23519225) |
+| [Precio de venta de vivienda en estrato 2 en Bosa, Bogotá — octubre 2026](venta-estrato-2-bosa-bogota-octubre-2026/) | 61 | COP 260.000.000 | [10.5281/zenodo.23519557](https://doi.org/10.5281/zenodo.23519557) |
+| [Precio de venta de vivienda en estrato 4 en Usaquen, Bogotá — octubre 2026](venta-estrato-4-usaquen-bogota-octubre-2026/) | 61 | COP 605.000.000 | [10.5281/zenodo.23519554](https://doi.org/10.5281/zenodo.23519554) |
 | [Precio de venta de vivienda en estrato 3 en San Cristobal Norte, Bogotá — octubre 2026](venta-estrato-3-san-cristobal-norte-bogota-octubre-2026/) | 60 | COP 525.000.000 |  |
 | [Precio de arriendo de vivienda en estrato 5 en Colina Campestre, Bogotá — octubre 2026](arriendo-estrato-5-colina-campestre-bogota-octubre-2026/) | 59 | COP 4.200.000 |  |
-| [Precio de arriendo de vivienda en estrato 5 en El Virrey, Bogotá — octubre 2026](arriendo-estrato-5-el-virrey-bogota-octubre-2026/) | 59 | COP 5.800.000 |  |
+| [Precio de arriendo de vivienda en estrato 5 en El Virrey, Bogotá — octubre 2026](arriendo-estrato-5-el-virrey-bogota-octubre-2026/) | 59 | COP 5.800.000 | [10.5281/zenodo.23519809](https://doi.org/10.5281/zenodo.23519809) |
 | [Precio de venta de vivienda en estrato 4 en Montevideo, Bogotá — octubre 2026](venta-estrato-4-montevideo-bogota-octubre-2026/) | 58 | COP 559.500.000 |  |
-| [Precio de venta de vivienda en estrato 2 en El Tintal, Bogotá — octubre 2026](venta-estrato-2-el-tintal-bogota-octubre-2026/) | 58 | COP 200.000.000 |  |
+| [Precio de venta de vivienda en estrato 2 en El Tintal, Bogotá — octubre 2026](venta-estrato-2-el-tintal-bogota-octubre-2026/) | 58 | COP 200.000.000 | [10.5281/zenodo.23519556](https://doi.org/10.5281/zenodo.23519556) |
 | [Precio de venta de vivienda en estrato 3 en Toberin, Bogotá — octubre 2026](venta-estrato-3-toberin-bogota-octubre-2026/) | 58 | COP 290.000.000 |  |
 | [Precio de arriendo de vivienda en estrato 3 en Centro Internacional, Bogotá — octubre 2026](arriendo-estrato-3-centro-internacional-bogota-octubre-2026/) | 57 | COP 2.000.000 |  |
 | [Precio de venta de vivienda en estrato 6 en Altos de Sotileza, Bogotá — octubre 2026](venta-estrato-6-altos-de-sotileza-bogota-octubre-2026/) | 57 | COP 1.850.000.000 |  |
 | [Precio de venta de vivienda en estrato 3 en Britalia, Bogotá — octubre 2026](venta-estrato-3-britalia-bogota-octubre-2026/) | 56 | COP 399.500.000 |  |
 | [Precio de arriendo de vivienda en estrato 4 en El Redil, Bogotá — octubre 2026](arriendo-estrato-4-el-redil-bogota-octubre-2026/) | 54 | COP 1.575.000 |  |
-| [Precio de venta de vivienda en estrato 6 en Gratamira, Bogotá — octubre 2026](venta-estrato-6-gratamira-bogota-octubre-2026/) | 54 | COP 1.500.000.000 |  |
+| [Precio de venta de vivienda en estrato 6 en Gratamira, Bogotá — octubre 2026](venta-estrato-6-gratamira-bogota-octubre-2026/) | 54 | COP 1.500.000.000 | [10.5281/zenodo.23519703](https://doi.org/10.5281/zenodo.23519703) |
 | [Precio de venta de vivienda en estrato 4 en Santa Teresa, Bogotá — octubre 2026](venta-estrato-4-santa-teresa-bogota-octubre-2026/) | 54 | COP 467.500.000 |  |
 | [Precio de venta de vivienda en estrato 2 en Tierra Buena, Bogotá — octubre 2026](venta-estrato-2-tierra-buena-bogota-octubre-2026/) | 54 | COP 190.000.000 |  |
 | [Precio de arriendo de vivienda en estrato 4 en La Macarena, Bogotá — octubre 2026](arriendo-estrato-4-la-macarena-bogota-octubre-2026/) | 53 | COP 3.000.000 |  |
 | [Precio de venta de vivienda en estrato 4 en Los Cedros, Bogotá — octubre 2026](venta-estrato-4-los-cedros-bogota-octubre-2026/) | 53 | COP 606.000.000 |  |
 | [Precio de venta de vivienda en estrato 5 en Ciudad Salitre Occidental, Bogotá — octubre 2026](venta-estrato-5-ciudad-salitre-occidental-bogota-octubre-2026/) | 53 | COP 1.600.000.000 |  |
-| [Precio de venta de vivienda en estrato 5 en Los Rosales, Bogotá — octubre 2026](venta-estrato-5-los-rosales-bogota-octubre-2026/) | 53 | COP 1.620.000.000 |  |
+| [Precio de venta de vivienda en estrato 5 en Los Rosales, Bogotá — octubre 2026](venta-estrato-5-los-rosales-bogota-octubre-2026/) | 53 | COP 1.620.000.000 | [10.5281/zenodo.23521109](https://doi.org/10.5281/zenodo.23521109) |
 | [Precio de arriendo de vivienda en estrato 5 en El Nogal, Bogotá — octubre 2026](arriendo-estrato-5-el-nogal-bogota-octubre-2026/) | 52 | COP 7.000.000 |  |
 | [Precio de venta de vivienda en estrato 6 en Niza Suba, Bogotá — octubre 2026](venta-estrato-6-niza-suba-bogota-octubre-2026/) | 52 | COP 1.800.000.000 |  |
 | [Precio de arriendo de vivienda en estrato 5 en Santa Barbara Oriental, Bogotá — octubre 2026](arriendo-estrato-5-santa-barbara-oriental-bogota-octubre-2026/) | 51 | COP 3.600.000 |  |
