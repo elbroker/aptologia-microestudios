@@ -444,7 +444,7 @@
 | [Precio de venta de casas de 4 o más habitaciones en estrato 1 en Bogotá — octubre 2026](venta-casas-4-o-mas-habitaciones-estrato-1-bogota-octubre-2026/) | 144 | COP 580.000.000 | [10.5281/zenodo.23525256](https://doi.org/10.5281/zenodo.23525256) |
 | [Precio de arriendo de apartamentos de 4 o más habitaciones en estrato 5 en Bogotá — octubre 2026](arriendo-apartamentos-4-o-mas-habitaciones-estrato-5-bogota-octubre-2026/) | 126 | COP 9.000.000 | [10.5281/zenodo.23525284](https://doi.org/10.5281/zenodo.23525284) |
 | [Precio de venta de casas de 2 habitaciones en estrato 3 en Bogotá — octubre 2026](venta-casas-2-habitaciones-estrato-3-bogota-octubre-2026/) | 122 | COP 520.000.000 |  |
-| [Precio de venta de casas de 2 habitaciones en estrato 2 en Bogotá — octubre 2026](venta-casas-2-habitaciones-estrato-2-bogota-octubre-2026/) | 119 | COP 200.000.000 | [10.5281/zenodo.23525340](https://doi.org/10.5281/zenodo.23525340) |
+| [Precio de venta de casas de 2 habitaciones en estrato 2 en Bogotá — octubre 2026](venta-casas-2-habitaciones-estrato-2-bogota-octubre-2026/) | 119 | COP 200.000.000 |  |
 | [Precio de arriendo de casas de 3 habitaciones en estrato 5 en Bogotá — octubre 2026](arriendo-casas-3-habitaciones-estrato-5-bogota-octubre-2026/) | 109 | COP 7.800.000 |  |
 | [Precio de venta de apartamentos de 3 habitaciones en estrato 1 en Bogotá — octubre 2026](venta-apartamentos-3-habitaciones-estrato-1-bogota-octubre-2026/) | 101 | COP 280.000.000 |  |
 | [Precio de venta de casas de 4 o más habitaciones en estrato 4 en Cúcuta — octubre 2026](venta-casas-4-o-mas-habitaciones-estrato-4-cucuta-octubre-2026/) | 96 | COP 635.000.000 |  |
