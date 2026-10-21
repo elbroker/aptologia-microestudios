@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 340 millones (n = 70); 2 habitaciones, COP 
 - n = 1525 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/suba
+- Fuente: [inmuebles en venta en Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/suba)
 
 Archivos: `venta-pisos-4-a-8-localidad-suba-bogota-octubre-2026.pdf`, `venta-pisos-4-a-8-localidad-suba-bogota-octubre-2026.csv`, `venta-pisos-4-a-8-localidad-suba-bogota-octubre-2026.png`.

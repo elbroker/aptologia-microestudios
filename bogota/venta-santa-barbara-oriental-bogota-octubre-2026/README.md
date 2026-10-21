@@ -17,6 +17,6 @@ El área mediana anunciada es 121 m² (en Bogotá: 146 m²).
 - n = 183 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-barbara-oriental
+- Fuente: [inmuebles en venta en Santa Barbara Oriental, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-barbara-oriental)
 
 Archivos: `venta-santa-barbara-oriental-bogota-octubre-2026.pdf`, `venta-santa-barbara-oriental-bogota-octubre-2026.csv`, `venta-santa-barbara-oriental-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 142 m² (referencia: 160 m²).
 - n = 371 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/barrios-unidos
+- Fuente: [inmuebles en venta en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/barrios-unidos)
 
 Archivos: `venta-pisos-1-a-3-localidad-barrios-unidos-bogota-octubre-2026.pdf`, `venta-pisos-1-a-3-localidad-barrios-unidos-bogota-octubre-2026.csv`, `venta-pisos-1-a-3-localidad-barrios-unidos-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 110 m² (referencia: 101 m²).
 - n = 134 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-barbara-central
+- Fuente: [estrato y precios de Santa Barbara Central, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-barbara-central)
 
 Archivos: `arriendo-estrato-6-santa-barbara-central-bogota-octubre-2026.pdf`, `arriendo-estrato-6-santa-barbara-central-bogota-octubre-2026.csv`, `arriendo-estrato-6-santa-barbara-central-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.902.750 a COP 3.450.000 (razón 1,8), una 
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-martin
+- Fuente: [arriendos en San Martin, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-martin)
 
 Archivos: `arriendo-san-martin-bogota-octubre-2026.pdf`, `arriendo-san-martin-bogota-octubre-2026.csv`, `arriendo-san-martin-bogota-octubre-2026.png`.

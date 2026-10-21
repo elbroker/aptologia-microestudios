@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 10.060.750 a COP 21.250.000 (razón 2,1), un
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chico-alto
+- Fuente: [arriendos en Chicó Alto, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chico-alto)
 
 Archivos: `arriendo-apartamentos-chico-alto-bogota-octubre-2026.pdf`, `arriendo-apartamentos-chico-alto-bogota-octubre-2026.csv`, `arriendo-apartamentos-chico-alto-bogota-octubre-2026.png`.

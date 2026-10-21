@@ -17,6 +17,6 @@ El estrato más frecuente es 6.
 - n = 588 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chapinero
+- Fuente: [inmuebles en venta en Chapinero, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chapinero)
 
 Archivos: `venta-70-a-100-m2-localidad-chapinero-bogota-octubre-2026.pdf`, `venta-70-a-100-m2-localidad-chapinero-bogota-octubre-2026.csv`, `venta-70-a-100-m2-localidad-chapinero-bogota-octubre-2026.png`.

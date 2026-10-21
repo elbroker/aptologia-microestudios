@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 485 millones (n = 3263); 2 habitaciones, CO
 - n = 43405 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-parqueadero-moto/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-con-parqueadero-bogota-octubre-2026.pdf`, `venta-con-parqueadero-bogota-octubre-2026.csv`, `venta-con-parqueadero-bogota-octubre-2026.png`.

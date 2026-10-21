@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.257.911/m² (−5 % frente a COP 6.557.3
 - n = 88 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cerros-de-niza
+- Fuente: [inmuebles en venta en Cerros de Niza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cerros-de-niza)
 
 Archivos: `venta-cerros-de-niza-bogota-octubre-2026.pdf`, `venta-cerros-de-niza-bogota-octubre-2026.csv`, `venta-cerros-de-niza-bogota-octubre-2026.png`.

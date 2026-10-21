@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 7.500.000) es 2,1 veces el infe
 - n = 374 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara
+- Fuente: [arriendos en Santa Barbara, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara)
 
 Archivos: `arriendo-apartamentos-santa-barbara-bogota-octubre-2026.pdf`, `arriendo-apartamentos-santa-barbara-bogota-octubre-2026.csv`, `arriendo-apartamentos-santa-barbara-bogota-octubre-2026.png`.

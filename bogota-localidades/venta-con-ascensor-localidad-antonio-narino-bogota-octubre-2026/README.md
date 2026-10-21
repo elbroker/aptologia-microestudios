@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 245 millones (n = 6); 2 habitaciones, COP 2
 - n = 72 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-con-ascensor-localidad-antonio-narino-bogota-octubre-2026.pdf`, `venta-con-ascensor-localidad-antonio-narino-bogota-octubre-2026.csv`, `venta-con-ascensor-localidad-antonio-narino-bogota-octubre-2026.png`.

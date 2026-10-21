@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 7.584.270/m² (+4 % frente a COP 7.311.919
 - n = 109 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/la-carolina
+- Fuente: [apartamentos en venta en La Carolina, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/la-carolina)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-la-carolina-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-la-carolina-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-la-carolina-bogota-octubre-2026.png`.

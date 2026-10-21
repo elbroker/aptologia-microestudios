@@ -17,6 +17,6 @@ El área mediana es 47 m² (referencia: 52 m²).
 - n = 172 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bosa
+- Fuente: [inmuebles en venta en Bosa, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bosa)
 
 Archivos: `venta-6-a-15-anos-localidad-bosa-bogota-octubre-2026.pdf`, `venta-6-a-15-anos-localidad-bosa-bogota-octubre-2026.csv`, `venta-6-a-15-anos-localidad-bosa-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.741.000 (n = 367); 2 habitaciones, COP 6.
 - n = 1001 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-chapinero
+- Fuente: [arriendos en Chapinero, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-chapinero)
 
 Archivos: `arriendo-pisos-1-a-3-localidad-chapinero-bogota-octubre-2026.pdf`, `arriendo-pisos-1-a-3-localidad-chapinero-bogota-octubre-2026.csv`, `arriendo-pisos-1-a-3-localidad-chapinero-bogota-octubre-2026.png`.

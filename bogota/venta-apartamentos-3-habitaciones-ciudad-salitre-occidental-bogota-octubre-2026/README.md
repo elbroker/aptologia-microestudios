@@ -17,6 +17,6 @@ El área mediana anunciada es 104 m² (en Bogotá: 126 m²).
 - n = 61 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/ciudad-salitre-occidental
+- Fuente: [apartamentos en venta en Ciudad Salitre Occidental, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/ciudad-salitre-occidental)
 
 Archivos: `venta-apartamentos-3-habitaciones-ciudad-salitre-occidental-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-ciudad-salitre-occidental-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-ciudad-salitre-occidental-bogota-octubre-2026.png`.

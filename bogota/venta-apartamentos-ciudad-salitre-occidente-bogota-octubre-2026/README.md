@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 1,02 mil millones) es 1,8 v
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/ciudad-salitre-occidente
+- Fuente: [apartamentos en venta en Ciudad Salitre Occidente, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/ciudad-salitre-occidente)
 
 Archivos: `venta-apartamentos-ciudad-salitre-occidente-bogota-octubre-2026.pdf`, `venta-apartamentos-ciudad-salitre-occidente-bogota-octubre-2026.csv`, `venta-apartamentos-ciudad-salitre-occidente-bogota-octubre-2026.png`.

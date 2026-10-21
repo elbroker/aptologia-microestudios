@@ -17,6 +17,6 @@ El área mediana es 197 m² (referencia: 134 m²).
 - n = 435 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cucuta
+- Fuente: [inmuebles en venta en Cúcuta en Aptología](https://www.aptologia.com/venta/cucuta)
 
 Archivos: `venta-casas-cucuta-octubre-2026.pdf`, `venta-casas-cucuta-octubre-2026.csv`, `venta-casas-cucuta-octubre-2026.png`.

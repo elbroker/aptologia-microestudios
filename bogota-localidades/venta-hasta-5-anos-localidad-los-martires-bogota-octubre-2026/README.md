@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 240 millones (n = 128); 2 habitaciones, COP
 - n = 325 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/los-martires
+- Fuente: [inmuebles en venta en Los Mártires, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/los-martires)
 
 Archivos: `venta-hasta-5-anos-localidad-los-martires-bogota-octubre-2026.pdf`, `venta-hasta-5-anos-localidad-los-martires-bogota-octubre-2026.csv`, `venta-hasta-5-anos-localidad-los-martires-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,49 mil millones a COP 3,00 mil millones (r
 - n = 268 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-alto
+- Fuente: [apartamentos en venta en Chicó Alto, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-alto)
 
 Archivos: `venta-apartamentos-chico-alto-bogota-octubre-2026.pdf`, `venta-apartamentos-chico-alto-bogota-octubre-2026.csv`, `venta-apartamentos-chico-alto-bogota-octubre-2026.png`.

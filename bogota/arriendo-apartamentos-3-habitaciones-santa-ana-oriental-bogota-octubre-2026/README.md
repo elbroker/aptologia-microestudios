@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 5.050.000 con 2 habitacion
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-ana-oriental
+- Fuente: [arriendos en Santa Ana Oriental, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-ana-oriental)
 
 Archivos: `arriendo-apartamentos-3-habitaciones-santa-ana-oriental-bogota-octubre-2026.pdf`, `arriendo-apartamentos-3-habitaciones-santa-ana-oriental-bogota-octubre-2026.csv`, `arriendo-apartamentos-3-habitaciones-santa-ana-oriental-bogota-octubre-2026.png`.

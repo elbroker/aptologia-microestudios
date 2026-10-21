@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 99 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/lagos-de-torca
+- Fuente: [arriendos en Lagos de Torca, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/lagos-de-torca)
 
 Archivos: `arriendo-apartamentos-2-habitaciones-lagos-de-torca-bogota-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-lagos-de-torca-bogota-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-lagos-de-torca-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.557.500 a COP 4.775.000 (razón 1,9).
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/nicolas-de-federman
+- Fuente: [estrato y precios de Nicolas de Federman, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/nicolas-de-federman)
 
 Archivos: `arriendo-estrato-4-nicolas-de-federman-bogota-octubre-2026.pdf`, `arriendo-estrato-4-nicolas-de-federman-bogota-octubre-2026.csv`, `arriendo-estrato-4-nicolas-de-federman-bogota-octubre-2026.png`.

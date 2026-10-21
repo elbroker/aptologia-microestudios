@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (51 avisos, mediana COP 6.50
 - n = 162 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara-central
+- Fuente: [arriendos en Santa Barbara Central, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara-central)
 
 Archivos: `arriendo-santa-barbara-central-bogota-octubre-2026.pdf`, `arriendo-santa-barbara-central-bogota-octubre-2026.csv`, `arriendo-santa-barbara-central-bogota-octubre-2026.png`.

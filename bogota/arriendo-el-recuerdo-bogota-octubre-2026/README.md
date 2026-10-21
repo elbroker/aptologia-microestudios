@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 55 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/el-recuerdo
+- Fuente: [arriendos en El Recuerdo, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/el-recuerdo)
 
 Archivos: `arriendo-el-recuerdo-bogota-octubre-2026.pdf`, `arriendo-el-recuerdo-bogota-octubre-2026.csv`, `arriendo-el-recuerdo-bogota-octubre-2026.png`.

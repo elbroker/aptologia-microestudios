@@ -17,6 +17,6 @@ El área mediana es 112 m² (referencia: 76 m²).
 - n = 495 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-suba
+- Fuente: [arriendos en Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-suba)
 
 Archivos: `arriendo-6-a-15-anos-localidad-suba-bogota-octubre-2026.pdf`, `arriendo-6-a-15-anos-localidad-suba-bogota-octubre-2026.csv`, `arriendo-6-a-15-anos-localidad-suba-bogota-octubre-2026.png`.

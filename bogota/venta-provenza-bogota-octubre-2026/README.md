@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/provenza
+- Fuente: [inmuebles en venta en Provenza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/provenza)
 
 Archivos: `venta-provenza-bogota-octubre-2026.pdf`, `venta-provenza-bogota-octubre-2026.csv`, `venta-provenza-bogota-octubre-2026.png`.

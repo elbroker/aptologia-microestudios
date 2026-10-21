@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.597.500 a COP 3.037.500 (razón 1,9), una 
 - n = 48 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/gran-america
+- Fuente: [arriendos en Gran America, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/gran-america)
 
 Archivos: `arriendo-gran-america-bogota-octubre-2026.pdf`, `arriendo-gran-america-bogota-octubre-2026.csv`, `arriendo-gran-america-bogota-octubre-2026.png`.

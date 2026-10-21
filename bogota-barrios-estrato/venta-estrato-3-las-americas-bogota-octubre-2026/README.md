@@ -17,6 +17,6 @@ El 79 % de los avisos tiene al menos un parqueadero.
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/las-americas
+- Fuente: [estrato y precios de Las Americas, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/las-americas)
 
 Archivos: `venta-estrato-3-las-americas-bogota-octubre-2026.pdf`, `venta-estrato-3-las-americas-bogota-octubre-2026.csv`, `venta-estrato-3-las-americas-bogota-octubre-2026.png`.

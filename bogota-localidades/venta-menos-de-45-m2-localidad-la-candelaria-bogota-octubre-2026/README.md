@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 240 millones a COP 420 millones (razón 1,8)
 - n = 73 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/la-candelaria
+- Fuente: [inmuebles en venta en La Candelaria, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/la-candelaria)
 
 Archivos: `venta-menos-de-45-m2-localidad-la-candelaria-bogota-octubre-2026.pdf`, `venta-menos-de-45-m2-localidad-la-candelaria-bogota-octubre-2026.csv`, `venta-menos-de-45-m2-localidad-la-candelaria-bogota-octubre-2026.png`.

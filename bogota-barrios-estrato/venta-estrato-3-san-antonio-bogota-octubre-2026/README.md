@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 15 años.
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/san-antonio
+- Fuente: [estrato y precios de San Antonio, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/san-antonio)
 
 Archivos: `venta-estrato-3-san-antonio-bogota-octubre-2026.pdf`, `venta-estrato-3-san-antonio-bogota-octubre-2026.csv`, `venta-estrato-3-san-antonio-bogota-octubre-2026.png`.

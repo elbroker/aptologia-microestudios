@@ -17,6 +17,6 @@ El área mediana anunciada es 116 m² (en Bogotá: 102 m²).
 - n = 100 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/niza
+- Fuente: [apartamentos en venta en Niza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/niza)
 
 Archivos: `venta-apartamentos-niza-bogota-octubre-2026.pdf`, `venta-apartamentos-niza-bogota-octubre-2026.csv`, `venta-apartamentos-niza-bogota-octubre-2026.png`.

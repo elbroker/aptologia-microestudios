@@ -17,6 +17,6 @@ El segmento con más oferta es el de 1 habitación (27 avisos, mediana COP 270 m
 - n = 68 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/gran-america
+- Fuente: [inmuebles en venta en Gran America, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/gran-america)
 
 Archivos: `venta-gran-america-bogota-octubre-2026.pdf`, `venta-gran-america-bogota-octubre-2026.csv`, `venta-gran-america-bogota-octubre-2026.png`.

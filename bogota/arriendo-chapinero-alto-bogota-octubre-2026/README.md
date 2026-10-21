@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.100.000 a COP 4.520.000 (razón 2,2), una 
 - n = 268 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chapinero-alto
+- Fuente: [arriendos en Chapinero Alto, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chapinero-alto)
 
 Archivos: `arriendo-chapinero-alto-bogota-octubre-2026.pdf`, `arriendo-chapinero-alto-bogota-octubre-2026.csv`, `arriendo-chapinero-alto-bogota-octubre-2026.png`.

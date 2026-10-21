@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (21 casos), su mediana es COP 278.900
 - n = 64 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/las-nieves
+- Fuente: [apartaestudios en arriendo en Las Nieves, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/las-nieves)
 
 Archivos: `arriendo-apartaestudios-las-nieves-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-las-nieves-bogota-octubre-2026.csv`, `arriendo-apartaestudios-las-nieves-bogota-octubre-2026.png`.

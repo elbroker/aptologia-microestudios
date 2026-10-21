@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/chico
+- Fuente: [apartaestudios en arriendo en Chico, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/chico)
 
 Archivos: `arriendo-apartaestudios-chico-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-chico-bogota-octubre-2026.csv`, `arriendo-apartaestudios-chico-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 3.100.000) es 1,7 veces el 
 - n = 65 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/teusaquillo
+- Fuente: [arriendos en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/teusaquillo)
 
 Archivos: `arriendo-apartamentos-teusaquillo-bogota-octubre-2026.pdf`, `arriendo-apartamentos-teusaquillo-bogota-octubre-2026.csv`, `arriendo-apartamentos-teusaquillo-bogota-octubre-2026.png`.

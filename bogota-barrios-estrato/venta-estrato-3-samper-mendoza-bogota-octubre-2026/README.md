@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 290 millones a COP 398 millones (razón 1,4)
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/samper-mendoza
+- Fuente: [estrato y precios de Samper Mendoza, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/samper-mendoza)
 
 Archivos: `venta-estrato-3-samper-mendoza-bogota-octubre-2026.pdf`, `venta-estrato-3-samper-mendoza-bogota-octubre-2026.csv`, `venta-estrato-3-samper-mendoza-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 2.
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/villa-gladys
+- Fuente: [apartamentos en venta en Villa Gladys, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/villa-gladys)
 
 Archivos: `venta-apartamentos-villa-gladys-bogota-octubre-2026.pdf`, `venta-apartamentos-villa-gladys-bogota-octubre-2026.csv`, `venta-apartamentos-villa-gladys-bogota-octubre-2026.png`.

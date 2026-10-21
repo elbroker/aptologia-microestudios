@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 103 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/el-redil
+- Fuente: [arriendos en El Redil, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/el-redil)
 
 Archivos: `arriendo-el-redil-bogota-octubre-2026.pdf`, `arriendo-el-redil-bogota-octubre-2026.csv`, `arriendo-el-redil-bogota-octubre-2026.png`.

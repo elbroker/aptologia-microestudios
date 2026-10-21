@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 150 millones a COP 282 millones (razón 1,9)
 - n = 68 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/ibague
+- Fuente: [inmuebles en venta en Ibagué en Aptología](https://www.aptologia.com/venta/ibague)
 
 Archivos: `venta-en-conjunto-cerrado-ibague-octubre-2026.pdf`, `venta-en-conjunto-cerrado-ibague-octubre-2026.csv`, `venta-en-conjunto-cerrado-ibague-octubre-2026.png`.

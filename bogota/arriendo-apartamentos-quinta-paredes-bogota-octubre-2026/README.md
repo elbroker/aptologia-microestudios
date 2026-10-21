@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (23 casos), su mediana es COP 366.400
 - n = 48 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/quinta-paredes
+- Fuente: [arriendos en Quinta Paredes, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/quinta-paredes)
 
 Archivos: `arriendo-apartamentos-quinta-paredes-bogota-octubre-2026.pdf`, `arriendo-apartamentos-quinta-paredes-bogota-octubre-2026.csv`, `arriendo-apartamentos-quinta-paredes-bogota-octubre-2026.png`.

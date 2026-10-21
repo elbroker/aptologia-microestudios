@@ -17,6 +17,6 @@ El área mediana es 122 m² (referencia: 110 m²).
 - n = 116 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/el-virrey
+- Fuente: [estrato y precios de El Virrey, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/el-virrey)
 
 Archivos: `arriendo-estrato-6-el-virrey-bogota-octubre-2026.pdf`, `arriendo-estrato-6-el-virrey-bogota-octubre-2026.csv`, `arriendo-estrato-6-el-virrey-bogota-octubre-2026.png`.

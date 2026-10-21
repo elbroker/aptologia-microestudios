@@ -17,6 +17,6 @@ El área mediana es 152 m² (referencia: 138 m²).
 - n = 420 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-paula
+- Fuente: [estrato y precios de Santa Paula, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-paula)
 
 Archivos: `venta-estrato-6-santa-paula-bogota-octubre-2026.pdf`, `venta-estrato-6-santa-paula-bogota-octubre-2026.csv`, `venta-estrato-6-santa-paula-bogota-octubre-2026.png`.

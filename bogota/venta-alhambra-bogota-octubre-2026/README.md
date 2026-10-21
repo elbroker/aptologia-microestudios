@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (158 avisos, mediana 
 - n = 306 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/alhambra
+- Fuente: [inmuebles en venta en Alhambra, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/alhambra)
 
 Archivos: `venta-alhambra-bogota-octubre-2026.pdf`, `venta-alhambra-bogota-octubre-2026.csv`, `venta-alhambra-bogota-octubre-2026.png`.

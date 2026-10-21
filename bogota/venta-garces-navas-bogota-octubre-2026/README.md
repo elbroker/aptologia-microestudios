@@ -17,6 +17,6 @@ El área mediana anunciada es 136 m² (en Bogotá: 146 m²).
 - n = 57 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/garces-navas
+- Fuente: [inmuebles en venta en Garces Navas, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/garces-navas)
 
 Archivos: `venta-garces-navas-bogota-octubre-2026.pdf`, `venta-garces-navas-bogota-octubre-2026.csv`, `venta-garces-navas-bogota-octubre-2026.png`.

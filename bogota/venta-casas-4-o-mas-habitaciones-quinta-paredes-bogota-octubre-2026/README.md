@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 2,30 mil millones) es 1,7 v
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/quinta-paredes
+- Fuente: [casas en venta en Quinta Paredes, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/quinta-paredes)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-quinta-paredes-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-quinta-paredes-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-quinta-paredes-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 87 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/barrios-unidos
+- Fuente: [arriendos en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/barrios-unidos)
 
 Archivos: `arriendo-apartamentos-barrios-unidos-bogota-octubre-2026.pdf`, `arriendo-apartamentos-barrios-unidos-bogota-octubre-2026.csv`, `arriendo-apartamentos-barrios-unidos-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 240 millones (n = 9); 3 habitaciones, COP 
 - n = 74 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-con-terraza-o-balcon-localidad-san-cristobal-bogota-octubre-2026.pdf`, `venta-con-terraza-o-balcon-localidad-san-cristobal-bogota-octubre-2026.csv`, `venta-con-terraza-o-balcon-localidad-san-cristobal-bogota-octubre-2026.png`.

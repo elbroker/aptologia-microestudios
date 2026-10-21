@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,95 mil millones a COP 3,00 mil millones (r
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/casa-blanca
+- Fuente: [estrato y precios de Casa Blanca, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/casa-blanca)
 
 Archivos: `venta-estrato-6-casa-blanca-bogota-octubre-2026.pdf`, `venta-estrato-6-casa-blanca-bogota-octubre-2026.csv`, `venta-estrato-6-casa-blanca-bogota-octubre-2026.png`.

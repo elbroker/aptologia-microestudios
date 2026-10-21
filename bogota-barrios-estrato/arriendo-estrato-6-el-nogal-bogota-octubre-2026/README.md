@@ -17,6 +17,6 @@ El área mediana es 186 m² (referencia: 164 m²).
 - n = 178 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/el-nogal
+- Fuente: [estrato y precios de El Nogal, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/el-nogal)
 
 Archivos: `arriendo-estrato-6-el-nogal-bogota-octubre-2026.pdf`, `arriendo-estrato-6-el-nogal-bogota-octubre-2026.csv`, `arriendo-estrato-6-el-nogal-bogota-octubre-2026.png`.

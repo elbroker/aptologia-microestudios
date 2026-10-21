@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 229 millones a COP 285 millones (razón 1,2)
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/ismael-perdomo
+- Fuente: [estrato y precios de Ismael Perdomo, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/ismael-perdomo)
 
 Archivos: `venta-estrato-3-ismael-perdomo-bogota-octubre-2026.pdf`, `venta-estrato-3-ismael-perdomo-bogota-octubre-2026.csv`, `venta-estrato-3-ismael-perdomo-bogota-octubre-2026.png`.

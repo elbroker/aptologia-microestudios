@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.646.018/m² (−2 % frente a COP 4.725.0
 - n = 63 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/castilla
+- Fuente: [casas en venta en Castilla, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/castilla)
 
 Archivos: `venta-casas-castilla-bogota-octubre-2026.pdf`, `venta-casas-castilla-bogota-octubre-2026.csv`, `venta-casas-castilla-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.397.674/m² (−2 % frente a COP 6.557.3
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cedritos-contador
+- Fuente: [inmuebles en venta en Cedritos Contador, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cedritos-contador)
 
 Archivos: `venta-cedritos-contador-bogota-octubre-2026.pdf`, `venta-cedritos-contador-bogota-octubre-2026.csv`, `venta-cedritos-contador-bogota-octubre-2026.png`.

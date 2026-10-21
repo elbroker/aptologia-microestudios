@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (48 avisos, mediana C
 - n = 60 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/casa-blanca
+- Fuente: [casas en venta en Casa Blanca, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/casa-blanca)
 
 Archivos: `venta-casas-casa-blanca-bogota-octubre-2026.pdf`, `venta-casas-casa-blanca-bogota-octubre-2026.csv`, `venta-casas-casa-blanca-bogota-octubre-2026.png`.

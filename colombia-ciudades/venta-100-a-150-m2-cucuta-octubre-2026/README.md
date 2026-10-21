@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 300 millones a COP 450 millones (razón 1,5)
 - n = 138 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cucuta
+- Fuente: [inmuebles en venta en Cúcuta en Aptología](https://www.aptologia.com/venta/cucuta)
 
 Archivos: `venta-100-a-150-m2-cucuta-octubre-2026.pdf`, `venta-100-a-150-m2-cucuta-octubre-2026.csv`, `venta-100-a-150-m2-cucuta-octubre-2026.png`.

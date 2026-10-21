@@ -17,6 +17,6 @@ El área mediana es 171 m² (referencia: 115 m²).
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/niza
+- Fuente: [estrato y precios de Niza, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/niza)
 
 Archivos: `arriendo-estrato-5-niza-bogota-octubre-2026.pdf`, `arriendo-estrato-5-niza-bogota-octubre-2026.csv`, `arriendo-estrato-5-niza-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/centro
+- Fuente: [inmuebles en venta en Centro, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/centro)
 
 Archivos: `venta-centro-bogota-octubre-2026.pdf`, `venta-centro-bogota-octubre-2026.csv`, `venta-centro-bogota-octubre-2026.png`.

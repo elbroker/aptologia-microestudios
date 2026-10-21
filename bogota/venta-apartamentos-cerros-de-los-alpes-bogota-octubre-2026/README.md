@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cerros-de-los-alpes
+- Fuente: [apartamentos en venta en Cerros de los Alpes, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cerros-de-los-alpes)
 
 Archivos: `venta-apartamentos-cerros-de-los-alpes-bogota-octubre-2026.pdf`, `venta-apartamentos-cerros-de-los-alpes-bogota-octubre-2026.csv`, `venta-apartamentos-cerros-de-los-alpes-bogota-octubre-2026.png`.

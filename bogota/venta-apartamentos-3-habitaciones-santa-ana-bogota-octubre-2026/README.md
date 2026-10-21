@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 620 millones con 1 habitac
 - n = 70 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-ana
+- Fuente: [apartamentos en venta en Santa Ana, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-ana)
 
 Archivos: `venta-apartamentos-3-habitaciones-santa-ana-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-santa-ana-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-santa-ana-bogota-octubre-2026.png`.

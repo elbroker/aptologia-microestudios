@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (12 casos), su mediana es COP 275.000
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/galerias
+- Fuente: [apartaestudios en arriendo en Galerias, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/galerias)
 
 Archivos: `arriendo-apartaestudios-galerias-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-galerias-bogota-octubre-2026.csv`, `arriendo-apartaestudios-galerias-bogota-octubre-2026.png`.

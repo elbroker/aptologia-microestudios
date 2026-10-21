@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.505.639/m² (+1 % frente a COP 4.477.612
 - n = 198 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/niza
+- Fuente: [casas en venta en Niza, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/niza)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-niza-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-niza-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-niza-bogota-octubre-2026.png`.

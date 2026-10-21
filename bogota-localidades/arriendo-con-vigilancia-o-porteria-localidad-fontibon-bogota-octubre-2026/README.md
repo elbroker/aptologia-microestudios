@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 1.763.000 (n = 103); 2 habitaciones, COP 1.
 - n = 402 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon
+- Fuente: [arriendos en Fontibón, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon)
 
 Archivos: `arriendo-con-vigilancia-o-porteria-localidad-fontibon-bogota-octubre-2026.pdf`, `arriendo-con-vigilancia-o-porteria-localidad-fontibon-bogota-octubre-2026.csv`, `arriendo-con-vigilancia-o-porteria-localidad-fontibon-bogota-octubre-2026.png`.

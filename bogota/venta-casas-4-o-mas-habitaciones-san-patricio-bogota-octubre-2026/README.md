@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de casas es COP 1,15 mil millones con 3 habitacio
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/san-patricio
+- Fuente: [casas en venta en San Patricio, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/san-patricio)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-san-patricio-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-san-patricio-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-san-patricio-bogota-octubre-2026.png`.

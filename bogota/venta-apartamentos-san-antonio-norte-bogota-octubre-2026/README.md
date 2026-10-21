@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 352 millones) es 1,5 veces 
 - n = 96 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/san-antonio-norte
+- Fuente: [apartamentos en venta en San Antonio Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/san-antonio-norte)
 
 Archivos: `venta-apartamentos-san-antonio-norte-bogota-octubre-2026.pdf`, `venta-apartamentos-san-antonio-norte-bogota-octubre-2026.csv`, `venta-apartamentos-san-antonio-norte-bogota-octubre-2026.png`.

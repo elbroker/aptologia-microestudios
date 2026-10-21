@@ -17,6 +17,6 @@ El área mediana es 40 m² (referencia: 50 m²).
 - n = 656 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-teusaquillo
+- Fuente: [arriendos en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-teusaquillo)
 
 Archivos: `arriendo-hasta-5-anos-localidad-teusaquillo-bogota-octubre-2026.pdf`, `arriendo-hasta-5-anos-localidad-teusaquillo-bogota-octubre-2026.csv`, `arriendo-hasta-5-anos-localidad-teusaquillo-bogota-octubre-2026.png`.

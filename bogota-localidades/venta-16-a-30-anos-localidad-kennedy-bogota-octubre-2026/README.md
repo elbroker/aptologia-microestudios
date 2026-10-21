@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 230 millones (n = 45); 3 habitaciones, COP
 - n = 405 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/kennedy
+- Fuente: [inmuebles en venta en Kennedy, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/kennedy)
 
 Archivos: `venta-16-a-30-anos-localidad-kennedy-bogota-octubre-2026.pdf`, `venta-16-a-30-anos-localidad-kennedy-bogota-octubre-2026.csv`, `venta-16-a-30-anos-localidad-kennedy-bogota-octubre-2026.png`.

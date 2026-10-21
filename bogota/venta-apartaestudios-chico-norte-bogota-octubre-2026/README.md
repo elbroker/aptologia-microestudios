@@ -17,6 +17,6 @@ El área mediana anunciada es 30 m² (en Bogotá: 34 m²).
 - n = 124 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-norte
+- Fuente: [apartaestudios en venta en Chico Norte, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-norte)
 
 Archivos: `venta-apartaestudios-chico-norte-bogota-octubre-2026.pdf`, `venta-apartaestudios-chico-norte-bogota-octubre-2026.csv`, `venta-apartaestudios-chico-norte-bogota-octubre-2026.png`.

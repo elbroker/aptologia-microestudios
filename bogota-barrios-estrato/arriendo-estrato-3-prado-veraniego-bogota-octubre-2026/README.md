@@ -17,6 +17,6 @@ La administración mediana informada es COP 361.500 (10 avisos), cerca de 18 % d
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/prado-veraniego
+- Fuente: [estrato y precios de Prado Veraniego, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/prado-veraniego)
 
 Archivos: `arriendo-estrato-3-prado-veraniego-bogota-octubre-2026.pdf`, `arriendo-estrato-3-prado-veraniego-bogota-octubre-2026.csv`, `arriendo-estrato-3-prado-veraniego-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 4,50 mil millones) es 2,0 v
 - n = 351 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-barbara-alta
+- Fuente: [inmuebles en venta en Santa Barbara Alta, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-barbara-alta)
 
 Archivos: `venta-santa-barbara-alta-bogota-octubre-2026.pdf`, `venta-santa-barbara-alta-bogota-octubre-2026.csv`, `venta-santa-barbara-alta-bogota-octubre-2026.png`.

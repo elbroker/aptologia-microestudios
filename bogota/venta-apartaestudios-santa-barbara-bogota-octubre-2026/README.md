@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 75 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/santa-barbara
+- Fuente: [apartaestudios en venta en Santa Barbara, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/santa-barbara)
 
 Archivos: `venta-apartaestudios-santa-barbara-bogota-octubre-2026.pdf`, `venta-apartaestudios-santa-barbara-bogota-octubre-2026.csv`, `venta-apartaestudios-santa-barbara-bogota-octubre-2026.png`.

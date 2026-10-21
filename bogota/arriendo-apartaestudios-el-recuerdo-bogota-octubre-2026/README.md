@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 2.650.000) es 1,5 veces el 
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/el-recuerdo
+- Fuente: [apartaestudios en arriendo en El Recuerdo, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/el-recuerdo)
 
 Archivos: `arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026.csv`, `arriendo-apartaestudios-el-recuerdo-bogota-octubre-2026.png`.

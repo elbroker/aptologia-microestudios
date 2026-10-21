@@ -17,6 +17,6 @@ El área mediana es 484 m² (referencia: 430 m²).
 - n = 623 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-estrato/bogota/estrato-6
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo-estrato/bogota/estrato-6)
 
 Archivos: `arriendo-casas-4-o-mas-habitaciones-estrato-6-bogota-octubre-2026.pdf`, `arriendo-casas-4-o-mas-habitaciones-estrato-6-bogota-octubre-2026.csv`, `arriendo-casas-4-o-mas-habitaciones-estrato-6-bogota-octubre-2026.png`.

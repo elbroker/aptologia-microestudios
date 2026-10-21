@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.689.189/m² (+2 % frente a COP 6.557.377
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/la-estanzuela
+- Fuente: [inmuebles en venta en La Estanzuela, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/la-estanzuela)
 
 Archivos: `venta-la-estanzuela-bogota-octubre-2026.pdf`, `venta-la-estanzuela-bogota-octubre-2026.csv`, `venta-la-estanzuela-bogota-octubre-2026.png`.

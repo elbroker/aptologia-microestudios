@@ -17,6 +17,6 @@ En todo Bogotá, la misma combinación tiene mediana COP 2,10 mil millones (−1
 - n = 3996 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/suba
+- Fuente: [inmuebles en venta en Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/suba)
 
 Archivos: `venta-mas-de-250-m2-localidad-suba-bogota-octubre-2026.pdf`, `venta-mas-de-250-m2-localidad-suba-bogota-octubre-2026.csv`, `venta-mas-de-250-m2-localidad-suba-bogota-octubre-2026.png`.

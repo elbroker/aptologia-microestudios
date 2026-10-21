@@ -17,6 +17,6 @@ El área mediana anunciada es 253 m² (en Bogotá: 270 m²).
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/san-cristobal-norte
+- Fuente: [casas en venta en San Cristobal Norte, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/san-cristobal-norte)
 
 Archivos: `venta-casas-san-cristobal-norte-bogota-octubre-2026.pdf`, `venta-casas-san-cristobal-norte-bogota-octubre-2026.csv`, `venta-casas-san-cristobal-norte-bogota-octubre-2026.png`.

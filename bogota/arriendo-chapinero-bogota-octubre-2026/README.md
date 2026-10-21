@@ -17,6 +17,6 @@ El segmento con más oferta es el de 1 habitación (344 avisos, mediana COP 1.95
 - n = 564 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chapinero
+- Fuente: [arriendos en Chapinero, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chapinero)
 
 Archivos: `arriendo-chapinero-bogota-octubre-2026.pdf`, `arriendo-chapinero-bogota-octubre-2026.csv`, `arriendo-chapinero-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 51.323/m² (+6 % frente a COP 48.571/m² e
 - n = 163 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/barrios-unidos
+- Fuente: [arriendos en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/barrios-unidos)
 
 Archivos: `arriendo-barrios-unidos-bogota-octubre-2026.pdf`, `arriendo-barrios-unidos-bogota-octubre-2026.csv`, `arriendo-barrios-unidos-bogota-octubre-2026.png`.

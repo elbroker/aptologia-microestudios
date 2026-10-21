@@ -17,6 +17,6 @@ En todo Bogotá, la misma combinación tiene mediana COP 1.760.430 (−9 %).
 - n = 128 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda
+- Fuente: [arriendos en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda)
 
 Archivos: `arriendo-menos-de-45-m2-localidad-puente-aranda-bogota-octubre-2026.pdf`, `arriendo-menos-de-45-m2-localidad-puente-aranda-bogota-octubre-2026.csv`, `arriendo-menos-de-45-m2-localidad-puente-aranda-bogota-octubre-2026.png`.

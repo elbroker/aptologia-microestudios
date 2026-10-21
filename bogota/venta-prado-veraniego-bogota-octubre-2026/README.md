@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.215.909/m² (−5 % frente a COP 6.557.3
 - n = 139 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/prado-veraniego
+- Fuente: [inmuebles en venta en Prado Veraniego, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/prado-veraniego)
 
 Archivos: `venta-prado-veraniego-bogota-octubre-2026.pdf`, `venta-prado-veraniego-bogota-octubre-2026.csv`, `venta-prado-veraniego-bogota-octubre-2026.png`.

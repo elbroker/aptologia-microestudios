@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (45 avisos, mediana COP 2,39
 - n = 79 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-retiro
+- Fuente: [apartamentos en venta en El Retiro, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-retiro)
 
 Archivos: `venta-apartamentos-el-retiro-bogota-octubre-2026.pdf`, `venta-apartamentos-el-retiro-bogota-octubre-2026.csv`, `venta-apartamentos-el-retiro-bogota-octubre-2026.png`.

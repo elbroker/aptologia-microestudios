@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 60.048/m² (−3 % frente a COP 61.607/m²
 - n = 89 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chapinero-alto
+- Fuente: [arriendos en Chapinero Alto, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chapinero-alto)
 
 Archivos: `arriendo-apartamentos-1-habitaciones-chapinero-alto-bogota-octubre-2026.pdf`, `arriendo-apartamentos-1-habitaciones-chapinero-alto-bogota-octubre-2026.csv`, `arriendo-apartamentos-1-habitaciones-chapinero-alto-bogota-octubre-2026.png`.

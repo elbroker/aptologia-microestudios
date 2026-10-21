@@ -17,6 +17,6 @@ El área mediana es 99 m² (referencia: 270 m²).
 - n = 353 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-casas-2-habitaciones-bogota-octubre-2026.pdf`, `venta-casas-2-habitaciones-bogota-octubre-2026.csv`, `venta-casas-2-habitaciones-bogota-octubre-2026.png`.

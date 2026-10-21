@@ -17,6 +17,6 @@ La administración mediana informada es COP 193.000 (28 avisos), cerca de 12 % d
 - n = 75 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/lagos-de-torca
+- Fuente: [estrato y precios de Lagos de Torca, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/lagos-de-torca)
 
 Archivos: `arriendo-estrato-3-lagos-de-torca-bogota-octubre-2026.pdf`, `arriendo-estrato-3-lagos-de-torca-bogota-octubre-2026.csv`, `arriendo-estrato-3-lagos-de-torca-bogota-octubre-2026.png`.

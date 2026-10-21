@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 45.714/m² (−6 % frente a COP 48.571/m²
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/gratamira
+- Fuente: [arriendos en Gratamira, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/gratamira)
 
 Archivos: `arriendo-gratamira-bogota-octubre-2026.pdf`, `arriendo-gratamira-bogota-octubre-2026.csv`, `arriendo-gratamira-bogota-octubre-2026.png`.

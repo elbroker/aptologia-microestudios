@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 444 millones a COP 840 millones (razón 1,9)
 - n = 99 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/belmira
+- Fuente: [estrato y precios de Belmira, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/belmira)
 
 Archivos: `venta-estrato-4-belmira-bogota-octubre-2026.pdf`, `venta-estrato-4-belmira-bogota-octubre-2026.csv`, `venta-estrato-4-belmira-bogota-octubre-2026.png`.

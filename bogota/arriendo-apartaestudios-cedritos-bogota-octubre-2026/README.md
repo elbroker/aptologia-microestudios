@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 95 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/cedritos
+- Fuente: [apartaestudios en arriendo en Cedritos, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/cedritos)
 
 Archivos: `arriendo-apartaestudios-cedritos-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-cedritos-bogota-octubre-2026.csv`, `arriendo-apartaestudios-cedritos-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 8 años.
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/villa-alsacia
+- Fuente: [estrato y precios de Villa Alsacia, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/villa-alsacia)
 
 Archivos: `venta-estrato-3-villa-alsacia-bogota-octubre-2026.pdf`, `venta-estrato-3-villa-alsacia-bogota-octubre-2026.csv`, `venta-estrato-3-villa-alsacia-bogota-octubre-2026.png`.

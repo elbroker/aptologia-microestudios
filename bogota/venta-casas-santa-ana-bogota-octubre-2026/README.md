@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (102 avisos, mediana 
 - n = 145 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/santa-ana
+- Fuente: [casas en venta en Santa Ana, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/santa-ana)
 
 Archivos: `venta-casas-santa-ana-bogota-octubre-2026.pdf`, `venta-casas-santa-ana-bogota-octubre-2026.csv`, `venta-casas-santa-ana-bogota-octubre-2026.png`.

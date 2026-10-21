@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (397 avisos, mediana COP 1,4
 - n = 952 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-norte
+- Fuente: [apartamentos en venta en Chico Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-norte)
 
 Archivos: `venta-apartamentos-chico-norte-bogota-octubre-2026.pdf`, `venta-apartamentos-chico-norte-bogota-octubre-2026.csv`, `venta-apartamentos-chico-norte-bogota-octubre-2026.png`.

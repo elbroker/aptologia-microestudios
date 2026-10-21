@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 420 millones a COP 750 millones (razón 1,8)
 - n = 85 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/
+- Fuente: [Aptología: arriendo y venta de vivienda](https://www.aptologia.com/)
 
 Archivos: `venta-casas-tunja-octubre-2026.pdf`, `venta-casas-tunja-octubre-2026.csv`, `venta-casas-tunja-octubre-2026.png`.

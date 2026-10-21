@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 12 millones) es 1,9 veces e
 - n = 58 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/la-castellana
+- Fuente: [casas en arriendo en La Castellana, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/la-castellana)
 
 Archivos: `arriendo-casas-la-castellana-bogota-octubre-2026.pdf`, `arriendo-casas-la-castellana-bogota-octubre-2026.csv`, `arriendo-casas-la-castellana-bogota-octubre-2026.png`.

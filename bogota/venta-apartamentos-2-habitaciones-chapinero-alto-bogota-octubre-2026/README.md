@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 590 millones a COP 1,09 mil millones (razón
 - n = 109 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chapinero-alto
+- Fuente: [apartamentos en venta en Chapinero Alto, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chapinero-alto)
 
 Archivos: `venta-apartamentos-2-habitaciones-chapinero-alto-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-chapinero-alto-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-chapinero-alto-bogota-octubre-2026.png`.

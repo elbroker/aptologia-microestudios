@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.562.500 a COP 3.375.000 (razón 2,2), una 
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/alcazares
+- Fuente: [arriendos en Alcazares, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/alcazares)
 
 Archivos: `arriendo-alcazares-bogota-octubre-2026.pdf`, `arriendo-alcazares-bogota-octubre-2026.csv`, `arriendo-alcazares-bogota-octubre-2026.png`.

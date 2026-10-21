@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 550 millones (n = 396); 2 habitaciones, COP
 - n = 15643 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-con-chimenea-bogota-octubre-2026.pdf`, `venta-con-chimenea-bogota-octubre-2026.csv`, `venta-con-chimenea-bogota-octubre-2026.png`.

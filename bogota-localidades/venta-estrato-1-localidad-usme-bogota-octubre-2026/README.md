@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 128 millones a COP 218 millones (razón 1,7)
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usme
+- Fuente: [inmuebles en venta en Usme, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usme)
 
 Archivos: `venta-estrato-1-localidad-usme-bogota-octubre-2026.pdf`, `venta-estrato-1-localidad-usme-bogota-octubre-2026.csv`, `venta-estrato-1-localidad-usme-bogota-octubre-2026.png`.

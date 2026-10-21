@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 12 millones) es 2,1 veces el in
 - n = 171 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/el-virrey
+- Fuente: [arriendos en El Virrey, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/el-virrey)
 
 Archivos: `arriendo-apartamentos-el-virrey-bogota-octubre-2026.pdf`, `arriendo-apartamentos-el-virrey-bogota-octubre-2026.csv`, `arriendo-apartamentos-el-virrey-bogota-octubre-2026.png`.

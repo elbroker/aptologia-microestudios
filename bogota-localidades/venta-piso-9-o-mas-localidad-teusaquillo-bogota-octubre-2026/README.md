@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 320 millones (n = 29); 2 habitaciones, COP 
 - n = 124 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/teusaquillo
+- Fuente: [inmuebles en venta en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/teusaquillo)
 
 Archivos: `venta-piso-9-o-mas-localidad-teusaquillo-bogota-octubre-2026.pdf`, `venta-piso-9-o-mas-localidad-teusaquillo-bogota-octubre-2026.csv`, `venta-piso-9-o-mas-localidad-teusaquillo-bogota-octubre-2026.png`.

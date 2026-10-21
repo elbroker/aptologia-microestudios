@@ -17,6 +17,6 @@ El 24 % de los avisos tiene al menos un parqueadero.
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/el-recuerdo
+- Fuente: [estrato y precios de El Recuerdo, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/el-recuerdo)
 
 Archivos: `arriendo-estrato-4-el-recuerdo-bogota-octubre-2026.pdf`, `arriendo-estrato-4-el-recuerdo-bogota-octubre-2026.csv`, `arriendo-estrato-4-el-recuerdo-bogota-octubre-2026.png`.

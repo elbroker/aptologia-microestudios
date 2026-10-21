@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 779 millones) es 2,2 veces el i
 - n = 61 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/la-macarena
+- Fuente: [inmuebles en venta en La Macarena, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/la-macarena)
 
 Archivos: `venta-la-macarena-bogota-octubre-2026.pdf`, `venta-la-macarena-bogota-octubre-2026.csv`, `venta-la-macarena-bogota-octubre-2026.png`.

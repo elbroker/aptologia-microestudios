@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 521 millones) es 1,8 veces 
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/samper-mendoza
+- Fuente: [inmuebles en venta en Samper Mendoza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/samper-mendoza)
 
 Archivos: `venta-samper-mendoza-bogota-octubre-2026.pdf`, `venta-samper-mendoza-bogota-octubre-2026.csv`, `venta-samper-mendoza-bogota-octubre-2026.png`.

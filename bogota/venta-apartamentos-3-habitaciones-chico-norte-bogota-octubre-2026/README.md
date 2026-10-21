@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 2,08 mil millones) es 2,2 veces
 - n = 397 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-norte
+- Fuente: [apartamentos en venta en Chico Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-norte)
 
 Archivos: `venta-apartamentos-3-habitaciones-chico-norte-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-chico-norte-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-chico-norte-bogota-octubre-2026.png`.

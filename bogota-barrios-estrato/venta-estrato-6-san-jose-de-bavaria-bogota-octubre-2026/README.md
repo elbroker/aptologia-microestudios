@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,70 mil millones a COP 3,00 mil millones (r
 - n = 77 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/san-jose-de-bavaria
+- Fuente: [estrato y precios de San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/san-jose-de-bavaria)
 
 Archivos: `venta-estrato-6-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `venta-estrato-6-san-jose-de-bavaria-bogota-octubre-2026.csv`, `venta-estrato-6-san-jose-de-bavaria-bogota-octubre-2026.png`.

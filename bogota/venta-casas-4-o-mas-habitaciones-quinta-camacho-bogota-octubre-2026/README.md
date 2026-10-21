@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,99 mil millones a COP 3,60 mil millones (r
 - n = 119 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/quinta-camacho
+- Fuente: [casas en venta en Quinta Camacho, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/quinta-camacho)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.png`.

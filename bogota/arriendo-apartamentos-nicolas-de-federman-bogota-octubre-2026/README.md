@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (21 casos), su mediana es COP 525.250
 - n = 57 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/nicolas-de-federman
+- Fuente: [arriendos en Nicolas de Federman, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/nicolas-de-federman)
 
 Archivos: `arriendo-apartamentos-nicolas-de-federman-bogota-octubre-2026.pdf`, `arriendo-apartamentos-nicolas-de-federman-bogota-octubre-2026.csv`, `arriendo-apartamentos-nicolas-de-federman-bogota-octubre-2026.png`.

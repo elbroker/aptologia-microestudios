@@ -17,6 +17,6 @@ El 97 % de los avisos tiene al menos un parqueadero.
 - n = 560 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/colina-campestre
+- Fuente: [estrato y precios de Colina Campestre, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/colina-campestre)
 
 Archivos: `venta-estrato-5-colina-campestre-bogota-octubre-2026.pdf`, `venta-estrato-5-colina-campestre-bogota-octubre-2026.csv`, `venta-estrato-5-colina-campestre-bogota-octubre-2026.png`.

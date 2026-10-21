@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 58 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/minuto-de-dios
+- Fuente: [inmuebles en venta en Minuto de Dios, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/minuto-de-dios)
 
 Archivos: `venta-minuto-de-dios-bogota-octubre-2026.pdf`, `venta-minuto-de-dios-bogota-octubre-2026.csv`, `venta-minuto-de-dios-bogota-octubre-2026.png`.

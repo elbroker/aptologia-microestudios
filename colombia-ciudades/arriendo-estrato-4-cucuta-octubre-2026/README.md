@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.400.000 a COP 2.500.000 (razón 1,8).
 - n = 65 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-estrato/cucuta/estrato-4
+- Fuente: [arriendos en Cúcuta en Aptología](https://www.aptologia.com/arriendo-estrato/cucuta/estrato-4)
 
 Archivos: `arriendo-estrato-4-cucuta-octubre-2026.pdf`, `arriendo-estrato-4-cucuta-octubre-2026.csv`, `arriendo-estrato-4-cucuta-octubre-2026.png`.

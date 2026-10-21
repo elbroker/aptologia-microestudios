@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (94 avisos, mediana C
 - n = 189 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/normandia
+- Fuente: [inmuebles en venta en Normandia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/normandia)
 
 Archivos: `venta-normandia-bogota-octubre-2026.pdf`, `venta-normandia-bogota-octubre-2026.csv`, `venta-normandia-bogota-octubre-2026.png`.

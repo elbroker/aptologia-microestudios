@@ -17,6 +17,6 @@ El 91 % de los avisos tiene al menos un parqueadero.
 - n = 116 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/mazuren
+- Fuente: [estrato y precios de Mazuren, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/mazuren)
 
 Archivos: `venta-estrato-4-mazuren-bogota-octubre-2026.pdf`, `venta-estrato-4-mazuren-bogota-octubre-2026.csv`, `venta-estrato-4-mazuren-bogota-octubre-2026.png`.

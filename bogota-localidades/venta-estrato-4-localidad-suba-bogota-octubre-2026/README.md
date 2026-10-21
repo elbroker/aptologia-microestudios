@@ -17,6 +17,6 @@ El área mediana es 95 m² (referencia: 193 m²).
 - n = 1874 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/suba
+- Fuente: [inmuebles en venta en Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/suba)
 
 Archivos: `venta-estrato-4-localidad-suba-bogota-octubre-2026.pdf`, `venta-estrato-4-localidad-suba-bogota-octubre-2026.csv`, `venta-estrato-4-localidad-suba-bogota-octubre-2026.png`.

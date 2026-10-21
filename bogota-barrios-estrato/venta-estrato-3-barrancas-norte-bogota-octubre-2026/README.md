@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 4 años.
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/barrancas-norte
+- Fuente: [estrato y precios de Barrancas Norte, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/barrancas-norte)
 
 Archivos: `venta-estrato-3-barrancas-norte-bogota-octubre-2026.pdf`, `venta-estrato-3-barrancas-norte-bogota-octubre-2026.csv`, `venta-estrato-3-barrancas-norte-bogota-octubre-2026.png`.

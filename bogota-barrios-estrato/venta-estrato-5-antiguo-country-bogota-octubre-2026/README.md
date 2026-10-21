@@ -17,6 +17,6 @@ El área mediana es 85 m² (referencia: 90 m²).
 - n = 73 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/antiguo-country
+- Fuente: [estrato y precios de Antiguo Country, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/antiguo-country)
 
 Archivos: `venta-estrato-5-antiguo-country-bogota-octubre-2026.pdf`, `venta-estrato-5-antiguo-country-bogota-octubre-2026.csv`, `venta-estrato-5-antiguo-country-bogota-octubre-2026.png`.

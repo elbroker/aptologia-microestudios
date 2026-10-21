@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 6.000.000 con 1 habitació
 - n = 69 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/la-cabrera
+- Fuente: [arriendos en La Cabrera, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/la-cabrera)
 
 Archivos: `arriendo-apartamentos-4-o-mas-habitaciones-la-cabrera-bogota-octubre-2026.pdf`, `arriendo-apartamentos-4-o-mas-habitaciones-la-cabrera-bogota-octubre-2026.csv`, `arriendo-apartamentos-4-o-mas-habitaciones-la-cabrera-bogota-octubre-2026.png`.

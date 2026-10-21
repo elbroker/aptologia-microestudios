@@ -17,6 +17,6 @@ El área mediana anunciada es 258 m² (en Bogotá: 292 m²).
 - n = 54 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/villa-luz
+- Fuente: [casas en venta en Villa Luz, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/villa-luz)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-villa-luz-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-villa-luz-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-villa-luz-bogota-octubre-2026.png`.

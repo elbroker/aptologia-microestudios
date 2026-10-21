@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 1,45 mil millones) es 2,0 veces
 - n = 73 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-san-patricio
+- Fuente: [apartamentos en venta en Chico San Patricio, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-san-patricio)
 
 Archivos: `venta-apartamentos-chico-san-patricio-bogota-octubre-2026.pdf`, `venta-apartamentos-chico-san-patricio-bogota-octubre-2026.csv`, `venta-apartamentos-chico-san-patricio-bogota-octubre-2026.png`.

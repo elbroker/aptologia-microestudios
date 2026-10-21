@@ -17,6 +17,6 @@ La administración mediana informada es COP 214.066 (183 avisos), cerca de 13 % 
 - n = 490 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-suba
+- Fuente: [arriendos en Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-suba)
 
 Archivos: `arriendo-estrato-3-localidad-suba-bogota-octubre-2026.pdf`, `arriendo-estrato-3-localidad-suba-bogota-octubre-2026.csv`, `arriendo-estrato-3-localidad-suba-bogota-octubre-2026.png`.

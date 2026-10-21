@@ -17,6 +17,6 @@ El área mediana es 30 m² (referencia: 30 m²).
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/gran-america
+- Fuente: [estrato y precios de Gran America, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/gran-america)
 
 Archivos: `arriendo-estrato-4-gran-america-bogota-octubre-2026.pdf`, `arriendo-estrato-4-gran-america-bogota-octubre-2026.csv`, `arriendo-estrato-4-gran-america-bogota-octubre-2026.png`.

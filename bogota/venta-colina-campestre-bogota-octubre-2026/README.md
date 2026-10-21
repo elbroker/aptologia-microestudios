@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 630 millones a COP 1,20 mil millones (razón
 - n = 961 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/colina-campestre
+- Fuente: [inmuebles en venta en Colina Campestre, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/colina-campestre)
 
 Archivos: `venta-colina-campestre-bogota-octubre-2026.pdf`, `venta-colina-campestre-bogota-octubre-2026.csv`, `venta-colina-campestre-bogota-octubre-2026.png`.

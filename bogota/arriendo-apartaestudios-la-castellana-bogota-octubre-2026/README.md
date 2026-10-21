@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/la-castellana
+- Fuente: [apartaestudios en arriendo en La Castellana, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/la-castellana)
 
 Archivos: `arriendo-apartaestudios-la-castellana-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-la-castellana-bogota-octubre-2026.csv`, `arriendo-apartaestudios-la-castellana-bogota-octubre-2026.png`.

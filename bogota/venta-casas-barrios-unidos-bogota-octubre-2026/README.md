@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 892 millones a COP 1,40 mil millones (razón
 - n = 158 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/barrios-unidos
+- Fuente: [casas en venta en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/barrios-unidos)
 
 Archivos: `venta-casas-barrios-unidos-bogota-octubre-2026.pdf`, `venta-casas-barrios-unidos-bogota-octubre-2026.csv`, `venta-casas-barrios-unidos-bogota-octubre-2026.png`.

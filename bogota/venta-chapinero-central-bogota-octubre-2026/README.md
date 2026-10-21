@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 573 millones) es 2,1 veces el i
 - n = 175 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chapinero-central
+- Fuente: [inmuebles en venta en Chapinero Central, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chapinero-central)
 
 Archivos: `venta-chapinero-central-bogota-octubre-2026.pdf`, `venta-chapinero-central-bogota-octubre-2026.csv`, `venta-chapinero-central-bogota-octubre-2026.png`.

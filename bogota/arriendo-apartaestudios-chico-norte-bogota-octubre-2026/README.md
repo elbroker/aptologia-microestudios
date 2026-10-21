@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (62 casos), su mediana es COP 450.000
 - n = 151 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/chico-norte
+- Fuente: [apartaestudios en arriendo en Chico Norte, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/chico-norte)
 
 Archivos: `arriendo-apartaestudios-chico-norte-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-chico-norte-bogota-octubre-2026.csv`, `arriendo-apartaestudios-chico-norte-bogota-octubre-2026.png`.

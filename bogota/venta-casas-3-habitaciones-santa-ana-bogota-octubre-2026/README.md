@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de casas es COP 5,00 mil millones con 4 o más ha
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/santa-ana
+- Fuente: [casas en venta en Santa Ana, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/santa-ana)
 
 Archivos: `venta-casas-3-habitaciones-santa-ana-bogota-octubre-2026.pdf`, `venta-casas-3-habitaciones-santa-ana-bogota-octubre-2026.csv`, `venta-casas-3-habitaciones-santa-ana-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 7.525.000) es 2,0 veces el infe
 - n = 114 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental
+- Fuente: [arriendos en Santa Barbara Occidental, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental)
 
 Archivos: `arriendo-apartamentos-santa-barbara-occidental-bogota-octubre-2026.pdf`, `arriendo-apartamentos-santa-barbara-occidental-bogota-octubre-2026.csv`, `arriendo-apartamentos-santa-barbara-occidental-bogota-octubre-2026.png`.

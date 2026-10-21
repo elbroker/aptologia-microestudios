@@ -17,6 +17,6 @@ El área mediana anunciada es 116 m² (en Bogotá: 102 m²).
 - n = 418 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bella-suiza
+- Fuente: [apartamentos en venta en Bella Suiza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bella-suiza)
 
 Archivos: `venta-apartamentos-bella-suiza-bogota-octubre-2026.pdf`, `venta-apartamentos-bella-suiza-bogota-octubre-2026.csv`, `venta-apartamentos-bella-suiza-bogota-octubre-2026.png`.

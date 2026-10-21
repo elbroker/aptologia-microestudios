@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.800.000 (n = 121); 2 habitaciones, COP 6.
 - n = 487 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-barrios-unidos
+- Fuente: [arriendos en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-barrios-unidos)
 
 Archivos: `arriendo-con-parqueadero-localidad-barrios-unidos-bogota-octubre-2026.pdf`, `arriendo-con-parqueadero-localidad-barrios-unidos-bogota-octubre-2026.csv`, `arriendo-con-parqueadero-localidad-barrios-unidos-bogota-octubre-2026.png`.

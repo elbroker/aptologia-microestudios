@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 6.200.000) es 1,9 veces el 
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/rincon-del-chico
+- Fuente: [arriendos en Rincon del Chico, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/rincon-del-chico)
 
 Archivos: `arriendo-apartamentos-rincon-del-chico-bogota-octubre-2026.pdf`, `arriendo-apartamentos-rincon-del-chico-bogota-octubre-2026.csv`, `arriendo-apartamentos-rincon-del-chico-bogota-octubre-2026.png`.

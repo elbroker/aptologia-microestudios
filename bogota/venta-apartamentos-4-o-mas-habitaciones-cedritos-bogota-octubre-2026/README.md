@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 550 millones a COP 1,00 mil millones (razón
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cedritos
+- Fuente: [apartamentos en venta en Cedritos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cedritos)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-cedritos-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-cedritos-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-cedritos-bogota-octubre-2026.png`.

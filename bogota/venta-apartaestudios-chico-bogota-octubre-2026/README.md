@@ -17,6 +17,6 @@ El área mediana anunciada es 38 m² (en Bogotá: 34 m²).
 - n = 64 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/chico
+- Fuente: [apartaestudios en venta en Chico, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/chico)
 
 Archivos: `venta-apartaestudios-chico-bogota-octubre-2026.pdf`, `venta-apartaestudios-chico-bogota-octubre-2026.csv`, `venta-apartaestudios-chico-bogota-octubre-2026.png`.

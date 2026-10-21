@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/montevideo
+- Fuente: [arriendos en Montevideo, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/montevideo)
 
 Archivos: `arriendo-apartamentos-montevideo-bogota-octubre-2026.pdf`, `arriendo-apartamentos-montevideo-bogota-octubre-2026.csv`, `arriendo-apartamentos-montevideo-bogota-octubre-2026.png`.

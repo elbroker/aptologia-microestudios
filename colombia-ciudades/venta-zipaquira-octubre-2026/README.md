@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 5 años.
 - n = 60 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/zipaquira
+- Fuente: [inmuebles en venta en Zipaquirá en Aptología](https://www.aptologia.com/venta/zipaquira)
 
 Archivos: `venta-zipaquira-octubre-2026.pdf`, `venta-zipaquira-octubre-2026.csv`, `venta-zipaquira-octubre-2026.png`.

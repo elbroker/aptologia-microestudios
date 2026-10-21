@@ -17,6 +17,6 @@ El 9 % de los avisos tiene al menos un parqueadero.
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/tocancipa
+- Fuente: [inmuebles en venta en Tocancipa en Aptología](https://www.aptologia.com/venta/tocancipa)
 
 Archivos: `venta-pisos-4-a-8-tocancipa-octubre-2026.pdf`, `venta-pisos-4-a-8-tocancipa-octubre-2026.csv`, `venta-pisos-4-a-8-tocancipa-octubre-2026.png`.

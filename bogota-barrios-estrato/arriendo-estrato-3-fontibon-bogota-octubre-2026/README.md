@@ -17,6 +17,6 @@ La administración mediana informada es COP 171.700 (32 avisos), cerca de 12 % d
 - n = 123 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/fontibon
+- Fuente: [estrato y precios de Fontibon, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/fontibon)
 
 Archivos: `arriendo-estrato-3-fontibon-bogota-octubre-2026.pdf`, `arriendo-estrato-3-fontibon-bogota-octubre-2026.csv`, `arriendo-estrato-3-fontibon-bogota-octubre-2026.png`.

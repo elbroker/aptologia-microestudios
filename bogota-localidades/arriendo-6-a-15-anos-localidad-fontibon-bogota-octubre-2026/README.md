@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.550.000 a COP 3.100.000 (razón 2,0).
 - n = 97 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon
+- Fuente: [arriendos en Fontibón, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon)
 
 Archivos: `arriendo-6-a-15-anos-localidad-fontibon-bogota-octubre-2026.pdf`, `arriendo-6-a-15-anos-localidad-fontibon-bogota-octubre-2026.csv`, `arriendo-6-a-15-anos-localidad-fontibon-bogota-octubre-2026.png`.

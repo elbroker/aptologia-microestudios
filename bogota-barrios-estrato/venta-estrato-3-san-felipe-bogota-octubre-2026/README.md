@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 25 años.
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/san-felipe
+- Fuente: [estrato y precios de San Felipe, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/san-felipe)
 
 Archivos: `venta-estrato-3-san-felipe-bogota-octubre-2026.pdf`, `venta-estrato-3-san-felipe-bogota-octubre-2026.csv`, `venta-estrato-3-san-felipe-bogota-octubre-2026.png`.

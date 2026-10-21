@@ -17,6 +17,6 @@ La administración mediana informada es COP 174.000 (97 avisos), cerca de 12 % d
 - n = 401 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy
+- Fuente: [arriendos en Kennedy, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy)
 
 Archivos: `arriendo-estrato-3-localidad-kennedy-bogota-octubre-2026.pdf`, `arriendo-estrato-3-localidad-kennedy-bogota-octubre-2026.csv`, `arriendo-estrato-3-localidad-kennedy-bogota-octubre-2026.png`.

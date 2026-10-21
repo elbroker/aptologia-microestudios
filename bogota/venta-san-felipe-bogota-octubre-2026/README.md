@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.203.209/m² (−5 % frente a COP 6.557.3
 - n = 61 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/san-felipe
+- Fuente: [inmuebles en venta en San Felipe, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/san-felipe)
 
 Archivos: `venta-san-felipe-bogota-octubre-2026.pdf`, `venta-san-felipe-bogota-octubre-2026.csv`, `venta-san-felipe-bogota-octubre-2026.png`.

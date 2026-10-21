@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 1,20 mil millones) es 1,9 v
 - n = 266 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-contador
+- Fuente: [inmuebles en venta en El Contador, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-contador)
 
 Archivos: `venta-el-contador-bogota-octubre-2026.pdf`, `venta-el-contador-bogota-octubre-2026.csv`, `venta-el-contador-bogota-octubre-2026.png`.

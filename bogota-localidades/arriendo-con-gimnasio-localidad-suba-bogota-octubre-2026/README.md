@@ -17,6 +17,6 @@ Cruzando con la oferta de venta equivalente, la rentabilidad bruta implícita es
 - n = 685 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-suba
+- Fuente: [arriendos en Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-suba)
 
 Archivos: `arriendo-con-gimnasio-localidad-suba-bogota-octubre-2026.pdf`, `arriendo-con-gimnasio-localidad-suba-bogota-octubre-2026.csv`, `arriendo-con-gimnasio-localidad-suba-bogota-octubre-2026.png`.

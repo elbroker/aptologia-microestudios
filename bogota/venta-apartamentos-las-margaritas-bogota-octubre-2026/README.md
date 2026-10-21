@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 2.
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/las-margaritas
+- Fuente: [apartamentos en venta en Las Margaritas, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/las-margaritas)
 
 Archivos: `venta-apartamentos-las-margaritas-bogota-octubre-2026.pdf`, `venta-apartamentos-las-margaritas-bogota-octubre-2026.csv`, `venta-apartamentos-las-margaritas-bogota-octubre-2026.png`.

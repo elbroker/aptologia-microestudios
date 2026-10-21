@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 1,79 mil millones) es 2,1 veces
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-ana-occidental
+- Fuente: [apartamentos en venta en Santa Ana Occidental, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-ana-occidental)
 
 Archivos: `venta-apartamentos-3-habitaciones-santa-ana-occidental-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-santa-ana-occidental-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-santa-ana-occidental-bogota-octubre-2026.png`.

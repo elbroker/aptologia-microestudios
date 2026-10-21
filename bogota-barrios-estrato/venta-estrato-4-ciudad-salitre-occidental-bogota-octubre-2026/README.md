@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 642 millones a COP 942 millones (razón 1,5)
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/ciudad-salitre-occidental
+- Fuente: [estrato y precios de Ciudad Salitre Occidental, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/ciudad-salitre-occidental)
 
 Archivos: `venta-estrato-4-ciudad-salitre-occidental-bogota-octubre-2026.pdf`, `venta-estrato-4-ciudad-salitre-occidental-bogota-octubre-2026.csv`, `venta-estrato-4-ciudad-salitre-occidental-bogota-octubre-2026.png`.

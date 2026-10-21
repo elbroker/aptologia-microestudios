@@ -17,6 +17,6 @@ El área mediana es 160 m² (referencia: 51 m²).
 - n = 98 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usme
+- Fuente: [inmuebles en venta en Usme, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usme)
 
 Archivos: `venta-casas-localidad-usme-bogota-octubre-2026.pdf`, `venta-casas-localidad-usme-bogota-octubre-2026.csv`, `venta-casas-localidad-usme-bogota-octubre-2026.png`.

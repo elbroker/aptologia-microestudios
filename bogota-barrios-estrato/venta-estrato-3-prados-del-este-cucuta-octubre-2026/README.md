@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 10 años.
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/cucuta/prados-del-este
+- Fuente: [estrato y precios de Prados del Este, Cúcuta en Aptología](https://www.aptologia.com/estrato-de/cucuta/prados-del-este)
 
 Archivos: `venta-estrato-3-prados-del-este-cucuta-octubre-2026.pdf`, `venta-estrato-3-prados-del-este-cucuta-octubre-2026.csv`, `venta-estrato-3-prados-del-este-cucuta-octubre-2026.png`.

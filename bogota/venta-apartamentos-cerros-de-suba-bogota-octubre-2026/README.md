@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 7.131.414/m² (−4 % frente a COP 7.407.4
 - n = 170 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cerros-de-suba
+- Fuente: [apartamentos en venta en Cerros de Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cerros-de-suba)
 
 Archivos: `venta-apartamentos-cerros-de-suba-bogota-octubre-2026.pdf`, `venta-apartamentos-cerros-de-suba-bogota-octubre-2026.csv`, `venta-apartamentos-cerros-de-suba-bogota-octubre-2026.png`.

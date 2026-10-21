@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (68 avisos, mediana COP 800 
 - n = 134 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/belmira
+- Fuente: [inmuebles en venta en Belmira, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/belmira)
 
 Archivos: `venta-belmira-bogota-octubre-2026.pdf`, `venta-belmira-bogota-octubre-2026.csv`, `venta-belmira-bogota-octubre-2026.png`.

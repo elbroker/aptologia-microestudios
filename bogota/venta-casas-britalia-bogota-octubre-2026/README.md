@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 435 millones a COP 680 millones (razón 1,6)
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/britalia
+- Fuente: [casas en venta en Britalia, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/britalia)
 
 Archivos: `venta-casas-britalia-bogota-octubre-2026.pdf`, `venta-casas-britalia-bogota-octubre-2026.csv`, `venta-casas-britalia-bogota-octubre-2026.png`.

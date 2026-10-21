@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (15 casos), su mediana es COP 206.000
 - n = 39 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/montevideo
+- Fuente: [arriendos en Montevideo, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/montevideo)
 
 Archivos: `arriendo-apartamentos-2-habitaciones-montevideo-bogota-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-montevideo-bogota-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-montevideo-bogota-octubre-2026.png`.

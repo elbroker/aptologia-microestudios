@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (18 avisos, mediana COP 14.9
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chico-museo
+- Fuente: [arriendos en Chico Museo, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chico-museo)
 
 Archivos: `arriendo-apartamentos-chico-museo-bogota-octubre-2026.pdf`, `arriendo-apartamentos-chico-museo-bogota-octubre-2026.csv`, `arriendo-apartamentos-chico-museo-bogota-octubre-2026.png`.

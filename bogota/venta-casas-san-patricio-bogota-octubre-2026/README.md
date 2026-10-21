@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 53 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/san-patricio
+- Fuente: [casas en venta en San Patricio, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/san-patricio)
 
 Archivos: `venta-casas-san-patricio-bogota-octubre-2026.pdf`, `venta-casas-san-patricio-bogota-octubre-2026.csv`, `venta-casas-san-patricio-bogota-octubre-2026.png`.

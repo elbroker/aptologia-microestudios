@@ -17,6 +17,6 @@ El 94 % de los avisos tiene al menos un parqueadero.
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-ana-occidental
+- Fuente: [estrato y precios de Santa Ana Occidental, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-ana-occidental)
 
 Archivos: `venta-estrato-6-santa-ana-occidental-bogota-octubre-2026.pdf`, `venta-estrato-6-santa-ana-occidental-bogota-octubre-2026.csv`, `venta-estrato-6-santa-ana-occidental-bogota-octubre-2026.png`.

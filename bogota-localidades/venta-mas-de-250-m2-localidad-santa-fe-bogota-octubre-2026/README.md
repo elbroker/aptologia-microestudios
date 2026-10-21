@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 5 años.
 - n = 98 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-fe
+- Fuente: [inmuebles en venta en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-fe)
 
 Archivos: `venta-mas-de-250-m2-localidad-santa-fe-bogota-octubre-2026.pdf`, `venta-mas-de-250-m2-localidad-santa-fe-bogota-octubre-2026.csv`, `venta-mas-de-250-m2-localidad-santa-fe-bogota-octubre-2026.png`.

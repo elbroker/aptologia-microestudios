@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 865 millones) es 1,6 veces 
 - n = 132 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/kennedy-central
+- Fuente: [casas en venta en Kennedy Central, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/kennedy-central)
 
 Archivos: `venta-casas-kennedy-central-bogota-octubre-2026.pdf`, `venta-casas-kennedy-central-bogota-octubre-2026.csv`, `venta-casas-kennedy-central-bogota-octubre-2026.png`.

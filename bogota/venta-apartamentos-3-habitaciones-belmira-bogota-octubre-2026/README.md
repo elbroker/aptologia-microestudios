@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.931.818/m² (−1 % frente a COP 7.000.0
 - n = 53 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/belmira
+- Fuente: [apartamentos en venta en Belmira, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/belmira)
 
 Archivos: `venta-apartamentos-3-habitaciones-belmira-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-belmira-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-belmira-bogota-octubre-2026.png`.

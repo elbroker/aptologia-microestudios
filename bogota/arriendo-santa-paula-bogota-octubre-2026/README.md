@@ -17,6 +17,6 @@ El segmento con más oferta es el de 1 habitación (59 avisos, mediana COP 3.195
 - n = 182 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-paula
+- Fuente: [arriendos en Santa Paula, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-paula)
 
 Archivos: `arriendo-santa-paula-bogota-octubre-2026.pdf`, `arriendo-santa-paula-bogota-octubre-2026.csv`, `arriendo-santa-paula-bogota-octubre-2026.png`.

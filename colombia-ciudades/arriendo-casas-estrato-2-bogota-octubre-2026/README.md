@@ -17,6 +17,6 @@ El área mediana es 94 m² (referencia: 345 m²).
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-estrato/bogota/estrato-2
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo-estrato/bogota/estrato-2)
 
 Archivos: `arriendo-casas-estrato-2-bogota-octubre-2026.pdf`, `arriendo-casas-estrato-2-bogota-octubre-2026.csv`, `arriendo-casas-estrato-2-bogota-octubre-2026.png`.

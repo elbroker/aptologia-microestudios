@@ -17,6 +17,6 @@ El área mediana es 134 m² (referencia: 131 m²).
 - n = 114 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/nicolas-de-federman
+- Fuente: [estrato y precios de Nicolas de Federman, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/nicolas-de-federman)
 
 Archivos: `venta-estrato-4-nicolas-de-federman-bogota-octubre-2026.pdf`, `venta-estrato-4-nicolas-de-federman-bogota-octubre-2026.csv`, `venta-estrato-4-nicolas-de-federman-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 54 m² (referencia: 62 m²).
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/la-macarena
+- Fuente: [estrato y precios de La Macarena, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/la-macarena)
 
 Archivos: `venta-estrato-4-la-macarena-bogota-octubre-2026.pdf`, `venta-estrato-4-la-macarena-bogota-octubre-2026.csv`, `venta-estrato-4-la-macarena-bogota-octubre-2026.png`.

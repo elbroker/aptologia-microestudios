@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 51.898/m² (+7 % frente a COP 48.571/m² e
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-felipe
+- Fuente: [arriendos en San Felipe, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-felipe)
 
 Archivos: `arriendo-san-felipe-bogota-octubre-2026.pdf`, `arriendo-san-felipe-bogota-octubre-2026.csv`, `arriendo-san-felipe-bogota-octubre-2026.png`.

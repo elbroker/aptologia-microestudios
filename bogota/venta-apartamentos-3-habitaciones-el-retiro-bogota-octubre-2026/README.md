@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 1,50 mil millones con 1 ha
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-retiro
+- Fuente: [apartamentos en venta en El Retiro, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-retiro)
 
 Archivos: `venta-apartamentos-3-habitaciones-el-retiro-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-el-retiro-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-el-retiro-bogota-octubre-2026.png`.

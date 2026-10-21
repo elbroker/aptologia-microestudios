@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (25 avisos, mediana C
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/casa-blanca
+- Fuente: [arriendos en Casa Blanca, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/casa-blanca)
 
 Archivos: `arriendo-casa-blanca-bogota-octubre-2026.pdf`, `arriendo-casa-blanca-bogota-octubre-2026.csv`, `arriendo-casa-blanca-bogota-octubre-2026.png`.

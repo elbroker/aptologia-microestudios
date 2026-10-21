@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 185 millones a COP 325 millones (razón 1,8)
 - n = 39 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-liston
+- Fuente: [inmuebles en venta en El Liston, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-liston)
 
 Archivos: `venta-el-liston-bogota-octubre-2026.pdf`, `venta-el-liston-bogota-octubre-2026.csv`, `venta-el-liston-bogota-octubre-2026.png`.

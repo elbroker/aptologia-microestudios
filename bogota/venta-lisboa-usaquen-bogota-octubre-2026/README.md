@@ -17,6 +17,6 @@ El área mediana anunciada es 125 m² (en Bogotá: 146 m²).
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/lisboa-usaquen
+- Fuente: [inmuebles en venta en Lisboa Usaquén, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/lisboa-usaquen)
 
 Archivos: `venta-lisboa-usaquen-bogota-octubre-2026.pdf`, `venta-lisboa-usaquen-bogota-octubre-2026.csv`, `venta-lisboa-usaquen-bogota-octubre-2026.png`.

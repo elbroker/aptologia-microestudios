@@ -17,6 +17,6 @@ El 100 % de los avisos tiene al menos un parqueadero.
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/la-calera
+- Fuente: [estrato y precios de La Calera, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/la-calera)
 
 Archivos: `venta-estrato-6-la-calera-bogota-octubre-2026.pdf`, `venta-estrato-6-la-calera-bogota-octubre-2026.csv`, `venta-estrato-6-la-calera-bogota-octubre-2026.png`.

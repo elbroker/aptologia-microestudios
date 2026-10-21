@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 9.991.087/m² (−0 % frente a COP 10 mill
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/la-candelaria
+- Fuente: [apartaestudios en venta en La Candelaria, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/la-candelaria)
 
 Archivos: `venta-apartaestudios-la-candelaria-bogota-octubre-2026.pdf`, `venta-apartaestudios-la-candelaria-bogota-octubre-2026.csv`, `venta-apartaestudios-la-candelaria-bogota-octubre-2026.png`.

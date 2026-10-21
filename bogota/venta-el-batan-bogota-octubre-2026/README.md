@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 620 millones a COP 1,15 mil millones (razón
 - n = 279 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-batan
+- Fuente: [inmuebles en venta en El Batán, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-batan)
 
 Archivos: `venta-el-batan-bogota-octubre-2026.pdf`, `venta-el-batan-bogota-octubre-2026.csv`, `venta-el-batan-bogota-octubre-2026.png`.

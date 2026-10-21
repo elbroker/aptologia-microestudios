@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 125 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/los-andes
+- Fuente: [inmuebles en venta en Los Andes, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/los-andes)
 
 Archivos: `venta-los-andes-bogota-octubre-2026.pdf`, `venta-los-andes-bogota-octubre-2026.csv`, `venta-los-andes-bogota-octubre-2026.png`.

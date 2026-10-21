@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 85 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-barbara-alta
+- Fuente: [apartamentos en venta en Santa Barbara Alta, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-barbara-alta)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-alta-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-alta-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-alta-bogota-octubre-2026.png`.

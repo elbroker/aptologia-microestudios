@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 1,40 mil millones) es 1,6 v
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/las-americas
+- Fuente: [casas en venta en Las Americas, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/las-americas)
 
 Archivos: `venta-casas-las-americas-bogota-octubre-2026.pdf`, `venta-casas-las-americas-bogota-octubre-2026.csv`, `venta-casas-las-americas-bogota-octubre-2026.png`.

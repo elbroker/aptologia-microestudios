@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 850.000 a COP 1.600.000 (razón 1,9).
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/cucuta
+- Fuente: [arriendos en Cúcuta en Aptología](https://www.aptologia.com/arriendo/cucuta)
 
 Archivos: `arriendo-6-a-15-anos-cucuta-octubre-2026.pdf`, `arriendo-6-a-15-anos-cucuta-octubre-2026.csv`, `arriendo-6-a-15-anos-cucuta-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 1.550.000 (n = 50); 2 habitaciones, COP 1.8
 - n = 92 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-los-martires
+- Fuente: [arriendos en Los Mártires, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-los-martires)
 
 Archivos: `arriendo-con-vigilancia-o-porteria-localidad-los-martires-bogota-octubre-2026.pdf`, `arriendo-con-vigilancia-o-porteria-localidad-los-martires-bogota-octubre-2026.csv`, `arriendo-con-vigilancia-o-porteria-localidad-los-martires-bogota-octubre-2026.png`.

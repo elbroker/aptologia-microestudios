@@ -17,6 +17,6 @@ El área mediana es 218 m² (referencia: 83 m²).
 - n = 126 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-estrato/bogota/estrato-5
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo-estrato/bogota/estrato-5)
 
 Archivos: `arriendo-apartamentos-4-o-mas-habitaciones-estrato-5-bogota-octubre-2026.pdf`, `arriendo-apartamentos-4-o-mas-habitaciones-estrato-5-bogota-octubre-2026.csv`, `arriendo-apartamentos-4-o-mas-habitaciones-estrato-5-bogota-octubre-2026.png`.

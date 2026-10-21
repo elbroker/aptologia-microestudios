@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 576 millones) es 1,7 veces 
 - n = 98 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/britalia
+- Fuente: [inmuebles en venta en Britalia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/britalia)
 
 Archivos: `venta-britalia-bogota-octubre-2026.pdf`, `venta-britalia-bogota-octubre-2026.csv`, `venta-britalia-bogota-octubre-2026.png`.

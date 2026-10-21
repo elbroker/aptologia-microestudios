@@ -17,6 +17,6 @@ El área mediana es 48 m² (referencia: 193 m²).
 - n = 561 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/suba
+- Fuente: [inmuebles en venta en Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/suba)
 
 Archivos: `venta-sin-parqueadero-localidad-suba-bogota-octubre-2026.pdf`, `venta-sin-parqueadero-localidad-suba-bogota-octubre-2026.csv`, `venta-sin-parqueadero-localidad-suba-bogota-octubre-2026.png`.

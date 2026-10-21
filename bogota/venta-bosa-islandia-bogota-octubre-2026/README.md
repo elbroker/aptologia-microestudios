@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 2.
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bosa-islandia
+- Fuente: [inmuebles en venta en Bosa Islandia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bosa-islandia)
 
 Archivos: `venta-bosa-islandia-bogota-octubre-2026.pdf`, `venta-bosa-islandia-bogota-octubre-2026.csv`, `venta-bosa-islandia-bogota-octubre-2026.png`.

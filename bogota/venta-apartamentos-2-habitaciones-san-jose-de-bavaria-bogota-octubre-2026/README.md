@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/san-jose-de-bavaria
+- Fuente: [apartamentos en venta en San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/san-jose-de-bavaria)
 
 Archivos: `venta-apartamentos-2-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.png`.

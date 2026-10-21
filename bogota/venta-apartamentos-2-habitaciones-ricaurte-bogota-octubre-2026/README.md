@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 7.363.971/m² (−2 % frente a COP 7.500.0
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/ricaurte
+- Fuente: [apartamentos en venta en Ricaurte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/ricaurte)
 
 Archivos: `venta-apartamentos-2-habitaciones-ricaurte-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-ricaurte-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-ricaurte-bogota-octubre-2026.png`.

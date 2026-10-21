@@ -17,6 +17,6 @@ El área mediana es 67 m² (referencia: 44 m²).
 - n = 66 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/chapinero
+- Fuente: [estrato y precios de Chapinero, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/chapinero)
 
 Archivos: `arriendo-estrato-5-chapinero-bogota-octubre-2026.pdf`, `arriendo-estrato-5-chapinero-bogota-octubre-2026.csv`, `arriendo-estrato-5-chapinero-bogota-octubre-2026.png`.

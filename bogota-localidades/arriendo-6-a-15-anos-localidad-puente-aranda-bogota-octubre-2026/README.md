@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.000.000 (n = 7); 2 habitaciones, COP 1.50
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda
+- Fuente: [arriendos en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda)
 
 Archivos: `arriendo-6-a-15-anos-localidad-puente-aranda-bogota-octubre-2026.pdf`, `arriendo-6-a-15-anos-localidad-puente-aranda-bogota-octubre-2026.csv`, `arriendo-6-a-15-anos-localidad-puente-aranda-bogota-octubre-2026.png`.

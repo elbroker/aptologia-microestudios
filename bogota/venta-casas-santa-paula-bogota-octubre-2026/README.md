@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/santa-paula
+- Fuente: [casas en venta en Santa Paula, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/santa-paula)
 
 Archivos: `venta-casas-santa-paula-bogota-octubre-2026.pdf`, `venta-casas-santa-paula-bogota-octubre-2026.csv`, `venta-casas-santa-paula-bogota-octubre-2026.png`.

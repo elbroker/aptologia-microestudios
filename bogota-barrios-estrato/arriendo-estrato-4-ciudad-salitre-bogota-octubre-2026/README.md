@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.262.075 a COP 4.025.000 (razón 1,8).
 - n = 96 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/ciudad-salitre
+- Fuente: [estrato y precios de Ciudad Salitre, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/ciudad-salitre)
 
 Archivos: `arriendo-estrato-4-ciudad-salitre-bogota-octubre-2026.pdf`, `arriendo-estrato-4-ciudad-salitre-bogota-octubre-2026.csv`, `arriendo-estrato-4-ciudad-salitre-bogota-octubre-2026.png`.

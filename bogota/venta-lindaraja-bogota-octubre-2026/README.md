@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.741.573/m² (+3 % frente a COP 6.557.377
 - n = 63 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/lindaraja
+- Fuente: [inmuebles en venta en Lindaraja, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/lindaraja)
 
 Archivos: `venta-lindaraja-bogota-octubre-2026.pdf`, `venta-lindaraja-bogota-octubre-2026.csv`, `venta-lindaraja-bogota-octubre-2026.png`.

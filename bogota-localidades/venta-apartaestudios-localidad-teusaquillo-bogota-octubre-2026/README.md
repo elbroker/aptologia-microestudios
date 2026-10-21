@@ -17,6 +17,6 @@ En todo Bogotá, la misma combinación tiene mediana COP 338 millones (−8 %).
 - n = 158 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/teusaquillo
+- Fuente: [inmuebles en venta en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/teusaquillo)
 
 Archivos: `venta-apartaestudios-localidad-teusaquillo-bogota-octubre-2026.pdf`, `venta-apartaestudios-localidad-teusaquillo-bogota-octubre-2026.csv`, `venta-apartaestudios-localidad-teusaquillo-bogota-octubre-2026.png`.

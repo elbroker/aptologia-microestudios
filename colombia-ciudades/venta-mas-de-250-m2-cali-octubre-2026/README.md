@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 42 años.
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cali
+- Fuente: [inmuebles en venta en Cali en Aptología](https://www.aptologia.com/venta/cali)
 
 Archivos: `venta-mas-de-250-m2-cali-octubre-2026.pdf`, `venta-mas-de-250-m2-cali-octubre-2026.csv`, `venta-mas-de-250-m2-cali-octubre-2026.png`.

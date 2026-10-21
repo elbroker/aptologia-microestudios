@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (35 avisos, mediana COP 8.50
 - n = 101 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/la-calleja
+- Fuente: [arriendos en La Calleja, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/la-calleja)
 
 Archivos: `arriendo-la-calleja-bogota-octubre-2026.pdf`, `arriendo-la-calleja-bogota-octubre-2026.csv`, `arriendo-la-calleja-bogota-octubre-2026.png`.

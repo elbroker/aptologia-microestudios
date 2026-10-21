@@ -17,6 +17,6 @@ La administración mediana informada es COP 170.000 (88 avisos), cerca de 15 % d
 - n = 275 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-estrato/bogota/estrato-2
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo-estrato/bogota/estrato-2)
 
 Archivos: `arriendo-apartamentos-2-habitaciones-estrato-2-bogota-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-estrato-2-bogota-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-estrato-2-bogota-octubre-2026.png`.

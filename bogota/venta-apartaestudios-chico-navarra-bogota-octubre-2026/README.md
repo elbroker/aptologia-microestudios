@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 10.010.020/m² (+0 % frente a COP 10 millo
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-navarra
+- Fuente: [apartaestudios en venta en Chicó Navarra, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/chico-navarra)
 
 Archivos: `venta-apartaestudios-chico-navarra-bogota-octubre-2026.pdf`, `venta-apartaestudios-chico-navarra-bogota-octubre-2026.csv`, `venta-apartaestudios-chico-navarra-bogota-octubre-2026.png`.

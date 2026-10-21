@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 330 millones a COP 665 millones (razón 2,0)
 - n = 137 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-fe
+- Fuente: [inmuebles en venta en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-fe)
 
 Archivos: `venta-6-a-15-anos-localidad-santa-fe-bogota-octubre-2026.pdf`, `venta-6-a-15-anos-localidad-santa-fe-bogota-octubre-2026.csv`, `venta-6-a-15-anos-localidad-santa-fe-bogota-octubre-2026.png`.

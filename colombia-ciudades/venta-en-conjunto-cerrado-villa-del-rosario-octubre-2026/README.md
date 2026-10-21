@@ -17,6 +17,6 @@ El estrato más frecuente es 3.
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/
+- Fuente: [Aptología: arriendo y venta de vivienda](https://www.aptologia.com/)
 
 Archivos: `venta-en-conjunto-cerrado-villa-del-rosario-octubre-2026.pdf`, `venta-en-conjunto-cerrado-villa-del-rosario-octubre-2026.csv`, `venta-en-conjunto-cerrado-villa-del-rosario-octubre-2026.png`.

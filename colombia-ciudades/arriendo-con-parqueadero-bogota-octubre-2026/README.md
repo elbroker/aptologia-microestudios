@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 3.000.000 (n = 3074); 2 habitaciones, COP 4
 - n = 13362 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-parqueadero-moto/bogota
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 
 Archivos: `arriendo-con-parqueadero-bogota-octubre-2026.pdf`, `arriendo-con-parqueadero-bogota-octubre-2026.csv`, `arriendo-con-parqueadero-bogota-octubre-2026.png`.

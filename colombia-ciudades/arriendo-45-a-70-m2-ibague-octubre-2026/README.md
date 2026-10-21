@@ -17,6 +17,6 @@ La administración mediana informada es COP 211.700 (28 avisos), cerca de 21 % d
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/ibague
+- Fuente: [arriendos en Ibagué en Aptología](https://www.aptologia.com/arriendo/ibague)
 
 Archivos: `arriendo-45-a-70-m2-ibague-octubre-2026.pdf`, `arriendo-45-a-70-m2-ibague-octubre-2026.csv`, `arriendo-45-a-70-m2-ibague-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 230 millones a COP 460 millones (razón 2,0)
 - n = 337 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/kennedy
+- Fuente: [inmuebles en venta en Kennedy, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/kennedy)
 
 Archivos: `venta-pisos-4-a-8-localidad-kennedy-bogota-octubre-2026.pdf`, `venta-pisos-4-a-8-localidad-kennedy-bogota-octubre-2026.csv`, `venta-pisos-4-a-8-localidad-kennedy-bogota-octubre-2026.png`.

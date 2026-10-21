@@ -17,6 +17,6 @@ El área mediana es 280 m² (referencia: 158 m²).
 - n = 143 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/usaquen
+- Fuente: [estrato y precios de Usaquen, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/usaquen)
 
 Archivos: `venta-estrato-6-usaquen-bogota-octubre-2026.pdf`, `venta-estrato-6-usaquen-bogota-octubre-2026.csv`, `venta-estrato-6-usaquen-bogota-octubre-2026.png`.

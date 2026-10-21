@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 305 millones a COP 430 millones (razón 1,4)
 - n = 114 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/castilla
+- Fuente: [apartamentos en venta en Castilla, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/castilla)
 
 Archivos: `venta-apartamentos-3-habitaciones-castilla-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-castilla-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-castilla-bogota-octubre-2026.png`.

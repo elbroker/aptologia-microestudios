@@ -17,6 +17,6 @@ El área mediana anunciada es 39 m² (en Bogotá: 43 m²).
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/colina-campestre
+- Fuente: [apartamentos en venta en Colina Campestre, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/colina-campestre)
 
 Archivos: `venta-apartamentos-1-habitaciones-colina-campestre-bogota-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-colina-campestre-bogota-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-colina-campestre-bogota-octubre-2026.png`.

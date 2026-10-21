@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-alto
+- Fuente: [apartamentos en venta en Chicó Alto, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-alto)
 
 Archivos: `venta-apartamentos-2-habitaciones-chico-alto-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-chico-alto-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-chico-alto-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 114 m² (referencia: 129 m²).
 - n = 530 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/puente-aranda
+- Fuente: [inmuebles en venta en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/puente-aranda)
 
 Archivos: `venta-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.pdf`, `venta-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.csv`, `venta-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.png`.

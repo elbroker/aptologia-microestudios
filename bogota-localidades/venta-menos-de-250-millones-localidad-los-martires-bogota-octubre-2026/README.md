@@ -17,6 +17,6 @@ El estrato más frecuente es 3.
 - n = 136 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/los-martires
+- Fuente: [inmuebles en venta en Los Mártires, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/los-martires)
 
 Archivos: `venta-menos-de-250-millones-localidad-los-martires-bogota-octubre-2026.pdf`, `venta-menos-de-250-millones-localidad-los-martires-bogota-octubre-2026.csv`, `venta-menos-de-250-millones-localidad-los-martires-bogota-octubre-2026.png`.

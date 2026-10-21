@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,30 mil millones a COP 2,36 mil millones (r
 - n = 48 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/los-rosales-emaus
+- Fuente: [estrato y precios de Los Rosales Emaus, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/los-rosales-emaus)
 
 Archivos: `venta-estrato-6-los-rosales-emaus-bogota-octubre-2026.pdf`, `venta-estrato-6-los-rosales-emaus-bogota-octubre-2026.csv`, `venta-estrato-6-los-rosales-emaus-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 67 m² (referencia: 78 m²).
 - n = 104 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/prado-veraniego
+- Fuente: [estrato y precios de Prado Veraniego, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/prado-veraniego)
 
 Archivos: `venta-estrato-3-prado-veraniego-bogota-octubre-2026.pdf`, `venta-estrato-3-prado-veraniego-bogota-octubre-2026.csv`, `venta-estrato-3-prado-veraniego-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 108 m² (referencia: 114 m²).
 - n = 86 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/la-castellana
+- Fuente: [estrato y precios de La Castellana, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/la-castellana)
 
 Archivos: `venta-estrato-5-la-castellana-bogota-octubre-2026.pdf`, `venta-estrato-5-la-castellana-bogota-octubre-2026.csv`, `venta-estrato-5-la-castellana-bogota-octubre-2026.png`.

@@ -5,7 +5,7 @@
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
 - Datos al 18 de octubre de 2026
-- Sitio: https://www.aptologia.com/
+- Sitio: [apartamentos en venta en Piedecuesta en Aptología](https://www.aptologia.com/venta/piedecuesta)
 - Comunidad Zenodo: https://zenodo.org/communities/aptologia/
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/piedecuesta
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-barrios-piedecuesta-2026

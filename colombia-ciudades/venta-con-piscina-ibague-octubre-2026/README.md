@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 155 millones (n = 20); 3 habitaciones, COP
 - n = 93 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/ibague
+- Fuente: [inmuebles en venta en Ibagué en Aptología](https://www.aptologia.com/venta/ibague)
 
 Archivos: `venta-con-piscina-ibague-octubre-2026.pdf`, `venta-con-piscina-ibague-octubre-2026.csv`, `venta-con-piscina-ibague-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/carvajal
+- Fuente: [casas en venta en Carvajal, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/carvajal)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-carvajal-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-carvajal-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-carvajal-bogota-octubre-2026.png`.

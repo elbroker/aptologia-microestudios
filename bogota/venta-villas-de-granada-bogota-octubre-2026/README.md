@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 5 años.
 - n = 93 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/villas-de-granada
+- Fuente: [inmuebles en venta en Villas de Granada, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/villas-de-granada)
 
 Archivos: `venta-villas-de-granada-bogota-octubre-2026.pdf`, `venta-villas-de-granada-bogota-octubre-2026.csv`, `venta-villas-de-granada-bogota-octubre-2026.png`.

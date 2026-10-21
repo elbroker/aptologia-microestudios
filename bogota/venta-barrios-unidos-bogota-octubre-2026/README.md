@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (138 avisos, mediana 
 - n = 275 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/barrios-unidos
+- Fuente: [inmuebles en venta en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/barrios-unidos)
 
 Archivos: `venta-barrios-unidos-bogota-octubre-2026.pdf`, `venta-barrios-unidos-bogota-octubre-2026.csv`, `venta-barrios-unidos-bogota-octubre-2026.png`.

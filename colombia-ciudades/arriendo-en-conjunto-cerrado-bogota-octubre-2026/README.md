@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.300.000 (n = 1706); 2 habitaciones, COP 3
 - n = 5925 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 
 Archivos: `arriendo-en-conjunto-cerrado-bogota-octubre-2026.pdf`, `arriendo-en-conjunto-cerrado-bogota-octubre-2026.csv`, `arriendo-en-conjunto-cerrado-bogota-octubre-2026.png`.

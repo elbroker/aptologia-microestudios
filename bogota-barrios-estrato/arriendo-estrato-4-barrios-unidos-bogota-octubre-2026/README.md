@@ -17,6 +17,6 @@ La administración mediana informada es COP 341.500 (16 avisos), cerca de 16 % d
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/barrios-unidos
+- Fuente: [estrato y precios de Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/barrios-unidos)
 
 Archivos: `arriendo-estrato-4-barrios-unidos-bogota-octubre-2026.pdf`, `arriendo-estrato-4-barrios-unidos-bogota-octubre-2026.csv`, `arriendo-estrato-4-barrios-unidos-bogota-octubre-2026.png`.

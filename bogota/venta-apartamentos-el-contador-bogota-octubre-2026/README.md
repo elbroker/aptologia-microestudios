@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 5.
 - n = 127 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-contador
+- Fuente: [apartamentos en venta en El Contador, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-contador)
 
 Archivos: `venta-apartamentos-el-contador-bogota-octubre-2026.pdf`, `venta-apartamentos-el-contador-bogota-octubre-2026.csv`, `venta-apartamentos-el-contador-bogota-octubre-2026.png`.

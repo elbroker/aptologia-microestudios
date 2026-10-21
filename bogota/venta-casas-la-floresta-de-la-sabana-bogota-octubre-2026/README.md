@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/la-floresta-de-la-sabana
+- Fuente: [casas en venta en La Floresta de la Sabana, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/la-floresta-de-la-sabana)
 
 Archivos: `venta-casas-la-floresta-de-la-sabana-bogota-octubre-2026.pdf`, `venta-casas-la-floresta-de-la-sabana-bogota-octubre-2026.csv`, `venta-casas-la-floresta-de-la-sabana-bogota-octubre-2026.png`.

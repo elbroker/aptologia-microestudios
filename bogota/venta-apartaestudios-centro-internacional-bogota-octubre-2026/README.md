@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 48 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/centro-internacional
+- Fuente: [apartaestudios en venta en Centro Internacional, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/centro-internacional)
 
 Archivos: `venta-apartaestudios-centro-internacional-bogota-octubre-2026.pdf`, `venta-apartaestudios-centro-internacional-bogota-octubre-2026.csv`, `venta-apartaestudios-centro-internacional-bogota-octubre-2026.png`.

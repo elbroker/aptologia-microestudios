@@ -17,6 +17,6 @@ El segmento con más oferta es el de 2 habitaciones (17 avisos, mediana COP 1,10
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/parque-del-virrey
+- Fuente: [apartamentos en venta en Parque del Virrey, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/parque-del-virrey)
 
 Archivos: `venta-apartamentos-parque-del-virrey-bogota-octubre-2026.pdf`, `venta-apartamentos-parque-del-virrey-bogota-octubre-2026.csv`, `venta-apartamentos-parque-del-virrey-bogota-octubre-2026.png`.

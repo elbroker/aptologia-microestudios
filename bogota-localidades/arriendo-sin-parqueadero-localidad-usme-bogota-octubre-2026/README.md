@@ -17,6 +17,6 @@ El área mediana es 47 m² (referencia: 48 m²).
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/usme
+- Fuente: [arriendos en Usme, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/usme)
 
 Archivos: `arriendo-sin-parqueadero-localidad-usme-bogota-octubre-2026.pdf`, `arriendo-sin-parqueadero-localidad-usme-bogota-octubre-2026.csv`, `arriendo-sin-parqueadero-localidad-usme-bogota-octubre-2026.png`.

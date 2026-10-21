@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.200.000 a COP 5.000.000 (razón 2,3).
 - n = 254 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-teusaquillo
+- Fuente: [arriendos en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-teusaquillo)
 
 Archivos: `arriendo-con-terraza-o-balcon-localidad-teusaquillo-bogota-octubre-2026.pdf`, `arriendo-con-terraza-o-balcon-localidad-teusaquillo-bogota-octubre-2026.csv`, `arriendo-con-terraza-o-balcon-localidad-teusaquillo-bogota-octubre-2026.png`.

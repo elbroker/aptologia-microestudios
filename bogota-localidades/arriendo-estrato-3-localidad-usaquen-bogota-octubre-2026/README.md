@@ -17,6 +17,6 @@ La administración mediana informada es COP 240.000 (129 avisos), cerca de 15 % 
 - n = 295 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen
+- Fuente: [arriendos en Usaquén, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen)
 
 Archivos: `arriendo-estrato-3-localidad-usaquen-bogota-octubre-2026.pdf`, `arriendo-estrato-3-localidad-usaquen-bogota-octubre-2026.csv`, `arriendo-estrato-3-localidad-usaquen-bogota-octubre-2026.png`.

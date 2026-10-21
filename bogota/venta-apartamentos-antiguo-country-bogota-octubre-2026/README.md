@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 677 millones a COP 1,45 mil millones (razón
 - n = 90 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/antiguo-country
+- Fuente: [apartamentos en venta en Antiguo Country, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/antiguo-country)
 
 Archivos: `venta-apartamentos-antiguo-country-bogota-octubre-2026.pdf`, `venta-apartamentos-antiguo-country-bogota-octubre-2026.csv`, `venta-apartamentos-antiguo-country-bogota-octubre-2026.png`.

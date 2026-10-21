@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 52.365/m² (+5 % frente a COP 50.000/m² e
 - n = 72 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/la-calleja
+- Fuente: [arriendos en La Calleja, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/la-calleja)
 
 Archivos: `arriendo-apartamentos-la-calleja-bogota-octubre-2026.pdf`, `arriendo-apartamentos-la-calleja-bogota-octubre-2026.csv`, `arriendo-apartamentos-la-calleja-bogota-octubre-2026.png`.

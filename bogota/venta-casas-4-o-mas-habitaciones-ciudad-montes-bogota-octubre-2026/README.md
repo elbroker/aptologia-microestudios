@@ -17,6 +17,6 @@ El área mediana anunciada es 266 m² (en Bogotá: 292 m²).
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/ciudad-montes
+- Fuente: [casas en venta en Ciudad Montes, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/ciudad-montes)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-ciudad-montes-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-ciudad-montes-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-ciudad-montes-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El 98 % de los avisos tiene al menos un parqueadero.
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/suba
+- Fuente: [estrato y precios de Suba, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/suba)
 
 Archivos: `venta-estrato-6-suba-bogota-octubre-2026.pdf`, `venta-estrato-6-suba-bogota-octubre-2026.csv`, `venta-estrato-6-suba-bogota-octubre-2026.png`.

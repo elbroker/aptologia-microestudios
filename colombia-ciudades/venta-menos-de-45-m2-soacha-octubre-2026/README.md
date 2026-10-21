@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 13 años.
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/soacha
+- Fuente: [inmuebles en venta en Soacha en Aptología](https://www.aptologia.com/venta/soacha)
 
 Archivos: `venta-menos-de-45-m2-soacha-octubre-2026.pdf`, `venta-menos-de-45-m2-soacha-octubre-2026.csv`, `venta-menos-de-45-m2-soacha-octubre-2026.png`.

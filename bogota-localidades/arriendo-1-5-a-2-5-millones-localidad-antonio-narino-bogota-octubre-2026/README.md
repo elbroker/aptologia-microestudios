@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 5 años.
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-antonio-narino
+- Fuente: [arriendos en Antonio Nariño, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-antonio-narino)
 
 Archivos: `arriendo-1-5-a-2-5-millones-localidad-antonio-narino-bogota-octubre-2026.pdf`, `arriendo-1-5-a-2-5-millones-localidad-antonio-narino-bogota-octubre-2026.csv`, `arriendo-1-5-a-2-5-millones-localidad-antonio-narino-bogota-octubre-2026.png`.

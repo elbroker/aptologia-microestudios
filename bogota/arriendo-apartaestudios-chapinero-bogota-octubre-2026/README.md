@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 61.667/m² (−1 % frente a COP 62.077/m²
 - n = 175 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/chapinero
+- Fuente: [apartaestudios en arriendo en Chapinero, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/chapinero)
 
 Archivos: `arriendo-apartaestudios-chapinero-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-chapinero-bogota-octubre-2026.csv`, `arriendo-apartaestudios-chapinero-bogota-octubre-2026.png`.

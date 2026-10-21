@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 8 años.
 - n = 58 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/el-tintal
+- Fuente: [estrato y precios de El Tintal, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/el-tintal)
 
 Archivos: `venta-estrato-2-el-tintal-bogota-octubre-2026.pdf`, `venta-estrato-2-el-tintal-bogota-octubre-2026.csv`, `venta-estrato-2-el-tintal-bogota-octubre-2026.png`.

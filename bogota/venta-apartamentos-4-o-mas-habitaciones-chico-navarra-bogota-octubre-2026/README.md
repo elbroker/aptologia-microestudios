@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 2,40 mil millones) es 1,7 v
 - n = 124 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-navarra
+- Fuente: [apartamentos en venta en Chicó Navarra, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-navarra)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-chico-navarra-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-chico-navarra-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-chico-navarra-bogota-octubre-2026.png`.

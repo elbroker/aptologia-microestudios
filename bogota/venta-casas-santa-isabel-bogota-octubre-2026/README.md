@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 804 millones a COP 1,19 mil millones (razón
 - n = 66 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/santa-isabel
+- Fuente: [casas en venta en Santa Isabel, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/santa-isabel)
 
 Archivos: `venta-casas-santa-isabel-bogota-octubre-2026.pdf`, `venta-casas-santa-isabel-bogota-octubre-2026.csv`, `venta-casas-santa-isabel-bogota-octubre-2026.png`.

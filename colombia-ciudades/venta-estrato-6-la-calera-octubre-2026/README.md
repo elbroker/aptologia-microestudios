@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,96 mil millones a COP 2,84 mil millones (r
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/la-calera
+- Fuente: [inmuebles en venta en La Calera en Aptología](https://www.aptologia.com/venta/la-calera)
 
 Archivos: `venta-estrato-6-la-calera-octubre-2026.pdf`, `venta-estrato-6-la-calera-octubre-2026.csv`, `venta-estrato-6-la-calera-octubre-2026.png`.

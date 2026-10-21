@@ -17,6 +17,6 @@ El área mediana es 190 m² (referencia: 146 m²).
 - n = 16072 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-16-a-30-anos-bogota-octubre-2026.pdf`, `venta-16-a-30-anos-bogota-octubre-2026.csv`, `venta-16-a-30-anos-bogota-octubre-2026.png`.

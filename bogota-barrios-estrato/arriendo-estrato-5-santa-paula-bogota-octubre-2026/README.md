@@ -17,6 +17,6 @@ La administración mediana informada es COP 575.000 (11 avisos), cerca de 15 % d
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-paula
+- Fuente: [estrato y precios de Santa Paula, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-paula)
 
 Archivos: `arriendo-estrato-5-santa-paula-bogota-octubre-2026.pdf`, `arriendo-estrato-5-santa-paula-bogota-octubre-2026.csv`, `arriendo-estrato-5-santa-paula-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 45.385/m² (−7 % frente a COP 48.571/m²
 - n = 56 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-luis
+- Fuente: [arriendos en San Luis, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-luis)
 
 Archivos: `arriendo-san-luis-bogota-octubre-2026.pdf`, `arriendo-san-luis-bogota-octubre-2026.csv`, `arriendo-san-luis-bogota-octubre-2026.png`.

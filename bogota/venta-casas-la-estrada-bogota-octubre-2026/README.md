@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 15 años.
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/la-estrada
+- Fuente: [casas en venta en La Estrada, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/la-estrada)
 
 Archivos: `venta-casas-la-estrada-bogota-octubre-2026.pdf`, `venta-casas-la-estrada-bogota-octubre-2026.csv`, `venta-casas-la-estrada-bogota-octubre-2026.png`.

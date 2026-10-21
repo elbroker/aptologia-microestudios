@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,38 mil millones a COP 2,31 mil millones (r
 - n = 52 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/niza-suba
+- Fuente: [estrato y precios de Niza Suba, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/niza-suba)
 
 Archivos: `venta-estrato-6-niza-suba-bogota-octubre-2026.pdf`, `venta-estrato-6-niza-suba-bogota-octubre-2026.csv`, `venta-estrato-6-niza-suba-bogota-octubre-2026.png`.

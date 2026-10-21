@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 48.639/m² (+5 % frente a COP 46.296/m² e
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/ciudad-salitre
+- Fuente: [arriendos en Ciudad Salitre, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/ciudad-salitre)
 
 Archivos: `arriendo-apartamentos-3-habitaciones-ciudad-salitre-bogota-octubre-2026.pdf`, `arriendo-apartamentos-3-habitaciones-ciudad-salitre-bogota-octubre-2026.csv`, `arriendo-apartamentos-3-habitaciones-ciudad-salitre-bogota-octubre-2026.png`.

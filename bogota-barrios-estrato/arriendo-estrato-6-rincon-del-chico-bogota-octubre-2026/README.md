@@ -17,6 +17,6 @@ El área mediana es 110 m² (referencia: 87 m²).
 - n = 42 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/rincon-del-chico
+- Fuente: [estrato y precios de Rincon del Chico, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/rincon-del-chico)
 
 Archivos: `arriendo-estrato-6-rincon-del-chico-bogota-octubre-2026.pdf`, `arriendo-estrato-6-rincon-del-chico-bogota-octubre-2026.csv`, `arriendo-estrato-6-rincon-del-chico-bogota-octubre-2026.png`.

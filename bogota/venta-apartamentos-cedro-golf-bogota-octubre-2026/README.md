@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 394 millones a COP 650 millones (razón 1,7)
 - n = 91 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cedro-golf
+- Fuente: [apartamentos en venta en Cedro Golf, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cedro-golf)
 
 Archivos: `venta-apartamentos-cedro-golf-bogota-octubre-2026.pdf`, `venta-apartamentos-cedro-golf-bogota-octubre-2026.csv`, `venta-apartamentos-cedro-golf-bogota-octubre-2026.png`.

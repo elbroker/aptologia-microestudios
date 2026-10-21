@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 7.027.027/m² (+0 % frente a COP 7.000.000
 - n = 110 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/nicolas-de-federman
+- Fuente: [apartamentos en venta en Nicolas de Federman, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/nicolas-de-federman)
 
 Archivos: `venta-apartamentos-3-habitaciones-nicolas-de-federman-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-nicolas-de-federman-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-nicolas-de-federman-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 5.
 - n = 120 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/pasadena
+- Fuente: [arriendos en Pasadena, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/pasadena)
 
 Archivos: `arriendo-pasadena-bogota-octubre-2026.pdf`, `arriendo-pasadena-bogota-octubre-2026.csv`, `arriendo-pasadena-bogota-octubre-2026.png`.

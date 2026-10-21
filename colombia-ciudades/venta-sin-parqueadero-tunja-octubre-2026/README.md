@@ -17,6 +17,6 @@ El área mediana es 58 m² (referencia: 111 m²).
 - n = 51 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/
+- Fuente: [Aptología: arriendo y venta de vivienda](https://www.aptologia.com/)
 
 Archivos: `venta-sin-parqueadero-tunja-octubre-2026.pdf`, `venta-sin-parqueadero-tunja-octubre-2026.csv`, `venta-sin-parqueadero-tunja-octubre-2026.png`.

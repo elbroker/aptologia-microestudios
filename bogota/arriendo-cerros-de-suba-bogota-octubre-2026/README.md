@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (15 avisos, mediana COP 13 m
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/cerros-de-suba
+- Fuente: [arriendos en Cerros de Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/cerros-de-suba)
 
 Archivos: `arriendo-cerros-de-suba-bogota-octubre-2026.pdf`, `arriendo-cerros-de-suba-bogota-octubre-2026.csv`, `arriendo-cerros-de-suba-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 515 millones (n = 6); 2 habitaciones, COP 1
 - n = 129 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usme
+- Fuente: [inmuebles en venta en Usme, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usme)
 
 Archivos: `venta-hasta-5-anos-localidad-usme-bogota-octubre-2026.pdf`, `venta-hasta-5-anos-localidad-usme-bogota-octubre-2026.csv`, `venta-hasta-5-anos-localidad-usme-bogota-octubre-2026.png`.

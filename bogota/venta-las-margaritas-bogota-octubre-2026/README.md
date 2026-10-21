@@ -17,6 +17,6 @@ El área mediana anunciada es 132 m² (en Bogotá: 146 m²).
 - n = 76 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/las-margaritas
+- Fuente: [inmuebles en venta en Las Margaritas, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/las-margaritas)
 
 Archivos: `venta-las-margaritas-bogota-octubre-2026.pdf`, `venta-las-margaritas-bogota-octubre-2026.csv`, `venta-las-margaritas-bogota-octubre-2026.png`.

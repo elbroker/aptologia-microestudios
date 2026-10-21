@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (23 avisos, mediana COP 870 
 - n = 52 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/los-lagartos
+- Fuente: [apartamentos en venta en Los Lagartos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/los-lagartos)
 
 Archivos: `venta-apartamentos-los-lagartos-bogota-octubre-2026.pdf`, `venta-apartamentos-los-lagartos-bogota-octubre-2026.csv`, `venta-apartamentos-los-lagartos-bogota-octubre-2026.png`.

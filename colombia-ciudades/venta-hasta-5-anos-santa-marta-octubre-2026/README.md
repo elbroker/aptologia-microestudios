@@ -17,6 +17,6 @@ El estrato más frecuente es 6.
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/santa-marta
+- Fuente: [inmuebles en venta en Santa Marta en Aptología](https://www.aptologia.com/venta/santa-marta)
 
 Archivos: `venta-hasta-5-anos-santa-marta-octubre-2026.pdf`, `venta-hasta-5-anos-santa-marta-octubre-2026.csv`, `venta-hasta-5-anos-santa-marta-octubre-2026.png`.

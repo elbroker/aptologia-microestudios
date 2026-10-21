@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 10 millones/m² (+0 % frente a COP 10 mill
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/las-nieves
+- Fuente: [apartaestudios en venta en Las Nieves, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/las-nieves)
 
 Archivos: `venta-apartaestudios-las-nieves-bogota-octubre-2026.pdf`, `venta-apartaestudios-las-nieves-bogota-octubre-2026.csv`, `venta-apartaestudios-las-nieves-bogota-octubre-2026.png`.

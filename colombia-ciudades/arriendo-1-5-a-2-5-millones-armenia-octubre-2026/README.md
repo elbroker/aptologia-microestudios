@@ -17,6 +17,6 @@ El estrato más frecuente es 5.
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendos-baratos/armenia
+- Fuente: [arriendos en Armenia en Aptología](https://www.aptologia.com/arriendo/armenia)
 
 Archivos: `arriendo-1-5-a-2-5-millones-armenia-octubre-2026.pdf`, `arriendo-1-5-a-2-5-millones-armenia-octubre-2026.csv`, `arriendo-1-5-a-2-5-millones-armenia-octubre-2026.png`.

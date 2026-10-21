@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/reserva-de-la-sierra
+- Fuente: [apartamentos en venta en Reserva de la Sierra, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/reserva-de-la-sierra)
 
 Archivos: `venta-apartamentos-reserva-de-la-sierra-bogota-octubre-2026.pdf`, `venta-apartamentos-reserva-de-la-sierra-bogota-octubre-2026.csv`, `venta-apartamentos-reserva-de-la-sierra-bogota-octubre-2026.png`.

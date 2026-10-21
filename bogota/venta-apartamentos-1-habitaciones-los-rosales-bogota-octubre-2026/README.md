@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 10.317.460/m² (+6 % frente a COP 9.714.28
 - n = 80 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/los-rosales
+- Fuente: [apartamentos en venta en Los Rosales, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/los-rosales)
 
 Archivos: `venta-apartamentos-1-habitaciones-los-rosales-bogota-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-los-rosales-bogota-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-los-rosales-bogota-octubre-2026.png`.

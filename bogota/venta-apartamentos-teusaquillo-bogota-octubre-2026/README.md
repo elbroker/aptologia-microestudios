@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 380 millones a COP 715 millones (razón 1,9)
 - n = 130 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/teusaquillo
+- Fuente: [apartamentos en venta en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/teusaquillo)
 
 Archivos: `venta-apartamentos-teusaquillo-bogota-octubre-2026.pdf`, `venta-apartamentos-teusaquillo-bogota-octubre-2026.csv`, `venta-apartamentos-teusaquillo-bogota-octubre-2026.png`.

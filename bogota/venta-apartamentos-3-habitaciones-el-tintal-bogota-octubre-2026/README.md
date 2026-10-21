@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 375 millones) es 1,8 veces 
 - n = 49 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-tintal
+- Fuente: [apartamentos en venta en El Tintal, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-tintal)
 
 Archivos: `venta-apartamentos-3-habitaciones-el-tintal-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-el-tintal-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-el-tintal-bogota-octubre-2026.png`.

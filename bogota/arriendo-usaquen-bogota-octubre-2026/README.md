@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 90 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/usaquen
+- Fuente: [arriendos en Usaquen, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/usaquen)
 
 Archivos: `arriendo-usaquen-bogota-octubre-2026.pdf`, `arriendo-usaquen-bogota-octubre-2026.csv`, `arriendo-usaquen-bogota-octubre-2026.png`.

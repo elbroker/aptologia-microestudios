@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/mazuren-colina
+- Fuente: [apartamentos en venta en Mazuren Colina, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/mazuren-colina)
 
 Archivos: `venta-apartamentos-mazuren-colina-bogota-octubre-2026.pdf`, `venta-apartamentos-mazuren-colina-bogota-octubre-2026.csv`, `venta-apartamentos-mazuren-colina-bogota-octubre-2026.png`.

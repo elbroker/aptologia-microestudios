@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/cedro-golf
+- Fuente: [arriendos en Cedro Golf, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/cedro-golf)
 
 Archivos: `arriendo-cedro-golf-bogota-octubre-2026.pdf`, `arriendo-cedro-golf-bogota-octubre-2026.csv`, `arriendo-cedro-golf-bogota-octubre-2026.png`.

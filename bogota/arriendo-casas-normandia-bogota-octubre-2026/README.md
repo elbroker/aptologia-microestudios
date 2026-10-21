@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 4.825.000 a COP 10.250.000 (razón 2,1), una
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/normandia
+- Fuente: [casas en arriendo en Normandia, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/normandia)
 
 Archivos: `arriendo-casas-normandia-bogota-octubre-2026.pdf`, `arriendo-casas-normandia-bogota-octubre-2026.csv`, `arriendo-casas-normandia-bogota-octubre-2026.png`.

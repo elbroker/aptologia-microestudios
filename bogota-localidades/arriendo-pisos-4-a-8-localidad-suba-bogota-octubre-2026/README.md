@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.000.000 (n = 87); 2 habitaciones, COP 1.9
 - n = 370 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-suba
+- Fuente: [arriendos en Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-suba)
 
 Archivos: `arriendo-pisos-4-a-8-localidad-suba-bogota-octubre-2026.pdf`, `arriendo-pisos-4-a-8-localidad-suba-bogota-octubre-2026.csv`, `arriendo-pisos-4-a-8-localidad-suba-bogota-octubre-2026.png`.

@@ -5,7 +5,7 @@
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
 - Datos al 18 de octubre de 2026
-- Sitio: https://www.aptologia.com/
+- Sitio: [arriendos en Medellín en Aptología](https://www.aptologia.com/arriendo/medellin)
 - Comunidad Zenodo: https://zenodo.org/communities/aptologia/
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/x10-co-medellin
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-vivienda-x10-co-medellin-2026

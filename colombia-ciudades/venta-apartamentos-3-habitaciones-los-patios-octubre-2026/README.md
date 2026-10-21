@@ -17,6 +17,6 @@ El estrato más frecuente es 5.
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/los-patios
+- Fuente: [apartamentos en venta en Los Patios en Aptología](https://www.aptologia.com/venta/los-patios)
 
 Archivos: `venta-apartamentos-3-habitaciones-los-patios-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-los-patios-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-los-patios-octubre-2026.png`.

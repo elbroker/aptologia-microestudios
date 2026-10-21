@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 1.300.000 (n = 19); 2 habitaciones, COP 1.5
 - n = 103 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-engativa
+- Fuente: [arriendos en Engativá, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-engativa)
 
 Archivos: `arriendo-16-a-30-anos-localidad-engativa-bogota-octubre-2026.pdf`, `arriendo-16-a-30-anos-localidad-engativa-bogota-octubre-2026.csv`, `arriendo-16-a-30-anos-localidad-engativa-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana anunciada es 78 m² (en Bogotá: 67 m²).
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/antiguo-country
+- Fuente: [apartamentos en venta en Antiguo Country, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/antiguo-country)
 
 Archivos: `venta-apartamentos-2-habitaciones-antiguo-country-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-antiguo-country-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-antiguo-country-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 7.142.857/m² (+2 % frente a COP 7.000.000
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/altos-de-bella-suiza
+- Fuente: [apartamentos en venta en Altos de Bella Suiza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/altos-de-bella-suiza)
 
 Archivos: `venta-apartamentos-3-habitaciones-altos-de-bella-suiza-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-altos-de-bella-suiza-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-altos-de-bella-suiza-bogota-octubre-2026.png`.

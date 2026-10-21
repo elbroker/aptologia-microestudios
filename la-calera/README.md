@@ -5,7 +5,7 @@
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda), ORCID 0009-0007-5142-366X
 - Licencia: CC BY 4.0
 - Datos al 18 de octubre de 2026
-- Sitio: https://www.aptologia.com/
+- Sitio: [casas en venta en La Calera en Aptología](https://www.aptologia.com/casas-en-venta/la-calera)
 - Comunidad Zenodo: https://zenodo.org/communities/aptologia/
 - GitHub: https://github.com/elbroker/aptologia-microestudios/tree/main/la-calera
 - Hugging Face: https://huggingface.co/datasets/aptologia/microestudios-barrios-la-calera-2026

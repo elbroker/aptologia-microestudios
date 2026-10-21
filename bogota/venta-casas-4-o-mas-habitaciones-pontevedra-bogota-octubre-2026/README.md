@@ -17,6 +17,6 @@ El área mediana anunciada es 273 m² (en Bogotá: 292 m²).
 - n = 85 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/pontevedra
+- Fuente: [casas en venta en Pontevedra, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/pontevedra)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-pontevedra-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-pontevedra-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-pontevedra-bogota-octubre-2026.png`.

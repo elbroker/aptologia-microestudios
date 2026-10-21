@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (40 avisos, mediana COP 14 m
 - n = 63 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-ana-oriental
+- Fuente: [arriendos en Santa Ana Oriental, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-ana-oriental)
 
 Archivos: `arriendo-apartamentos-santa-ana-oriental-bogota-octubre-2026.pdf`, `arriendo-apartamentos-santa-ana-oriental-bogota-octubre-2026.csv`, `arriendo-apartamentos-santa-ana-oriental-bogota-octubre-2026.png`.

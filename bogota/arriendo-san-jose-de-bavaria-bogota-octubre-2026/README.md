@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (152 avisos, mediana 
 - n = 251 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria
+- Fuente: [arriendos en San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria)
 
 Archivos: `arriendo-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `arriendo-san-jose-de-bavaria-bogota-octubre-2026.csv`, `arriendo-san-jose-de-bavaria-bogota-octubre-2026.png`.

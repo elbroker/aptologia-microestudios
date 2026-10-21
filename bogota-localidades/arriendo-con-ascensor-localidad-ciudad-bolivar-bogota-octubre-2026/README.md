@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 1.300.000 (n = 30); 3 habitaciones, COP 1.
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-ciudad-bolivar
+- Fuente: [arriendos en Ciudad Bolívar, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-ciudad-bolivar)
 
 Archivos: `arriendo-con-ascensor-localidad-ciudad-bolivar-bogota-octubre-2026.pdf`, `arriendo-con-ascensor-localidad-ciudad-bolivar-bogota-octubre-2026.csv`, `arriendo-con-ascensor-localidad-ciudad-bolivar-bogota-octubre-2026.png`.

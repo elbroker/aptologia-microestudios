@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 41 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/quinta-camacho
+- Fuente: [casas en arriendo en Quinta Camacho, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/quinta-camacho)
 
 Archivos: `arriendo-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.pdf`, `arriendo-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.csv`, `arriendo-casas-4-o-mas-habitaciones-quinta-camacho-bogota-octubre-2026.png`.

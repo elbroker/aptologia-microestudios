@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (26 avisos, mediana C
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/nueva-autopista
+- Fuente: [casas en venta en Nueva Autopista, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/nueva-autopista)
 
 Archivos: `venta-casas-nueva-autopista-bogota-octubre-2026.pdf`, `venta-casas-nueva-autopista-bogota-octubre-2026.csv`, `venta-casas-nueva-autopista-bogota-octubre-2026.png`.

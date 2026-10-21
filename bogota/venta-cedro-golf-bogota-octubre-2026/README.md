@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (76 avisos, mediana COP 624 
 - n = 131 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/cedro-golf
+- Fuente: [inmuebles en venta en Cedro Golf, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/cedro-golf)
 
 Archivos: `venta-cedro-golf-bogota-octubre-2026.pdf`, `venta-cedro-golf-bogota-octubre-2026.csv`, `venta-cedro-golf-bogota-octubre-2026.png`.

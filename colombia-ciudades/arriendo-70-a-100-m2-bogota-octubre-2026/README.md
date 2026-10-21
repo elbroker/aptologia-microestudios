@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.800.000 a COP 5.000.000 (razón 1,8).
 - n = 2425 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 
 Archivos: `arriendo-70-a-100-m2-bogota-octubre-2026.pdf`, `arriendo-70-a-100-m2-bogota-octubre-2026.csv`, `arriendo-70-a-100-m2-bogota-octubre-2026.png`.

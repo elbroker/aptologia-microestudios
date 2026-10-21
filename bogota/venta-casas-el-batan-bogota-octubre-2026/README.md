@@ -17,6 +17,6 @@ El área mediana anunciada es 248 m² (en Bogotá: 270 m²).
 - n = 97 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/el-batan
+- Fuente: [casas en venta en El Batán, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/el-batan)
 
 Archivos: `venta-casas-el-batan-bogota-octubre-2026.pdf`, `venta-casas-el-batan-bogota-octubre-2026.csv`, `venta-casas-el-batan-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (145 avisos, mediana COP 1,9
 - n = 233 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bosque-medina
+- Fuente: [inmuebles en venta en Bosque Medina, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bosque-medina)
 
 Archivos: `venta-bosque-medina-bogota-octubre-2026.pdf`, `venta-bosque-medina-bogota-octubre-2026.csv`, `venta-bosque-medina-bogota-octubre-2026.png`.

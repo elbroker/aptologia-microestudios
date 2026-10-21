@@ -17,6 +17,6 @@ El 91 % de los avisos tiene al menos un parqueadero.
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/los-patios
+- Fuente: [inmuebles en venta en Los Patios en Aptología](https://www.aptologia.com/venta/los-patios)
 
 Archivos: `venta-mas-de-250-m2-los-patios-octubre-2026.pdf`, `venta-mas-de-250-m2-los-patios-octubre-2026.csv`, `venta-mas-de-250-m2-los-patios-octubre-2026.png`.

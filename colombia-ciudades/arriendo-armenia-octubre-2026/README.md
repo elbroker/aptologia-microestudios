@@ -17,6 +17,6 @@ La administración mediana informada es COP 294.000 (22 avisos), cerca de 15 % d
 - n = 77 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/armenia
+- Fuente: [arriendos en Armenia en Aptología](https://www.aptologia.com/arriendo/armenia)
 
 Archivos: `arriendo-armenia-octubre-2026.pdf`, `arriendo-armenia-octubre-2026.csv`, `arriendo-armenia-octubre-2026.png`.

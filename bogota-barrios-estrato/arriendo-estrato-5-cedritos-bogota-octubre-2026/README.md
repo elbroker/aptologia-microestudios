@@ -17,6 +17,6 @@ El área mediana es 78 m² (referencia: 65 m²).
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/cedritos
+- Fuente: [estrato y precios de Cedritos, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/cedritos)
 
 Archivos: `arriendo-estrato-5-cedritos-bogota-octubre-2026.pdf`, `arriendo-estrato-5-cedritos-bogota-octubre-2026.csv`, `arriendo-estrato-5-cedritos-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 16.800.000) es 1,9 veces el
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/santa-barbara
+- Fuente: [casas en arriendo en Santa Barbara, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/santa-barbara)
 
 Archivos: `arriendo-casas-4-o-mas-habitaciones-santa-barbara-bogota-octubre-2026.pdf`, `arriendo-casas-4-o-mas-habitaciones-santa-barbara-bogota-octubre-2026.csv`, `arriendo-casas-4-o-mas-habitaciones-santa-barbara-bogota-octubre-2026.png`.

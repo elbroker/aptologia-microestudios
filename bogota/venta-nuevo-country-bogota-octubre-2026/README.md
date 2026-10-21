@@ -17,6 +17,6 @@ El segmento con más oferta es el de 1 habitación (25 avisos, mediana COP 380 m
 - n = 84 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/nuevo-country
+- Fuente: [inmuebles en venta en Nuevo Country, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/nuevo-country)
 
 Archivos: `venta-nuevo-country-bogota-octubre-2026.pdf`, `venta-nuevo-country-bogota-octubre-2026.csv`, `venta-nuevo-country-bogota-octubre-2026.png`.

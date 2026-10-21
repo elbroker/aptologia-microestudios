@@ -17,6 +17,6 @@ El 97 % de los avisos tiene al menos un parqueadero.
 - n = 66 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-barbara-occidental
+- Fuente: [estrato y precios de Santa Barbara Occidental, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-barbara-occidental)
 
 Archivos: `arriendo-estrato-5-santa-barbara-occidental-bogota-octubre-2026.pdf`, `arriendo-estrato-5-santa-barbara-occidental-bogota-octubre-2026.csv`, `arriendo-estrato-5-santa-barbara-occidental-bogota-octubre-2026.png`.

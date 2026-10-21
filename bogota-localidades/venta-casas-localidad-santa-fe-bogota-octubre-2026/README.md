@@ -17,6 +17,6 @@ El área mediana es 350 m² (referencia: 56 m²).
 - n = 135 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-fe
+- Fuente: [inmuebles en venta en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-fe)
 
 Archivos: `venta-casas-localidad-santa-fe-bogota-octubre-2026.pdf`, `venta-casas-localidad-santa-fe-bogota-octubre-2026.csv`, `venta-casas-localidad-santa-fe-bogota-octubre-2026.png`.

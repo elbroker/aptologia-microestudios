@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 520 millones (n = 757); 2 habitaciones, COP
 - n = 5721 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chapinero
+- Fuente: [apartamentos en venta en Chapinero, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chapinero)
 
 Archivos: `venta-apartamentos-localidad-chapinero-bogota-octubre-2026.pdf`, `venta-apartamentos-localidad-chapinero-bogota-octubre-2026.csv`, `venta-apartamentos-localidad-chapinero-bogota-octubre-2026.png`.

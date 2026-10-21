@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (17 avisos, mediana COP 2,90
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-oriental
+- Fuente: [inmuebles en venta en Chico Oriental, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-oriental)
 
 Archivos: `venta-chico-oriental-bogota-octubre-2026.pdf`, `venta-chico-oriental-bogota-octubre-2026.csv`, `venta-chico-oriental-bogota-octubre-2026.png`.

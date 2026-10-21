@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 830 millones con 1 habitac
 - n = 928 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/rosales
+- Fuente: [apartamentos en venta en Rosales, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/rosales)
 
 Archivos: `venta-apartamentos-3-habitaciones-rosales-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-rosales-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-rosales-bogota-octubre-2026.png`.

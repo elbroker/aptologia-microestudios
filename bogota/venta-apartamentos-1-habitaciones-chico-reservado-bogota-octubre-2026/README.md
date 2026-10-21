@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 1,30 mil millones con 2 ha
 - n = 57 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-reservado
+- Fuente: [apartamentos en venta en Chicó Reservado, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-reservado)
 
 Archivos: `venta-apartamentos-1-habitaciones-chico-reservado-bogota-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-chico-reservado-bogota-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-chico-reservado-bogota-octubre-2026.png`.

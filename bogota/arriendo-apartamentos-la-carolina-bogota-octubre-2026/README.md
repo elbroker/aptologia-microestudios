@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (56 avisos, mediana COP 10.2
 - n = 138 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/la-carolina
+- Fuente: [arriendos en La Carolina, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/la-carolina)
 
 Archivos: `arriendo-apartamentos-la-carolina-bogota-octubre-2026.pdf`, `arriendo-apartamentos-la-carolina-bogota-octubre-2026.csv`, `arriendo-apartamentos-la-carolina-bogota-octubre-2026.png`.

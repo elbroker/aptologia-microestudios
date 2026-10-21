@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 8.525.000 a COP 18 millones (razón 2,1), un
 - n = 142 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/el-refugio
+- Fuente: [arriendos en El Refugio, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/el-refugio)
 
 Archivos: `arriendo-apartamentos-el-refugio-bogota-octubre-2026.pdf`, `arriendo-apartamentos-el-refugio-bogota-octubre-2026.csv`, `arriendo-apartamentos-el-refugio-bogota-octubre-2026.png`.

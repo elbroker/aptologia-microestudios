@@ -17,6 +17,6 @@ El segmento con más oferta es el de 2 habitaciones (23 avisos, mediana COP 7.50
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/parque-del-virrey
+- Fuente: [arriendos en Parque del Virrey, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/parque-del-virrey)
 
 Archivos: `arriendo-apartamentos-parque-del-virrey-bogota-octubre-2026.pdf`, `arriendo-apartamentos-parque-del-virrey-bogota-octubre-2026.csv`, `arriendo-apartamentos-parque-del-virrey-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 270 millones a COP 398 millones (razón 1,5)
 - n = 41 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/san-cristobal-norte
+- Fuente: [apartamentos en venta en San Cristobal Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/san-cristobal-norte)
 
 Archivos: `venta-apartamentos-san-cristobal-norte-bogota-octubre-2026.pdf`, `venta-apartamentos-san-cristobal-norte-bogota-octubre-2026.csv`, `venta-apartamentos-san-cristobal-norte-bogota-octubre-2026.png`.

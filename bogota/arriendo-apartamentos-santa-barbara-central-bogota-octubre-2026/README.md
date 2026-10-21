@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 7.000.000) es 1,9 veces el 
 - n = 128 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara-central
+- Fuente: [arriendos en Santa Barbara Central, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara-central)
 
 Archivos: `arriendo-apartamentos-santa-barbara-central-bogota-octubre-2026.pdf`, `arriendo-apartamentos-santa-barbara-central-bogota-octubre-2026.csv`, `arriendo-apartamentos-santa-barbara-central-bogota-octubre-2026.png`.

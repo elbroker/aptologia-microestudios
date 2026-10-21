@@ -17,6 +17,6 @@ El área mediana anunciada es 250 m² (en Bogotá: 270 m²).
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/la-esmeralda
+- Fuente: [casas en venta en La Esmeralda, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/la-esmeralda)
 
 Archivos: `venta-casas-la-esmeralda-bogota-octubre-2026.pdf`, `venta-casas-la-esmeralda-bogota-octubre-2026.csv`, `venta-casas-la-esmeralda-bogota-octubre-2026.png`.

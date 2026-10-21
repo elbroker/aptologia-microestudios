@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2,46 mil millones a COP 5,17 mil millones (r
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/bosque-medina
+- Fuente: [casas en venta en Bosque Medina, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/bosque-medina)
 
 Archivos: `venta-casas-bosque-medina-bogota-octubre-2026.pdf`, `venta-casas-bosque-medina-bogota-octubre-2026.csv`, `venta-casas-bosque-medina-bogota-octubre-2026.png`.

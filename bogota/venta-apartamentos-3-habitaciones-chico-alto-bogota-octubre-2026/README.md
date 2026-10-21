@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 655 millones con 1 habitac
 - n = 162 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-alto
+- Fuente: [apartamentos en venta en Chicó Alto, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-alto)
 
 Archivos: `venta-apartamentos-3-habitaciones-chico-alto-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-chico-alto-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-chico-alto-bogota-octubre-2026.png`.

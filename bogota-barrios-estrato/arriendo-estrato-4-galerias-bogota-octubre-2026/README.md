@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.400.000 a COP 2.400.000 (razón 1,7).
 - n = 41 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/galerias
+- Fuente: [estrato y precios de Galerias, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/galerias)
 
 Archivos: `arriendo-estrato-4-galerias-bogota-octubre-2026.pdf`, `arriendo-estrato-4-galerias-bogota-octubre-2026.csv`, `arriendo-estrato-4-galerias-bogota-octubre-2026.png`.

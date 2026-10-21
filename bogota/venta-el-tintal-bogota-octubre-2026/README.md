@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 129 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-tintal
+- Fuente: [inmuebles en venta en El Tintal, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-tintal)
 
 Archivos: `venta-el-tintal-bogota-octubre-2026.pdf`, `venta-el-tintal-bogota-octubre-2026.csv`, `venta-el-tintal-bogota-octubre-2026.png`.

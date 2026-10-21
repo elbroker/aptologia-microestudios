@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 43.478/m² (−2 % frente a COP 44.568/m²
 - n = 119 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/cedritos
+- Fuente: [arriendos en Cedritos, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/cedritos)
 
 Archivos: `arriendo-apartamentos-2-habitaciones-cedritos-bogota-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-cedritos-bogota-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-cedritos-bogota-octubre-2026.png`.

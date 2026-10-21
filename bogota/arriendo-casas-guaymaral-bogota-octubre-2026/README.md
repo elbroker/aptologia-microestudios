@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 28.846/m² (−6 % frente a COP 30.556/m²
 - n = 124 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/guaymaral
+- Fuente: [casas en arriendo en Guaymaral, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/guaymaral)
 
 Archivos: `arriendo-casas-guaymaral-bogota-octubre-2026.pdf`, `arriendo-casas-guaymaral-bogota-octubre-2026.csv`, `arriendo-casas-guaymaral-bogota-octubre-2026.png`.

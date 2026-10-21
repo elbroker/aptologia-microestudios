@@ -17,6 +17,6 @@ El área mediana es 180 m² (referencia: 145 m²).
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy
+- Fuente: [arriendos en Kennedy, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy)
 
 Archivos: `arriendo-casas-4-o-mas-habitaciones-localidad-kennedy-bogota-octubre-2026.pdf`, `arriendo-casas-4-o-mas-habitaciones-localidad-kennedy-bogota-octubre-2026.csv`, `arriendo-casas-4-o-mas-habitaciones-localidad-kennedy-bogota-octubre-2026.png`.

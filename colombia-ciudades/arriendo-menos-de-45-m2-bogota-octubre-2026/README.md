@@ -17,6 +17,6 @@ La administración mediana informada es COP 250.000 (2063 avisos), cerca de 14 %
 - n = 5524 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 
 Archivos: `arriendo-menos-de-45-m2-bogota-octubre-2026.pdf`, `arriendo-menos-de-45-m2-bogota-octubre-2026.csv`, `arriendo-menos-de-45-m2-bogota-octubre-2026.png`.

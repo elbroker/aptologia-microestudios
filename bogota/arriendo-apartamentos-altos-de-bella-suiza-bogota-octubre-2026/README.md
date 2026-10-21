@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (19 avisos, mediana COP 11.0
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/altos-de-bella-suiza
+- Fuente: [arriendos en Altos de Bella Suiza, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/altos-de-bella-suiza)
 
 Archivos: `arriendo-apartamentos-altos-de-bella-suiza-bogota-octubre-2026.pdf`, `arriendo-apartamentos-altos-de-bella-suiza-bogota-octubre-2026.csv`, `arriendo-apartamentos-altos-de-bella-suiza-bogota-octubre-2026.png`.

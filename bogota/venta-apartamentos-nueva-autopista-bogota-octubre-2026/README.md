@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 968 millones) es 1,6 veces 
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/nueva-autopista
+- Fuente: [apartamentos en venta en Nueva Autopista, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/nueva-autopista)
 
 Archivos: `venta-apartamentos-nueva-autopista-bogota-octubre-2026.pdf`, `venta-apartamentos-nueva-autopista-bogota-octubre-2026.csv`, `venta-apartamentos-nueva-autopista-bogota-octubre-2026.png`.

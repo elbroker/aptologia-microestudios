@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.925.872/m² (−1 % frente a COP 7.000.0
 - n = 54 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bosque-de-pinos
+- Fuente: [apartamentos en venta en Bosque de Pinos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bosque-de-pinos)
 
 Archivos: `venta-apartamentos-3-habitaciones-bosque-de-pinos-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-bosque-de-pinos-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-bosque-de-pinos-bogota-octubre-2026.png`.

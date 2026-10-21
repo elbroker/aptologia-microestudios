@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 48.077/m² (+4 % frente a COP 46.296/m² e
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental
+- Fuente: [arriendos en Santa Barbara Occidental, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental)
 
 Archivos: `arriendo-apartamentos-3-habitaciones-santa-barbara-occidental-bogota-octubre-2026.pdf`, `arriendo-apartamentos-3-habitaciones-santa-barbara-occidental-bogota-octubre-2026.csv`, `arriendo-apartamentos-3-habitaciones-santa-barbara-occidental-bogota-octubre-2026.png`.

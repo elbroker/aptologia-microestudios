@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 25 años.
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/mirandela
+- Fuente: [estrato y precios de Mirandela, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/mirandela)
 
 Archivos: `venta-estrato-4-mirandela-bogota-octubre-2026.pdf`, `venta-estrato-4-mirandela-bogota-octubre-2026.csv`, `venta-estrato-4-mirandela-bogota-octubre-2026.png`.

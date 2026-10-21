@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.383.961/m² (−3 % frente a COP 6.557.3
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/alfonso-lopez
+- Fuente: [inmuebles en venta en Alfonso Lopez, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/alfonso-lopez)
 
 Archivos: `venta-alfonso-lopez-bogota-octubre-2026.pdf`, `venta-alfonso-lopez-bogota-octubre-2026.csv`, `venta-alfonso-lopez-bogota-octubre-2026.png`.

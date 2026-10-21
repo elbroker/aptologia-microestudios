@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/hacienda-san-simon
+- Fuente: [casas en venta en Hacienda San Simon, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/hacienda-san-simon)
 
 Archivos: `venta-casas-3-habitaciones-hacienda-san-simon-bogota-octubre-2026.pdf`, `venta-casas-3-habitaciones-hacienda-san-simon-bogota-octubre-2026.csv`, `venta-casas-3-habitaciones-hacienda-san-simon-bogota-octubre-2026.png`.

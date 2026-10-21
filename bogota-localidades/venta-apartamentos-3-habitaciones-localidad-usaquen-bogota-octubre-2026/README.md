@@ -17,6 +17,6 @@ En el mismo grupo: 1 habitación, COP 475 millones; 2 habitaciones, COP 700 mill
 - n = 5813 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usaquen
+- Fuente: [apartamentos en venta en Usaquén, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usaquen)
 
 Archivos: `venta-apartamentos-3-habitaciones-localidad-usaquen-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-localidad-usaquen-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-localidad-usaquen-bogota-octubre-2026.png`.

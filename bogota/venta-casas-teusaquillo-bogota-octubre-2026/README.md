@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.545.455/m² (−4 % frente a COP 4.725.0
 - n = 165 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/teusaquillo
+- Fuente: [casas en venta en Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/teusaquillo)
 
 Archivos: `venta-casas-teusaquillo-bogota-octubre-2026.pdf`, `venta-casas-teusaquillo-bogota-octubre-2026.csv`, `venta-casas-teusaquillo-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 363 millones) es 1,6 veces 
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/engativa
+- Fuente: [apartamentos en venta en Engativá, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/engativa)
 
 Archivos: `venta-apartamentos-2-habitaciones-engativa-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-engativa-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-engativa-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 5 años.
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/las-americas
+- Fuente: [estrato y precios de Las Americas, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/las-americas)
 
 Archivos: `venta-estrato-4-las-americas-bogota-octubre-2026.pdf`, `venta-estrato-4-las-americas-bogota-octubre-2026.csv`, `venta-estrato-4-las-americas-bogota-octubre-2026.png`.

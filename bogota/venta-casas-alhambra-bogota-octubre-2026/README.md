@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.741.379/m² (+0 % frente a COP 4.725.000
 - n = 191 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/alhambra
+- Fuente: [casas en venta en Alhambra, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/alhambra)
 
 Archivos: `venta-casas-alhambra-bogota-octubre-2026.pdf`, `venta-casas-alhambra-bogota-octubre-2026.csv`, `venta-casas-alhambra-bogota-octubre-2026.png`.

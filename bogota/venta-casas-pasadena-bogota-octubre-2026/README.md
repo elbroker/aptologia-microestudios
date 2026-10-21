@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (93 avisos, mediana C
 - n = 107 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/pasadena
+- Fuente: [casas en venta en Pasadena, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/pasadena)
 
 Archivos: `venta-casas-pasadena-bogota-octubre-2026.pdf`, `venta-casas-pasadena-bogota-octubre-2026.csv`, `venta-casas-pasadena-bogota-octubre-2026.png`.

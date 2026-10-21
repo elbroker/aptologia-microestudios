@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (88 avisos, mediana COP 580 
 - n = 120 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/mazuren
+- Fuente: [apartamentos en venta en Mazuren, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/mazuren)
 
 Archivos: `venta-apartamentos-mazuren-bogota-octubre-2026.pdf`, `venta-apartamentos-mazuren-bogota-octubre-2026.csv`, `venta-apartamentos-mazuren-bogota-octubre-2026.png`.

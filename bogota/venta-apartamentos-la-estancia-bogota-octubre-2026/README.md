@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/la-estancia
+- Fuente: [apartamentos en venta en La Estancia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/la-estancia)
 
 Archivos: `venta-apartamentos-la-estancia-bogota-octubre-2026.pdf`, `venta-apartamentos-la-estancia-bogota-octubre-2026.csv`, `venta-apartamentos-la-estancia-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 3.400.000 con 1 habitació
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-patricio
+- Fuente: [arriendos en San Patricio, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-patricio)
 
 Archivos: `arriendo-apartamentos-2-habitaciones-san-patricio-bogota-octubre-2026.pdf`, `arriendo-apartamentos-2-habitaciones-san-patricio-bogota-octubre-2026.csv`, `arriendo-apartamentos-2-habitaciones-san-patricio-bogota-octubre-2026.png`.

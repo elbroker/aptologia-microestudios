@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/las-brisas
+- Fuente: [apartamentos en venta en Las Brisas, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/las-brisas)
 
 Archivos: `venta-apartamentos-las-brisas-bogota-octubre-2026.pdf`, `venta-apartamentos-las-brisas-bogota-octubre-2026.csv`, `venta-apartamentos-las-brisas-bogota-octubre-2026.png`.

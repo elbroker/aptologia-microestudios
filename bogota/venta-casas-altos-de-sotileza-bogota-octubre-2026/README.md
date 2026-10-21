@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.838.710/m² (+2 % frente a COP 4.725.000
 - n = 51 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/altos-de-sotileza
+- Fuente: [casas en venta en Altos de Sotileza, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/altos-de-sotileza)
 
 Archivos: `venta-casas-altos-de-sotileza-bogota-octubre-2026.pdf`, `venta-casas-altos-de-sotileza-bogota-octubre-2026.csv`, `venta-casas-altos-de-sotileza-bogota-octubre-2026.png`.

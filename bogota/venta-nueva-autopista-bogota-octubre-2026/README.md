@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.751.337/m² (+3 % frente a COP 6.557.377
 - n = 83 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/nueva-autopista
+- Fuente: [inmuebles en venta en Nueva Autopista, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/nueva-autopista)
 
 Archivos: `venta-nueva-autopista-bogota-octubre-2026.pdf`, `venta-nueva-autopista-bogota-octubre-2026.csv`, `venta-nueva-autopista-bogota-octubre-2026.png`.

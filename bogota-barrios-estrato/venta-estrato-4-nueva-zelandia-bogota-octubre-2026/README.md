@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 3 años.
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/nueva-zelandia
+- Fuente: [estrato y precios de Nueva Zelandia, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/nueva-zelandia)
 
 Archivos: `venta-estrato-4-nueva-zelandia-bogota-octubre-2026.pdf`, `venta-estrato-4-nueva-zelandia-bogota-octubre-2026.csv`, `venta-estrato-4-nueva-zelandia-bogota-octubre-2026.png`.

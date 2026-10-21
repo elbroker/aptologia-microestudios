@@ -17,6 +17,6 @@ Cruzando con la oferta de venta equivalente, la rentabilidad bruta implícita es
 - n = 51 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda
+- Fuente: [arriendos en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda)
 
 Archivos: `arriendo-en-conjunto-cerrado-localidad-puente-aranda-bogota-octubre-2026.pdf`, `arriendo-en-conjunto-cerrado-localidad-puente-aranda-bogota-octubre-2026.csv`, `arriendo-en-conjunto-cerrado-localidad-puente-aranda-bogota-octubre-2026.png`.

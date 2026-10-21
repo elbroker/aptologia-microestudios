@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 395 millones) es 1,5 veces 
 - n = 46 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/pinar-de-suba
+- Fuente: [inmuebles en venta en Pinar de Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/pinar-de-suba)
 
 Archivos: `venta-pinar-de-suba-bogota-octubre-2026.pdf`, `venta-pinar-de-suba-bogota-octubre-2026.csv`, `venta-pinar-de-suba-bogota-octubre-2026.png`.

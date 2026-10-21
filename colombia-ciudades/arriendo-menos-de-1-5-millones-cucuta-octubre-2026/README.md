@@ -17,6 +17,6 @@ El estrato más frecuente es 3.
 - n = 122 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendos-baratos/cucuta
+- Fuente: [arriendos en Cúcuta en Aptología](https://www.aptologia.com/arriendo/cucuta)
 
 Archivos: `arriendo-menos-de-1-5-millones-cucuta-octubre-2026.pdf`, `arriendo-menos-de-1-5-millones-cucuta-octubre-2026.csv`, `arriendo-menos-de-1-5-millones-cucuta-octubre-2026.png`.

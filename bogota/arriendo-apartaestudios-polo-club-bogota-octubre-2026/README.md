@@ -17,6 +17,6 @@ El área mediana anunciada es 28 m² (en Bogotá: 31 m²).
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/polo-club
+- Fuente: [apartaestudios en arriendo en Polo Club, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/polo-club)
 
 Archivos: `arriendo-apartaestudios-polo-club-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-polo-club-bogota-octubre-2026.csv`, `arriendo-apartaestudios-polo-club-bogota-octubre-2026.png`.

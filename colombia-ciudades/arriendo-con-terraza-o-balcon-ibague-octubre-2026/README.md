@@ -17,6 +17,6 @@ El área mediana es 57 m² (referencia: 56 m²).
 - n = 35 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/ibague
+- Fuente: [arriendos en Ibagué en Aptología](https://www.aptologia.com/arriendo/ibague)
 
 Archivos: `arriendo-con-terraza-o-balcon-ibague-octubre-2026.pdf`, `arriendo-con-terraza-o-balcon-ibague-octubre-2026.csv`, `arriendo-con-terraza-o-balcon-ibague-octubre-2026.png`.

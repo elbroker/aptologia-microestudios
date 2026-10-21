@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/country-club
+- Fuente: [apartamentos en venta en Country Club, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/country-club)
 
 Archivos: `venta-apartamentos-country-club-bogota-octubre-2026.pdf`, `venta-apartamentos-country-club-bogota-octubre-2026.csv`, `venta-apartamentos-country-club-bogota-octubre-2026.png`.

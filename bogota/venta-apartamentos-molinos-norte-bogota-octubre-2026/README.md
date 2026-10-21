@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 1,32 mil millones) es 2,1 veces
 - n = 52 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/molinos-norte
+- Fuente: [apartamentos en venta en Molinos Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/molinos-norte)
 
 Archivos: `venta-apartamentos-molinos-norte-bogota-octubre-2026.pdf`, `venta-apartamentos-molinos-norte-bogota-octubre-2026.csv`, `venta-apartamentos-molinos-norte-bogota-octubre-2026.png`.

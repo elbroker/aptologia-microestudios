@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.550.000 a COP 2.900.000 (razón 1,9).
 - n = 41 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/armenia
+- Fuente: [arriendos en Armenia en Aptología](https://www.aptologia.com/arriendo/armenia)
 
 Archivos: `arriendo-con-vigilancia-o-porteria-armenia-octubre-2026.pdf`, `arriendo-con-vigilancia-o-porteria-armenia-octubre-2026.csv`, `arriendo-con-vigilancia-o-porteria-armenia-octubre-2026.png`.

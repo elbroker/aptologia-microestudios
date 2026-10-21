@@ -17,6 +17,6 @@ El área mediana es 40 m² (referencia: 58 m²).
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-barrios-unidos
+- Fuente: [arriendos en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-barrios-unidos)
 
 Archivos: `arriendo-piso-9-o-mas-localidad-barrios-unidos-bogota-octubre-2026.pdf`, `arriendo-piso-9-o-mas-localidad-barrios-unidos-bogota-octubre-2026.csv`, `arriendo-piso-9-o-mas-localidad-barrios-unidos-bogota-octubre-2026.png`.

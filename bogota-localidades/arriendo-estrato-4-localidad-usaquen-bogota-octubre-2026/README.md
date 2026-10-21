@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2.000.000 a COP 3.500.000 (razón 1,8).
 - n = 1008 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen
+- Fuente: [arriendos en Usaquén, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen)
 
 Archivos: `arriendo-estrato-4-localidad-usaquen-bogota-octubre-2026.pdf`, `arriendo-estrato-4-localidad-usaquen-bogota-octubre-2026.csv`, `arriendo-estrato-4-localidad-usaquen-bogota-octubre-2026.png`.

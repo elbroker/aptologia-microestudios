@@ -17,6 +17,6 @@ En el mismo grupo: 1 habitación, COP 362 millones; 2 habitaciones, COP 690 mill
 - n = 290 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/barrios-unidos
+- Fuente: [apartamentos en venta en Barrios Unidos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/barrios-unidos)
 
 Archivos: `venta-apartamentos-3-habitaciones-localidad-barrios-unidos-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-localidad-barrios-unidos-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-localidad-barrios-unidos-bogota-octubre-2026.png`.

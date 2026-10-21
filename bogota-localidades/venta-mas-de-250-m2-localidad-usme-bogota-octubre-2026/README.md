@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 4 años.
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usme
+- Fuente: [inmuebles en venta en Usme, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usme)
 
 Archivos: `venta-mas-de-250-m2-localidad-usme-bogota-octubre-2026.pdf`, `venta-mas-de-250-m2-localidad-usme-bogota-octubre-2026.csv`, `venta-mas-de-250-m2-localidad-usme-bogota-octubre-2026.png`.

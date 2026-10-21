@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 190 millones a COP 214 millones (razón 1,1)
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/madrid
+- Fuente: [inmuebles en venta en Madrid en Aptología](https://www.aptologia.com/venta/madrid)
 
 Archivos: `venta-estrato-4-madrid-la-prosperidad-madrid-octubre-2026.pdf`, `venta-estrato-4-madrid-la-prosperidad-madrid-octubre-2026.csv`, `venta-estrato-4-madrid-la-prosperidad-madrid-octubre-2026.png`.

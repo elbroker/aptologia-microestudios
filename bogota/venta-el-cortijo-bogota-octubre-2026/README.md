@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 38 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-cortijo
+- Fuente: [inmuebles en venta en El Cortijo, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-cortijo)
 
 Archivos: `venta-el-cortijo-bogota-octubre-2026.pdf`, `venta-el-cortijo-bogota-octubre-2026.csv`, `venta-el-cortijo-bogota-octubre-2026.png`.

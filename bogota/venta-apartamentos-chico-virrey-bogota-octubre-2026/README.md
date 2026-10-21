@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 1,80 mil millones) es 2,0 veces
 - n = 45 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-virrey
+- Fuente: [apartamentos en venta en Chico Virrey, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-virrey)
 
 Archivos: `venta-apartamentos-chico-virrey-bogota-octubre-2026.pdf`, `venta-apartamentos-chico-virrey-bogota-octubre-2026.csv`, `venta-apartamentos-chico-virrey-bogota-octubre-2026.png`.

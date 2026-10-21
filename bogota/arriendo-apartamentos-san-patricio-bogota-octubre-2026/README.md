@@ -17,6 +17,6 @@ El segmento con más oferta es el de 1 habitación (52 avisos, mediana COP 3.400
 - n = 167 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-patricio
+- Fuente: [arriendos en San Patricio, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-patricio)
 
 Archivos: `arriendo-apartamentos-san-patricio-bogota-octubre-2026.pdf`, `arriendo-apartamentos-san-patricio-bogota-octubre-2026.csv`, `arriendo-apartamentos-san-patricio-bogota-octubre-2026.png`.

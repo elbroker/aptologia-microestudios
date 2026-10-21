@@ -17,6 +17,6 @@ Por habitaciones: 3 habitaciones, COP 4.200.000 (n = 16); 4 o más habitaciones,
 - n = 49 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon
+- Fuente: [arriendos en Fontibón, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-fontibon)
 
 Archivos: `arriendo-casas-localidad-fontibon-bogota-octubre-2026.pdf`, `arriendo-casas-localidad-fontibon-bogota-octubre-2026.csv`, `arriendo-casas-localidad-fontibon-bogota-octubre-2026.png`.

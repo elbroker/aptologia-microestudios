@@ -17,6 +17,6 @@ El estrato más frecuente es 4.
 - n = 62 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cali
+- Fuente: [inmuebles en venta en Cali en Aptología](https://www.aptologia.com/venta/cali)
 
 Archivos: `venta-hasta-5-anos-cali-octubre-2026.pdf`, `venta-hasta-5-anos-cali-octubre-2026.csv`, `venta-hasta-5-anos-cali-octubre-2026.png`.

@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (64 avisos, mediana C
 - n = 111 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/palermo
+- Fuente: [inmuebles en venta en Palermo, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/palermo)
 
 Archivos: `venta-palermo-bogota-octubre-2026.pdf`, `venta-palermo-bogota-octubre-2026.csv`, `venta-palermo-bogota-octubre-2026.png`.

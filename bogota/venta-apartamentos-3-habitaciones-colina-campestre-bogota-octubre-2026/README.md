@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 1,10 mil millones) es 1,7 v
 - n = 572 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/colina-campestre
+- Fuente: [apartamentos en venta en Colina Campestre, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/colina-campestre)
 
 Archivos: `venta-apartamentos-3-habitaciones-colina-campestre-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-colina-campestre-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-colina-campestre-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 47 m² (referencia: 50 m²).
 - n = 101 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-apartamentos-2-habitaciones-localidad-rafael-uribe-uribe-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-localidad-rafael-uribe-uribe-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-localidad-rafael-uribe-uribe-bogota-octubre-2026.png`.

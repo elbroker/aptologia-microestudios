@@ -17,6 +17,6 @@ El estrato más frecuente es 4.
 - n = 66 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-santa-fe
+- Fuente: [arriendos en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-santa-fe)
 
 Archivos: `arriendo-4-a-7-millones-localidad-santa-fe-bogota-octubre-2026.pdf`, `arriendo-4-a-7-millones-localidad-santa-fe-bogota-octubre-2026.csv`, `arriendo-4-a-7-millones-localidad-santa-fe-bogota-octubre-2026.png`.

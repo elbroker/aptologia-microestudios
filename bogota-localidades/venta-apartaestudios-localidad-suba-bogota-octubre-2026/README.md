@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 260 millones a COP 472 millones (razón 1,8)
 - n = 166 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/suba
+- Fuente: [inmuebles en venta en Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/suba)
 
 Archivos: `venta-apartaestudios-localidad-suba-bogota-octubre-2026.pdf`, `venta-apartaestudios-localidad-suba-bogota-octubre-2026.csv`, `venta-apartaestudios-localidad-suba-bogota-octubre-2026.png`.

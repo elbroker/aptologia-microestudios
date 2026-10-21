@@ -17,6 +17,6 @@ En todo Bogotá, la misma combinación tiene mediana COP 1,70 mil millones (−1
 - n = 8105 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usaquen
+- Fuente: [inmuebles en venta en Usaquén, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usaquen)
 
 Archivos: `venta-estrato-6-localidad-usaquen-bogota-octubre-2026.pdf`, `venta-estrato-6-localidad-usaquen-bogota-octubre-2026.csv`, `venta-estrato-6-localidad-usaquen-bogota-octubre-2026.png`.

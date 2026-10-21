@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 550 millones con 1 habitac
 - n = 134 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-navarra
+- Fuente: [apartamentos en venta en Chicó Navarra, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-navarra)
 
 Archivos: `venta-apartamentos-2-habitaciones-chico-navarra-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-chico-navarra-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-chico-navarra-bogota-octubre-2026.png`.

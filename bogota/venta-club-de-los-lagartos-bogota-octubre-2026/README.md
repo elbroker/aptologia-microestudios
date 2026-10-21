@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 6.593.045/m² (+1 % frente a COP 6.557.377
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/club-de-los-lagartos
+- Fuente: [inmuebles en venta en Club de los Lagartos, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/club-de-los-lagartos)
 
 Archivos: `venta-club-de-los-lagartos-bogota-octubre-2026.pdf`, `venta-club-de-los-lagartos-bogota-octubre-2026.csv`, `venta-club-de-los-lagartos-bogota-octubre-2026.png`.

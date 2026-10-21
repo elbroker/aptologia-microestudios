@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 1.210.000 (n = 13); 2 habitaciones, COP 1.4
 - n = 102 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy
+- Fuente: [arriendos en Kennedy, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-kennedy)
 
 Archivos: `arriendo-con-gimnasio-localidad-kennedy-bogota-octubre-2026.pdf`, `arriendo-con-gimnasio-localidad-kennedy-bogota-octubre-2026.csv`, `arriendo-con-gimnasio-localidad-kennedy-bogota-octubre-2026.png`.

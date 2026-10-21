@@ -17,6 +17,6 @@ La administración mediana informada es COP 267.500 (22 avisos), cerca de 13 % d
 - n = 57 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/centro-internacional
+- Fuente: [estrato y precios de Centro Internacional, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/centro-internacional)
 
 Archivos: `arriendo-estrato-3-centro-internacional-bogota-octubre-2026.pdf`, `arriendo-estrato-3-centro-internacional-bogota-octubre-2026.csv`, `arriendo-estrato-3-centro-internacional-bogota-octubre-2026.png`.

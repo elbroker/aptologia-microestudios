@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 740.000 a COP 1.359.150 (razón 1,8).
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/ibague
+- Fuente: [arriendos en Ibagué en Aptología](https://www.aptologia.com/arriendo/ibague)
 
 Archivos: `arriendo-con-vigilancia-o-porteria-ibague-octubre-2026.pdf`, `arriendo-con-vigilancia-o-porteria-ibague-octubre-2026.csv`, `arriendo-con-vigilancia-o-porteria-ibague-octubre-2026.png`.

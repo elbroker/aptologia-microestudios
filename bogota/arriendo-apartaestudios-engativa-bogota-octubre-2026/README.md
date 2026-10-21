@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 1.850.000) es 1,4 veces el 
 - n = 37 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios/bogota/engativa
+- Fuente: [apartaestudios en arriendo en Engativá, Bogotá en Aptología](https://www.aptologia.com/apartaestudios/bogota/engativa)
 
 Archivos: `arriendo-apartaestudios-engativa-bogota-octubre-2026.pdf`, `arriendo-apartaestudios-engativa-bogota-octubre-2026.csv`, `arriendo-apartaestudios-engativa-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.750.000 a COP 3.500.000 (razón 2,0), una 
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/villa-del-prado
+- Fuente: [arriendos en Villa del Prado, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/villa-del-prado)
 
 Archivos: `arriendo-villa-del-prado-bogota-octubre-2026.pdf`, `arriendo-villa-del-prado-bogota-octubre-2026.csv`, `arriendo-villa-del-prado-bogota-octubre-2026.png`.

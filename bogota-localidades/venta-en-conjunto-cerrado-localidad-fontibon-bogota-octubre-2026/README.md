@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 280 millones a COP 660 millones (razón 2,4)
 - n = 558 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/fontibon
+- Fuente: [inmuebles en venta en Fontibón, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/fontibon)
 
 Archivos: `venta-en-conjunto-cerrado-localidad-fontibon-bogota-octubre-2026.pdf`, `venta-en-conjunto-cerrado-localidad-fontibon-bogota-octubre-2026.csv`, `venta-en-conjunto-cerrado-localidad-fontibon-bogota-octubre-2026.png`.

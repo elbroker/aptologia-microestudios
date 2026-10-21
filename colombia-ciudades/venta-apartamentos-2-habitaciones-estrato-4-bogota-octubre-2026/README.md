@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 390 millones a COP 630 millones (razón 1,6)
 - n = 1697 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-apartamentos-2-habitaciones-estrato-4-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-estrato-4-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-estrato-4-bogota-octubre-2026.png`.

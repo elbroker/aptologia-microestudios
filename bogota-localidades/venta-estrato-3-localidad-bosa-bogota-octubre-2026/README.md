@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 231 millones (n = 7); 2 habitaciones, COP 2
 - n = 176 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bosa
+- Fuente: [inmuebles en venta en Bosa, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bosa)
 
 Archivos: `venta-estrato-3-localidad-bosa-bogota-octubre-2026.pdf`, `venta-estrato-3-localidad-bosa-bogota-octubre-2026.csv`, `venta-estrato-3-localidad-bosa-bogota-octubre-2026.png`.

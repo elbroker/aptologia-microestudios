@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 3 años.
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/apartaestudios-en-venta/bogota/santa-paula
+- Fuente: [apartaestudios en venta en Santa Paula, Bogotá en Aptología](https://www.aptologia.com/apartaestudios-en-venta/bogota/santa-paula)
 
 Archivos: `venta-apartaestudios-santa-paula-bogota-octubre-2026.pdf`, `venta-apartaestudios-santa-paula-bogota-octubre-2026.csv`, `venta-apartaestudios-santa-paula-bogota-octubre-2026.png`.

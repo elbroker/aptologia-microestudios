@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 330 millones a COP 562 millones (razón 1,7)
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/centro-internacional
+- Fuente: [apartamentos en venta en Centro Internacional, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/centro-internacional)
 
 Archivos: `venta-apartamentos-1-habitaciones-centro-internacional-bogota-octubre-2026.pdf`, `venta-apartamentos-1-habitaciones-centro-internacional-bogota-octubre-2026.csv`, `venta-apartamentos-1-habitaciones-centro-internacional-bogota-octubre-2026.png`.

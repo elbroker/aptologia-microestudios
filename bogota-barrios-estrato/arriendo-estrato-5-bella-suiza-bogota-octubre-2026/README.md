@@ -17,6 +17,6 @@ El área mediana es 77 m² (referencia: 84 m²).
 - n = 110 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/bella-suiza
+- Fuente: [estrato y precios de Bella Suiza, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/bella-suiza)
 
 Archivos: `arriendo-estrato-5-bella-suiza-bogota-octubre-2026.pdf`, `arriendo-estrato-5-bella-suiza-bogota-octubre-2026.csv`, `arriendo-estrato-5-bella-suiza-bogota-octubre-2026.png`.

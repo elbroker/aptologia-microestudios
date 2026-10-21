@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 235 millones (n = 7); 3 habitaciones, COP 
 - n = 58 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-parqueadero-moto/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-sin-parqueadero-localidad-tunjuelito-bogota-octubre-2026.pdf`, `venta-sin-parqueadero-localidad-tunjuelito-bogota-octubre-2026.csv`, `venta-sin-parqueadero-localidad-tunjuelito-bogota-octubre-2026.png`.

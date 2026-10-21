@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 200 millones a COP 354 millones (razón 1,8)
 - n = 56 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/tintala
+- Fuente: [apartamentos en venta en Tintala, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/tintala)
 
 Archivos: `venta-apartamentos-tintala-bogota-octubre-2026.pdf`, `venta-apartamentos-tintala-bogota-octubre-2026.csv`, `venta-apartamentos-tintala-bogota-octubre-2026.png`.

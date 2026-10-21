@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (164 avisos, mediana COP 11.
 - n = 497 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chico
+- Fuente: [arriendos en Chico, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chico)
 
 Archivos: `arriendo-apartamentos-chico-bogota-octubre-2026.pdf`, `arriendo-apartamentos-chico-bogota-octubre-2026.csv`, `arriendo-apartamentos-chico-bogota-octubre-2026.png`.

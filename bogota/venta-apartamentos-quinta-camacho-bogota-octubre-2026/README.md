@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (18 avisos, mediana COP 970 
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/quinta-camacho
+- Fuente: [apartamentos en venta en Quinta Camacho, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/quinta-camacho)
 
 Archivos: `venta-apartamentos-quinta-camacho-bogota-octubre-2026.pdf`, `venta-apartamentos-quinta-camacho-bogota-octubre-2026.csv`, `venta-apartamentos-quinta-camacho-bogota-octubre-2026.png`.

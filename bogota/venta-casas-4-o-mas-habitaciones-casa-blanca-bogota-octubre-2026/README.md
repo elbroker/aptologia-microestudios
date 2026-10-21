@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de casas es COP 950 millones con 3 habitaciones.
 - n = 48 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/casa-blanca
+- Fuente: [casas en venta en Casa Blanca, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/casa-blanca)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-casa-blanca-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-casa-blanca-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-casa-blanca-bogota-octubre-2026.png`.

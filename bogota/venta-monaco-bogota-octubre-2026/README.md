@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (13 avisos, mediana COP 784 
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/monaco
+- Fuente: [inmuebles en venta en Mónaco, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/monaco)
 
 Archivos: `venta-monaco-bogota-octubre-2026.pdf`, `venta-monaco-bogota-octubre-2026.csv`, `venta-monaco-bogota-octubre-2026.png`.

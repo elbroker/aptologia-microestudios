@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (12 avisos, mediana COP 14 m
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/chico-norte-ii
+- Fuente: [arriendos en Chico Norte II, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/chico-norte-ii)
 
 Archivos: `arriendo-apartamentos-chico-norte-ii-bogota-octubre-2026.pdf`, `arriendo-apartamentos-chico-norte-ii-bogota-octubre-2026.csv`, `arriendo-apartamentos-chico-norte-ii-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 142 m² (referencia: 290 m²).
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/usaquen
+- Fuente: [inmuebles en venta en Usaquén, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/usaquen)
 
 Archivos: `venta-casas-2-habitaciones-localidad-usaquen-bogota-octubre-2026.pdf`, `venta-casas-2-habitaciones-localidad-usaquen-bogota-octubre-2026.csv`, `venta-casas-2-habitaciones-localidad-usaquen-bogota-octubre-2026.png`.

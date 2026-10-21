@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de casas es COP 7.500.000 con 3 habitaciones.
 - n = 153 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/san-jose-de-bavaria
+- Fuente: [casas en arriendo en San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/san-jose-de-bavaria)
 
 Archivos: `arriendo-casas-4-o-mas-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `arriendo-casas-4-o-mas-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.csv`, `arriendo-casas-4-o-mas-habitaciones-san-jose-de-bavaria-bogota-octubre-2026.png`.

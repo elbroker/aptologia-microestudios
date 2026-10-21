@@ -17,6 +17,6 @@ El área mediana es 77 m² (referencia: 440 m²).
 - n = 50 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/san-jose-de-bavaria
+- Fuente: [estrato y precios de San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/san-jose-de-bavaria)
 
 Archivos: `venta-estrato-4-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `venta-estrato-4-san-jose-de-bavaria-bogota-octubre-2026.csv`, `venta-estrato-4-san-jose-de-bavaria-bogota-octubre-2026.png`.

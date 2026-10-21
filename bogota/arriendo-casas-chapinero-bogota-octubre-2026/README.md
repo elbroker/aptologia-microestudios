@@ -17,6 +17,6 @@ El área mediana anunciada es 400 m² (en Bogotá: 345 m²).
 - n = 52 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-arriendo/bogota/chapinero
+- Fuente: [casas en arriendo en Chapinero, Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota/chapinero)
 
 Archivos: `arriendo-casas-chapinero-bogota-octubre-2026.pdf`, `arriendo-casas-chapinero-bogota-octubre-2026.csv`, `arriendo-casas-chapinero-bogota-octubre-2026.png`.

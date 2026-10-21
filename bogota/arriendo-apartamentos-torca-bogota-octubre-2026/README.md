@@ -17,6 +17,6 @@ Cuando el aviso informa la administración (16 casos), su mediana es COP 199.000
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/torca
+- Fuente: [arriendos en Torca, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/torca)
 
 Archivos: `arriendo-apartamentos-torca-bogota-octubre-2026.pdf`, `arriendo-apartamentos-torca-bogota-octubre-2026.csv`, `arriendo-apartamentos-torca-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.900.000 (n = 1034); 2 habitaciones, COP 3
 - n = 2521 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen
+- Fuente: [arriendos en Usaquén, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-usaquen)
 
 Archivos: `arriendo-hasta-5-anos-localidad-usaquen-bogota-octubre-2026.pdf`, `arriendo-hasta-5-anos-localidad-usaquen-bogota-octubre-2026.csv`, `arriendo-hasta-5-anos-localidad-usaquen-bogota-octubre-2026.png`.

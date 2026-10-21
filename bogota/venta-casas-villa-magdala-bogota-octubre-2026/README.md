@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 57 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/villa-magdala
+- Fuente: [casas en venta en Villa Magdala, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/villa-magdala)
 
 Archivos: `venta-casas-villa-magdala-bogota-octubre-2026.pdf`, `venta-casas-villa-magdala-bogota-octubre-2026.csv`, `venta-casas-villa-magdala-bogota-octubre-2026.png`.

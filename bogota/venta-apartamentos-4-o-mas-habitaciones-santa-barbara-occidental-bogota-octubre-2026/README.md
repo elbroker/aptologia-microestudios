@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,36 mil millones a COP 2,21 mil millones (r
 - n = 52 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-barbara-occidental
+- Fuente: [apartamentos en venta en Santa Barbara Occidental, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-barbara-occidental)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-occidental-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-occidental-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-santa-barbara-occidental-bogota-octubre-2026.png`.

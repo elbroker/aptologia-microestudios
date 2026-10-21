@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 901 millones a COP 1,50 mil millones (razón
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/recodo-del-country
+- Fuente: [apartamentos en venta en Recodo del Country, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/recodo-del-country)
 
 Archivos: `venta-apartamentos-3-habitaciones-recodo-del-country-bogota-octubre-2026.pdf`, `venta-apartamentos-3-habitaciones-recodo-del-country-bogota-octubre-2026.csv`, `venta-apartamentos-3-habitaciones-recodo-del-country-bogota-octubre-2026.png`.

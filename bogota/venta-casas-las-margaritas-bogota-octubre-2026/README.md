@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 4.758.364/m² (+1 % frente a COP 4.725.000
 - n = 43 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/las-margaritas
+- Fuente: [casas en venta en Las Margaritas, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/las-margaritas)
 
 Archivos: `venta-casas-las-margaritas-bogota-octubre-2026.pdf`, `venta-casas-las-margaritas-bogota-octubre-2026.csv`, `venta-casas-las-margaritas-bogota-octubre-2026.png`.

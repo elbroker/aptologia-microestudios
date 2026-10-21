@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 68 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/altos-de-sotileza
+- Fuente: [inmuebles en venta en Altos de Sotileza, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/altos-de-sotileza)
 
 Archivos: `venta-altos-de-sotileza-bogota-octubre-2026.pdf`, `venta-altos-de-sotileza-bogota-octubre-2026.csv`, `venta-altos-de-sotileza-bogota-octubre-2026.png`.

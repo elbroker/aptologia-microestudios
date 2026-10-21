@@ -17,6 +17,6 @@ El segmento con más oferta es el de 2 habitaciones (34 avisos, mediana COP 928 
 - n = 107 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/antiguo-country
+- Fuente: [inmuebles en venta en Antiguo Country, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/antiguo-country)
 
 Archivos: `venta-antiguo-country-bogota-octubre-2026.pdf`, `venta-antiguo-country-bogota-octubre-2026.csv`, `venta-antiguo-country-bogota-octubre-2026.png`.

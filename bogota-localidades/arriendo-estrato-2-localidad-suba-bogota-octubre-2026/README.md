@@ -17,6 +17,6 @@ En todo Bogotá, la misma combinación tiene mediana COP 1.200.000 (+8 %).
 - n = 55 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-suba
+- Fuente: [arriendos en Suba, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-suba)
 
 Archivos: `arriendo-estrato-2-localidad-suba-bogota-octubre-2026.pdf`, `arriendo-estrato-2-localidad-suba-bogota-octubre-2026.csv`, `arriendo-estrato-2-localidad-suba-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ En el mismo barrio, la mediana de apartamentos es COP 506 millones con 1 habitac
 - n = 108 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-paula
+- Fuente: [apartamentos en venta en Santa Paula, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-paula)
 
 Archivos: `venta-apartamentos-2-habitaciones-santa-paula-bogota-octubre-2026.pdf`, `venta-apartamentos-2-habitaciones-santa-paula-bogota-octubre-2026.csv`, `venta-apartamentos-2-habitaciones-santa-paula-bogota-octubre-2026.png`.

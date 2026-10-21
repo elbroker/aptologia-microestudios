@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 251 millones (n = 84); 2 habitaciones, COP 
 - n = 703 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/puente-aranda
+- Fuente: [inmuebles en venta en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/puente-aranda)
 
 Archivos: `venta-estrato-3-localidad-puente-aranda-bogota-octubre-2026.pdf`, `venta-estrato-3-localidad-puente-aranda-bogota-octubre-2026.csv`, `venta-estrato-3-localidad-puente-aranda-bogota-octubre-2026.png`.

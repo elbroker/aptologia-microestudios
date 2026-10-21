@@ -17,6 +17,6 @@ El área mediana es 45 m² (referencia: 49 m²).
 - n = 231 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda
+- Fuente: [arriendos en Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-puente-aranda)
 
 Archivos: `arriendo-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.pdf`, `arriendo-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.csv`, `arriendo-hasta-5-anos-localidad-puente-aranda-bogota-octubre-2026.png`.

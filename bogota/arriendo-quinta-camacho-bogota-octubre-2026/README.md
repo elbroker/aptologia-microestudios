@@ -17,6 +17,6 @@ El segmento con más oferta es el de 4 o más habitaciones (47 avisos, mediana C
 - n = 99 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/quinta-camacho
+- Fuente: [arriendos en Quinta Camacho, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/quinta-camacho)
 
 Archivos: `arriendo-quinta-camacho-bogota-octubre-2026.pdf`, `arriendo-quinta-camacho-bogota-octubre-2026.csv`, `arriendo-quinta-camacho-bogota-octubre-2026.png`.

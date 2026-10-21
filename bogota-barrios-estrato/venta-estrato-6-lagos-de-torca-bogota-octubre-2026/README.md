@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 4 años.
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/lagos-de-torca
+- Fuente: [estrato y precios de Lagos de Torca, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/lagos-de-torca)
 
 Archivos: `venta-estrato-6-lagos-de-torca-bogota-octubre-2026.pdf`, `venta-estrato-6-lagos-de-torca-bogota-octubre-2026.csv`, `venta-estrato-6-lagos-de-torca-bogota-octubre-2026.png`.

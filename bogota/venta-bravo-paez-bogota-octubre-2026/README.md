@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 36 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/bravo-paez
+- Fuente: [inmuebles en venta en Bravo Paez, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/bravo-paez)
 
 Archivos: `venta-bravo-paez-bogota-octubre-2026.pdf`, `venta-bravo-paez-bogota-octubre-2026.csv`, `venta-bravo-paez-bogota-octubre-2026.png`.

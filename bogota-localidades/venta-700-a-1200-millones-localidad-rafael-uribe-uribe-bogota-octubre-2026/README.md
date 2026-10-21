@@ -17,6 +17,6 @@ La antigüedad mediana declarada es de 8 años.
 - n = 94 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota
+- Fuente: [inmuebles en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 
 Archivos: `venta-700-a-1200-millones-localidad-rafael-uribe-uribe-bogota-octubre-2026.pdf`, `venta-700-a-1200-millones-localidad-rafael-uribe-uribe-bogota-octubre-2026.csv`, `venta-700-a-1200-millones-localidad-rafael-uribe-uribe-bogota-octubre-2026.png`.

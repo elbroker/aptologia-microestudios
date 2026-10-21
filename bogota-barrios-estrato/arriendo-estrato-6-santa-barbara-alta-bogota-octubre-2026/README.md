@@ -17,6 +17,6 @@ El área mediana es 313 m² (referencia: 310 m²).
 - n = 111 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-barbara-alta
+- Fuente: [estrato y precios de Santa Barbara Alta, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-barbara-alta)
 
 Archivos: `arriendo-estrato-6-santa-barbara-alta-bogota-octubre-2026.pdf`, `arriendo-estrato-6-santa-barbara-alta-bogota-octubre-2026.csv`, `arriendo-estrato-6-santa-barbara-alta-bogota-octubre-2026.png`.

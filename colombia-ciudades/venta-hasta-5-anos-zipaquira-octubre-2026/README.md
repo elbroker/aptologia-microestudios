@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 222 millones a COP 279 millones (razón 1,3)
 - n = 33 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/zipaquira
+- Fuente: [inmuebles en venta en Zipaquirá en Aptología](https://www.aptologia.com/venta/zipaquira)
 
 Archivos: `venta-hasta-5-anos-zipaquira-octubre-2026.pdf`, `venta-hasta-5-anos-zipaquira-octubre-2026.csv`, `venta-hasta-5-anos-zipaquira-octubre-2026.png`.

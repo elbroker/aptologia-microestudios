@@ -17,6 +17,6 @@ Por habitaciones: 1 habitación, COP 2.375.000 (n = 46); 2 habitaciones, COP 4.2
 - n = 58 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-santa-fe
+- Fuente: [arriendos en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-santa-fe)
 
 Archivos: `arriendo-con-piscina-localidad-santa-fe-bogota-octubre-2026.pdf`, `arriendo-con-piscina-localidad-santa-fe-bogota-octubre-2026.csv`, `arriendo-con-piscina-localidad-santa-fe-bogota-octubre-2026.png`.

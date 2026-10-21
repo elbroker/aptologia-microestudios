@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (17 avisos, mediana COP 570 
 - n = 49 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/nueva-zelandia
+- Fuente: [inmuebles en venta en Nueva Zelandia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/nueva-zelandia)
 
 Archivos: `venta-nueva-zelandia-bogota-octubre-2026.pdf`, `venta-nueva-zelandia-bogota-octubre-2026.csv`, `venta-nueva-zelandia-bogota-octubre-2026.png`.

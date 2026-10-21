@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 4.500.000) es 1,8 veces el 
 - n = 61 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/salitre
+- Fuente: [arriendos en Salitre, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/salitre)
 
 Archivos: `arriendo-salitre-bogota-octubre-2026.pdf`, `arriendo-salitre-bogota-octubre-2026.csv`, `arriendo-salitre-bogota-octubre-2026.png`.

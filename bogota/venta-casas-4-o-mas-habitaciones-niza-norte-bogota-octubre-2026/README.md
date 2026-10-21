@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 5.
 - n = 41 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/niza-norte
+- Fuente: [casas en venta en Niza Norte, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/niza-norte)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-niza-norte-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-niza-norte-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-niza-norte-bogota-octubre-2026.png`.

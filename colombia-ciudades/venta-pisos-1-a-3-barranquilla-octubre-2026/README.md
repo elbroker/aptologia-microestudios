@@ -17,6 +17,6 @@ El estrato más frecuente es 4.
 - n = 34 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/barranquilla
+- Fuente: [inmuebles en venta en Barranquilla en Aptología](https://www.aptologia.com/venta/barranquilla)
 
 Archivos: `venta-pisos-1-a-3-barranquilla-octubre-2026.pdf`, `venta-pisos-1-a-3-barranquilla-octubre-2026.csv`, `venta-pisos-1-a-3-barranquilla-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 96 m² (referencia: 93 m²).
 - n = 163 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/san-patricio
+- Fuente: [estrato y precios de San Patricio, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/san-patricio)
 
 Archivos: `arriendo-estrato-6-san-patricio-bogota-octubre-2026.pdf`, `arriendo-estrato-6-san-patricio-bogota-octubre-2026.csv`, `arriendo-estrato-6-san-patricio-bogota-octubre-2026.png`.

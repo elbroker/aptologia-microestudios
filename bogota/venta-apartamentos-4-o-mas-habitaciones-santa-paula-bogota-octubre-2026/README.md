@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1,49 mil millones a COP 2,40 mil millones (r
 - n = 53 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-paula
+- Fuente: [apartamentos en venta en Santa Paula, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-paula)
 
 Archivos: `venta-apartamentos-4-o-mas-habitaciones-santa-paula-bogota-octubre-2026.pdf`, `venta-apartamentos-4-o-mas-habitaciones-santa-paula-bogota-octubre-2026.csv`, `venta-apartamentos-4-o-mas-habitaciones-santa-paula-bogota-octubre-2026.png`.

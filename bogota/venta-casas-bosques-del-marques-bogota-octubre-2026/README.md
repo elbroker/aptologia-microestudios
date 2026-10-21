@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 2,10 mil millones a COP 4,20 mil millones (r
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/bosques-del-marques
+- Fuente: [casas en venta en Bosques del Marques, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/bosques-del-marques)
 
 Archivos: `venta-casas-bosques-del-marques-bogota-octubre-2026.pdf`, `venta-casas-bosques-del-marques-bogota-octubre-2026.csv`, `venta-casas-bosques-del-marques-bogota-octubre-2026.png`.

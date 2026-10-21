@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 350 millones a COP 622 millones (razón 1,8)
 - n = 51 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/las-nieves
+- Fuente: [estrato y precios de Las Nieves, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/las-nieves)
 
 Archivos: `venta-estrato-4-las-nieves-bogota-octubre-2026.pdf`, `venta-estrato-4-las-nieves-bogota-octubre-2026.csv`, `venta-estrato-4-las-nieves-bogota-octubre-2026.png`.

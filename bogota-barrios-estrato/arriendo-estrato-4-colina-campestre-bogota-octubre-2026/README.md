@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 1.882.600 a COP 3.435.000 (razón 1,8).
 - n = 138 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/colina-campestre
+- Fuente: [estrato y precios de Colina Campestre, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/colina-campestre)
 
 Archivos: `arriendo-estrato-4-colina-campestre-bogota-octubre-2026.pdf`, `arriendo-estrato-4-colina-campestre-bogota-octubre-2026.csv`, `arriendo-estrato-4-colina-campestre-bogota-octubre-2026.png`.

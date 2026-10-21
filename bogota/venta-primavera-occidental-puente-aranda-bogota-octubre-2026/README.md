@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 30 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/primavera-occidental-puente-aranda
+- Fuente: [inmuebles en venta en Primavera Occidental - Puente Aranda, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/primavera-occidental-puente-aranda)
 
 Archivos: `venta-primavera-occidental-puente-aranda-bogota-octubre-2026.pdf`, `venta-primavera-occidental-puente-aranda-bogota-octubre-2026.csv`, `venta-primavera-occidental-puente-aranda-bogota-octubre-2026.png`.

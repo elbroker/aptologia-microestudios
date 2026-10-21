@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 730 millones a COP 1,39 mil millones (razón
 - n = 113 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/chico-norte-iii
+- Fuente: [apartamentos en venta en Chico Norte III, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/chico-norte-iii)
 
 Archivos: `venta-apartamentos-chico-norte-iii-bogota-octubre-2026.pdf`, `venta-apartamentos-chico-norte-iii-bogota-octubre-2026.csv`, `venta-apartamentos-chico-norte-iii-bogota-octubre-2026.png`.

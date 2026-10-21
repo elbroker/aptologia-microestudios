@@ -17,6 +17,6 @@ Por habitaciones: 2 habitaciones, COP 190 millones (n = 19); 3 habitaciones, COP
 - n = 148 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cucuta
+- Fuente: [inmuebles en venta en Cúcuta en Aptología](https://www.aptologia.com/venta/cucuta)
 
 Archivos: `venta-con-piscina-cucuta-octubre-2026.pdf`, `venta-con-piscina-cucuta-octubre-2026.csv`, `venta-con-piscina-cucuta-octubre-2026.png`.

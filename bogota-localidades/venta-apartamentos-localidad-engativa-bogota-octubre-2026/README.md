@@ -17,6 +17,6 @@ El área mediana es 62 m² (referencia: 120 m²).
 - n = 924 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/engativa
+- Fuente: [apartamentos en venta en Engativá, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/engativa)
 
 Archivos: `venta-apartamentos-localidad-engativa-bogota-octubre-2026.pdf`, `venta-apartamentos-localidad-engativa-bogota-octubre-2026.csv`, `venta-apartamentos-localidad-engativa-bogota-octubre-2026.png`.

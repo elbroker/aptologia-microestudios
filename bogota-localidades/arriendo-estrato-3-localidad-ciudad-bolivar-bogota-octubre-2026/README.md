@@ -17,6 +17,6 @@ El área mediana es 43 m² (referencia: 43 m²).
 - n = 88 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo-zona/bogota/localidad-ciudad-bolivar
+- Fuente: [arriendos en Ciudad Bolívar, Bogotá en Aptología](https://www.aptologia.com/arriendo-zona/bogota/localidad-ciudad-bolivar)
 
 Archivos: `arriendo-estrato-3-localidad-ciudad-bolivar-bogota-octubre-2026.pdf`, `arriendo-estrato-3-localidad-ciudad-bolivar-bogota-octubre-2026.csv`, `arriendo-estrato-3-localidad-ciudad-bolivar-bogota-octubre-2026.png`.

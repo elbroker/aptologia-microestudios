@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 360 millones a COP 550 millones (razón 1,5)
 - n = 49 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/barranquilla
+- Fuente: [inmuebles en venta en Barranquilla en Aptología](https://www.aptologia.com/venta/barranquilla)
 
 Archivos: `venta-con-parqueadero-barranquilla-octubre-2026.pdf`, `venta-con-parqueadero-barranquilla-octubre-2026.csv`, `venta-con-parqueadero-barranquilla-octubre-2026.png`.

@@ -17,6 +17,6 @@ El área mediana es 184 m² (referencia: 204 m²).
 - n = 241 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/teusaquillo
+- Fuente: [estrato y precios de Teusaquillo, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/teusaquillo)
 
 Archivos: `venta-estrato-4-teusaquillo-bogota-octubre-2026.pdf`, `venta-estrato-4-teusaquillo-bogota-octubre-2026.csv`, `venta-estrato-4-teusaquillo-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ Por metro cuadrado, la mediana es COP 51.396/m² (+6 % frente a COP 48.571/m² e
 - n = 44 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/bosques-del-marques
+- Fuente: [arriendos en Bosques del Marques, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/bosques-del-marques)
 
 Archivos: `arriendo-bosques-del-marques-bogota-octubre-2026.pdf`, `arriendo-bosques-del-marques-bogota-octubre-2026.csv`, `arriendo-bosques-del-marques-bogota-octubre-2026.png`.

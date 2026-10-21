@@ -17,6 +17,6 @@ El área mediana anunciada es 155 m² (en Bogotá: 146 m²).
 - n = 47 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/villa-claudia
+- Fuente: [inmuebles en venta en Villa Claudia, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/villa-claudia)
 
 Archivos: `venta-villa-claudia-bogota-octubre-2026.pdf`, `venta-villa-claudia-bogota-octubre-2026.csv`, `venta-villa-claudia-bogota-octubre-2026.png`.

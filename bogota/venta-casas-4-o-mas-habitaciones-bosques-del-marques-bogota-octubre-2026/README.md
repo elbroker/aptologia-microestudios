@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 4,50 mil millones) es 2,0 veces
 - n = 32 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/bosques-del-marques
+- Fuente: [casas en venta en Bosques del Marques, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/bosques-del-marques)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-bosques-del-marques-bogota-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-bosques-del-marques-bogota-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-bosques-del-marques-bogota-octubre-2026.png`.

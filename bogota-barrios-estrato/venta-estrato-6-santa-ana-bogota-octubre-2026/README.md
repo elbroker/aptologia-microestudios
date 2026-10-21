@@ -17,6 +17,6 @@ El área mediana es 390 m² (referencia: 320 m²).
 - n = 183 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/santa-ana
+- Fuente: [estrato y precios de Santa Ana, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/santa-ana)
 
 Archivos: `venta-estrato-6-santa-ana-bogota-octubre-2026.pdf`, `venta-estrato-6-santa-ana-bogota-octubre-2026.csv`, `venta-estrato-6-santa-ana-bogota-octubre-2026.png`.

@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 3.
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/20-de-julio
+- Fuente: [inmuebles en venta en 20 de Julio, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/20-de-julio)
 
 Archivos: `venta-20-de-julio-bogota-octubre-2026.pdf`, `venta-20-de-julio-bogota-octubre-2026.csv`, `venta-20-de-julio-bogota-octubre-2026.png`.

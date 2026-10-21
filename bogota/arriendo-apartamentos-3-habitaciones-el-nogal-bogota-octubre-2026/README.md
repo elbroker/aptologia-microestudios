@@ -17,6 +17,6 @@ La dispersión es alta: el cuartil superior (COP 17 millones) es 2,0 veces el in
 - n = 84 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/el-nogal
+- Fuente: [arriendos en El Nogal, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/el-nogal)
 
 Archivos: `arriendo-apartamentos-3-habitaciones-el-nogal-bogota-octubre-2026.pdf`, `arriendo-apartamentos-3-habitaciones-el-nogal-bogota-octubre-2026.csv`, `arriendo-apartamentos-3-habitaciones-el-nogal-bogota-octubre-2026.png`.

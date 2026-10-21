@@ -17,6 +17,6 @@ El rango intercuartílico va de COP 10.470.000 a COP 23 millones (razón 2,2), u
 - n = 91 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/santa-barbara-alta
+- Fuente: [arriendos en Santa Barbara Alta, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/santa-barbara-alta)
 
 Archivos: `arriendo-apartamentos-santa-barbara-alta-bogota-octubre-2026.pdf`, `arriendo-apartamentos-santa-barbara-alta-bogota-octubre-2026.csv`, `arriendo-apartamentos-santa-barbara-alta-bogota-octubre-2026.png`.

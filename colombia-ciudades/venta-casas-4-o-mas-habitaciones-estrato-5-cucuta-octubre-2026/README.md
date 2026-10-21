@@ -17,6 +17,6 @@ El 92 % de los avisos tiene al menos un parqueadero.
 - n = 40 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/cucuta
+- Fuente: [inmuebles en venta en Cúcuta en Aptología](https://www.aptologia.com/venta/cucuta)
 
 Archivos: `venta-casas-4-o-mas-habitaciones-estrato-5-cucuta-octubre-2026.pdf`, `venta-casas-4-o-mas-habitaciones-estrato-5-cucuta-octubre-2026.csv`, `venta-casas-4-o-mas-habitaciones-estrato-5-cucuta-octubre-2026.png`.

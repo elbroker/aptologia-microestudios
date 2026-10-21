@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 6.
 - n = 62 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/molinos-norte
+- Fuente: [inmuebles en venta en Molinos Norte, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/molinos-norte)
 
 Archivos: `venta-molinos-norte-bogota-octubre-2026.pdf`, `venta-molinos-norte-bogota-octubre-2026.csv`, `venta-molinos-norte-bogota-octubre-2026.png`.

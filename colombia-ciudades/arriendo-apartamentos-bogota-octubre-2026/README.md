@@ -17,6 +17,6 @@ El área mediana es 70 m² (referencia: 70 m²).
 - n = 14215 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota
+- Fuente: [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 
 Archivos: `arriendo-apartamentos-bogota-octubre-2026.pdf`, `arriendo-apartamentos-bogota-octubre-2026.csv`, `arriendo-apartamentos-bogota-octubre-2026.png`.

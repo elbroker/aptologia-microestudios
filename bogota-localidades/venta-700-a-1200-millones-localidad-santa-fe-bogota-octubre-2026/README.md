@@ -17,6 +17,6 @@ El estrato más frecuente es 4.
 - n = 106 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/santa-fe
+- Fuente: [inmuebles en venta en Santa Fe, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/santa-fe)
 
 Archivos: `venta-700-a-1200-millones-localidad-santa-fe-bogota-octubre-2026.pdf`, `venta-700-a-1200-millones-localidad-santa-fe-bogota-octubre-2026.csv`, `venta-700-a-1200-millones-localidad-santa-fe-bogota-octubre-2026.png`.

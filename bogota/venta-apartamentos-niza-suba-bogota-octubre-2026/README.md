@@ -17,6 +17,6 @@ La dispersión es moderada: el cuartil superior (COP 2,00 mil millones) es 1,9 v
 - n = 39 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/niza-suba
+- Fuente: [apartamentos en venta en Niza Suba, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/niza-suba)
 
 Archivos: `venta-apartamentos-niza-suba-bogota-octubre-2026.pdf`, `venta-apartamentos-niza-suba-bogota-octubre-2026.csv`, `venta-apartamentos-niza-suba-bogota-octubre-2026.png`.

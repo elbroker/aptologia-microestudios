@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 60 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria
+- Fuente: [arriendos en San Jose de Bavaria, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria)
 
 Archivos: `arriendo-apartamentos-san-jose-de-bavaria-bogota-octubre-2026.pdf`, `arriendo-apartamentos-san-jose-de-bavaria-bogota-octubre-2026.csv`, `arriendo-apartamentos-san-jose-de-bavaria-bogota-octubre-2026.png`.

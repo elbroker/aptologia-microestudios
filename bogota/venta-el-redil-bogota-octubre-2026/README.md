@@ -17,6 +17,6 @@ El estrato más frecuente en los avisos es 4.
 - n = 108 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/venta/bogota/el-redil
+- Fuente: [inmuebles en venta en El Redil, Bogotá en Aptología](https://www.aptologia.com/venta/bogota/el-redil)
 
 Archivos: `venta-el-redil-bogota-octubre-2026.pdf`, `venta-el-redil-bogota-octubre-2026.csv`, `venta-el-redil-bogota-octubre-2026.png`.

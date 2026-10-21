@@ -17,6 +17,6 @@ El área mediana es 220 m² (referencia: 169 m²).
 - n = 107 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/estrato-de/bogota/la-calleja
+- Fuente: [estrato y precios de La Calleja, Bogotá en Aptología](https://www.aptologia.com/estrato-de/bogota/la-calleja)
 
 Archivos: `venta-estrato-6-la-calleja-bogota-octubre-2026.pdf`, `venta-estrato-6-la-calleja-bogota-octubre-2026.csv`, `venta-estrato-6-la-calleja-bogota-octubre-2026.png`.

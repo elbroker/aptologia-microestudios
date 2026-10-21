@@ -17,6 +17,6 @@ El área mediana anunciada es 287 m² (en Bogotá: 270 m²).
 - n = 31 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/casas-en-venta/bogota/jose-joaquin-vargas
+- Fuente: [casas en venta en Jose Joaquin Vargas, Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota/jose-joaquin-vargas)
 
 Archivos: `venta-casas-jose-joaquin-vargas-bogota-octubre-2026.pdf`, `venta-casas-jose-joaquin-vargas-bogota-octubre-2026.csv`, `venta-casas-jose-joaquin-vargas-bogota-octubre-2026.png`.

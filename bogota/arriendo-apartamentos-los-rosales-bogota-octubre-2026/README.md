@@ -17,6 +17,6 @@ El segmento con más oferta es el de 3 habitaciones (295 avisos, mediana COP 12.
 - n = 589 avisos únicos · datos al 18 de octubre de 2026
 - Autor: Aptología (Daniel Mauricio Pinzón Pineda) (ORCID 0009-0007-5142-366X)
 - Licencia: CC BY 4.0
-- Fuente: https://www.aptologia.com/arriendo/bogota/los-rosales
+- Fuente: [arriendos en Los Rosales, Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota/los-rosales)
 
 Archivos: `arriendo-apartamentos-los-rosales-bogota-octubre-2026.pdf`, `arriendo-apartamentos-los-rosales-bogota-octubre-2026.csv`, `arriendo-apartamentos-los-rosales-bogota-octubre-2026.png`.
