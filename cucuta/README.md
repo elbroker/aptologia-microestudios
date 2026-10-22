@@ -24,18 +24,18 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Caobos, Cúcuta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-caobos-cucuta-octubre-2026/) | 54 | COP 410.000.000 | [10.5281/zenodo.23566908](https://doi.org/10.5281/zenodo.23566908) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en Prados del Este, Cúcuta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-prados-del-este-cucuta-octubre-2026/) | 47 | COP 1.300.000 | [10.5281/zenodo.23566992](https://doi.org/10.5281/zenodo.23566992) |
 | [Precio de venta de casas en Bocono, Cúcuta — octubre 2026](venta-casas-bocono-cucuta-octubre-2026/) | 47 | COP 980.000.000 | [10.5281/zenodo.23571839](https://doi.org/10.5281/zenodo.23571839) |
-| [Precio de venta de casas en Quinta Oriental, Cúcuta — octubre 2026](venta-casas-quinta-oriental-cucuta-octubre-2026/) | 47 | COP 600.000.000 |  |
+| [Precio de venta de casas en Quinta Oriental, Cúcuta — octubre 2026](venta-casas-quinta-oriental-cucuta-octubre-2026/) | 47 | COP 600.000.000 | [10.5281/zenodo.23572515](https://doi.org/10.5281/zenodo.23572515) |
 | [Precio de venta de casas en Caobos, Cúcuta — octubre 2026](venta-casas-caobos-cucuta-octubre-2026/) | 46 | COP 1.250.000.000 | [10.5281/zenodo.23572200](https://doi.org/10.5281/zenodo.23572200) |
-| [Precio de arriendo de apartamentos en Caobos, Cúcuta — octubre 2026](arriendo-apartamentos-caobos-cucuta-octubre-2026/) | 45 | COP 2.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Riviera, Cúcuta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-riviera-cucuta-octubre-2026/) | 45 | COP 420.000.000 |  |
+| [Precio de arriendo de apartamentos en Caobos, Cúcuta — octubre 2026](arriendo-apartamentos-caobos-cucuta-octubre-2026/) | 45 | COP 2.000.000 | [10.5281/zenodo.23573065](https://doi.org/10.5281/zenodo.23573065) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Riviera, Cúcuta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-riviera-cucuta-octubre-2026/) | 45 | COP 420.000.000 | [10.5281/zenodo.23573079](https://doi.org/10.5281/zenodo.23573079) |
 | [Precio de venta de casas en La Riviera, Cúcuta — octubre 2026](venta-casas-la-riviera-cucuta-octubre-2026/) | 44 | COP 850.000.000 | [10.5281/zenodo.23571980](https://doi.org/10.5281/zenodo.23571980) |
-| [Precio de venta de casas en Ceiba Ii, Cúcuta — octubre 2026](venta-casas-ceiba-ii-cucuta-octubre-2026/) | 42 | COP 490.000.000 |  |
-| [Precio de venta de casas en La Ceiba, Cúcuta — octubre 2026](venta-casas-la-ceiba-cucuta-octubre-2026/) | 38 | COP 655.000.000 |  |
-| [Precio de venta de casas en Prados del Este, Cúcuta — octubre 2026](venta-casas-prados-del-este-cucuta-octubre-2026/) | 35 | COP 360.000.000 |  |
-| [Precio de arriendo de apartamentos en Colsag, Cúcuta — octubre 2026](arriendo-apartamentos-colsag-cucuta-octubre-2026/) | 36 | COP 1.600.000 |  |
-| [Precio de venta de apartamentos en La Playa, Cúcuta — octubre 2026](venta-apartamentos-la-playa-cucuta-octubre-2026/) | 34 | COP 320.000.000 |  |
-| [Precio de venta de apartamentos en Colsag, Cúcuta — octubre 2026](venta-apartamentos-colsag-cucuta-octubre-2026/) | 33 | COP 370.000.000 |  |
-| [Precio de arriendo de apartamentos en La Riviera, Cúcuta — octubre 2026](arriendo-apartamentos-la-riviera-cucuta-octubre-2026/) | 33 | COP 2.200.000 |  |
+| [Precio de venta de casas en Ceiba Ii, Cúcuta — octubre 2026](venta-casas-ceiba-ii-cucuta-octubre-2026/) | 42 | COP 490.000.000 | [10.5281/zenodo.23573156](https://doi.org/10.5281/zenodo.23573156) |
+| [Precio de venta de casas en La Ceiba, Cúcuta — octubre 2026](venta-casas-la-ceiba-cucuta-octubre-2026/) | 38 | COP 655.000.000 | [10.5281/zenodo.23575143](https://doi.org/10.5281/zenodo.23575143) |
+| [Precio de venta de casas en Prados del Este, Cúcuta — octubre 2026](venta-casas-prados-del-este-cucuta-octubre-2026/) | 35 | COP 360.000.000 | [10.5281/zenodo.23575578](https://doi.org/10.5281/zenodo.23575578) |
+| [Precio de arriendo de apartamentos en Colsag, Cúcuta — octubre 2026](arriendo-apartamentos-colsag-cucuta-octubre-2026/) | 36 | COP 1.600.000 | [10.5281/zenodo.23575797](https://doi.org/10.5281/zenodo.23575797) |
+| [Precio de venta de apartamentos en La Playa, Cúcuta — octubre 2026](venta-apartamentos-la-playa-cucuta-octubre-2026/) | 34 | COP 320.000.000 | [10.5281/zenodo.23576486](https://doi.org/10.5281/zenodo.23576486) |
+| [Precio de venta de apartamentos en Colsag, Cúcuta — octubre 2026](venta-apartamentos-colsag-cucuta-octubre-2026/) | 33 | COP 370.000.000 | [10.5281/zenodo.23575998](https://doi.org/10.5281/zenodo.23575998) |
+| [Precio de arriendo de apartamentos en La Riviera, Cúcuta — octubre 2026](arriendo-apartamentos-la-riviera-cucuta-octubre-2026/) | 33 | COP 2.200.000 | [10.5281/zenodo.23576009](https://doi.org/10.5281/zenodo.23576009) |
 | [Precio de venta de casas en Lleras Restrepo, Cúcuta — octubre 2026](venta-casas-lleras-restrepo-cucuta-octubre-2026/) | 33 | COP 600.000.000 |  |
 | [Precio de venta de casas en Niza, Cúcuta — octubre 2026](venta-casas-niza-cucuta-octubre-2026/) | 36 | COP 450.000.000 |  |
 | [Precio de venta de casas en Quinta Bosch, Cúcuta — octubre 2026](venta-casas-quinta-bosch-cucuta-octubre-2026/) | 31 | COP 670.000.000 |  |

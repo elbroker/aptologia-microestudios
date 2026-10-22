@@ -20,12 +20,12 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Picaleña y Mirolindo, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-picalena-y-mirolindo-ibague-octubre-2026/) | 103 | COP 300.000.000 | [10.5281/zenodo.23562853](https://doi.org/10.5281/zenodo.23562853) |
 | [Precio de venta de apartamentos en La Samaria, Ibagué — octubre 2026](venta-apartamentos-la-samaria-ibague-octubre-2026/) | 57 | COP 390.000.000 | [10.5281/zenodo.23564689](https://doi.org/10.5281/zenodo.23564689) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en La Samaria, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-samaria-ibague-octubre-2026/) | 46 | COP 407.500.000 | [10.5281/zenodo.23566904](https://doi.org/10.5281/zenodo.23566904) |
-| [Precio de venta de apartamentos en La Pola, Ibagué — octubre 2026](venta-apartamentos-la-pola-ibague-octubre-2026/) | 40 | COP 465.000.000 |  |
-| [Precio de venta de apartamentos en Hacienda Santa Cruz, Ibagué — octubre 2026](venta-apartamentos-hacienda-santa-cruz-ibague-octubre-2026/) | 37 | COP 240.000.000 |  |
-| [Precio de venta de apartamentos en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-piedra-pintada-ibague-octubre-2026/) | 37 | COP 360.000.000 |  |
-| [Precio de venta de apartamentos en Centro, Ibagué — octubre 2026](venta-apartamentos-centro-ibague-octubre-2026/) | 37 | COP 330.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Pola, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-pola-ibague-octubre-2026/) | 37 | COP 500.000.000 |  |
-| [Precio de arriendo de apartamentos en Picaleña y Mirolindo, Ibagué — octubre 2026](arriendo-apartamentos-picalena-y-mirolindo-ibague-octubre-2026/) | 35 | COP 1.170.000 |  |
-| [Precio de venta de apartamentos en Jordán, Ibagué — octubre 2026](venta-apartamentos-jordan-ibague-octubre-2026/) | 31 | COP 390.000.000 |  |
-| [Precio de venta de apartamentos en Varsovia, Ibagué — octubre 2026](venta-apartamentos-varsovia-ibague-octubre-2026/) | 31 | COP 395.000.000 |  |
+| [Precio de venta de apartamentos en La Pola, Ibagué — octubre 2026](venta-apartamentos-la-pola-ibague-octubre-2026/) | 40 | COP 465.000.000 | [10.5281/zenodo.23573930](https://doi.org/10.5281/zenodo.23573930) |
+| [Precio de venta de apartamentos en Hacienda Santa Cruz, Ibagué — octubre 2026](venta-apartamentos-hacienda-santa-cruz-ibague-octubre-2026/) | 37 | COP 240.000.000 | [10.5281/zenodo.23572565](https://doi.org/10.5281/zenodo.23572565) |
+| [Precio de venta de apartamentos en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-piedra-pintada-ibague-octubre-2026/) | 37 | COP 360.000.000 | [10.5281/zenodo.23574221](https://doi.org/10.5281/zenodo.23574221) |
+| [Precio de venta de apartamentos en Centro, Ibagué — octubre 2026](venta-apartamentos-centro-ibague-octubre-2026/) | 37 | COP 330.000.000 | [10.5281/zenodo.23575655](https://doi.org/10.5281/zenodo.23575655) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Pola, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-pola-ibague-octubre-2026/) | 37 | COP 500.000.000 | [10.5281/zenodo.23575459](https://doi.org/10.5281/zenodo.23575459) |
+| [Precio de arriendo de apartamentos en Picaleña y Mirolindo, Ibagué — octubre 2026](arriendo-apartamentos-picalena-y-mirolindo-ibague-octubre-2026/) | 35 | COP 1.170.000 | [10.5281/zenodo.23575443](https://doi.org/10.5281/zenodo.23575443) |
+| [Precio de venta de apartamentos en Jordán, Ibagué — octubre 2026](venta-apartamentos-jordan-ibague-octubre-2026/) | 31 | COP 390.000.000 | [10.5281/zenodo.23576249](https://doi.org/10.5281/zenodo.23576249) |
+| [Precio de venta de apartamentos en Varsovia, Ibagué — octubre 2026](venta-apartamentos-varsovia-ibague-octubre-2026/) | 31 | COP 395.000.000 | [10.5281/zenodo.23576508](https://doi.org/10.5281/zenodo.23576508) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-piedra-pintada-ibague-octubre-2026/) | 32 | COP 437.500.000 |  |

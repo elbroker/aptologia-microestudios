@@ -52,30 +52,30 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bucaros, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bucaros-bello-octubre-2026/) | 38 | COP 347.500.000 | [10.5281/zenodo.23571098](https://doi.org/10.5281/zenodo.23571098) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en La Gabriela, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-gabriela-bello-octubre-2026/) | 32 | COP 314.500.000 | [10.5281/zenodo.23571316](https://doi.org/10.5281/zenodo.23571316) |
 | [Precio de venta de apartamentos en Bellavista, Bello — octubre 2026](venta-apartamentos-bellavista-bello-octubre-2026/) | 39 | COP 290.000.000 | [10.5281/zenodo.23572135](https://doi.org/10.5281/zenodo.23572135) |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en La Gabriela, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-gabriela-bello-octubre-2026/) | 33 | COP 2.000.000 |  |
-| [Precio de venta de casas en Niquia, Bello — octubre 2026](venta-casas-niquia-bello-octubre-2026/) | 39 | COP 450.000.000 |  |
-| [Precio de venta de casas en Cabañas, Bello — octubre 2026](venta-casas-cabanas-bello-octubre-2026/) | 37 | COP 580.000.000 |  |
-| [Precio de venta de apartamentos en Cabañitas, Bello — octubre 2026](venta-apartamentos-cabanitas-bello-octubre-2026/) | 40 | COP 387.500.000 |  |
-| [Precio de arriendo de apartamentos en San José Obrero, Bello — octubre 2026](arriendo-apartamentos-san-jose-obrero-bello-octubre-2026/) | 45 | COP 3.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en El Trapiche, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-trapiche-bello-octubre-2026/) | 36 | COP 270.000.000 |  |
-| [Precio de venta de apartamentos en San José Obrero, Bello — octubre 2026](venta-apartamentos-san-jose-obrero-bello-octubre-2026/) | 39 | COP 468.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cabañas, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cabanas-bello-octubre-2026/) | 36 | COP 2.350.000 |  |
-| [Precio de venta de apartamentos en Ciudad Fabricato, Bello — octubre 2026](venta-apartamentos-ciudad-fabricato-bello-octubre-2026/) | 40 | COP 495.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Niquia, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-niquia-bello-octubre-2026/) | 40 | COP 2.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Bucaros, Bello — octubre 2026](venta-apartamentos-2-habitaciones-bucaros-bello-octubre-2026/) | 36 | COP 312.500.000 |  |
-| [Precio de venta de apartamentos en Suarez, Bello — octubre 2026](venta-apartamentos-suarez-bello-octubre-2026/) | 34 | COP 350.000.000 |  |
-| [Precio de arriendo de apartamentos en Bellavista, Bello — octubre 2026](arriendo-apartamentos-bellavista-bello-octubre-2026/) | 32 | COP 2.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Cabañitas, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cabanitas-bello-octubre-2026/) | 33 | COP 390.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Bucaros, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-bucaros-bello-octubre-2026/) | 34 | COP 1.800.000 |  |
-| [Precio de venta de apartamentos en Machado, Bello — octubre 2026](venta-apartamentos-machado-bello-octubre-2026/) | 34 | COP 335.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Santa Ana, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-santa-ana-bello-octubre-2026/) | 34 | COP 2.300.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Bellavista, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bellavista-bello-octubre-2026/) | 30 | COP 291.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Cabañas, Bello — octubre 2026](venta-apartamentos-2-habitaciones-cabanas-bello-octubre-2026/) | 33 | COP 400.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en San José Obrero, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-jose-obrero-bello-octubre-2026/) | 33 | COP 3.100.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en La Gabriela, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-gabriela-bello-octubre-2026/) | 33 | COP 2.000.000 | [10.5281/zenodo.23572529](https://doi.org/10.5281/zenodo.23572529) |
+| [Precio de venta de casas en Niquia, Bello — octubre 2026](venta-casas-niquia-bello-octubre-2026/) | 39 | COP 450.000.000 | [10.5281/zenodo.23572913](https://doi.org/10.5281/zenodo.23572913) |
+| [Precio de venta de casas en Cabañas, Bello — octubre 2026](venta-casas-cabanas-bello-octubre-2026/) | 37 | COP 580.000.000 | [10.5281/zenodo.23572790](https://doi.org/10.5281/zenodo.23572790) |
+| [Precio de venta de apartamentos en Cabañitas, Bello — octubre 2026](venta-apartamentos-cabanitas-bello-octubre-2026/) | 40 | COP 387.500.000 | [10.5281/zenodo.23572725](https://doi.org/10.5281/zenodo.23572725) |
+| [Precio de arriendo de apartamentos en San José Obrero, Bello — octubre 2026](arriendo-apartamentos-san-jose-obrero-bello-octubre-2026/) | 45 | COP 3.000.000 | [10.5281/zenodo.23572805](https://doi.org/10.5281/zenodo.23572805) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Trapiche, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-trapiche-bello-octubre-2026/) | 36 | COP 270.000.000 | [10.5281/zenodo.23572984](https://doi.org/10.5281/zenodo.23572984) |
+| [Precio de venta de apartamentos en San José Obrero, Bello — octubre 2026](venta-apartamentos-san-jose-obrero-bello-octubre-2026/) | 39 | COP 468.000.000 | [10.5281/zenodo.23573131](https://doi.org/10.5281/zenodo.23573131) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Cabañas, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-cabanas-bello-octubre-2026/) | 36 | COP 2.350.000 | [10.5281/zenodo.23572799](https://doi.org/10.5281/zenodo.23572799) |
+| [Precio de venta de apartamentos en Ciudad Fabricato, Bello — octubre 2026](venta-apartamentos-ciudad-fabricato-bello-octubre-2026/) | 40 | COP 495.000.000 | [10.5281/zenodo.23574537](https://doi.org/10.5281/zenodo.23574537) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Niquia, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-niquia-bello-octubre-2026/) | 40 | COP 2.000.000 | [10.5281/zenodo.23575061](https://doi.org/10.5281/zenodo.23575061) |
+| [Precio de venta de apartamentos de 2 habitaciones en Bucaros, Bello — octubre 2026](venta-apartamentos-2-habitaciones-bucaros-bello-octubre-2026/) | 36 | COP 312.500.000 | [10.5281/zenodo.23574786](https://doi.org/10.5281/zenodo.23574786) |
+| [Precio de venta de apartamentos en Suarez, Bello — octubre 2026](venta-apartamentos-suarez-bello-octubre-2026/) | 34 | COP 350.000.000 | [10.5281/zenodo.23574837](https://doi.org/10.5281/zenodo.23574837) |
+| [Precio de arriendo de apartamentos en Bellavista, Bello — octubre 2026](arriendo-apartamentos-bellavista-bello-octubre-2026/) | 32 | COP 2.000.000 | [10.5281/zenodo.23575976](https://doi.org/10.5281/zenodo.23575976) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Cabañitas, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cabanitas-bello-octubre-2026/) | 33 | COP 390.000.000 | [10.5281/zenodo.23576366](https://doi.org/10.5281/zenodo.23576366) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Bucaros, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-bucaros-bello-octubre-2026/) | 34 | COP 1.800.000 | [10.5281/zenodo.23576252](https://doi.org/10.5281/zenodo.23576252) |
+| [Precio de venta de apartamentos en Machado, Bello — octubre 2026](venta-apartamentos-machado-bello-octubre-2026/) | 34 | COP 335.000.000 | [10.5281/zenodo.23575667](https://doi.org/10.5281/zenodo.23575667) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Santa Ana, Bello — octubre 2026](arriendo-apartamentos-2-habitaciones-santa-ana-bello-octubre-2026/) | 34 | COP 2.300.000 | [10.5281/zenodo.23576266](https://doi.org/10.5281/zenodo.23576266) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Bellavista, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bellavista-bello-octubre-2026/) | 30 | COP 291.500.000 | [10.5281/zenodo.23576603](https://doi.org/10.5281/zenodo.23576603) |
+| [Precio de venta de apartamentos de 2 habitaciones en Cabañas, Bello — octubre 2026](venta-apartamentos-2-habitaciones-cabanas-bello-octubre-2026/) | 33 | COP 400.000.000 | [10.5281/zenodo.23576507](https://doi.org/10.5281/zenodo.23576507) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en San José Obrero, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-jose-obrero-bello-octubre-2026/) | 33 | COP 3.100.000 | [10.5281/zenodo.23576622](https://doi.org/10.5281/zenodo.23576622) |
 | [Precio de venta de apartamentos en Alcalá, Bello — octubre 2026](venta-apartamentos-alcala-bello-octubre-2026/) | 32 | COP 270.000.000 |  |
 | [Precio de venta de apartamentos en Hato Viejo, Bello — octubre 2026](venta-apartamentos-hato-viejo-bello-octubre-2026/) | 32 | COP 301.000.000 |  |
 | [Precio de arriendo de apartamentos en San Gabriel, Bello — octubre 2026](arriendo-apartamentos-san-gabriel-bello-octubre-2026/) | 32 | COP 1.700.000 |  |
-| [Precio de venta de apartamentos en Villas del Sol, Bello — octubre 2026](venta-apartamentos-villas-del-sol-bello-octubre-2026/) | 32 | COP 221.500.000 |  |
+| [Precio de venta de apartamentos en Villas del Sol, Bello — octubre 2026](venta-apartamentos-villas-del-sol-bello-octubre-2026/) | 32 | COP 221.500.000 | [10.5281/zenodo.23576154](https://doi.org/10.5281/zenodo.23576154) |
 | [Precio de venta de apartamentos de 2 habitaciones en Fabricato, Bello — octubre 2026](venta-apartamentos-2-habitaciones-fabricato-bello-octubre-2026/) | 31 | COP 420.000.000 |  |
 | [Precio de arriendo de apartamentos en Madera, Bello — octubre 2026](arriendo-apartamentos-madera-bello-octubre-2026/) | 31 | COP 2.100.000 |  |
 | [Precio de arriendo de apartamentos en Navarra, Bello — octubre 2026](arriendo-apartamentos-navarra-bello-octubre-2026/) | 45 | COP 1.800.000 |  |

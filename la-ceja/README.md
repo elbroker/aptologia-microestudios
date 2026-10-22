@@ -20,8 +20,8 @@
 | [Precio de venta de casas en Guamito, La Ceja — octubre 2026](venta-casas-guamito-la-ceja-octubre-2026/) | 69 | COP 2.900.000.000 | [10.5281/zenodo.23564077](https://doi.org/10.5281/zenodo.23564077) |
 | [Precio de venta de casas en Lomitas, La Ceja — octubre 2026](venta-casas-lomitas-la-ceja-octubre-2026/) | 67 | COP 850.000.000 | [10.5281/zenodo.23564661](https://doi.org/10.5281/zenodo.23564661) |
 | [Precio de venta de apartamentos en San Nicolas, La Ceja — octubre 2026](venta-apartamentos-san-nicolas-la-ceja-octubre-2026/) | 50 | COP 325.000.000 | [10.5281/zenodo.23565814](https://doi.org/10.5281/zenodo.23565814) |
-| [Precio de venta de apartamentos en El Tambo, La Ceja — octubre 2026](venta-apartamentos-el-tambo-la-ceja-octubre-2026/) | 41 | COP 450.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-2-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 40 | COP 1.650.000 |  |
+| [Precio de venta de apartamentos en El Tambo, La Ceja — octubre 2026](venta-apartamentos-el-tambo-la-ceja-octubre-2026/) | 41 | COP 450.000.000 | [10.5281/zenodo.23573064](https://doi.org/10.5281/zenodo.23573064) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-2-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 40 | COP 1.650.000 | [10.5281/zenodo.23574629](https://doi.org/10.5281/zenodo.23574629) |
 | [Precio de arriendo de apartamentos en El Tambo, La Ceja — octubre 2026](arriendo-apartamentos-el-tambo-la-ceja-octubre-2026/) | 31 | COP 2.500.000 |  |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 31 | COP 2.600.000 |  |
 | [Precio de arriendo de casas en Lomitas, La Ceja — octubre 2026](arriendo-casas-lomitas-la-ceja-octubre-2026/) | 30 | COP 4.100.000 |  |

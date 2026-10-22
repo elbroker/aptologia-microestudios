@@ -16,4 +16,4 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de casas en Quirama, El Carmen de Viboral — octubre 2026](venta-casas-quirama-el-carmen-de-viboral-octubre-2026/) | 35 | COP 2.530.000.000 |  |
+| [Precio de venta de casas en Quirama, El Carmen de Viboral — octubre 2026](venta-casas-quirama-el-carmen-de-viboral-octubre-2026/) | 35 | COP 2.530.000.000 | [10.5281/zenodo.23576049](https://doi.org/10.5281/zenodo.23576049) |

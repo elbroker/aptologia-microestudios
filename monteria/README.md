@@ -20,10 +20,10 @@
 | [Precio de venta de apartamentos en El Recreo, Montería — octubre 2026](venta-apartamentos-el-recreo-monteria-octubre-2026/) | 56 | COP 650.000.000 | [10.5281/zenodo.23565433](https://doi.org/10.5281/zenodo.23565433) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en La Castellana, Montería — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026/) | 58 | COP 420.000.000 | [10.5281/zenodo.23565532](https://doi.org/10.5281/zenodo.23565532) |
 | [Precio de venta de casas en Centro, Montería — octubre 2026](venta-casas-centro-monteria-octubre-2026/) | 50 | COP 700.000.000 | [10.5281/zenodo.23566995](https://doi.org/10.5281/zenodo.23566995) |
-| [Precio de venta de casas de 3 o más habitaciones en Centro, Montería — octubre 2026](venta-casas-3-o-mas-habitaciones-centro-monteria-octubre-2026/) | 45 | COP 700.000.000 |  |
-| [Precio de venta de apartamentos en Monteverde, Montería — octubre 2026](venta-apartamentos-monteverde-monteria-octubre-2026/) | 35 | COP 350.000.000 |  |
-| [Precio de arriendo de casas en Centro, Montería — octubre 2026](arriendo-casas-centro-monteria-octubre-2026/) | 35 | COP 5.000.000 |  |
-| [Precio de venta de casas en El Recreo, Montería — octubre 2026](venta-casas-el-recreo-monteria-octubre-2026/) | 32 | COP 1.300.000.000 |  |
+| [Precio de venta de casas de 3 o más habitaciones en Centro, Montería — octubre 2026](venta-casas-3-o-mas-habitaciones-centro-monteria-octubre-2026/) | 45 | COP 700.000.000 | [10.5281/zenodo.23573118](https://doi.org/10.5281/zenodo.23573118) |
+| [Precio de venta de apartamentos en Monteverde, Montería — octubre 2026](venta-apartamentos-monteverde-monteria-octubre-2026/) | 35 | COP 350.000.000 | [10.5281/zenodo.23574973](https://doi.org/10.5281/zenodo.23574973) |
+| [Precio de arriendo de casas en Centro, Montería — octubre 2026](arriendo-casas-centro-monteria-octubre-2026/) | 35 | COP 5.000.000 | [10.5281/zenodo.23576145](https://doi.org/10.5281/zenodo.23576145) |
+| [Precio de venta de casas en El Recreo, Montería — octubre 2026](venta-casas-el-recreo-monteria-octubre-2026/) | 32 | COP 1.300.000.000 | [10.5281/zenodo.23576328](https://doi.org/10.5281/zenodo.23576328) |
 | [Precio de venta de apartamentos en Castellana, Montería — octubre 2026](venta-apartamentos-castellana-monteria-octubre-2026/) | 74 | COP 395.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Monteverde, Montería — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-monteverde-monteria-octubre-2026/) | 31 | COP 360.000.000 |  |
 | [Precio de venta de casas en La Castellana, Montería — octubre 2026](venta-casas-la-castellana-monteria-octubre-2026/) | 67 | COP 800.000.000 |  |

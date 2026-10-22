@@ -20,5 +20,5 @@
 | [Precio de venta de apartamentos en Algarra Iii, Zipaquirá — octubre 2026](venta-apartamentos-algarra-iii-zipaquira-octubre-2026/) | 57 | COP 319.999.999 | [10.5281/zenodo.23565109](https://doi.org/10.5281/zenodo.23565109) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Algarra Iii, Zipaquirá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-algarra-iii-zipaquira-octubre-2026/) | 58 | COP 325.000.000 | [10.5281/zenodo.23567144](https://doi.org/10.5281/zenodo.23567144) |
 | [Precio de venta de apartamentos en San Rafael, Zipaquirá — octubre 2026](venta-apartamentos-san-rafael-zipaquira-octubre-2026/) | 50 | COP 219.000.000 | [10.5281/zenodo.23567212](https://doi.org/10.5281/zenodo.23567212) |
-| [Precio de venta de apartamentos en Villa María, Zipaquirá — octubre 2026](venta-apartamentos-villa-maria-zipaquira-octubre-2026/) | 35 | COP 190.000.000 |  |
+| [Precio de venta de apartamentos en Villa María, Zipaquirá — octubre 2026](venta-apartamentos-villa-maria-zipaquira-octubre-2026/) | 35 | COP 190.000.000 | [10.5281/zenodo.23574513](https://doi.org/10.5281/zenodo.23574513) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Las Villas, Zipaquirá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-las-villas-zipaquira-octubre-2026/) | 91 | COP 310.000.000 |  |

@@ -40,12 +40,12 @@
 | [Precio de arriendo de apartamentos en Simón Bolívar, Itagüí — octubre 2026](arriendo-apartamentos-simon-bolivar-itagui-octubre-2026/) | 37 | COP 3.100.000 | [10.5281/zenodo.23567209](https://doi.org/10.5281/zenodo.23567209) |
 | [Precio de venta de apartamentos en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-san-gabriel-itagui-octubre-2026/) | 39 | COP 295.000.000 | [10.5281/zenodo.23571048](https://doi.org/10.5281/zenodo.23571048) |
 | [Precio de venta de apartamentos en Los Naranjos, Itagüí — octubre 2026](venta-apartamentos-los-naranjos-itagui-octubre-2026/) | 34 | COP 440.000.000 | [10.5281/zenodo.23571286](https://doi.org/10.5281/zenodo.23571286) |
-| [Precio de venta de apartamentos de 3 o más habitaciones en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-gabriel-itagui-octubre-2026/) | 32 | COP 298.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Fátima, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-fatima-itagui-octubre-2026/) | 41 | COP 2.600.000 |  |
-| [Precio de venta de apartamentos en Villa Paula, Itagüí — octubre 2026](venta-apartamentos-villa-paula-itagui-octubre-2026/) | 30 | COP 457.500.000 |  |
-| [Precio de arriendo de apartamentos en Zona Industrial No 1, Itagüí — octubre 2026](arriendo-apartamentos-zona-industrial-no-1-itagui-octubre-2026/) | 32 | COP 3.200.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-ditaires-itagui-octubre-2026/) | 38 | COP 2.500.000 |  |
-| [Precio de venta de apartamentos en Villa del Parque, Itagüí — octubre 2026](venta-apartamentos-villa-del-parque-itagui-octubre-2026/) | 30 | COP 430.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-gabriel-itagui-octubre-2026/) | 32 | COP 298.000.000 | [10.5281/zenodo.23573995](https://doi.org/10.5281/zenodo.23573995) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Fátima, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-fatima-itagui-octubre-2026/) | 41 | COP 2.600.000 | [10.5281/zenodo.23574220](https://doi.org/10.5281/zenodo.23574220) |
+| [Precio de venta de apartamentos en Villa Paula, Itagüí — octubre 2026](venta-apartamentos-villa-paula-itagui-octubre-2026/) | 30 | COP 457.500.000 | [10.5281/zenodo.23574835](https://doi.org/10.5281/zenodo.23574835) |
+| [Precio de arriendo de apartamentos en Zona Industrial No 1, Itagüí — octubre 2026](arriendo-apartamentos-zona-industrial-no-1-itagui-octubre-2026/) | 32 | COP 3.200.000 | [10.5281/zenodo.23574854](https://doi.org/10.5281/zenodo.23574854) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-ditaires-itagui-octubre-2026/) | 38 | COP 2.500.000 | [10.5281/zenodo.23575365](https://doi.org/10.5281/zenodo.23575365) |
+| [Precio de venta de apartamentos en Villa del Parque, Itagüí — octubre 2026](venta-apartamentos-villa-del-parque-itagui-octubre-2026/) | 30 | COP 430.000.000 | [10.5281/zenodo.23576621](https://doi.org/10.5281/zenodo.23576621) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en Zona Industrial No 1, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-zona-industrial-no-1-itagui-octubre-2026/) | 32 | COP 3.200.000 |  |
 | [Precio de arriendo de apartamentos en Centro, Itagüí — octubre 2026](arriendo-apartamentos-centro-itagui-octubre-2026/) | 31 | COP 2.800.000 |  |
 | [Precio de venta de apartamentos en Santa Catalina, Itagüí — octubre 2026](venta-apartamentos-santa-catalina-itagui-octubre-2026/) | 31 | COP 460.000.000 |  |

@@ -58,44 +58,44 @@
 | [Precio de venta de casas en El Centro, Manizales — octubre 2026](venta-casas-el-centro-manizales-octubre-2026/) | 31 | COP 800.000.000 | [10.5281/zenodo.23567238](https://doi.org/10.5281/zenodo.23567238) |
 | [Precio de venta de casas en Alhambra, Manizales — octubre 2026](venta-casas-alhambra-manizales-octubre-2026/) | 39 | COP 1.850.000.000 | [10.5281/zenodo.23571912](https://doi.org/10.5281/zenodo.23571912) |
 | [Precio de venta de casas en El Bosque, Manizales — octubre 2026](venta-casas-el-bosque-manizales-octubre-2026/) | 41 | COP 650.000.000 | [10.5281/zenodo.23571078](https://doi.org/10.5281/zenodo.23571078) |
-| [Precio de venta de apartamentos de 2 habitaciones en Baja Suiza, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-baja-suiza-manizales-octubre-2026/) | 34 | COP 430.000.000 |  |
-| [Precio de venta de apartamentos en Villapilar, Manizales — octubre 2026](venta-apartamentos-villapilar-manizales-octubre-2026/) | 35 | COP 290.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Baja Suiza, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-baja-suiza-manizales-octubre-2026/) | 34 | COP 430.000.000 | [10.5281/zenodo.23572528](https://doi.org/10.5281/zenodo.23572528) |
+| [Precio de venta de apartamentos en Villapilar, Manizales — octubre 2026](venta-apartamentos-villapilar-manizales-octubre-2026/) | 35 | COP 290.000.000 | [10.5281/zenodo.23572550](https://doi.org/10.5281/zenodo.23572550) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Avenida Alberto Mendoza, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-avenida-alberto-mendoza-manizales-octubre-2026/) | 37 | COP 720.000.000 | [10.5281/zenodo.23571976](https://doi.org/10.5281/zenodo.23571976) |
 | [Precio de venta de apartamentos de 2 habitaciones en La Sultana, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-la-sultana-manizales-octubre-2026/) | 47 | COP 288.000.000 | [10.5281/zenodo.23572008](https://doi.org/10.5281/zenodo.23572008) |
 | [Precio de venta de apartamentos en San Marcel, Manizales — octubre 2026](venta-apartamentos-san-marcel-manizales-octubre-2026/) | 30 | COP 590.000.000 | [10.5281/zenodo.23571201](https://doi.org/10.5281/zenodo.23571201) |
-| [Precio de venta de apartamentos en Belén, Manizales — octubre 2026](venta-apartamentos-belen-manizales-octubre-2026/) | 46 | COP 450.000.000 |  |
-| [Precio de arriendo de apartamentos en La Francia, Manizales — octubre 2026](arriendo-apartamentos-la-francia-manizales-octubre-2026/) | 44 | COP 1.600.000 |  |
-| [Precio de venta de apartamentos en Puerta del Sol, Manizales — octubre 2026](venta-apartamentos-puerta-del-sol-manizales-octubre-2026/) | 44 | COP 199.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en San Jorge, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-jorge-manizales-octubre-2026/) | 33 | COP 341.000.000 |  |
-| [Precio de venta de apartamentos en San Rafael, Manizales — octubre 2026](venta-apartamentos-san-rafael-manizales-octubre-2026/) | 44 | COP 470.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Milán, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-milan-manizales-octubre-2026/) | 31 | COP 530.000.000 |  |
-| [Precio de venta de apartamentos en Versalles, Manizales — octubre 2026](venta-apartamentos-versalles-manizales-octubre-2026/) | 31 | COP 450.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Centro, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-centro-manizales-octubre-2026/) | 41 | COP 420.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Palermo, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-palermo-manizales-octubre-2026/) | 42 | COP 330.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Chipre, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-chipre-manizales-octubre-2026/) | 40 | COP 300.000.000 |  |
-| [Precio de venta de apartamentos en Avenida Kevin Angel, Manizales — octubre 2026](venta-apartamentos-avenida-kevin-angel-manizales-octubre-2026/) | 39 | COP 377.000.000 |  |
-| [Precio de venta de apartamentos en Sacatin Viejo, Manizales — octubre 2026](venta-apartamentos-sacatin-viejo-manizales-octubre-2026/) | 39 | COP 285.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Avenida Santander, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-avenida-santander-manizales-octubre-2026/) | 37 | COP 400.000.000 |  |
-| [Precio de venta de casas en Campohermoso, Manizales — octubre 2026](venta-casas-campohermoso-manizales-octubre-2026/) | 32 | COP 570.000.000 |  |
-| [Precio de venta de apartaestudios en Chipre, Manizales — octubre 2026](venta-apartaestudios-chipre-manizales-octubre-2026/) | 31 | COP 300.195.000 |  |
-| [Precio de venta de apartamentos en Guayacanes, Manizales — octubre 2026](venta-apartamentos-guayacanes-manizales-octubre-2026/) | 37 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos en La Camelia, Manizales — octubre 2026](venta-apartamentos-la-camelia-manizales-octubre-2026/) | 37 | COP 580.000.000 |  |
-| [Precio de arriendo de apartamentos en Palermo, Manizales — octubre 2026](arriendo-apartamentos-palermo-manizales-octubre-2026/) | 37 | COP 3.180.000 |  |
-| [Precio de venta de casas en Alta Suiza, Manizales — octubre 2026](venta-casas-alta-suiza-manizales-octubre-2026/) | 36 | COP 720.000.000 |  |
-| [Precio de venta de apartamentos en Cable, Manizales — octubre 2026](venta-apartamentos-cable-manizales-octubre-2026/) | 32 | COP 695.000.000 |  |
-| [Precio de venta de casas en La Cumbre, Manizales — octubre 2026](venta-casas-la-cumbre-manizales-octubre-2026/) | 36 | COP 390.000.000 |  |
-| [Precio de venta de casas en Belén, Manizales — octubre 2026](venta-casas-belen-manizales-octubre-2026/) | 35 | COP 1.100.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Cerro de Oro, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-cerro-de-oro-manizales-octubre-2026/) | 35 | COP 455.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en El Trebol, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-el-trebol-manizales-octubre-2026/) | 35 | COP 480.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en El Trebol, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-el-trebol-manizales-octubre-2026/) | 35 | COP 650.000.000 |  |
-| [Precio de arriendo de apartamentos en Avenida Santander, Manizales — octubre 2026](arriendo-apartamentos-avenida-santander-manizales-octubre-2026/) | 34 | COP 1.675.000 |  |
-| [Precio de venta de casas en Milán, Manizales — octubre 2026](venta-casas-milan-manizales-octubre-2026/) | 34 | COP 1.250.000.000 |  |
-| [Precio de venta de casas en El Rosario, Manizales — octubre 2026](venta-casas-el-rosario-manizales-octubre-2026/) | 33 | COP 1.850.000.000 |  |
+| [Precio de venta de apartamentos en Belén, Manizales — octubre 2026](venta-apartamentos-belen-manizales-octubre-2026/) | 46 | COP 450.000.000 | [10.5281/zenodo.23572985](https://doi.org/10.5281/zenodo.23572985) |
+| [Precio de arriendo de apartamentos en La Francia, Manizales — octubre 2026](arriendo-apartamentos-la-francia-manizales-octubre-2026/) | 44 | COP 1.600.000 | [10.5281/zenodo.23572239](https://doi.org/10.5281/zenodo.23572239) |
+| [Precio de venta de apartamentos en Puerta del Sol, Manizales — octubre 2026](venta-apartamentos-puerta-del-sol-manizales-octubre-2026/) | 44 | COP 199.000.000 | [10.5281/zenodo.23573047](https://doi.org/10.5281/zenodo.23573047) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San Jorge, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-jorge-manizales-octubre-2026/) | 33 | COP 341.000.000 | [10.5281/zenodo.23573948](https://doi.org/10.5281/zenodo.23573948) |
+| [Precio de venta de apartamentos en San Rafael, Manizales — octubre 2026](venta-apartamentos-san-rafael-manizales-octubre-2026/) | 44 | COP 470.000.000 | [10.5281/zenodo.23573976](https://doi.org/10.5281/zenodo.23573976) |
+| [Precio de venta de apartamentos de 2 habitaciones en Milán, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-milan-manizales-octubre-2026/) | 31 | COP 530.000.000 | [10.5281/zenodo.23574465](https://doi.org/10.5281/zenodo.23574465) |
+| [Precio de venta de apartamentos en Versalles, Manizales — octubre 2026](venta-apartamentos-versalles-manizales-octubre-2026/) | 31 | COP 450.000.000 | [10.5281/zenodo.23574480](https://doi.org/10.5281/zenodo.23574480) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Centro, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-centro-manizales-octubre-2026/) | 41 | COP 420.000.000 | [10.5281/zenodo.23572800](https://doi.org/10.5281/zenodo.23572800) |
+| [Precio de venta de apartamentos de 1 habitación en Palermo, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-palermo-manizales-octubre-2026/) | 42 | COP 330.000.000 | [10.5281/zenodo.23572824](https://doi.org/10.5281/zenodo.23572824) |
+| [Precio de venta de apartamentos de 1 habitación en Chipre, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-chipre-manizales-octubre-2026/) | 40 | COP 300.000.000 | [10.5281/zenodo.23574645](https://doi.org/10.5281/zenodo.23574645) |
+| [Precio de venta de apartamentos en Avenida Kevin Angel, Manizales — octubre 2026](venta-apartamentos-avenida-kevin-angel-manizales-octubre-2026/) | 39 | COP 377.000.000 | [10.5281/zenodo.23574880](https://doi.org/10.5281/zenodo.23574880) |
+| [Precio de venta de apartamentos en Sacatin Viejo, Manizales — octubre 2026](venta-apartamentos-sacatin-viejo-manizales-octubre-2026/) | 39 | COP 285.000.000 | [10.5281/zenodo.23574882](https://doi.org/10.5281/zenodo.23574882) |
+| [Precio de venta de apartamentos de 2 habitaciones en Avenida Santander, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-avenida-santander-manizales-octubre-2026/) | 37 | COP 400.000.000 | [10.5281/zenodo.23576027](https://doi.org/10.5281/zenodo.23576027) |
+| [Precio de venta de casas en Campohermoso, Manizales — octubre 2026](venta-casas-campohermoso-manizales-octubre-2026/) | 32 | COP 570.000.000 | [10.5281/zenodo.23575500](https://doi.org/10.5281/zenodo.23575500) |
+| [Precio de venta de apartaestudios en Chipre, Manizales — octubre 2026](venta-apartaestudios-chipre-manizales-octubre-2026/) | 31 | COP 300.195.000 | [10.5281/zenodo.23575529](https://doi.org/10.5281/zenodo.23575529) |
+| [Precio de venta de apartamentos en Guayacanes, Manizales — octubre 2026](venta-apartamentos-guayacanes-manizales-octubre-2026/) | 37 | COP 560.000.000 | [10.5281/zenodo.23576046](https://doi.org/10.5281/zenodo.23576046) |
+| [Precio de venta de apartamentos en La Camelia, Manizales — octubre 2026](venta-apartamentos-la-camelia-manizales-octubre-2026/) | 37 | COP 580.000.000 | [10.5281/zenodo.23576057](https://doi.org/10.5281/zenodo.23576057) |
+| [Precio de arriendo de apartamentos en Palermo, Manizales — octubre 2026](arriendo-apartamentos-palermo-manizales-octubre-2026/) | 37 | COP 3.180.000 | [10.5281/zenodo.23575542](https://doi.org/10.5281/zenodo.23575542) |
+| [Precio de venta de casas en Alta Suiza, Manizales — octubre 2026](venta-casas-alta-suiza-manizales-octubre-2026/) | 36 | COP 720.000.000 | [10.5281/zenodo.23575080](https://doi.org/10.5281/zenodo.23575080) |
+| [Precio de venta de apartamentos en Cable, Manizales — octubre 2026](venta-apartamentos-cable-manizales-octubre-2026/) | 32 | COP 695.000.000 | [10.5281/zenodo.23575839](https://doi.org/10.5281/zenodo.23575839) |
+| [Precio de venta de casas en La Cumbre, Manizales — octubre 2026](venta-casas-la-cumbre-manizales-octubre-2026/) | 36 | COP 390.000.000 | [10.5281/zenodo.23575838](https://doi.org/10.5281/zenodo.23575838) |
+| [Precio de venta de casas en Belén, Manizales — octubre 2026](venta-casas-belen-manizales-octubre-2026/) | 35 | COP 1.100.000.000 | [10.5281/zenodo.23576025](https://doi.org/10.5281/zenodo.23576025) |
+| [Precio de venta de apartamentos de 1 habitación en Cerro de Oro, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-cerro-de-oro-manizales-octubre-2026/) | 35 | COP 455.000.000 | [10.5281/zenodo.23576194](https://doi.org/10.5281/zenodo.23576194) |
+| [Precio de venta de apartamentos de 1 habitación en El Trebol, Manizales — octubre 2026](venta-apartamentos-1-habitaciones-el-trebol-manizales-octubre-2026/) | 35 | COP 480.000.000 | [10.5281/zenodo.23576045](https://doi.org/10.5281/zenodo.23576045) |
+| [Precio de venta de apartamentos de 2 habitaciones en El Trebol, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-el-trebol-manizales-octubre-2026/) | 35 | COP 650.000.000 | [10.5281/zenodo.23575481](https://doi.org/10.5281/zenodo.23575481) |
+| [Precio de arriendo de apartamentos en Avenida Santander, Manizales — octubre 2026](arriendo-apartamentos-avenida-santander-manizales-octubre-2026/) | 34 | COP 1.675.000 | [10.5281/zenodo.23576265](https://doi.org/10.5281/zenodo.23576265) |
+| [Precio de venta de casas en Milán, Manizales — octubre 2026](venta-casas-milan-manizales-octubre-2026/) | 34 | COP 1.250.000.000 | [10.5281/zenodo.23576287](https://doi.org/10.5281/zenodo.23576287) |
+| [Precio de venta de casas en El Rosario, Manizales — octubre 2026](venta-casas-el-rosario-manizales-octubre-2026/) | 33 | COP 1.850.000.000 | [10.5281/zenodo.23576640](https://doi.org/10.5281/zenodo.23576640) |
 | [Precio de venta de apartamentos en Laureles, Manizales — octubre 2026](venta-apartamentos-laureles-manizales-octubre-2026/) | 56 | COP 545.000.000 |  |
 | [Precio de venta de apartamentos en Los Alcazares, Manizales — octubre 2026](venta-apartamentos-los-alcazares-manizales-octubre-2026/) | 33 | COP 235.000.000 |  |
 | [Precio de venta de apartamentos en Palogrande, Manizales — octubre 2026](venta-apartamentos-palogrande-manizales-octubre-2026/) | 33 | COP 580.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Expoferias, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-expoferias-manizales-octubre-2026/) | 31 | COP 803.000.000 |  |
-| [Precio de venta de casas en San Peregrino, Manizales — octubre 2026](venta-casas-san-peregrino-manizales-octubre-2026/) | 32 | COP 890.000.000 |  |
+| [Precio de venta de casas en San Peregrino, Manizales — octubre 2026](venta-casas-san-peregrino-manizales-octubre-2026/) | 32 | COP 890.000.000 | [10.5281/zenodo.23576303](https://doi.org/10.5281/zenodo.23576303) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en San Rafael, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-rafael-manizales-octubre-2026/) | 32 | COP 550.000.000 |  |
 | [Precio de venta de casas en Avenida Santander, Manizales — octubre 2026](venta-casas-avenida-santander-manizales-octubre-2026/) | 31 | COP 1.400.000.000 |  |
 | [Precio de venta de casas en Cerro de Oro, Manizales — octubre 2026](venta-casas-cerro-de-oro-manizales-octubre-2026/) | 31 | COP 1.300.000.000 |  |
