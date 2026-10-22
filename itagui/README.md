@@ -22,24 +22,24 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Ditaires, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ditaires-itagui-octubre-2026/) | 169 | COP 478.000.000 | [10.5281/zenodo.23548787](https://doi.org/10.5281/zenodo.23548787) |
 | [Precio de arriendo de apartamentos en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-suramerica-itagui-octubre-2026/) | 163 | COP 3.000.000 | [10.5281/zenodo.23551226](https://doi.org/10.5281/zenodo.23551226) |
 | [Precio de venta de apartamentos de 2 habitaciones en Suramérica, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-suramerica-itagui-octubre-2026/) | 133 | COP 560.000.000 | [10.5281/zenodo.23551340](https://doi.org/10.5281/zenodo.23551340) |
-| [Precio de venta de apartamentos en Viviendas del Sur, Itagüí — octubre 2026](venta-apartamentos-viviendas-del-sur-itagui-octubre-2026/) | 136 | COP 430.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-suramerica-itagui-octubre-2026/) | 107 | COP 3.100.000 |  |
-| [Precio de arriendo de apartamentos en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-ditaires-itagui-octubre-2026/) | 95 | COP 2.600.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-ditaires-itagui-octubre-2026/) | 69 | COP 2.700.000 |  |
-| [Precio de venta de apartamentos en Fátima, Itagüí — octubre 2026](venta-apartamentos-fatima-itagui-octubre-2026/) | 84 | COP 467.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Ditaires, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-ditaires-itagui-octubre-2026/) | 59 | COP 455.000.000 |  |
-| [Precio de arriendo de apartamentos en Viviendas del Sur, Itagüí — octubre 2026](arriendo-apartamentos-viviendas-del-sur-itagui-octubre-2026/) | 70 | COP 2.500.000 |  |
-| [Precio de venta de apartamentos en Santa María, Itagüí — octubre 2026](venta-apartamentos-santa-maria-itagui-octubre-2026/) | 64 | COP 367.750.000 |  |
-| [Precio de venta de casas en Suramérica, Itagüí — octubre 2026](venta-casas-suramerica-itagui-octubre-2026/) | 57 | COP 950.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Fátima, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-fatima-itagui-octubre-2026/) | 59 | COP 465.000.000 |  |
-| [Precio de arriendo de apartamentos en Fátima, Itagüí — octubre 2026](arriendo-apartamentos-fatima-itagui-octubre-2026/) | 48 | COP 2.800.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-suramerica-itagui-octubre-2026/) | 52 | COP 3.000.000 |  |
-| [Precio de venta de apartamentos en Centro, Itagüí — octubre 2026](venta-apartamentos-centro-itagui-octubre-2026/) | 47 | COP 477.000.000 |  |
-| [Precio de venta de apartamentos en Simón Bolívar, Itagüí — octubre 2026](venta-apartamentos-simon-bolivar-itagui-octubre-2026/) | 46 | COP 550.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Viviendas del Sur, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-viviendas-del-sur-itagui-octubre-2026/) | 45 | COP 2.500.000 |  |
-| [Precio de arriendo de apartamentos en Simón Bolívar, Itagüí — octubre 2026](arriendo-apartamentos-simon-bolivar-itagui-octubre-2026/) | 37 | COP 3.100.000 |  |
-| [Precio de venta de apartamentos en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-san-gabriel-itagui-octubre-2026/) | 39 | COP 295.000.000 |  |
-| [Precio de venta de apartamentos en Los Naranjos, Itagüí — octubre 2026](venta-apartamentos-los-naranjos-itagui-octubre-2026/) | 34 | COP 440.000.000 |  |
+| [Precio de venta de apartamentos en Viviendas del Sur, Itagüí — octubre 2026](venta-apartamentos-viviendas-del-sur-itagui-octubre-2026/) | 136 | COP 430.000.000 | [10.5281/zenodo.23553096](https://doi.org/10.5281/zenodo.23553096) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-suramerica-itagui-octubre-2026/) | 107 | COP 3.100.000 | [10.5281/zenodo.23556856](https://doi.org/10.5281/zenodo.23556856) |
+| [Precio de arriendo de apartamentos en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-ditaires-itagui-octubre-2026/) | 95 | COP 2.600.000 | [10.5281/zenodo.23556877](https://doi.org/10.5281/zenodo.23556877) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-ditaires-itagui-octubre-2026/) | 69 | COP 2.700.000 | [10.5281/zenodo.23561424](https://doi.org/10.5281/zenodo.23561424) |
+| [Precio de venta de apartamentos en Fátima, Itagüí — octubre 2026](venta-apartamentos-fatima-itagui-octubre-2026/) | 84 | COP 467.500.000 | [10.5281/zenodo.23561493](https://doi.org/10.5281/zenodo.23561493) |
+| [Precio de venta de apartamentos de 2 habitaciones en Ditaires, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-ditaires-itagui-octubre-2026/) | 59 | COP 455.000.000 | [10.5281/zenodo.23561660](https://doi.org/10.5281/zenodo.23561660) |
+| [Precio de arriendo de apartamentos en Viviendas del Sur, Itagüí — octubre 2026](arriendo-apartamentos-viviendas-del-sur-itagui-octubre-2026/) | 70 | COP 2.500.000 | [10.5281/zenodo.23563237](https://doi.org/10.5281/zenodo.23563237) |
+| [Precio de venta de apartamentos en Santa María, Itagüí — octubre 2026](venta-apartamentos-santa-maria-itagui-octubre-2026/) | 64 | COP 367.750.000 | [10.5281/zenodo.23563587](https://doi.org/10.5281/zenodo.23563587) |
+| [Precio de venta de casas en Suramérica, Itagüí — octubre 2026](venta-casas-suramerica-itagui-octubre-2026/) | 57 | COP 950.000.000 | [10.5281/zenodo.23563632](https://doi.org/10.5281/zenodo.23563632) |
+| [Precio de venta de apartamentos de 2 habitaciones en Fátima, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-fatima-itagui-octubre-2026/) | 59 | COP 465.000.000 | [10.5281/zenodo.23563836](https://doi.org/10.5281/zenodo.23563836) |
+| [Precio de arriendo de apartamentos en Fátima, Itagüí — octubre 2026](arriendo-apartamentos-fatima-itagui-octubre-2026/) | 48 | COP 2.800.000 | [10.5281/zenodo.23565104](https://doi.org/10.5281/zenodo.23565104) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-suramerica-itagui-octubre-2026/) | 52 | COP 3.000.000 | [10.5281/zenodo.23565122](https://doi.org/10.5281/zenodo.23565122) |
+| [Precio de venta de apartamentos en Centro, Itagüí — octubre 2026](venta-apartamentos-centro-itagui-octubre-2026/) | 47 | COP 477.000.000 | [10.5281/zenodo.23567266](https://doi.org/10.5281/zenodo.23567266) |
+| [Precio de venta de apartamentos en Simón Bolívar, Itagüí — octubre 2026](venta-apartamentos-simon-bolivar-itagui-octubre-2026/) | 46 | COP 550.000.000 | [10.5281/zenodo.23567289](https://doi.org/10.5281/zenodo.23567289) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Viviendas del Sur, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-viviendas-del-sur-itagui-octubre-2026/) | 45 | COP 2.500.000 | [10.5281/zenodo.23566446](https://doi.org/10.5281/zenodo.23566446) |
+| [Precio de arriendo de apartamentos en Simón Bolívar, Itagüí — octubre 2026](arriendo-apartamentos-simon-bolivar-itagui-octubre-2026/) | 37 | COP 3.100.000 | [10.5281/zenodo.23567209](https://doi.org/10.5281/zenodo.23567209) |
+| [Precio de venta de apartamentos en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-san-gabriel-itagui-octubre-2026/) | 39 | COP 295.000.000 | [10.5281/zenodo.23571048](https://doi.org/10.5281/zenodo.23571048) |
+| [Precio de venta de apartamentos en Los Naranjos, Itagüí — octubre 2026](venta-apartamentos-los-naranjos-itagui-octubre-2026/) | 34 | COP 440.000.000 | [10.5281/zenodo.23571286](https://doi.org/10.5281/zenodo.23571286) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en San Gabriel, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-gabriel-itagui-octubre-2026/) | 32 | COP 298.000.000 |  |
 | [Precio de arriendo de apartamentos de 2 habitaciones en Fátima, Itagüí — octubre 2026](arriendo-apartamentos-2-habitaciones-fatima-itagui-octubre-2026/) | 41 | COP 2.600.000 |  |
 | [Precio de venta de apartamentos en Villa Paula, Itagüí — octubre 2026](venta-apartamentos-villa-paula-itagui-octubre-2026/) | 30 | COP 457.500.000 |  |

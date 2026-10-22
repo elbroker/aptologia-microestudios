@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Salgar, Puerto Colombia — octubre 2026](venta-apartamentos-salgar-puerto-colombia-octubre-2026/) | 53 | COP 500.000.000 |  |
+| [Precio de venta de apartamentos en Salgar, Puerto Colombia — octubre 2026](venta-apartamentos-salgar-puerto-colombia-octubre-2026/) | 53 | COP 500.000.000 | [10.5281/zenodo.23566866](https://doi.org/10.5281/zenodo.23566866) |
 | [Precio de venta de casas en Salgar, Puerto Colombia — octubre 2026](venta-casas-salgar-puerto-colombia-octubre-2026/) | 46 | COP 1.449.500.000 |  |
 | [Precio de arriendo de apartamentos en Salgar, Puerto Colombia — octubre 2026](arriendo-apartamentos-salgar-puerto-colombia-octubre-2026/) | 32 | COP 2.775.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Salgar, Puerto Colombia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-salgar-puerto-colombia-octubre-2026/) | 31 | COP 567.000.000 |  |

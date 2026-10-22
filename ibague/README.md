@@ -16,10 +16,10 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Picaleña y Mirolindo, Ibagué — octubre 2026](venta-apartamentos-picalena-y-mirolindo-ibague-octubre-2026/) | 106 | COP 310.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Picaleña y Mirolindo, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-picalena-y-mirolindo-ibague-octubre-2026/) | 103 | COP 300.000.000 |  |
-| [Precio de venta de apartamentos en La Samaria, Ibagué — octubre 2026](venta-apartamentos-la-samaria-ibague-octubre-2026/) | 57 | COP 390.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Samaria, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-samaria-ibague-octubre-2026/) | 46 | COP 407.500.000 |  |
+| [Precio de venta de apartamentos en Picaleña y Mirolindo, Ibagué — octubre 2026](venta-apartamentos-picalena-y-mirolindo-ibague-octubre-2026/) | 106 | COP 310.000.000 | [10.5281/zenodo.23561147](https://doi.org/10.5281/zenodo.23561147) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Picaleña y Mirolindo, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-picalena-y-mirolindo-ibague-octubre-2026/) | 103 | COP 300.000.000 | [10.5281/zenodo.23562853](https://doi.org/10.5281/zenodo.23562853) |
+| [Precio de venta de apartamentos en La Samaria, Ibagué — octubre 2026](venta-apartamentos-la-samaria-ibague-octubre-2026/) | 57 | COP 390.000.000 | [10.5281/zenodo.23564689](https://doi.org/10.5281/zenodo.23564689) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Samaria, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-samaria-ibague-octubre-2026/) | 46 | COP 407.500.000 | [10.5281/zenodo.23566904](https://doi.org/10.5281/zenodo.23566904) |
 | [Precio de venta de apartamentos en La Pola, Ibagué — octubre 2026](venta-apartamentos-la-pola-ibague-octubre-2026/) | 40 | COP 465.000.000 |  |
 | [Precio de venta de apartamentos en Hacienda Santa Cruz, Ibagué — octubre 2026](venta-apartamentos-hacienda-santa-cruz-ibague-octubre-2026/) | 37 | COP 240.000.000 |  |
 | [Precio de venta de apartamentos en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-piedra-pintada-ibague-octubre-2026/) | 37 | COP 360.000.000 |  |

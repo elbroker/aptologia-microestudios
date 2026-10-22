@@ -17,21 +17,21 @@
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
 | [Precio de venta de casas en Fonquetá, Chía — octubre 2026](venta-casas-fonqueta-chia-octubre-2026/) | 200 | COP 930.000.000 | [10.5281/zenodo.23551183](https://doi.org/10.5281/zenodo.23551183) |
-| [Precio de venta de casas en Yerbabuena, Chía — octubre 2026](venta-casas-yerbabuena-chia-octubre-2026/) | 199 | COP 2.500.000.000 |  |
-| [Precio de venta de casas en Hacienda Fontanar, Chía — octubre 2026](venta-casas-hacienda-fontanar-chia-octubre-2026/) | 127 | COP 1.965.000.000 |  |
-| [Precio de venta de casas en Fagua, Chía — octubre 2026](venta-casas-fagua-chia-octubre-2026/) | 79 | COP 990.000.000 |  |
-| [Precio de venta de casas en Fusca, Chía — octubre 2026](venta-casas-fusca-chia-octubre-2026/) | 75 | COP 2.700.000.000 |  |
-| [Precio de venta de apartamentos en Delicias Norte, Chía — octubre 2026](venta-apartamentos-delicias-norte-chia-octubre-2026/) | 54 | COP 399.000.000 |  |
-| [Precio de venta de casas en Tiquiza, Chía — octubre 2026](venta-casas-tiquiza-chia-octubre-2026/) | 65 | COP 744.990.000 |  |
-| [Precio de venta de casas en Delicias Norte, Chía — octubre 2026](venta-casas-delicias-norte-chia-octubre-2026/) | 59 | COP 820.000.000 |  |
-| [Precio de venta de apartamentos en Bojacá, Chía — octubre 2026](venta-apartamentos-bojaca-chia-octubre-2026/) | 51 | COP 275.000.000 |  |
-| [Precio de venta de apartamentos en Samaria, Chía — octubre 2026](venta-apartamentos-samaria-chia-octubre-2026/) | 57 | COP 255.000.000 |  |
-| [Precio de venta de apartamentos en Vereda la Balsa, Chía — octubre 2026](venta-apartamentos-vereda-la-balsa-chia-octubre-2026/) | 46 | COP 424.000.000 |  |
-| [Precio de venta de casas en Sindamanoy, Chía — octubre 2026](venta-casas-sindamanoy-chia-octubre-2026/) | 63 | COP 3.500.000.000 |  |
-| [Precio de arriendo de casas en Yerbabuena, Chía — octubre 2026](arriendo-casas-yerbabuena-chia-octubre-2026/) | 48 | COP 11.800.000 |  |
-| [Precio de venta de apartamentos en Laura Vicuña, Chía — octubre 2026](venta-apartamentos-laura-vicuna-chia-octubre-2026/) | 48 | COP 375.000.000 |  |
-| [Precio de venta de casas en Río Frío, Chía — octubre 2026](venta-casas-rio-frio-chia-octubre-2026/) | 42 | COP 679.995.000 |  |
-| [Precio de arriendo de apartamentos en Delicias Norte, Chía — octubre 2026](arriendo-apartamentos-delicias-norte-chia-octubre-2026/) | 46 | COP 1.600.000 |  |
+| [Precio de venta de casas en Yerbabuena, Chía — octubre 2026](venta-casas-yerbabuena-chia-octubre-2026/) | 199 | COP 2.500.000.000 | [10.5281/zenodo.23553089](https://doi.org/10.5281/zenodo.23553089) |
+| [Precio de venta de casas en Hacienda Fontanar, Chía — octubre 2026](venta-casas-hacienda-fontanar-chia-octubre-2026/) | 127 | COP 1.965.000.000 | [10.5281/zenodo.23560917](https://doi.org/10.5281/zenodo.23560917) |
+| [Precio de venta de casas en Fagua, Chía — octubre 2026](venta-casas-fagua-chia-octubre-2026/) | 79 | COP 990.000.000 | [10.5281/zenodo.23562056](https://doi.org/10.5281/zenodo.23562056) |
+| [Precio de venta de casas en Fusca, Chía — octubre 2026](venta-casas-fusca-chia-octubre-2026/) | 75 | COP 2.700.000.000 | [10.5281/zenodo.23563400](https://doi.org/10.5281/zenodo.23563400) |
+| [Precio de venta de apartamentos en Delicias Norte, Chía — octubre 2026](venta-apartamentos-delicias-norte-chia-octubre-2026/) | 54 | COP 399.000.000 | [10.5281/zenodo.23563501](https://doi.org/10.5281/zenodo.23563501) |
+| [Precio de venta de casas en Tiquiza, Chía — octubre 2026](venta-casas-tiquiza-chia-octubre-2026/) | 65 | COP 744.990.000 | [10.5281/zenodo.23563713](https://doi.org/10.5281/zenodo.23563713) |
+| [Precio de venta de casas en Delicias Norte, Chía — octubre 2026](venta-casas-delicias-norte-chia-octubre-2026/) | 59 | COP 820.000.000 | [10.5281/zenodo.23564929](https://doi.org/10.5281/zenodo.23564929) |
+| [Precio de venta de apartamentos en Bojacá, Chía — octubre 2026](venta-apartamentos-bojaca-chia-octubre-2026/) | 51 | COP 275.000.000 | [10.5281/zenodo.23565707](https://doi.org/10.5281/zenodo.23565707) |
+| [Precio de venta de apartamentos en Samaria, Chía — octubre 2026](venta-apartamentos-samaria-chia-octubre-2026/) | 57 | COP 255.000.000 | [10.5281/zenodo.23565736](https://doi.org/10.5281/zenodo.23565736) |
+| [Precio de venta de apartamentos en Vereda la Balsa, Chía — octubre 2026](venta-apartamentos-vereda-la-balsa-chia-octubre-2026/) | 46 | COP 424.000.000 | [10.5281/zenodo.23565291](https://doi.org/10.5281/zenodo.23565291) |
+| [Precio de venta de casas en Sindamanoy, Chía — octubre 2026](venta-casas-sindamanoy-chia-octubre-2026/) | 63 | COP 3.500.000.000 | [10.5281/zenodo.23566183](https://doi.org/10.5281/zenodo.23566183) |
+| [Precio de arriendo de casas en Yerbabuena, Chía — octubre 2026](arriendo-casas-yerbabuena-chia-octubre-2026/) | 48 | COP 11.800.000 | [10.5281/zenodo.23567287](https://doi.org/10.5281/zenodo.23567287) |
+| [Precio de venta de apartamentos en Laura Vicuña, Chía — octubre 2026](venta-apartamentos-laura-vicuna-chia-octubre-2026/) | 48 | COP 375.000.000 | [10.5281/zenodo.23568464](https://doi.org/10.5281/zenodo.23568464) |
+| [Precio de venta de casas en Río Frío, Chía — octubre 2026](venta-casas-rio-frio-chia-octubre-2026/) | 42 | COP 679.995.000 | [10.5281/zenodo.23571847](https://doi.org/10.5281/zenodo.23571847) |
+| [Precio de arriendo de apartamentos en Delicias Norte, Chía — octubre 2026](arriendo-apartamentos-delicias-norte-chia-octubre-2026/) | 46 | COP 1.600.000 | [10.5281/zenodo.23571355](https://doi.org/10.5281/zenodo.23571355) |
 | [Precio de venta de apartamentos en Hacienda San José, Chía — octubre 2026](venta-apartamentos-hacienda-san-jose-chia-octubre-2026/) | 36 | COP 444.500.000 |  |
 | [Precio de venta de apartamentos en La Balsa, Chía — octubre 2026](venta-apartamentos-la-balsa-chia-octubre-2026/) | 43 | COP 330.000.000 |  |
 | [Precio de venta de casas en Vereda Fonquetá, Chía — octubre 2026](venta-casas-vereda-fonqueta-chia-octubre-2026/) | 40 | COP 877.500.000 |  |

@@ -16,10 +16,10 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en La Castellana, Montería — octubre 2026](venta-apartamentos-la-castellana-monteria-octubre-2026/) | 81 | COP 400.000.000 |  |
-| [Precio de venta de apartamentos en El Recreo, Montería — octubre 2026](venta-apartamentos-el-recreo-monteria-octubre-2026/) | 56 | COP 650.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Castellana, Montería — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026/) | 58 | COP 420.000.000 |  |
-| [Precio de venta de casas en Centro, Montería — octubre 2026](venta-casas-centro-monteria-octubre-2026/) | 50 | COP 700.000.000 |  |
+| [Precio de venta de apartamentos en La Castellana, Montería — octubre 2026](venta-apartamentos-la-castellana-monteria-octubre-2026/) | 81 | COP 400.000.000 | [10.5281/zenodo.23563186](https://doi.org/10.5281/zenodo.23563186) |
+| [Precio de venta de apartamentos en El Recreo, Montería — octubre 2026](venta-apartamentos-el-recreo-monteria-octubre-2026/) | 56 | COP 650.000.000 | [10.5281/zenodo.23565433](https://doi.org/10.5281/zenodo.23565433) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Castellana, Montería — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-castellana-monteria-octubre-2026/) | 58 | COP 420.000.000 | [10.5281/zenodo.23565532](https://doi.org/10.5281/zenodo.23565532) |
+| [Precio de venta de casas en Centro, Montería — octubre 2026](venta-casas-centro-monteria-octubre-2026/) | 50 | COP 700.000.000 | [10.5281/zenodo.23566995](https://doi.org/10.5281/zenodo.23566995) |
 | [Precio de venta de casas de 3 o más habitaciones en Centro, Montería — octubre 2026](venta-casas-3-o-mas-habitaciones-centro-monteria-octubre-2026/) | 45 | COP 700.000.000 |  |
 | [Precio de venta de apartamentos en Monteverde, Montería — octubre 2026](venta-apartamentos-monteverde-monteria-octubre-2026/) | 35 | COP 350.000.000 |  |
 | [Precio de arriendo de casas en Centro, Montería — octubre 2026](arriendo-casas-centro-monteria-octubre-2026/) | 35 | COP 5.000.000 |  |

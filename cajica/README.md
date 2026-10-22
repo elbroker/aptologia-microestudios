@@ -16,22 +16,22 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Centro, Cajicá — octubre 2026](venta-apartamentos-centro-cajica-octubre-2026/) | 130 | COP 370.000.000 |  |
-| [Precio de venta de apartamentos en Chuntame, Cajicá — octubre 2026](venta-apartamentos-chuntame-cajica-octubre-2026/) | 123 | COP 329.000.000 |  |
-| [Precio de venta de apartamentos en Calahorra, Cajicá — octubre 2026](venta-apartamentos-calahorra-cajica-octubre-2026/) | 100 | COP 545.000.000 |  |
-| [Precio de venta de casas en Centro, Cajicá — octubre 2026](venta-casas-centro-cajica-octubre-2026/) | 101 | COP 1.100.000.000 |  |
-| [Precio de venta de apartamentos en La Estacion, Cajicá — octubre 2026](venta-apartamentos-la-estacion-cajica-octubre-2026/) | 84 | COP 440.000.000 |  |
-| [Precio de venta de apartamentos en Canelón, Cajicá — octubre 2026](venta-apartamentos-canelon-cajica-octubre-2026/) | 71 | COP 390.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Centro, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-centro-cajica-octubre-2026/) | 87 | COP 430.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Calahorra, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-calahorra-cajica-octubre-2026/) | 64 | COP 680.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Estacion, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-estacion-cajica-octubre-2026/) | 65 | COP 450.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Chuntame, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-chuntame-cajica-octubre-2026/) | 60 | COP 387.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Chuntame, Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-chuntame-cajica-octubre-2026/) | 60 | COP 309.950.000 |  |
-| [Precio de venta de apartamentos en El Misterio, Cajicá — octubre 2026](venta-apartamentos-el-misterio-cajica-octubre-2026/) | 58 | COP 337.500.000 |  |
-| [Precio de venta de apartamentos en Granjitas, Cajicá — octubre 2026](venta-apartamentos-granjitas-cajica-octubre-2026/) | 39 | COP 300.000.000 |  |
-| [Precio de venta de casas en La Estacion, Cajicá — octubre 2026](venta-casas-la-estacion-cajica-octubre-2026/) | 51 | COP 1.260.000.000 |  |
+| [Precio de venta de apartamentos en Centro, Cajicá — octubre 2026](venta-apartamentos-centro-cajica-octubre-2026/) | 130 | COP 370.000.000 | [10.5281/zenodo.23557013](https://doi.org/10.5281/zenodo.23557013) |
+| [Precio de venta de apartamentos en Chuntame, Cajicá — octubre 2026](venta-apartamentos-chuntame-cajica-octubre-2026/) | 123 | COP 329.000.000 | [10.5281/zenodo.23561152](https://doi.org/10.5281/zenodo.23561152) |
+| [Precio de venta de apartamentos en Calahorra, Cajicá — octubre 2026](venta-apartamentos-calahorra-cajica-octubre-2026/) | 100 | COP 545.000.000 | [10.5281/zenodo.23561208](https://doi.org/10.5281/zenodo.23561208) |
+| [Precio de venta de casas en Centro, Cajicá — octubre 2026](venta-casas-centro-cajica-octubre-2026/) | 101 | COP 1.100.000.000 | [10.5281/zenodo.23561444](https://doi.org/10.5281/zenodo.23561444) |
+| [Precio de venta de apartamentos en La Estacion, Cajicá — octubre 2026](venta-apartamentos-la-estacion-cajica-octubre-2026/) | 84 | COP 440.000.000 | [10.5281/zenodo.23561843](https://doi.org/10.5281/zenodo.23561843) |
+| [Precio de venta de apartamentos en Canelón, Cajicá — octubre 2026](venta-apartamentos-canelon-cajica-octubre-2026/) | 71 | COP 390.000.000 | [10.5281/zenodo.23563204](https://doi.org/10.5281/zenodo.23563204) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Centro, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-centro-cajica-octubre-2026/) | 87 | COP 430.000.000 | [10.5281/zenodo.23561794](https://doi.org/10.5281/zenodo.23561794) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Calahorra, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-calahorra-cajica-octubre-2026/) | 64 | COP 680.000.000 | [10.5281/zenodo.23563661](https://doi.org/10.5281/zenodo.23563661) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Estacion, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-estacion-cajica-octubre-2026/) | 65 | COP 450.000.000 | [10.5281/zenodo.23564395](https://doi.org/10.5281/zenodo.23564395) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Chuntame, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-chuntame-cajica-octubre-2026/) | 60 | COP 387.500.000 | [10.5281/zenodo.23565012](https://doi.org/10.5281/zenodo.23565012) |
+| [Precio de venta de apartamentos de 2 habitaciones en Chuntame, Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-chuntame-cajica-octubre-2026/) | 60 | COP 309.950.000 | [10.5281/zenodo.23565055](https://doi.org/10.5281/zenodo.23565055) |
+| [Precio de venta de apartamentos en El Misterio, Cajicá — octubre 2026](venta-apartamentos-el-misterio-cajica-octubre-2026/) | 58 | COP 337.500.000 | [10.5281/zenodo.23566182](https://doi.org/10.5281/zenodo.23566182) |
+| [Precio de venta de apartamentos en Granjitas, Cajicá — octubre 2026](venta-apartamentos-granjitas-cajica-octubre-2026/) | 39 | COP 300.000.000 | [10.5281/zenodo.23567673](https://doi.org/10.5281/zenodo.23567673) |
+| [Precio de venta de casas en La Estacion, Cajicá — octubre 2026](venta-casas-la-estacion-cajica-octubre-2026/) | 51 | COP 1.260.000.000 | [10.5281/zenodo.23567754](https://doi.org/10.5281/zenodo.23567754) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Canelón, Cajicá — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-canelon-cajica-octubre-2026/) | 36 | COP 467.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Centro, Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-centro-cajica-octubre-2026/) | 39 | COP 349.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Centro, Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-centro-cajica-octubre-2026/) | 39 | COP 349.000.000 | [10.5281/zenodo.23572132](https://doi.org/10.5281/zenodo.23572132) |
 | [Precio de venta de apartamentos de 2 habitaciones en El Misterio, Cajicá — octubre 2026](venta-apartamentos-2-habitaciones-el-misterio-cajica-octubre-2026/) | 39 | COP 320.000.000 |  |
 | [Precio de arriendo de apartamentos en Calahorra, Cajicá — octubre 2026](arriendo-apartamentos-calahorra-cajica-octubre-2026/) | 34 | COP 2.800.000 |  |
 | [Precio de venta de apartamentos en El Rocío, Cajicá — octubre 2026](venta-apartamentos-el-rocio-cajica-octubre-2026/) | 37 | COP 360.000.000 |  |
