@@ -16,28 +16,28 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de arriendo de apartamentos en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-el-porvenir-rionegro-octubre-2026/) | 898 | COP 2.300.000 |  |
-| [Precio de venta de apartamentos en El Porvenir, Rionegro — octubre 2026](venta-apartamentos-el-porvenir-rionegro-octubre-2026/) | 573 | COP 460.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-2-habitaciones-el-porvenir-rionegro-octubre-2026/) | 249 | COP 2.450.000 |  |
-| [Precio de venta de apartamentos en Fontibón, Rionegro — octubre 2026](venta-apartamentos-fontibon-rionegro-octubre-2026/) | 263 | COP 350.000.000 |  |
-| [Precio de arriendo de apartamentos en Barro Blanco, Rionegro — octubre 2026](arriendo-apartamentos-barro-blanco-rionegro-octubre-2026/) | 204 | COP 2.800.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en El Porvenir, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-el-porvenir-rionegro-octubre-2026/) | 240 | COP 439.000.000 |  |
-| [Precio de arriendo de apartamentos en Los Colegios, Rionegro — octubre 2026](arriendo-apartamentos-los-colegios-rionegro-octubre-2026/) | 208 | COP 2.600.000 |  |
-| [Precio de venta de apartamentos en Barro Blanco, Rionegro — octubre 2026](venta-apartamentos-barro-blanco-rionegro-octubre-2026/) | 224 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos en San Antonio de Pereira, Rionegro — octubre 2026](venta-apartamentos-san-antonio-de-pereira-rionegro-octubre-2026/) | 203 | COP 575.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-el-porvenir-rionegro-octubre-2026/) | 194 | COP 2.800.000 |  |
-| [Precio de venta de casas en El Porvenir, Rionegro — octubre 2026](venta-casas-el-porvenir-rionegro-octubre-2026/) | 260 | COP 1.300.000.000 |  |
-| [Precio de arriendo de apartamentos en Llano Grande, Rionegro — octubre 2026](arriendo-apartamentos-llano-grande-rionegro-octubre-2026/) | 220 | COP 3.500.000 |  |
-| [Precio de arriendo de apartamentos en San Antonio de Pereira, Rionegro — octubre 2026](arriendo-apartamentos-san-antonio-de-pereira-rionegro-octubre-2026/) | 147 | COP 2.700.000 |  |
-| [Precio de arriendo de apartamentos en Centro, Rionegro — octubre 2026](arriendo-apartamentos-centro-rionegro-octubre-2026/) | 153 | COP 2.300.000 |  |
-| [Precio de venta de apartamentos en Llano Grande, Rionegro — octubre 2026](venta-apartamentos-llano-grande-rionegro-octubre-2026/) | 179 | COP 700.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Barro Blanco, Rionegro — octubre 2026](arriendo-apartamentos-2-habitaciones-barro-blanco-rionegro-octubre-2026/) | 126 | COP 2.725.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Barro Blanco, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-barro-blanco-rionegro-octubre-2026/) | 142 | COP 545.000.000 |  |
+| [Precio de arriendo de apartamentos en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-el-porvenir-rionegro-octubre-2026/) | 898 | COP 2.300.000 | [10.5281/zenodo.23547835](https://doi.org/10.5281/zenodo.23547835) |
+| [Precio de venta de apartamentos en El Porvenir, Rionegro — octubre 2026](venta-apartamentos-el-porvenir-rionegro-octubre-2026/) | 573 | COP 460.000.000 | [10.5281/zenodo.23545031](https://doi.org/10.5281/zenodo.23545031) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-2-habitaciones-el-porvenir-rionegro-octubre-2026/) | 249 | COP 2.450.000 | [10.5281/zenodo.23548518](https://doi.org/10.5281/zenodo.23548518) |
+| [Precio de venta de apartamentos en Fontibón, Rionegro — octubre 2026](venta-apartamentos-fontibon-rionegro-octubre-2026/) | 263 | COP 350.000.000 | [10.5281/zenodo.23548793](https://doi.org/10.5281/zenodo.23548793) |
+| [Precio de arriendo de apartamentos en Barro Blanco, Rionegro — octubre 2026](arriendo-apartamentos-barro-blanco-rionegro-octubre-2026/) | 204 | COP 2.800.000 | [10.5281/zenodo.23547507](https://doi.org/10.5281/zenodo.23547507) |
+| [Precio de venta de apartamentos de 2 habitaciones en El Porvenir, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-el-porvenir-rionegro-octubre-2026/) | 240 | COP 439.000.000 | [10.5281/zenodo.23548573](https://doi.org/10.5281/zenodo.23548573) |
+| [Precio de arriendo de apartamentos en Los Colegios, Rionegro — octubre 2026](arriendo-apartamentos-los-colegios-rionegro-octubre-2026/) | 208 | COP 2.600.000 | [10.5281/zenodo.23548591](https://doi.org/10.5281/zenodo.23548591) |
+| [Precio de venta de apartamentos en Barro Blanco, Rionegro — octubre 2026](venta-apartamentos-barro-blanco-rionegro-octubre-2026/) | 224 | COP 560.000.000 | [10.5281/zenodo.23550908](https://doi.org/10.5281/zenodo.23550908) |
+| [Precio de venta de apartamentos en San Antonio de Pereira, Rionegro — octubre 2026](venta-apartamentos-san-antonio-de-pereira-rionegro-octubre-2026/) | 203 | COP 575.000.000 | [10.5281/zenodo.23548751](https://doi.org/10.5281/zenodo.23548751) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en El Porvenir, Rionegro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-el-porvenir-rionegro-octubre-2026/) | 194 | COP 2.800.000 | [10.5281/zenodo.23547880](https://doi.org/10.5281/zenodo.23547880) |
+| [Precio de venta de casas en El Porvenir, Rionegro — octubre 2026](venta-casas-el-porvenir-rionegro-octubre-2026/) | 260 | COP 1.300.000.000 | [10.5281/zenodo.23548755](https://doi.org/10.5281/zenodo.23548755) |
+| [Precio de arriendo de apartamentos en Llano Grande, Rionegro — octubre 2026](arriendo-apartamentos-llano-grande-rionegro-octubre-2026/) | 220 | COP 3.500.000 | [10.5281/zenodo.23549274](https://doi.org/10.5281/zenodo.23549274) |
+| [Precio de arriendo de apartamentos en San Antonio de Pereira, Rionegro — octubre 2026](arriendo-apartamentos-san-antonio-de-pereira-rionegro-octubre-2026/) | 147 | COP 2.700.000 | [10.5281/zenodo.23551006](https://doi.org/10.5281/zenodo.23551006) |
+| [Precio de arriendo de apartamentos en Centro, Rionegro — octubre 2026](arriendo-apartamentos-centro-rionegro-octubre-2026/) | 153 | COP 2.300.000 | [10.5281/zenodo.23551337](https://doi.org/10.5281/zenodo.23551337) |
+| [Precio de venta de apartamentos en Llano Grande, Rionegro — octubre 2026](venta-apartamentos-llano-grande-rionegro-octubre-2026/) | 179 | COP 700.000.000 | [10.5281/zenodo.23549243](https://doi.org/10.5281/zenodo.23549243) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Barro Blanco, Rionegro — octubre 2026](arriendo-apartamentos-2-habitaciones-barro-blanco-rionegro-octubre-2026/) | 126 | COP 2.725.000 | [10.5281/zenodo.23550949](https://doi.org/10.5281/zenodo.23550949) |
+| [Precio de venta de apartamentos de 2 habitaciones en Barro Blanco, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-barro-blanco-rionegro-octubre-2026/) | 142 | COP 545.000.000 | [10.5281/zenodo.23551243](https://doi.org/10.5281/zenodo.23551243) |
 | [Precio de arriendo de apartamentos en Fontibón, Rionegro — octubre 2026](arriendo-apartamentos-fontibon-rionegro-octubre-2026/) | 127 | COP 1.700.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Fontibón, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-fontibon-rionegro-octubre-2026/) | 140 | COP 350.000.000 |  |
-| [Precio de arriendo de apartamentos en Santa Ana, Rionegro — octubre 2026](arriendo-apartamentos-santa-ana-rionegro-octubre-2026/) | 141 | COP 2.600.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Fontibón, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-fontibon-rionegro-octubre-2026/) | 140 | COP 350.000.000 | [10.5281/zenodo.23551336](https://doi.org/10.5281/zenodo.23551336) |
+| [Precio de arriendo de apartamentos en Santa Ana, Rionegro — octubre 2026](arriendo-apartamentos-santa-ana-rionegro-octubre-2026/) | 141 | COP 2.600.000 | [10.5281/zenodo.23551277](https://doi.org/10.5281/zenodo.23551277) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en El Porvenir, Rionegro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-porvenir-rionegro-octubre-2026/) | 163 | COP 480.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Los Colegios, Rionegro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-los-colegios-rionegro-octubre-2026/) | 110 | COP 2.700.000 |  |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Los Colegios, Rionegro — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-los-colegios-rionegro-octubre-2026/) | 110 | COP 2.700.000 | [10.5281/zenodo.23551002](https://doi.org/10.5281/zenodo.23551002) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Fontibón, Rionegro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-fontibon-rionegro-octubre-2026/) | 121 | COP 350.000.000 |  |
 | [Precio de arriendo de apartamentos en Cimarronas, Rionegro — octubre 2026](arriendo-apartamentos-cimarronas-rionegro-octubre-2026/) | 81 | COP 1.600.000 |  |
 | [Precio de arriendo de apartamentos en San Antonio, Rionegro — octubre 2026](arriendo-apartamentos-san-antonio-rionegro-octubre-2026/) | 129 | COP 2.600.000 |  |

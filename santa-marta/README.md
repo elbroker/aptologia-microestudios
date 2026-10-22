@@ -16,18 +16,18 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-pozos-colorados-santa-marta-octubre-2026/) | 526 | COP 747.499.500 |  |
-| [Precio de venta de apartamentos en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-bello-horizonte-santa-marta-octubre-2026/) | 461 | COP 800.000.000 |  |
-| [Precio de venta de apartamentos en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-rodadero-santa-marta-octubre-2026/) | 578 | COP 450.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-1-habitaciones-pozos-colorados-santa-marta-octubre-2026/) | 215 | COP 455.000.000 |  |
-| [Precio de venta de apartamentos en Rodadero Sur, Santa Marta — octubre 2026](venta-apartamentos-rodadero-sur-santa-marta-octubre-2026/) | 366 | COP 522.500.000 |  |
-| [Precio de venta de apartamentos en Playa Salguero, Santa Marta — octubre 2026](venta-apartamentos-playa-salguero-santa-marta-octubre-2026/) | 296 | COP 730.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-1-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 172 | COP 510.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-rodadero-santa-marta-octubre-2026/) | 180 | COP 442.500.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-pozos-colorados-santa-marta-octubre-2026/) | 198 | COP 822.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 162 | COP 850.000.000 |  |
-| [Precio de venta de apartamentos en Bavaria, Santa Marta — octubre 2026](venta-apartamentos-bavaria-santa-marta-octubre-2026/) | 151 | COP 530.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-rodadero-santa-marta-octubre-2026/) | 147 | COP 600.000.000 |  |
+| [Precio de venta de apartamentos en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-pozos-colorados-santa-marta-octubre-2026/) | 526 | COP 747.499.500 | [10.5281/zenodo.23544957](https://doi.org/10.5281/zenodo.23544957) |
+| [Precio de venta de apartamentos en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-bello-horizonte-santa-marta-octubre-2026/) | 461 | COP 800.000.000 | [10.5281/zenodo.23545066](https://doi.org/10.5281/zenodo.23545066) |
+| [Precio de venta de apartamentos en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-rodadero-santa-marta-octubre-2026/) | 578 | COP 450.000.000 | [10.5281/zenodo.23548498](https://doi.org/10.5281/zenodo.23548498) |
+| [Precio de venta de apartamentos de 1 habitación en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-1-habitaciones-pozos-colorados-santa-marta-octubre-2026/) | 215 | COP 455.000.000 | [10.5281/zenodo.23549335](https://doi.org/10.5281/zenodo.23549335) |
+| [Precio de venta de apartamentos en Rodadero Sur, Santa Marta — octubre 2026](venta-apartamentos-rodadero-sur-santa-marta-octubre-2026/) | 366 | COP 522.500.000 | [10.5281/zenodo.23549331](https://doi.org/10.5281/zenodo.23549331) |
+| [Precio de venta de apartamentos en Playa Salguero, Santa Marta — octubre 2026](venta-apartamentos-playa-salguero-santa-marta-octubre-2026/) | 296 | COP 730.000.000 | [10.5281/zenodo.23547794](https://doi.org/10.5281/zenodo.23547794) |
+| [Precio de venta de apartamentos de 1 habitación en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-1-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 172 | COP 510.000.000 | [10.5281/zenodo.23551001](https://doi.org/10.5281/zenodo.23551001) |
+| [Precio de venta de apartamentos de 2 habitaciones en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-rodadero-santa-marta-octubre-2026/) | 180 | COP 442.500.000 | [10.5281/zenodo.23550921](https://doi.org/10.5281/zenodo.23550921) |
+| [Precio de venta de apartamentos de 2 habitaciones en Pozos Colorados, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-pozos-colorados-santa-marta-octubre-2026/) | 198 | COP 822.000.000 | [10.5281/zenodo.23548598](https://doi.org/10.5281/zenodo.23548598) |
+| [Precio de venta de apartamentos de 2 habitaciones en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 162 | COP 850.000.000 | [10.5281/zenodo.23550999](https://doi.org/10.5281/zenodo.23550999) |
+| [Precio de venta de apartamentos en Bavaria, Santa Marta — octubre 2026](venta-apartamentos-bavaria-santa-marta-octubre-2026/) | 151 | COP 530.000.000 | [10.5281/zenodo.23551192](https://doi.org/10.5281/zenodo.23551192) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Rodadero, Santa Marta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-rodadero-santa-marta-octubre-2026/) | 147 | COP 600.000.000 | [10.5281/zenodo.23549368](https://doi.org/10.5281/zenodo.23549368) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bello Horizonte, Santa Marta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 127 | COP 1.400.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bavaria, Santa Marta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bavaria-santa-marta-octubre-2026/) | 123 | COP 550.000.000 |  |
 | [Precio de venta de apartamentos en Urbanizacion Salguero, Santa Marta — octubre 2026](venta-apartamentos-urbanizacion-salguero-santa-marta-octubre-2026/) | 157 | COP 750.000.000 |  |

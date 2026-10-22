@@ -16,11 +16,11 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Niquia, Bello — octubre 2026](venta-apartamentos-niquia-bello-octubre-2026/) | 298 | COP 340.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Niquia, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-niquia-bello-octubre-2026/) | 209 | COP 350.000.000 |  |
-| [Precio de venta de apartamentos en Santa Ana, Bello — octubre 2026](venta-apartamentos-santa-ana-bello-octubre-2026/) | 195 | COP 390.000.000 |  |
-| [Precio de arriendo de apartamentos en Niquia, Bello — octubre 2026](arriendo-apartamentos-niquia-bello-octubre-2026/) | 109 | COP 2.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Ana, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-ana-bello-octubre-2026/) | 131 | COP 410.000.000 |  |
+| [Precio de venta de apartamentos en Niquia, Bello — octubre 2026](venta-apartamentos-niquia-bello-octubre-2026/) | 298 | COP 340.000.000 | [10.5281/zenodo.23548798](https://doi.org/10.5281/zenodo.23548798) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Niquia, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-niquia-bello-octubre-2026/) | 209 | COP 350.000.000 | [10.5281/zenodo.23548740](https://doi.org/10.5281/zenodo.23548740) |
+| [Precio de venta de apartamentos en Santa Ana, Bello — octubre 2026](venta-apartamentos-santa-ana-bello-octubre-2026/) | 195 | COP 390.000.000 | [10.5281/zenodo.23550969](https://doi.org/10.5281/zenodo.23550969) |
+| [Precio de arriendo de apartamentos en Niquia, Bello — octubre 2026](arriendo-apartamentos-niquia-bello-octubre-2026/) | 109 | COP 2.000.000 | [10.5281/zenodo.23550935](https://doi.org/10.5281/zenodo.23550935) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Ana, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-ana-bello-octubre-2026/) | 131 | COP 410.000.000 | [10.5281/zenodo.23551298](https://doi.org/10.5281/zenodo.23551298) |
 | [Precio de arriendo de apartamentos en Santa Ana, Bello — octubre 2026](arriendo-apartamentos-santa-ana-bello-octubre-2026/) | 106 | COP 2.275.000 |  |
 | [Precio de venta de apartamentos en Cabañas, Bello — octubre 2026](venta-apartamentos-cabanas-bello-octubre-2026/) | 119 | COP 399.900.000 |  |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en Niquia, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-niquia-bello-octubre-2026/) | 79 | COP 2.200.000 |  |

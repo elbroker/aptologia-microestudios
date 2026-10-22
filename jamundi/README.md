@@ -17,7 +17,7 @@
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
 | [Precio de venta de casas en La Morada, Jamundí — octubre 2026](venta-casas-la-morada-jamundi-octubre-2026/) | 183 | COP 1.150.000.000 |  |
-| [Precio de venta de casas en El Castillo, Jamundí — octubre 2026](venta-casas-el-castillo-jamundi-octubre-2026/) | 183 | COP 650.000.000 |  |
+| [Precio de venta de casas en El Castillo, Jamundí — octubre 2026](venta-casas-el-castillo-jamundi-octubre-2026/) | 183 | COP 650.000.000 | [10.5281/zenodo.23550965](https://doi.org/10.5281/zenodo.23550965) |
 | [Precio de venta de apartamentos en Parque Natura, Jamundí — octubre 2026](venta-apartamentos-parque-natura-jamundi-octubre-2026/) | 126 | COP 215.000.000 |  |
 | [Precio de venta de apartamentos de 2 habitaciones en Parque Natura, Jamundí — octubre 2026](venta-apartamentos-2-habitaciones-parque-natura-jamundi-octubre-2026/) | 101 | COP 210.000.000 |  |
 | [Precio de venta de apartamentos en Alfaguara, Jamundí — octubre 2026](venta-apartamentos-alfaguara-jamundi-octubre-2026/) | 68 | COP 345.000.000 |  |

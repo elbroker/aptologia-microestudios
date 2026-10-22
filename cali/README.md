@@ -16,35 +16,35 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Valle del Lili, Cali — octubre 2026](venta-apartamentos-valle-del-lili-cali-octubre-2026/) | 801 | COP 350.000.000 |  |
-| [Precio de venta de apartamentos en Bochalema, Cali — octubre 2026](venta-apartamentos-bochalema-cali-octubre-2026/) | 558 | COP 283.500.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Valle del Lili, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-valle-del-lili-cali-octubre-2026/) | 530 | COP 390.000.000 |  |
-| [Precio de venta de apartamentos en Pance, Cali — octubre 2026](venta-apartamentos-pance-cali-octubre-2026/) | 485 | COP 950.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Pance, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-pance-cali-octubre-2026/) | 391 | COP 1.000.000.000 |  |
-| [Precio de venta de apartamentos en Ciudad Jardín, Cali — octubre 2026](venta-apartamentos-ciudad-jardin-cali-octubre-2026/) | 398 | COP 820.000.000 |  |
-| [Precio de venta de apartamentos en Santa Teresita, Cali — octubre 2026](venta-apartamentos-santa-teresita-cali-octubre-2026/) | 365 | COP 950.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Bochalema, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bochalema-cali-octubre-2026/) | 282 | COP 321.210.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Bochalema, Cali — octubre 2026](venta-apartamentos-2-habitaciones-bochalema-cali-octubre-2026/) | 268 | COP 265.000.000 |  |
-| [Precio de venta de apartamentos en Ciudad Meléndez, Cali — octubre 2026](venta-apartamentos-ciudad-melendez-cali-octubre-2026/) | 262 | COP 266.500.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Teresita, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-teresita-cali-octubre-2026/) | 282 | COP 1.000.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Valle del Lili, Cali — octubre 2026](venta-apartamentos-2-habitaciones-valle-del-lili-cali-octubre-2026/) | 262 | COP 285.000.000 |  |
-| [Precio de venta de apartamentos en Ciudad Pacífica, Cali — octubre 2026](venta-apartamentos-ciudad-pacifica-cali-octubre-2026/) | 230 | COP 239.000.000 |  |
-| [Precio de venta de apartamentos en Normandía, Cali — octubre 2026](venta-apartamentos-normandia-cali-octubre-2026/) | 232 | COP 1.500.000.000 |  |
-| [Precio de venta de apartamentos en Bellavista, Cali — octubre 2026](venta-apartamentos-bellavista-cali-octubre-2026/) | 225 | COP 850.000.000 |  |
-| [Precio de venta de apartamentos en El Ingenio, Cali — octubre 2026](venta-apartamentos-el-ingenio-cali-octubre-2026/) | 201 | COP 475.000.000 |  |
-| [Precio de venta de apartamentos en Cristales, Cali — octubre 2026](venta-apartamentos-cristales-cali-octubre-2026/) | 267 | COP 730.000.000 |  |
-| [Precio de venta de apartamentos en La Flora, Cali — octubre 2026](venta-apartamentos-la-flora-cali-octubre-2026/) | 141 | COP 520.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Ciudad Pacífica, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-pacifica-cali-octubre-2026/) | 153 | COP 230.000.000 |  |
-| [Precio de arriendo de apartamentos en Pance, Cali — octubre 2026](arriendo-apartamentos-pance-cali-octubre-2026/) | 92 | COP 5.300.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Ciudad Meléndez, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-melendez-cali-octubre-2026/) | 132 | COP 268.500.000 |  |
+| [Precio de venta de apartamentos en Valle del Lili, Cali — octubre 2026](venta-apartamentos-valle-del-lili-cali-octubre-2026/) | 801 | COP 350.000.000 | [10.5281/zenodo.23544925](https://doi.org/10.5281/zenodo.23544925) |
+| [Precio de venta de apartamentos en Bochalema, Cali — octubre 2026](venta-apartamentos-bochalema-cali-octubre-2026/) | 558 | COP 283.500.000 | [10.5281/zenodo.23547820](https://doi.org/10.5281/zenodo.23547820) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Valle del Lili, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-valle-del-lili-cali-octubre-2026/) | 530 | COP 390.000.000 | [10.5281/zenodo.23544928](https://doi.org/10.5281/zenodo.23544928) |
+| [Precio de venta de apartamentos en Pance, Cali — octubre 2026](venta-apartamentos-pance-cali-octubre-2026/) | 485 | COP 950.000.000 | [10.5281/zenodo.23547855](https://doi.org/10.5281/zenodo.23547855) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Pance, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-pance-cali-octubre-2026/) | 391 | COP 1.000.000.000 | [10.5281/zenodo.23548516](https://doi.org/10.5281/zenodo.23548516) |
+| [Precio de venta de apartamentos en Ciudad Jardín, Cali — octubre 2026](venta-apartamentos-ciudad-jardin-cali-octubre-2026/) | 398 | COP 820.000.000 | [10.5281/zenodo.23545162](https://doi.org/10.5281/zenodo.23545162) |
+| [Precio de venta de apartamentos en Santa Teresita, Cali — octubre 2026](venta-apartamentos-santa-teresita-cali-octubre-2026/) | 365 | COP 950.000.000 | [10.5281/zenodo.23548592](https://doi.org/10.5281/zenodo.23548592) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Bochalema, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bochalema-cali-octubre-2026/) | 282 | COP 321.210.000 | [10.5281/zenodo.23548785](https://doi.org/10.5281/zenodo.23548785) |
+| [Precio de venta de apartamentos de 2 habitaciones en Bochalema, Cali — octubre 2026](venta-apartamentos-2-habitaciones-bochalema-cali-octubre-2026/) | 268 | COP 265.000.000 | [10.5281/zenodo.23547909](https://doi.org/10.5281/zenodo.23547909) |
+| [Precio de venta de apartamentos en Ciudad Meléndez, Cali — octubre 2026](venta-apartamentos-ciudad-melendez-cali-octubre-2026/) | 262 | COP 266.500.000 | [10.5281/zenodo.23548748](https://doi.org/10.5281/zenodo.23548748) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Santa Teresita, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-santa-teresita-cali-octubre-2026/) | 282 | COP 1.000.000.000 | [10.5281/zenodo.23549251](https://doi.org/10.5281/zenodo.23549251) |
+| [Precio de venta de apartamentos de 2 habitaciones en Valle del Lili, Cali — octubre 2026](venta-apartamentos-2-habitaciones-valle-del-lili-cali-octubre-2026/) | 262 | COP 285.000.000 | [10.5281/zenodo.23548550](https://doi.org/10.5281/zenodo.23548550) |
+| [Precio de venta de apartamentos en Ciudad Pacífica, Cali — octubre 2026](venta-apartamentos-ciudad-pacifica-cali-octubre-2026/) | 230 | COP 239.000.000 | [10.5281/zenodo.23548540](https://doi.org/10.5281/zenodo.23548540) |
+| [Precio de venta de apartamentos en Normandía, Cali — octubre 2026](venta-apartamentos-normandia-cali-octubre-2026/) | 232 | COP 1.500.000.000 | [10.5281/zenodo.23548581](https://doi.org/10.5281/zenodo.23548581) |
+| [Precio de venta de apartamentos en Bellavista, Cali — octubre 2026](venta-apartamentos-bellavista-cali-octubre-2026/) | 225 | COP 850.000.000 | [10.5281/zenodo.23548801](https://doi.org/10.5281/zenodo.23548801) |
+| [Precio de venta de apartamentos en El Ingenio, Cali — octubre 2026](venta-apartamentos-el-ingenio-cali-octubre-2026/) | 201 | COP 475.000.000 | [10.5281/zenodo.23547988](https://doi.org/10.5281/zenodo.23547988) |
+| [Precio de venta de apartamentos en Cristales, Cali — octubre 2026](venta-apartamentos-cristales-cali-octubre-2026/) | 267 | COP 730.000.000 | [10.5281/zenodo.23548905](https://doi.org/10.5281/zenodo.23548905) |
+| [Precio de venta de apartamentos en La Flora, Cali — octubre 2026](venta-apartamentos-la-flora-cali-octubre-2026/) | 141 | COP 520.000.000 | [10.5281/zenodo.23550991](https://doi.org/10.5281/zenodo.23550991) |
+| [Precio de venta de apartamentos de 2 habitaciones en Ciudad Pacífica, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-pacifica-cali-octubre-2026/) | 153 | COP 230.000.000 | [10.5281/zenodo.23551005](https://doi.org/10.5281/zenodo.23551005) |
+| [Precio de arriendo de apartamentos en Pance, Cali — octubre 2026](arriendo-apartamentos-pance-cali-octubre-2026/) | 92 | COP 5.300.000 | [10.5281/zenodo.23550914](https://doi.org/10.5281/zenodo.23550914) |
+| [Precio de venta de apartamentos de 2 habitaciones en Ciudad Meléndez, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-melendez-cali-octubre-2026/) | 132 | COP 268.500.000 | [10.5281/zenodo.23551039](https://doi.org/10.5281/zenodo.23551039) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Ciudad Meléndez, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ciudad-melendez-cali-octubre-2026/) | 126 | COP 265.000.000 |  |
-| [Precio de arriendo de apartamentos en Valle del Lili, Cali — octubre 2026](arriendo-apartamentos-valle-del-lili-cali-octubre-2026/) | 136 | COP 1.700.000 |  |
+| [Precio de arriendo de apartamentos en Valle del Lili, Cali — octubre 2026](arriendo-apartamentos-valle-del-lili-cali-octubre-2026/) | 136 | COP 1.700.000 | [10.5281/zenodo.23551037](https://doi.org/10.5281/zenodo.23551037) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Cristales, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-cristales-cali-octubre-2026/) | 186 | COP 885.000.000 |  |
 | [Precio de venta de apartamentos en Aguacatal, Cali — octubre 2026](venta-apartamentos-aguacatal-cali-octubre-2026/) | 125 | COP 910.000.000 |  |
 | [Precio de venta de apartamentos en Caney, Cali — octubre 2026](venta-apartamentos-caney-cali-octubre-2026/) | 183 | COP 260.000.000 |  |
 | [Precio de venta de casas en El Ingenio, Cali — octubre 2026](venta-casas-el-ingenio-cali-octubre-2026/) | 159 | COP 980.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bellavista, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bellavista-cali-octubre-2026/) | 151 | COP 934.684.000 |  |
-| [Precio de venta de apartamentos en Valle de Lili, Cali — octubre 2026](venta-apartamentos-valle-de-lili-cali-octubre-2026/) | 165 | COP 357.000.000 |  |
+| [Precio de venta de apartamentos en Valle de Lili, Cali — octubre 2026](venta-apartamentos-valle-de-lili-cali-octubre-2026/) | 165 | COP 357.000.000 | [10.5281/zenodo.23551280](https://doi.org/10.5281/zenodo.23551280) |
 | [Precio de venta de apartamentos en Santa Mónica, Cali — octubre 2026](venta-apartamentos-santa-monica-cali-octubre-2026/) | 134 | COP 950.000.000 |  |
 | [Precio de venta de apartamentos en Chipichape, Cali — octubre 2026](venta-apartamentos-chipichape-cali-octubre-2026/) | 63 | COP 550.000.000 |  |
 | [Precio de venta de apartamentos en Juanambú, Cali — octubre 2026](venta-apartamentos-juanambu-cali-octubre-2026/) | 101 | COP 830.000.000 |  |

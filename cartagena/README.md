@@ -16,23 +16,23 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-bocagrande-cartagena-octubre-2026/) | 771 | COP 1.100.000.000 |  |
-| [Precio de venta de apartamentos en Serena del Mar, Cartagena — octubre 2026](venta-apartamentos-serena-del-mar-cartagena-octubre-2026/) | 533 | COP 630.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bocagrande-cartagena-octubre-2026/) | 411 | COP 1.200.000.000 |  |
-| [Precio de venta de apartamentos en Manga, Cartagena — octubre 2026](venta-apartamentos-manga-cartagena-octubre-2026/) | 396 | COP 740.000.000 |  |
-| [Precio de venta de apartamentos en La Boquilla, Cartagena — octubre 2026](venta-apartamentos-la-boquilla-cartagena-octubre-2026/) | 390 | COP 1.055.000.000 |  |
-| [Precio de arriendo de apartamentos en Serena del Mar, Cartagena — octubre 2026](arriendo-apartamentos-serena-del-mar-cartagena-octubre-2026/) | 356 | COP 3.170.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Serena del Mar, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026/) | 339 | COP 600.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Manga, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-manga-cartagena-octubre-2026/) | 311 | COP 820.000.000 |  |
-| [Precio de venta de apartamentos en Crespo, Cartagena — octubre 2026](venta-apartamentos-crespo-cartagena-octubre-2026/) | 284 | COP 691.966.500 |  |
-| [Precio de venta de apartamentos en El Laguito, Cartagena — octubre 2026](venta-apartamentos-el-laguito-cartagena-octubre-2026/) | 376 | COP 750.000.000 |  |
-| [Precio de venta de apartamentos en Castillogrande, Cartagena — octubre 2026](venta-apartamentos-castillogrande-cartagena-octubre-2026/) | 279 | COP 1.400.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-bocagrande-cartagena-octubre-2026/) | 224 | COP 1.090.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Serena del Mar, Cartagena — octubre 2026](arriendo-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026/) | 229 | COP 3.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Castillogrande, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-castillogrande-cartagena-octubre-2026/) | 217 | COP 1.800.000.000 |  |
-| [Precio de arriendo de apartamentos en Bocagrande, Cartagena — octubre 2026](arriendo-apartamentos-bocagrande-cartagena-octubre-2026/) | 188 | COP 5.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en La Boquilla, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-la-boquilla-cartagena-octubre-2026/) | 201 | COP 998.000.000 |  |
-| [Precio de venta de apartamentos en Marbella, Cartagena — octubre 2026](venta-apartamentos-marbella-cartagena-octubre-2026/) | 179 | COP 680.000.000 |  |
+| [Precio de venta de apartamentos en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-bocagrande-cartagena-octubre-2026/) | 771 | COP 1.100.000.000 | [10.5281/zenodo.23547355](https://doi.org/10.5281/zenodo.23547355) |
+| [Precio de venta de apartamentos en Serena del Mar, Cartagena — octubre 2026](venta-apartamentos-serena-del-mar-cartagena-octubre-2026/) | 533 | COP 630.000.000 | [10.5281/zenodo.23547911](https://doi.org/10.5281/zenodo.23547911) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bocagrande-cartagena-octubre-2026/) | 411 | COP 1.200.000.000 | [10.5281/zenodo.23547357](https://doi.org/10.5281/zenodo.23547357) |
+| [Precio de venta de apartamentos en Manga, Cartagena — octubre 2026](venta-apartamentos-manga-cartagena-octubre-2026/) | 396 | COP 740.000.000 | [10.5281/zenodo.23547359](https://doi.org/10.5281/zenodo.23547359) |
+| [Precio de venta de apartamentos en La Boquilla, Cartagena — octubre 2026](venta-apartamentos-la-boquilla-cartagena-octubre-2026/) | 390 | COP 1.055.000.000 | [10.5281/zenodo.23547768](https://doi.org/10.5281/zenodo.23547768) |
+| [Precio de arriendo de apartamentos en Serena del Mar, Cartagena — octubre 2026](arriendo-apartamentos-serena-del-mar-cartagena-octubre-2026/) | 356 | COP 3.170.000 | [10.5281/zenodo.23547503](https://doi.org/10.5281/zenodo.23547503) |
+| [Precio de venta de apartamentos de 2 habitaciones en Serena del Mar, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026/) | 339 | COP 600.000.000 | [10.5281/zenodo.23548496](https://doi.org/10.5281/zenodo.23548496) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Manga, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-manga-cartagena-octubre-2026/) | 311 | COP 820.000.000 | [10.5281/zenodo.23548786](https://doi.org/10.5281/zenodo.23548786) |
+| [Precio de venta de apartamentos en Crespo, Cartagena — octubre 2026](venta-apartamentos-crespo-cartagena-octubre-2026/) | 284 | COP 691.966.500 | [10.5281/zenodo.23547821](https://doi.org/10.5281/zenodo.23547821) |
+| [Precio de venta de apartamentos en El Laguito, Cartagena — octubre 2026](venta-apartamentos-el-laguito-cartagena-octubre-2026/) | 376 | COP 750.000.000 | [10.5281/zenodo.23547854](https://doi.org/10.5281/zenodo.23547854) |
+| [Precio de venta de apartamentos en Castillogrande, Cartagena — octubre 2026](venta-apartamentos-castillogrande-cartagena-octubre-2026/) | 279 | COP 1.400.000.000 | [10.5281/zenodo.23547519](https://doi.org/10.5281/zenodo.23547519) |
+| [Precio de venta de apartamentos de 2 habitaciones en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-bocagrande-cartagena-octubre-2026/) | 224 | COP 1.090.000.000 | [10.5281/zenodo.23549372](https://doi.org/10.5281/zenodo.23549372) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Serena del Mar, Cartagena — octubre 2026](arriendo-apartamentos-2-habitaciones-serena-del-mar-cartagena-octubre-2026/) | 229 | COP 3.000.000 | [10.5281/zenodo.23548766](https://doi.org/10.5281/zenodo.23548766) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Castillogrande, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-castillogrande-cartagena-octubre-2026/) | 217 | COP 1.800.000.000 | [10.5281/zenodo.23547913](https://doi.org/10.5281/zenodo.23547913) |
+| [Precio de arriendo de apartamentos en Bocagrande, Cartagena — octubre 2026](arriendo-apartamentos-bocagrande-cartagena-octubre-2026/) | 188 | COP 5.000.000 | [10.5281/zenodo.23548583](https://doi.org/10.5281/zenodo.23548583) |
+| [Precio de venta de apartamentos de 2 habitaciones en La Boquilla, Cartagena — octubre 2026](venta-apartamentos-2-habitaciones-la-boquilla-cartagena-octubre-2026/) | 201 | COP 998.000.000 | [10.5281/zenodo.23549384](https://doi.org/10.5281/zenodo.23549384) |
+| [Precio de venta de apartamentos en Marbella, Cartagena — octubre 2026](venta-apartamentos-marbella-cartagena-octubre-2026/) | 179 | COP 680.000.000 | [10.5281/zenodo.23551190](https://doi.org/10.5281/zenodo.23551190) |
 | [Precio de arriendo de apartamentos en Manga, Cartagena — octubre 2026](arriendo-apartamentos-manga-cartagena-octubre-2026/) | 161 | COP 5.000.000 |  |
 | [Precio de venta de apartamentos de 1 habitación en Bocagrande, Cartagena — octubre 2026](venta-apartamentos-1-habitaciones-bocagrande-cartagena-octubre-2026/) | 136 | COP 915.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Crespo, Cartagena — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-crespo-cartagena-octubre-2026/) | 147 | COP 760.000.000 |  |

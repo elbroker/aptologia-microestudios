@@ -16,12 +16,12 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Suramérica, Itagüí — octubre 2026](venta-apartamentos-suramerica-itagui-octubre-2026/) | 455 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Suramérica, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-suramerica-itagui-octubre-2026/) | 310 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos en Ditaires, Itagüí — octubre 2026](venta-apartamentos-ditaires-itagui-octubre-2026/) | 231 | COP 470.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Ditaires, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ditaires-itagui-octubre-2026/) | 169 | COP 478.000.000 |  |
-| [Precio de arriendo de apartamentos en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-suramerica-itagui-octubre-2026/) | 163 | COP 3.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Suramérica, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-suramerica-itagui-octubre-2026/) | 133 | COP 560.000.000 |  |
+| [Precio de venta de apartamentos en Suramérica, Itagüí — octubre 2026](venta-apartamentos-suramerica-itagui-octubre-2026/) | 455 | COP 560.000.000 | [10.5281/zenodo.23545129](https://doi.org/10.5281/zenodo.23545129) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Suramérica, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-suramerica-itagui-octubre-2026/) | 310 | COP 560.000.000 | [10.5281/zenodo.23548736](https://doi.org/10.5281/zenodo.23548736) |
+| [Precio de venta de apartamentos en Ditaires, Itagüí — octubre 2026](venta-apartamentos-ditaires-itagui-octubre-2026/) | 231 | COP 470.000.000 | [10.5281/zenodo.23549439](https://doi.org/10.5281/zenodo.23549439) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Ditaires, Itagüí — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ditaires-itagui-octubre-2026/) | 169 | COP 478.000.000 | [10.5281/zenodo.23548787](https://doi.org/10.5281/zenodo.23548787) |
+| [Precio de arriendo de apartamentos en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-suramerica-itagui-octubre-2026/) | 163 | COP 3.000.000 | [10.5281/zenodo.23551226](https://doi.org/10.5281/zenodo.23551226) |
+| [Precio de venta de apartamentos de 2 habitaciones en Suramérica, Itagüí — octubre 2026](venta-apartamentos-2-habitaciones-suramerica-itagui-octubre-2026/) | 133 | COP 560.000.000 | [10.5281/zenodo.23551340](https://doi.org/10.5281/zenodo.23551340) |
 | [Precio de venta de apartamentos en Viviendas del Sur, Itagüí — octubre 2026](venta-apartamentos-viviendas-del-sur-itagui-octubre-2026/) | 136 | COP 430.000.000 |  |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en Suramérica, Itagüí — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-suramerica-itagui-octubre-2026/) | 107 | COP 3.100.000 |  |
 | [Precio de arriendo de apartamentos en Ditaires, Itagüí — octubre 2026](arriendo-apartamentos-ditaires-itagui-octubre-2026/) | 95 | COP 2.600.000 |  |

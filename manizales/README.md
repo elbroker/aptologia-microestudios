@@ -16,12 +16,12 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Palermo, Manizales — octubre 2026](venta-apartamentos-palermo-manizales-octubre-2026/) | 312 | COP 552.500.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Palermo, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-palermo-manizales-octubre-2026/) | 248 | COP 600.000.000 |  |
-| [Precio de venta de apartamentos en Milán, Manizales — octubre 2026](venta-apartamentos-milan-manizales-octubre-2026/) | 150 | COP 630.000.000 |  |
-| [Precio de venta de apartamentos en Chipre, Manizales — octubre 2026](venta-apartamentos-chipre-manizales-octubre-2026/) | 112 | COP 410.797.500 |  |
+| [Precio de venta de apartamentos en Palermo, Manizales — octubre 2026](venta-apartamentos-palermo-manizales-octubre-2026/) | 312 | COP 552.500.000 | [10.5281/zenodo.23548577](https://doi.org/10.5281/zenodo.23548577) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Palermo, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-palermo-manizales-octubre-2026/) | 248 | COP 600.000.000 | [10.5281/zenodo.23547881](https://doi.org/10.5281/zenodo.23547881) |
+| [Precio de venta de apartamentos en Milán, Manizales — octubre 2026](venta-apartamentos-milan-manizales-octubre-2026/) | 150 | COP 630.000.000 | [10.5281/zenodo.23549387](https://doi.org/10.5281/zenodo.23549387) |
+| [Precio de venta de apartamentos en Chipre, Manizales — octubre 2026](venta-apartamentos-chipre-manizales-octubre-2026/) | 112 | COP 410.797.500 | [10.5281/zenodo.23549310](https://doi.org/10.5281/zenodo.23549310) |
 | [Precio de venta de apartamentos en La Francia, Manizales — octubre 2026](venta-apartamentos-la-francia-manizales-octubre-2026/) | 136 | COP 355.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Milán, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-milan-manizales-octubre-2026/) | 115 | COP 695.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Milán, Manizales — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-milan-manizales-octubre-2026/) | 115 | COP 695.000.000 | [10.5281/zenodo.23550952](https://doi.org/10.5281/zenodo.23550952) |
 | [Precio de venta de casas en Palermo, Manizales — octubre 2026](venta-casas-palermo-manizales-octubre-2026/) | 127 | COP 1.200.000.000 |  |
 | [Precio de venta de apartamentos en Avenida Santander, Manizales — octubre 2026](venta-apartamentos-avenida-santander-manizales-octubre-2026/) | 97 | COP 590.000.000 |  |
 | [Precio de venta de apartamentos en El Trebol, Manizales — octubre 2026](venta-apartamentos-el-trebol-manizales-octubre-2026/) | 103 | COP 650.000.000 |  |

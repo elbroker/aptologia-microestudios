@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de arriendo de apartamentos en Los Salados, El Retiro — octubre 2026](arriendo-apartamentos-los-salados-el-retiro-octubre-2026/) | 134 | COP 5.200.000 |  |
+| [Precio de arriendo de apartamentos en Los Salados, El Retiro — octubre 2026](arriendo-apartamentos-los-salados-el-retiro-octubre-2026/) | 134 | COP 5.200.000 | [10.5281/zenodo.23551181](https://doi.org/10.5281/zenodo.23551181) |
 | [Precio de venta de apartamentos en Los Salados, El Retiro — octubre 2026](venta-apartamentos-los-salados-el-retiro-octubre-2026/) | 109 | COP 910.000.000 |  |
 | [Precio de venta de apartamentos en Santa Elena, El Retiro — octubre 2026](venta-apartamentos-santa-elena-el-retiro-octubre-2026/) | 104 | COP 710.000.000 |  |
 | [Precio de arriendo de apartamentos de 2 habitaciones en Los Salados, El Retiro — octubre 2026](arriendo-apartamentos-2-habitaciones-los-salados-el-retiro-octubre-2026/) | 81 | COP 5.600.000 |  |

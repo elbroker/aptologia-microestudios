@@ -19,8 +19,8 @@
 | [Precio de venta de apartamentos en Soacha Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-soacha-ciudad-verde-soacha-octubre-2026/) | 51 | COP 167.000.000 | [10.5281/zenodo.23465016](https://doi.org/10.5281/zenodo.23465016) |
 | [Precio de venta de apartamentos en Soacha Danubio, Soacha — octubre 2026](venta-apartamentos-soacha-danubio-soacha-octubre-2026/) | 46 | COP 154.500.000 | [10.5281/zenodo.23471800](https://doi.org/10.5281/zenodo.23471800) |
 | [Precio de venta de apartamentos de 3 habitaciones en Soacha Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-3-habitaciones-soacha-ciudad-verde-soacha-octubre-2026/) | 37 | COP 176.400.000 | [10.5281/zenodo.23477441](https://doi.org/10.5281/zenodo.23477441) |
-| [Precio de venta de apartamentos en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-ciudad-verde-soacha-octubre-2026/) | 161 | COP 177.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ciudad-verde-soacha-octubre-2026/) | 226 | COP 163.500.000 |  |
+| [Precio de venta de apartamentos en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-ciudad-verde-soacha-octubre-2026/) | 161 | COP 177.000.000 | [10.5281/zenodo.23550936](https://doi.org/10.5281/zenodo.23550936) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-ciudad-verde-soacha-octubre-2026/) | 226 | COP 163.500.000 | [10.5281/zenodo.23551300](https://doi.org/10.5281/zenodo.23551300) |
 | [Precio de arriendo de apartamentos en Ciudad Verde, Soacha — octubre 2026](arriendo-apartamentos-ciudad-verde-soacha-octubre-2026/) | 40 | COP 950.000 |  |
 | [Precio de venta de apartamentos de 2 habitaciones en Ciudad Verde, Soacha — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-verde-soacha-octubre-2026/) | 74 | COP 145.000.000 |  |
 | [Precio de venta de apartamentos en Hogares Soacha, Soacha — octubre 2026](venta-apartamentos-hogares-soacha-soacha-octubre-2026/) | 60 | COP 144.750.000 |  |

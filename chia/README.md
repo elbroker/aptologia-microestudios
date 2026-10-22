@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de casas en Fonquetá, Chía — octubre 2026](venta-casas-fonqueta-chia-octubre-2026/) | 200 | COP 930.000.000 |  |
+| [Precio de venta de casas en Fonquetá, Chía — octubre 2026](venta-casas-fonqueta-chia-octubre-2026/) | 200 | COP 930.000.000 | [10.5281/zenodo.23551183](https://doi.org/10.5281/zenodo.23551183) |
 | [Precio de venta de casas en Yerbabuena, Chía — octubre 2026](venta-casas-yerbabuena-chia-octubre-2026/) | 199 | COP 2.500.000.000 |  |
 | [Precio de venta de casas en Hacienda Fontanar, Chía — octubre 2026](venta-casas-hacienda-fontanar-chia-octubre-2026/) | 127 | COP 1.965.000.000 |  |
 | [Precio de venta de casas en Fagua, Chía — octubre 2026](venta-casas-fagua-chia-octubre-2026/) | 79 | COP 990.000.000 |  |

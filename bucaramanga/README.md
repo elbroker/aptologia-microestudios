@@ -16,8 +16,8 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Cabecera del Llano, Bucaramanga — octubre 2026](venta-apartamentos-cabecera-del-llano-bucaramanga-octubre-2026/) | 357 | COP 750.000.000 |  |
-| [Precio de venta de apartamentos en Sotomayor, Bucaramanga — octubre 2026](venta-apartamentos-sotomayor-bucaramanga-octubre-2026/) | 221 | COP 595.000.000 |  |
+| [Precio de venta de apartamentos en Cabecera del Llano, Bucaramanga — octubre 2026](venta-apartamentos-cabecera-del-llano-bucaramanga-octubre-2026/) | 357 | COP 750.000.000 | [10.5281/zenodo.23548754](https://doi.org/10.5281/zenodo.23548754) |
+| [Precio de venta de apartamentos en Sotomayor, Bucaramanga — octubre 2026](venta-apartamentos-sotomayor-bucaramanga-octubre-2026/) | 221 | COP 595.000.000 | [10.5281/zenodo.23548800](https://doi.org/10.5281/zenodo.23548800) |
 | [Precio de venta de apartamentos en San Francisco, Bucaramanga — octubre 2026](venta-apartamentos-san-francisco-bucaramanga-octubre-2026/) | 102 | COP 312.500.000 |  |
 | [Precio de venta de apartamentos en Mejoras Publicas, Bucaramanga — octubre 2026](venta-apartamentos-mejoras-publicas-bucaramanga-octubre-2026/) | 94 | COP 480.000.000 |  |
 | [Precio de venta de apartamentos en El Tejar, Bucaramanga — octubre 2026](venta-apartamentos-el-tejar-bucaramanga-octubre-2026/) | 79 | COP 650.000.000 |  |

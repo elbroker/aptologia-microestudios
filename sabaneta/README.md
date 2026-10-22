@@ -16,30 +16,30 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Las Lomitas, Sabaneta — octubre 2026](venta-apartamentos-las-lomitas-sabaneta-octubre-2026/) | 509 | COP 619.000.000 |  |
-| [Precio de arriendo de apartamentos en Las Lomitas, Sabaneta — octubre 2026](arriendo-apartamentos-las-lomitas-sabaneta-octubre-2026/) | 345 | COP 3.400.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Las Lomitas, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-las-lomitas-sabaneta-octubre-2026/) | 371 | COP 640.000.000 |  |
-| [Precio de venta de apartamentos en San José, Sabaneta — octubre 2026](venta-apartamentos-san-jose-sabaneta-octubre-2026/) | 338 | COP 560.000.000 |  |
-| [Precio de venta de apartamentos en Aves María, Sabaneta — octubre 2026](venta-apartamentos-aves-maria-sabaneta-octubre-2026/) | 313 | COP 650.000.000 |  |
-| [Precio de venta de apartamentos en La Doctora, Sabaneta — octubre 2026](venta-apartamentos-la-doctora-sabaneta-octubre-2026/) | 302 | COP 525.000.000 |  |
-| [Precio de arriendo de apartamentos en San José, Sabaneta — octubre 2026](arriendo-apartamentos-san-jose-sabaneta-octubre-2026/) | 231 | COP 3.100.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Las Lomitas, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-las-lomitas-sabaneta-octubre-2026/) | 238 | COP 3.500.000 |  |
-| [Precio de arriendo de apartamentos en Aves María, Sabaneta — octubre 2026](arriendo-apartamentos-aves-maria-sabaneta-octubre-2026/) | 217 | COP 3.500.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Aves María, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-aves-maria-sabaneta-octubre-2026/) | 245 | COP 660.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en San José, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-jose-sabaneta-octubre-2026/) | 212 | COP 592.500.000 |  |
-| [Precio de venta de apartamentos en Pan de Azúcar, Sabaneta — octubre 2026](venta-apartamentos-pan-de-azucar-sabaneta-octubre-2026/) | 187 | COP 530.000.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en San José, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-jose-sabaneta-octubre-2026/) | 168 | COP 3.350.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en Aves María, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-aves-maria-sabaneta-octubre-2026/) | 163 | COP 3.600.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en La Doctora, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-doctora-sabaneta-octubre-2026/) | 193 | COP 530.000.000 |  |
-| [Precio de arriendo de apartamentos en La Doctora, Sabaneta — octubre 2026](arriendo-apartamentos-la-doctora-sabaneta-octubre-2026/) | 169 | COP 2.950.000 |  |
-| [Precio de arriendo de apartamentos en Prados de Sabaneta, Sabaneta — octubre 2026](arriendo-apartamentos-prados-de-sabaneta-sabaneta-octubre-2026/) | 130 | COP 3.100.000 |  |
+| [Precio de venta de apartamentos en Las Lomitas, Sabaneta — octubre 2026](venta-apartamentos-las-lomitas-sabaneta-octubre-2026/) | 509 | COP 619.000.000 | [10.5281/zenodo.23547460](https://doi.org/10.5281/zenodo.23547460) |
+| [Precio de arriendo de apartamentos en Las Lomitas, Sabaneta — octubre 2026](arriendo-apartamentos-las-lomitas-sabaneta-octubre-2026/) | 345 | COP 3.400.000 | [10.5281/zenodo.23548575](https://doi.org/10.5281/zenodo.23548575) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Las Lomitas, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-las-lomitas-sabaneta-octubre-2026/) | 371 | COP 640.000.000 | [10.5281/zenodo.23547458](https://doi.org/10.5281/zenodo.23547458) |
+| [Precio de venta de apartamentos en San José, Sabaneta — octubre 2026](venta-apartamentos-san-jose-sabaneta-octubre-2026/) | 338 | COP 560.000.000 | [10.5281/zenodo.23547384](https://doi.org/10.5281/zenodo.23547384) |
+| [Precio de venta de apartamentos en Aves María, Sabaneta — octubre 2026](venta-apartamentos-aves-maria-sabaneta-octubre-2026/) | 313 | COP 650.000.000 | [10.5281/zenodo.23547769](https://doi.org/10.5281/zenodo.23547769) |
+| [Precio de venta de apartamentos en La Doctora, Sabaneta — octubre 2026](venta-apartamentos-la-doctora-sabaneta-octubre-2026/) | 302 | COP 525.000.000 | [10.5281/zenodo.23548903](https://doi.org/10.5281/zenodo.23548903) |
+| [Precio de arriendo de apartamentos en San José, Sabaneta — octubre 2026](arriendo-apartamentos-san-jose-sabaneta-octubre-2026/) | 231 | COP 3.100.000 | [10.5281/zenodo.23549306](https://doi.org/10.5281/zenodo.23549306) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Las Lomitas, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-las-lomitas-sabaneta-octubre-2026/) | 238 | COP 3.500.000 | [10.5281/zenodo.23547597](https://doi.org/10.5281/zenodo.23547597) |
+| [Precio de arriendo de apartamentos en Aves María, Sabaneta — octubre 2026](arriendo-apartamentos-aves-maria-sabaneta-octubre-2026/) | 217 | COP 3.500.000 | [10.5281/zenodo.23549385](https://doi.org/10.5281/zenodo.23549385) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Aves María, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-aves-maria-sabaneta-octubre-2026/) | 245 | COP 660.000.000 | [10.5281/zenodo.23549386](https://doi.org/10.5281/zenodo.23549386) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San José, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-jose-sabaneta-octubre-2026/) | 212 | COP 592.500.000 | [10.5281/zenodo.23550955](https://doi.org/10.5281/zenodo.23550955) |
+| [Precio de venta de apartamentos en Pan de Azúcar, Sabaneta — octubre 2026](venta-apartamentos-pan-de-azucar-sabaneta-octubre-2026/) | 187 | COP 530.000.000 | [10.5281/zenodo.23548823](https://doi.org/10.5281/zenodo.23548823) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en San José, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-jose-sabaneta-octubre-2026/) | 168 | COP 3.350.000 | [10.5281/zenodo.23548788](https://doi.org/10.5281/zenodo.23548788) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en Aves María, Sabaneta — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-aves-maria-sabaneta-octubre-2026/) | 163 | COP 3.600.000 | [10.5281/zenodo.23551035](https://doi.org/10.5281/zenodo.23551035) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en La Doctora, Sabaneta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-la-doctora-sabaneta-octubre-2026/) | 193 | COP 530.000.000 | [10.5281/zenodo.23550903](https://doi.org/10.5281/zenodo.23550903) |
+| [Precio de arriendo de apartamentos en La Doctora, Sabaneta — octubre 2026](arriendo-apartamentos-la-doctora-sabaneta-octubre-2026/) | 169 | COP 2.950.000 | [10.5281/zenodo.23551176](https://doi.org/10.5281/zenodo.23551176) |
+| [Precio de arriendo de apartamentos en Prados de Sabaneta, Sabaneta — octubre 2026](arriendo-apartamentos-prados-de-sabaneta-sabaneta-octubre-2026/) | 130 | COP 3.100.000 | [10.5281/zenodo.23548799](https://doi.org/10.5281/zenodo.23548799) |
 | [Precio de arriendo de apartamentos en Monteazul, Sabaneta — octubre 2026](arriendo-apartamentos-monteazul-sabaneta-octubre-2026/) | 175 | COP 3.050.000 |  |
-| [Precio de arriendo de apartamentos en Mayorca, Sabaneta — octubre 2026](arriendo-apartamentos-mayorca-sabaneta-octubre-2026/) | 149 | COP 3.200.000 |  |
-| [Precio de venta de apartamentos en Calle Larga, Sabaneta — octubre 2026](venta-apartamentos-calle-larga-sabaneta-octubre-2026/) | 132 | COP 465.750.000 |  |
+| [Precio de arriendo de apartamentos en Mayorca, Sabaneta — octubre 2026](arriendo-apartamentos-mayorca-sabaneta-octubre-2026/) | 149 | COP 3.200.000 | [10.5281/zenodo.23549437](https://doi.org/10.5281/zenodo.23549437) |
+| [Precio de venta de apartamentos en Calle Larga, Sabaneta — octubre 2026](venta-apartamentos-calle-larga-sabaneta-octubre-2026/) | 132 | COP 465.750.000 | [10.5281/zenodo.23550904](https://doi.org/10.5281/zenodo.23550904) |
 | [Precio de arriendo de apartamentos en Pan de Azúcar, Sabaneta — octubre 2026](arriendo-apartamentos-pan-de-azucar-sabaneta-octubre-2026/) | 132 | COP 3.100.000 |  |
 | [Precio de venta de apartamentos en María Auxiliadora, Sabaneta — octubre 2026](venta-apartamentos-maria-auxiliadora-sabaneta-octubre-2026/) | 127 | COP 300.000.000 |  |
-| [Precio de arriendo de apartamentos en Entreamigos, Sabaneta — octubre 2026](arriendo-apartamentos-entreamigos-sabaneta-octubre-2026/) | 148 | COP 2.865.000 |  |
-| [Precio de arriendo de apartamentos en María Auxiliadora, Sabaneta — octubre 2026](arriendo-apartamentos-maria-auxiliadora-sabaneta-octubre-2026/) | 96 | COP 2.000.000 |  |
+| [Precio de arriendo de apartamentos en Entreamigos, Sabaneta — octubre 2026](arriendo-apartamentos-entreamigos-sabaneta-octubre-2026/) | 148 | COP 2.865.000 | [10.5281/zenodo.23551211](https://doi.org/10.5281/zenodo.23551211) |
+| [Precio de arriendo de apartamentos en María Auxiliadora, Sabaneta — octubre 2026](arriendo-apartamentos-maria-auxiliadora-sabaneta-octubre-2026/) | 96 | COP 2.000.000 | [10.5281/zenodo.23551225](https://doi.org/10.5281/zenodo.23551225) |
 | [Precio de venta de apartamentos de 2 habitaciones en San José, Sabaneta — octubre 2026](venta-apartamentos-2-habitaciones-san-jose-sabaneta-octubre-2026/) | 124 | COP 500.000.000 |  |
 | [Precio de arriendo de apartamentos en Calle Larga, Sabaneta — octubre 2026](arriendo-apartamentos-calle-larga-sabaneta-octubre-2026/) | 103 | COP 2.700.000 |  |
 | [Precio de venta de apartamentos de 2 habitaciones en Pan de Azúcar, Sabaneta — octubre 2026](venta-apartamentos-2-habitaciones-pan-de-azucar-sabaneta-octubre-2026/) | 109 | COP 515.000.000 |  |

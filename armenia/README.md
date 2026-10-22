@@ -16,8 +16,8 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de venta de apartamentos en Avenida Centenario, Armenia — octubre 2026](venta-apartamentos-avenida-centenario-armenia-octubre-2026/) | 215 | COP 545.000.000 |  |
-| [Precio de venta de apartamentos en Puerto Espejo, Armenia — octubre 2026](venta-apartamentos-puerto-espejo-armenia-octubre-2026/) | 132 | COP 236.500.000 |  |
+| [Precio de venta de apartamentos en Avenida Centenario, Armenia — octubre 2026](venta-apartamentos-avenida-centenario-armenia-octubre-2026/) | 215 | COP 545.000.000 | [10.5281/zenodo.23548520](https://doi.org/10.5281/zenodo.23548520) |
+| [Precio de venta de apartamentos en Puerto Espejo, Armenia — octubre 2026](venta-apartamentos-puerto-espejo-armenia-octubre-2026/) | 132 | COP 236.500.000 | [10.5281/zenodo.23550986](https://doi.org/10.5281/zenodo.23550986) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Avenida Centenario, Armenia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-avenida-centenario-armenia-octubre-2026/) | 150 | COP 567.500.000 |  |
 | [Precio de venta de apartamentos en La Castellana, Armenia — octubre 2026](venta-apartamentos-la-castellana-armenia-octubre-2026/) | 128 | COP 680.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Puerto Espejo, Armenia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-puerto-espejo-armenia-octubre-2026/) | 109 | COP 240.000.000 |  |

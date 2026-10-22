@@ -16,7 +16,7 @@
 
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
-| [Precio de arriendo de apartamentos en La Aldea, La Estrella — octubre 2026](arriendo-apartamentos-la-aldea-la-estrella-octubre-2026/) | 155 | COP 2.600.000 |  |
+| [Precio de arriendo de apartamentos en La Aldea, La Estrella — octubre 2026](arriendo-apartamentos-la-aldea-la-estrella-octubre-2026/) | 155 | COP 2.600.000 | [10.5281/zenodo.23551191](https://doi.org/10.5281/zenodo.23551191) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en La Aldea, La Estrella — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-aldea-la-estrella-octubre-2026/) | 80 | COP 2.700.000 |  |
 | [Precio de venta de apartamentos en La Aldea, La Estrella — octubre 2026](venta-apartamentos-la-aldea-la-estrella-octubre-2026/) | 98 | COP 470.000.000 |  |
 | [Precio de arriendo de apartamentos de 2 habitaciones en La Aldea, La Estrella — octubre 2026](arriendo-apartamentos-2-habitaciones-la-aldea-la-estrella-octubre-2026/) | 74 | COP 2.500.000 |  |
