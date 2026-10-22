@@ -29,8 +29,8 @@
 | [Precio de arriendo de apartamentos de 2 habitaciones en Parque Natura, Jamundí — octubre 2026](arriendo-apartamentos-2-habitaciones-parque-natura-jamundi-octubre-2026/) | 33 | COP 1.300.000 | [10.5281/zenodo.23576174](https://doi.org/10.5281/zenodo.23576174) |
 | [Precio de venta de casas de 3 o más habitaciones en Paso de la Bolsa, Jamundí — octubre 2026](venta-casas-3-o-mas-habitaciones-paso-de-la-bolsa-jamundi-octubre-2026/) | 35 | COP 200.000.000 | [10.5281/zenodo.23576011](https://doi.org/10.5281/zenodo.23576011) |
 | [Precio de venta de casas en Porerito, Jamundí — octubre 2026](venta-casas-porerito-jamundi-octubre-2026/) | 35 | COP 980.000.000 | [10.5281/zenodo.23575460](https://doi.org/10.5281/zenodo.23575460) |
-| [Precio de venta de casas de 3 o más habitaciones en Parque Natura, Jamundí — octubre 2026](venta-casas-3-o-mas-habitaciones-parque-natura-jamundi-octubre-2026/) | 33 | COP 430.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Alfaguara, Jamundí — octubre 2026](venta-apartamentos-2-habitaciones-alfaguara-jamundi-octubre-2026/) | 31 | COP 205.000.000 |  |
+| [Precio de venta de casas de 3 o más habitaciones en Parque Natura, Jamundí — octubre 2026](venta-casas-3-o-mas-habitaciones-parque-natura-jamundi-octubre-2026/) | 33 | COP 430.000.000 | [10.5281/zenodo.23576826](https://doi.org/10.5281/zenodo.23576826) |
+| [Precio de venta de apartamentos de 2 habitaciones en Alfaguara, Jamundí — octubre 2026](venta-apartamentos-2-habitaciones-alfaguara-jamundi-octubre-2026/) | 31 | COP 205.000.000 | [10.5281/zenodo.23577456](https://doi.org/10.5281/zenodo.23577456) |
 | [Precio de venta de casas en Alfaguara, Jamundí — octubre 2026](venta-casas-alfaguara-jamundi-octubre-2026/) | 174 | COP 750.000.000 |  |
 | [Precio de venta de casas en Ciudad Country, Jamundí — octubre 2026](venta-casas-ciudad-country-jamundi-octubre-2026/) | 77 | COP 440.000.000 |  |
 | [Precio de venta de casas en Juan de Ampudia, Jamundí — octubre 2026](venta-casas-juan-de-ampudia-jamundi-octubre-2026/) | 61 | COP 600.000.000 |  |

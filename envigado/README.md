@@ -214,41 +214,41 @@
 | [Precio de venta de apartamentos en Pontevedra, Envigado — octubre 2026](venta-apartamentos-pontevedra-envigado-octubre-2026/) | 36 | COP 980.000.000 | [10.5281/zenodo.23575821](https://doi.org/10.5281/zenodo.23575821) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en La Frontera, Envigado — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-frontera-envigado-octubre-2026/) | 35 | COP 5.500.000 | [10.5281/zenodo.23576134](https://doi.org/10.5281/zenodo.23576134) |
 | [Precio de venta de casas en Alcalá, Envigado — octubre 2026](venta-casas-alcala-envigado-octubre-2026/) | 34 | COP 870.000.000 | [10.5281/zenodo.23576219](https://doi.org/10.5281/zenodo.23576219) |
-| [Precio de venta de apartamentos en La Inmaculada, Envigado — octubre 2026](venta-apartamentos-la-inmaculada-envigado-octubre-2026/) | 34 | COP 770.000.000 |  |
-| [Precio de arriendo de apartamentos en La Magnolia, Envigado — octubre 2026](arriendo-apartamentos-la-magnolia-envigado-octubre-2026/) | 34 | COP 3.300.000 |  |
+| [Precio de venta de apartamentos en La Inmaculada, Envigado — octubre 2026](venta-apartamentos-la-inmaculada-envigado-octubre-2026/) | 34 | COP 770.000.000 | [10.5281/zenodo.23576844](https://doi.org/10.5281/zenodo.23576844) |
+| [Precio de arriendo de apartamentos en La Magnolia, Envigado — octubre 2026](arriendo-apartamentos-la-magnolia-envigado-octubre-2026/) | 34 | COP 3.300.000 | [10.5281/zenodo.23576862](https://doi.org/10.5281/zenodo.23576862) |
 | [Precio de arriendo de apartamentos en Las Casitas, Envigado — octubre 2026](arriendo-apartamentos-las-casitas-envigado-octubre-2026/) | 34 | COP 3.600.000 | [10.5281/zenodo.23576238](https://doi.org/10.5281/zenodo.23576238) |
-| [Precio de venta de casas en El Esmeraldal, Envigado — octubre 2026](venta-casas-el-esmeraldal-envigado-octubre-2026/) | 30 | COP 1.965.000.000 |  |
+| [Precio de venta de casas en El Esmeraldal, Envigado — octubre 2026](venta-casas-el-esmeraldal-envigado-octubre-2026/) | 30 | COP 1.965.000.000 | [10.5281/zenodo.23577143](https://doi.org/10.5281/zenodo.23577143) |
 | [Precio de venta de casas en El Trianón, Envigado — octubre 2026](venta-casas-el-trianon-envigado-octubre-2026/) | 33 | COP 850.000.000 | [10.5281/zenodo.23576031](https://doi.org/10.5281/zenodo.23576031) |
 | [Precio de arriendo de casas en San Lucas, Envigado — octubre 2026](arriendo-casas-san-lucas-envigado-octubre-2026/) | 33 | COP 12.000.000 | [10.5281/zenodo.23576708](https://doi.org/10.5281/zenodo.23576708) |
-| [Precio de arriendo de casas en El Dorado, Envigado — octubre 2026](arriendo-casas-el-dorado-envigado-octubre-2026/) | 32 | COP 4.350.000 |  |
+| [Precio de arriendo de casas en El Dorado, Envigado — octubre 2026](arriendo-casas-el-dorado-envigado-octubre-2026/) | 32 | COP 4.350.000 | [10.5281/zenodo.23577122](https://doi.org/10.5281/zenodo.23577122) |
 | [Precio de arriendo de casas en Las Antillas, Envigado — octubre 2026](arriendo-casas-las-antillas-envigado-octubre-2026/) | 32 | COP 6.825.000 | [10.5281/zenodo.23576255](https://doi.org/10.5281/zenodo.23576255) |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Las Brujas, Envigado — octubre 2026](arriendo-apartamentos-2-habitaciones-las-brujas-envigado-octubre-2026/) | 32 | COP 4.500.000 |  |
-| [Precio de arriendo de apartamentos en Primavera, Envigado — octubre 2026](arriendo-apartamentos-primavera-envigado-octubre-2026/) | 32 | COP 3.750.000 |  |
-| [Precio de arriendo de apartamentos en Alto de Palmas, Envigado — octubre 2026](arriendo-apartamentos-alto-de-palmas-envigado-octubre-2026/) | 31 | COP 5.600.000 |  |
-| [Precio de venta de casas en Carrizales, Envigado — octubre 2026](venta-casas-carrizales-envigado-octubre-2026/) | 31 | COP 2.500.000.000 |  |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Las Brujas, Envigado — octubre 2026](arriendo-apartamentos-2-habitaciones-las-brujas-envigado-octubre-2026/) | 32 | COP 4.500.000 | [10.5281/zenodo.23576966](https://doi.org/10.5281/zenodo.23576966) |
+| [Precio de arriendo de apartamentos en Primavera, Envigado — octubre 2026](arriendo-apartamentos-primavera-envigado-octubre-2026/) | 32 | COP 3.750.000 | [10.5281/zenodo.23577111](https://doi.org/10.5281/zenodo.23577111) |
+| [Precio de arriendo de apartamentos en Alto de Palmas, Envigado — octubre 2026](arriendo-apartamentos-alto-de-palmas-envigado-octubre-2026/) | 31 | COP 5.600.000 | [10.5281/zenodo.23577329](https://doi.org/10.5281/zenodo.23577329) |
+| [Precio de venta de casas en Carrizales, Envigado — octubre 2026](venta-casas-carrizales-envigado-octubre-2026/) | 31 | COP 2.500.000.000 | [10.5281/zenodo.23577347](https://doi.org/10.5281/zenodo.23577347) |
 | [Precio de arriendo de apartamentos en El Chocho, Envigado — octubre 2026](arriendo-apartamentos-el-chocho-envigado-octubre-2026/) | 31 | COP 5.000.000 | [10.5281/zenodo.23576690](https://doi.org/10.5281/zenodo.23576690) |
 | [Precio de venta de casas en La Pradera, Envigado — octubre 2026](venta-casas-la-pradera-envigado-octubre-2026/) | 31 | COP 1.350.000.000 | [10.5281/zenodo.23576718](https://doi.org/10.5281/zenodo.23576718) |
-| [Precio de venta de apartamentos en Loma los Mesa, Envigado — octubre 2026](venta-apartamentos-loma-los-mesa-envigado-octubre-2026/) | 31 | COP 1.060.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Señorial, Envigado — octubre 2026](venta-apartamentos-2-habitaciones-senorial-envigado-octubre-2026/) | 31 | COP 650.000.000 |  |
-| [Precio de venta de apartamentos en Vía las Palmas, Envigado — octubre 2026](venta-apartamentos-via-las-palmas-envigado-octubre-2026/) | 31 | COP 1.250.000.000 |  |
-| [Precio de venta de apartamentos en El Escobero, Envigado — octubre 2026](venta-apartamentos-el-escobero-envigado-octubre-2026/) | 147 | COP 950.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en El Poblado, Envigado — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-poblado-envigado-octubre-2026/) | 30 | COP 1.250.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en La Mina, Envigado — octubre 2026](venta-apartamentos-2-habitaciones-la-mina-envigado-octubre-2026/) | 30 | COP 477.500.000 |  |
-| [Precio de arriendo de casas en La Pradera, Envigado — octubre 2026](arriendo-casas-la-pradera-envigado-octubre-2026/) | 30 | COP 9.650.000 |  |
-| [Precio de arriendo de apartamentos en Pontevedra, Envigado — octubre 2026](arriendo-apartamentos-pontevedra-envigado-octubre-2026/) | 30 | COP 4.525.000 |  |
+| [Precio de venta de apartamentos en Loma los Mesa, Envigado — octubre 2026](venta-apartamentos-loma-los-mesa-envigado-octubre-2026/) | 31 | COP 1.060.000.000 | [10.5281/zenodo.23577363](https://doi.org/10.5281/zenodo.23577363) |
+| [Precio de venta de apartamentos de 2 habitaciones en Señorial, Envigado — octubre 2026](venta-apartamentos-2-habitaciones-senorial-envigado-octubre-2026/) | 31 | COP 650.000.000 | [10.5281/zenodo.23577436](https://doi.org/10.5281/zenodo.23577436) |
+| [Precio de venta de apartamentos en Vía las Palmas, Envigado — octubre 2026](venta-apartamentos-via-las-palmas-envigado-octubre-2026/) | 31 | COP 1.250.000.000 | [10.5281/zenodo.23577636](https://doi.org/10.5281/zenodo.23577636) |
+| [Precio de venta de apartamentos en El Escobero, Envigado — octubre 2026](venta-apartamentos-el-escobero-envigado-octubre-2026/) | 147 | COP 950.000.000 | [10.5281/zenodo.23577818](https://doi.org/10.5281/zenodo.23577818) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Poblado, Envigado — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-poblado-envigado-octubre-2026/) | 30 | COP 1.250.000.000 | [10.5281/zenodo.23577847](https://doi.org/10.5281/zenodo.23577847) |
+| [Precio de venta de apartamentos de 2 habitaciones en La Mina, Envigado — octubre 2026](venta-apartamentos-2-habitaciones-la-mina-envigado-octubre-2026/) | 30 | COP 477.500.000 | [10.5281/zenodo.23577776](https://doi.org/10.5281/zenodo.23577776) |
+| [Precio de arriendo de casas en La Pradera, Envigado — octubre 2026](arriendo-casas-la-pradera-envigado-octubre-2026/) | 30 | COP 9.650.000 | [10.5281/zenodo.23577582](https://doi.org/10.5281/zenodo.23577582) |
+| [Precio de arriendo de apartamentos en Pontevedra, Envigado — octubre 2026](arriendo-apartamentos-pontevedra-envigado-octubre-2026/) | 30 | COP 4.525.000 | [10.5281/zenodo.23577128](https://doi.org/10.5281/zenodo.23577128) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en Jardines, Envigado — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-jardines-envigado-octubre-2026/) | 61 | COP 5.000.000 |  |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en La Cuenca, Envigado — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-la-cuenca-envigado-octubre-2026/) | 64 | COP 3.050.000 |  |
-| [Precio de arriendo de casas en La Magnolia, Envigado — octubre 2026](arriendo-casas-la-magnolia-envigado-octubre-2026/) | 30 | COP 4.500.000 |  |
+| [Precio de arriendo de casas en La Magnolia, Envigado — octubre 2026](arriendo-casas-la-magnolia-envigado-octubre-2026/) | 30 | COP 4.500.000 | [10.5281/zenodo.23580643](https://doi.org/10.5281/zenodo.23580643) |
 | [Precio de arriendo de casas en La Sebastiana, Envigado — octubre 2026](arriendo-casas-la-sebastiana-envigado-octubre-2026/) | 33 | COP 10.300.000 |  |
-| [Precio de arriendo de casas en Las Palmas, Envigado — octubre 2026](arriendo-casas-las-palmas-envigado-octubre-2026/) | 72 | COP 19.000.000 |  |
+| [Precio de arriendo de casas en Las Palmas, Envigado — octubre 2026](arriendo-casas-las-palmas-envigado-octubre-2026/) | 72 | COP 19.000.000 | [10.5281/zenodo.23580657](https://doi.org/10.5281/zenodo.23580657) |
 | [Precio de arriendo de casas en Vía las Palmas, Envigado — octubre 2026](arriendo-casas-via-las-palmas-envigado-octubre-2026/) | 38 | COP 15.800.000 |  |
 | [Precio de venta de casas en Alto de las Palmas, Envigado — octubre 2026](venta-casas-alto-de-las-palmas-envigado-octubre-2026/) | 120 | COP 4.050.000.000 |  |
 | [Precio de venta de casas en Alto de Palmas, Envigado — octubre 2026](venta-casas-alto-de-palmas-envigado-octubre-2026/) | 55 | COP 3.800.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bosques de Zúñiga, Envigado — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bosques-de-zuniga-envigado-octubre-2026/) | 45 | COP 1.200.000.000 |  |
 | [Precio de venta de apartamentos de 3 o más habitaciones en El Chingui, Envigado — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-chingui-envigado-octubre-2026/) | 94 | COP 640.000.000 |  |
-| [Precio de venta de casas en El Escobero, Envigado — octubre 2026](venta-casas-el-escobero-envigado-octubre-2026/) | 56 | COP 2.450.000.000 |  |
+| [Precio de venta de casas en El Escobero, Envigado — octubre 2026](venta-casas-el-escobero-envigado-octubre-2026/) | 56 | COP 2.450.000.000 | [10.5281/zenodo.23580674](https://doi.org/10.5281/zenodo.23580674) |
 | [Precio de venta de casas en Escobero, Envigado — octubre 2026](venta-casas-escobero-envigado-octubre-2026/) | 149 | COP 3.200.000.000 |  |
-| [Precio de venta de casas en La Sebastiana, Envigado — octubre 2026](venta-casas-la-sebastiana-envigado-octubre-2026/) | 49 | COP 1.600.000.000 |  |
+| [Precio de venta de casas en La Sebastiana, Envigado — octubre 2026](venta-casas-la-sebastiana-envigado-octubre-2026/) | 49 | COP 1.600.000.000 | [10.5281/zenodo.23580687](https://doi.org/10.5281/zenodo.23580687) |
 | [Precio de venta de casas en Las Palmas, Envigado — octubre 2026](venta-casas-las-palmas-envigado-octubre-2026/) | 235 | COP 4.500.000.000 |  |
 | [Precio de venta de casas en Loma del Chocho, Envigado — octubre 2026](venta-casas-loma-del-chocho-envigado-octubre-2026/) | 207 | COP 2.200.000.000 |  |
 | [Precio de venta de casas en Loma del Escobero, Envigado — octubre 2026](venta-casas-loma-del-escobero-envigado-octubre-2026/) | 354 | COP 2.700.000.000 |  |

@@ -28,4 +28,4 @@
 | [Precio de arriendo de apartamentos en Picaleña y Mirolindo, Ibagué — octubre 2026](arriendo-apartamentos-picalena-y-mirolindo-ibague-octubre-2026/) | 35 | COP 1.170.000 | [10.5281/zenodo.23575443](https://doi.org/10.5281/zenodo.23575443) |
 | [Precio de venta de apartamentos en Jordán, Ibagué — octubre 2026](venta-apartamentos-jordan-ibague-octubre-2026/) | 31 | COP 390.000.000 | [10.5281/zenodo.23576249](https://doi.org/10.5281/zenodo.23576249) |
 | [Precio de venta de apartamentos en Varsovia, Ibagué — octubre 2026](venta-apartamentos-varsovia-ibague-octubre-2026/) | 31 | COP 395.000.000 | [10.5281/zenodo.23576508](https://doi.org/10.5281/zenodo.23576508) |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-piedra-pintada-ibague-octubre-2026/) | 32 | COP 437.500.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Piedra Pintada, Ibagué — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-piedra-pintada-ibague-octubre-2026/) | 32 | COP 437.500.000 | [10.5281/zenodo.23577126](https://doi.org/10.5281/zenodo.23577126) |

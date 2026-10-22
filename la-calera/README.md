@@ -26,4 +26,4 @@
 | [Precio de venta de casas en Conjunto Casa de Campo, La Calera — octubre 2026](venta-casas-conjunto-casa-de-campo-la-calera-octubre-2026/) | 45 | COP 2.900.000.000 | [10.5281/zenodo.23572009](https://doi.org/10.5281/zenodo.23572009) |
 | [Precio de venta de casas en Vereda el Hato, La Calera — octubre 2026](venta-casas-vereda-el-hato-la-calera-octubre-2026/) | 43 | COP 2.600.000.000 | [10.5281/zenodo.23574558](https://doi.org/10.5281/zenodo.23574558) |
 | [Precio de arriendo de casas en Arboretto, La Calera — octubre 2026](arriendo-casas-arboretto-la-calera-octubre-2026/) | 34 | COP 13.000.000 | [10.5281/zenodo.23576546](https://doi.org/10.5281/zenodo.23576546) |
-| [Precio de venta de casas en El Salitre, La Calera — octubre 2026](venta-casas-el-salitre-la-calera-octubre-2026/) | 31 | COP 1.900.000.000 |  |
+| [Precio de venta de casas en El Salitre, La Calera — octubre 2026](venta-casas-el-salitre-la-calera-octubre-2026/) | 31 | COP 1.900.000.000 | [10.5281/zenodo.23577651](https://doi.org/10.5281/zenodo.23577651) |

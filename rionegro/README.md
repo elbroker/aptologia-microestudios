@@ -116,14 +116,14 @@
 | [Precio de arriendo de apartaestudios de 1 habitación en El Porvenir, Rionegro — octubre 2026](arriendo-apartaestudios-1-habitaciones-el-porvenir-rionegro-octubre-2026/) | 34 | COP 2.200.000 | [10.5281/zenodo.23576465](https://doi.org/10.5281/zenodo.23576465) |
 | [Precio de venta de apartamentos en La Macarena, Rionegro — octubre 2026](venta-apartamentos-la-macarena-rionegro-octubre-2026/) | 32 | COP 310.000.000 | [10.5281/zenodo.23576441](https://doi.org/10.5281/zenodo.23576441) |
 | [Precio de arriendo de apartamentos en Cuchillas de San José, Rionegro — octubre 2026](arriendo-apartamentos-cuchillas-de-san-jose-rionegro-octubre-2026/) | 33 | COP 1.700.000 | [10.5281/zenodo.23576096](https://doi.org/10.5281/zenodo.23576096) |
-| [Precio de venta de apartamentos en Porvenir, Rionegro — octubre 2026](venta-apartamentos-porvenir-rionegro-octubre-2026/) | 418 | COP 470.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en San Antonio, Rionegro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-antonio-rionegro-octubre-2026/) | 31 | COP 670.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Llanogrande, Rionegro — octubre 2026](venta-apartamentos-1-habitaciones-llanogrande-rionegro-octubre-2026/) | 32 | COP 645.000.000 |  |
-| [Precio de arriendo de casas en Pontezuela, Rionegro — octubre 2026](arriendo-casas-pontezuela-rionegro-octubre-2026/) | 32 | COP 7.900.000 |  |
-| [Precio de venta de casas en San Antonio, Rionegro — octubre 2026](venta-casas-san-antonio-rionegro-octubre-2026/) | 31 | COP 1.200.000.000 |  |
-| [Precio de venta de apartamentos en El Faro, Rionegro — octubre 2026](venta-apartamentos-el-faro-rionegro-octubre-2026/) | 30 | COP 550.000.000 |  |
-| [Precio de venta de casas en Guayabito, Rionegro — octubre 2026](venta-casas-guayabito-rionegro-octubre-2026/) | 30 | COP 2.625.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Llanogrande, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-llanogrande-rionegro-octubre-2026/) | 30 | COP 1.195.000.000 |  |
+| [Precio de venta de apartamentos en Porvenir, Rionegro — octubre 2026](venta-apartamentos-porvenir-rionegro-octubre-2026/) | 418 | COP 470.000.000 | [10.5281/zenodo.23576968](https://doi.org/10.5281/zenodo.23576968) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en San Antonio, Rionegro — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-san-antonio-rionegro-octubre-2026/) | 31 | COP 670.000.000 | [10.5281/zenodo.23576983](https://doi.org/10.5281/zenodo.23576983) |
+| [Precio de venta de apartamentos de 1 habitación en Llanogrande, Rionegro — octubre 2026](venta-apartamentos-1-habitaciones-llanogrande-rionegro-octubre-2026/) | 32 | COP 645.000.000 | [10.5281/zenodo.23577292](https://doi.org/10.5281/zenodo.23577292) |
+| [Precio de arriendo de casas en Pontezuela, Rionegro — octubre 2026](arriendo-casas-pontezuela-rionegro-octubre-2026/) | 32 | COP 7.900.000 | [10.5281/zenodo.23577265](https://doi.org/10.5281/zenodo.23577265) |
+| [Precio de venta de casas en San Antonio, Rionegro — octubre 2026](venta-casas-san-antonio-rionegro-octubre-2026/) | 31 | COP 1.200.000.000 | [10.5281/zenodo.23577755](https://doi.org/10.5281/zenodo.23577755) |
+| [Precio de venta de apartamentos en El Faro, Rionegro — octubre 2026](venta-apartamentos-el-faro-rionegro-octubre-2026/) | 30 | COP 550.000.000 | [10.5281/zenodo.23578041](https://doi.org/10.5281/zenodo.23578041) |
+| [Precio de venta de casas en Guayabito, Rionegro — octubre 2026](venta-casas-guayabito-rionegro-octubre-2026/) | 30 | COP 2.625.000.000 | [10.5281/zenodo.23578071](https://doi.org/10.5281/zenodo.23578071) |
+| [Precio de venta de apartamentos de 2 habitaciones en Llanogrande, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-llanogrande-rionegro-octubre-2026/) | 30 | COP 1.195.000.000 | [10.5281/zenodo.23578086](https://doi.org/10.5281/zenodo.23578086) |
 | [Precio de arriendo de casas en Gualanday, Rionegro — octubre 2026](arriendo-casas-gualanday-rionegro-octubre-2026/) | 53 | COP 6.800.000 |  |
 | [Precio de arriendo de casas en Llano Grande, Rionegro — octubre 2026](arriendo-casas-llano-grande-rionegro-octubre-2026/) | 296 | COP 15.000.000 |  |
 | [Precio de arriendo de casas en Llanogrande, Rionegro — octubre 2026](arriendo-casas-llanogrande-rionegro-octubre-2026/) | 150 | COP 14.500.000 |  |

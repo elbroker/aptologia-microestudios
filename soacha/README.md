@@ -29,5 +29,5 @@
 | [Precio de venta de casas de 3 o más habitaciones en San Mateo, Soacha — octubre 2026](venta-casas-3-o-mas-habitaciones-san-mateo-soacha-octubre-2026/) | 52 | COP 230.000.000 | [10.5281/zenodo.23567732](https://doi.org/10.5281/zenodo.23567732) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Hogares Soacha, Soacha — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-hogares-soacha-soacha-octubre-2026/) | 37 | COP 155.000.000 | [10.5281/zenodo.23575742](https://doi.org/10.5281/zenodo.23575742) |
 | [Precio de venta de apartamentos en San Mateo, Soacha — octubre 2026](venta-apartamentos-san-mateo-soacha-octubre-2026/) | 37 | COP 179.000.000 | [10.5281/zenodo.23576116](https://doi.org/10.5281/zenodo.23576116) |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Parque Campestre, Soacha — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-parque-campestre-soacha-octubre-2026/) | 33 | COP 154.000.000 |  |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Parque Campestre, Soacha — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-parque-campestre-soacha-octubre-2026/) | 33 | COP 154.000.000 | [10.5281/zenodo.23576791](https://doi.org/10.5281/zenodo.23576791) |
 | [Precio de venta de casas en San Mateo, Soacha — octubre 2026](venta-casas-san-mateo-soacha-octubre-2026/) | 34 | COP 250.000.000 |  |

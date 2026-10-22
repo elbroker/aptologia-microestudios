@@ -27,6 +27,6 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en El Bosque, Floridablanca — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-bosque-floridablanca-octubre-2026/) | 37 | COP 470.000.000 | [10.5281/zenodo.23575610](https://doi.org/10.5281/zenodo.23575610) |
 | [Precio de venta de casas en Ruitoque, Floridablanca — octubre 2026](venta-casas-ruitoque-floridablanca-octubre-2026/) | 35 | COP 1.750.000.000 | [10.5281/zenodo.23576056](https://doi.org/10.5281/zenodo.23576056) |
 | [Precio de arriendo de apartamentos en Anillo Vial, Floridablanca — octubre 2026](arriendo-apartamentos-anillo-vial-floridablanca-octubre-2026/) | 32 | COP 2.775.000 | [10.5281/zenodo.23576269](https://doi.org/10.5281/zenodo.23576269) |
-| [Precio de venta de apartamentos en El Recreo, Floridablanca — octubre 2026](venta-apartamentos-el-recreo-floridablanca-octubre-2026/) | 32 | COP 340.000.000 |  |
-| [Precio de arriendo de casas en Cañaveral, Floridablanca — octubre 2026](arriendo-casas-canaveral-floridablanca-octubre-2026/) | 30 | COP 5.000.000 |  |
-| [Precio de venta de apartamentos en Casco Antiguo Floridablanca, Floridablanca — octubre 2026](venta-apartamentos-casco-antiguo-floridablanca-floridablanca-octubre-2026/) | 30 | COP 390.000.000 |  |
+| [Precio de venta de apartamentos en El Recreo, Floridablanca — octubre 2026](venta-apartamentos-el-recreo-floridablanca-octubre-2026/) | 32 | COP 340.000.000 | [10.5281/zenodo.23577357](https://doi.org/10.5281/zenodo.23577357) |
+| [Precio de arriendo de casas en Cañaveral, Floridablanca — octubre 2026](arriendo-casas-canaveral-floridablanca-octubre-2026/) | 30 | COP 5.000.000 | [10.5281/zenodo.23577147](https://doi.org/10.5281/zenodo.23577147) |
+| [Precio de venta de apartamentos en Casco Antiguo Floridablanca, Floridablanca — octubre 2026](venta-apartamentos-casco-antiguo-floridablanca-floridablanca-octubre-2026/) | 30 | COP 390.000.000 | [10.5281/zenodo.23577594](https://doi.org/10.5281/zenodo.23577594) |

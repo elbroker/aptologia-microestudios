@@ -72,12 +72,12 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Bellavista, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-bellavista-bello-octubre-2026/) | 30 | COP 291.500.000 | [10.5281/zenodo.23576603](https://doi.org/10.5281/zenodo.23576603) |
 | [Precio de venta de apartamentos de 2 habitaciones en Cabañas, Bello — octubre 2026](venta-apartamentos-2-habitaciones-cabanas-bello-octubre-2026/) | 33 | COP 400.000.000 | [10.5281/zenodo.23576507](https://doi.org/10.5281/zenodo.23576507) |
 | [Precio de arriendo de apartamentos de 3 o más habitaciones en San José Obrero, Bello — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-jose-obrero-bello-octubre-2026/) | 33 | COP 3.100.000 | [10.5281/zenodo.23576622](https://doi.org/10.5281/zenodo.23576622) |
-| [Precio de venta de apartamentos en Alcalá, Bello — octubre 2026](venta-apartamentos-alcala-bello-octubre-2026/) | 32 | COP 270.000.000 |  |
-| [Precio de venta de apartamentos en Hato Viejo, Bello — octubre 2026](venta-apartamentos-hato-viejo-bello-octubre-2026/) | 32 | COP 301.000.000 |  |
-| [Precio de arriendo de apartamentos en San Gabriel, Bello — octubre 2026](arriendo-apartamentos-san-gabriel-bello-octubre-2026/) | 32 | COP 1.700.000 |  |
+| [Precio de venta de apartamentos en Alcalá, Bello — octubre 2026](venta-apartamentos-alcala-bello-octubre-2026/) | 32 | COP 270.000.000 | [10.5281/zenodo.23576842](https://doi.org/10.5281/zenodo.23576842) |
+| [Precio de venta de apartamentos en Hato Viejo, Bello — octubre 2026](venta-apartamentos-hato-viejo-bello-octubre-2026/) | 32 | COP 301.000.000 | [10.5281/zenodo.23576857](https://doi.org/10.5281/zenodo.23576857) |
+| [Precio de arriendo de apartamentos en San Gabriel, Bello — octubre 2026](arriendo-apartamentos-san-gabriel-bello-octubre-2026/) | 32 | COP 1.700.000 | [10.5281/zenodo.23577008](https://doi.org/10.5281/zenodo.23577008) |
 | [Precio de venta de apartamentos en Villas del Sol, Bello — octubre 2026](venta-apartamentos-villas-del-sol-bello-octubre-2026/) | 32 | COP 221.500.000 | [10.5281/zenodo.23576154](https://doi.org/10.5281/zenodo.23576154) |
-| [Precio de venta de apartamentos de 2 habitaciones en Fabricato, Bello — octubre 2026](venta-apartamentos-2-habitaciones-fabricato-bello-octubre-2026/) | 31 | COP 420.000.000 |  |
-| [Precio de arriendo de apartamentos en Madera, Bello — octubre 2026](arriendo-apartamentos-madera-bello-octubre-2026/) | 31 | COP 2.100.000 |  |
-| [Precio de arriendo de apartamentos en Navarra, Bello — octubre 2026](arriendo-apartamentos-navarra-bello-octubre-2026/) | 45 | COP 1.800.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Suarez, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-suarez-bello-octubre-2026/) | 30 | COP 367.500.000 |  |
-| [Precio de venta de apartamentos en Trapiche, Bello — octubre 2026](venta-apartamentos-trapiche-bello-octubre-2026/) | 49 | COP 266.000.000 |  |
+| [Precio de venta de apartamentos de 2 habitaciones en Fabricato, Bello — octubre 2026](venta-apartamentos-2-habitaciones-fabricato-bello-octubre-2026/) | 31 | COP 420.000.000 | [10.5281/zenodo.23577326](https://doi.org/10.5281/zenodo.23577326) |
+| [Precio de arriendo de apartamentos en Madera, Bello — octubre 2026](arriendo-apartamentos-madera-bello-octubre-2026/) | 31 | COP 2.100.000 | [10.5281/zenodo.23577353](https://doi.org/10.5281/zenodo.23577353) |
+| [Precio de arriendo de apartamentos en Navarra, Bello — octubre 2026](arriendo-apartamentos-navarra-bello-octubre-2026/) | 45 | COP 1.800.000 | [10.5281/zenodo.23577496](https://doi.org/10.5281/zenodo.23577496) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Suarez, Bello — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-suarez-bello-octubre-2026/) | 30 | COP 367.500.000 | [10.5281/zenodo.23577548](https://doi.org/10.5281/zenodo.23577548) |
+| [Precio de venta de apartamentos en Trapiche, Bello — octubre 2026](venta-apartamentos-trapiche-bello-octubre-2026/) | 49 | COP 266.000.000 | [10.5281/zenodo.23577909](https://doi.org/10.5281/zenodo.23577909) |

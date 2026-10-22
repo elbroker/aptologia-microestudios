@@ -22,8 +22,8 @@
 | [Precio de venta de apartamentos en San Nicolas, La Ceja — octubre 2026](venta-apartamentos-san-nicolas-la-ceja-octubre-2026/) | 50 | COP 325.000.000 | [10.5281/zenodo.23565814](https://doi.org/10.5281/zenodo.23565814) |
 | [Precio de venta de apartamentos en El Tambo, La Ceja — octubre 2026](venta-apartamentos-el-tambo-la-ceja-octubre-2026/) | 41 | COP 450.000.000 | [10.5281/zenodo.23573064](https://doi.org/10.5281/zenodo.23573064) |
 | [Precio de arriendo de apartamentos de 2 habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-2-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 40 | COP 1.650.000 | [10.5281/zenodo.23574629](https://doi.org/10.5281/zenodo.23574629) |
-| [Precio de arriendo de apartamentos en El Tambo, La Ceja — octubre 2026](arriendo-apartamentos-el-tambo-la-ceja-octubre-2026/) | 31 | COP 2.500.000 |  |
-| [Precio de arriendo de apartamentos de 3 o más habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 31 | COP 2.600.000 |  |
-| [Precio de arriendo de casas en Lomitas, La Ceja — octubre 2026](arriendo-casas-lomitas-la-ceja-octubre-2026/) | 30 | COP 4.100.000 |  |
+| [Precio de arriendo de apartamentos en El Tambo, La Ceja — octubre 2026](arriendo-apartamentos-el-tambo-la-ceja-octubre-2026/) | 31 | COP 2.500.000 | [10.5281/zenodo.23577387](https://doi.org/10.5281/zenodo.23577387) |
+| [Precio de arriendo de apartamentos de 3 o más habitaciones en San Nicolas, La Ceja — octubre 2026](arriendo-apartamentos-3-o-mas-habitaciones-san-nicolas-la-ceja-octubre-2026/) | 31 | COP 2.600.000 | [10.5281/zenodo.23577401](https://doi.org/10.5281/zenodo.23577401) |
+| [Precio de arriendo de casas en Lomitas, La Ceja — octubre 2026](arriendo-casas-lomitas-la-ceja-octubre-2026/) | 30 | COP 4.100.000 | [10.5281/zenodo.23577609](https://doi.org/10.5281/zenodo.23577609) |
 | [Precio de venta de casas en El Tambo, La Ceja — octubre 2026](venta-casas-el-tambo-la-ceja-octubre-2026/) | 71 | COP 990.000.000 |  |
 | [Precio de venta de casas en San Nicolas, La Ceja — octubre 2026](venta-casas-san-nicolas-la-ceja-octubre-2026/) | 58 | COP 840.000.000 |  |

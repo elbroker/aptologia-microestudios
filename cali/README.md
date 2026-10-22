@@ -212,26 +212,26 @@
 | [Precio de venta de apartamentos en Vivero Parque Residencial, Cali — octubre 2026](venta-apartamentos-vivero-parque-residencial-cali-octubre-2026/) | 34 | COP 290.000.000 | [10.5281/zenodo.23575799](https://doi.org/10.5281/zenodo.23575799) |
 | [Precio de arriendo de apartamentos en El Jardín, Cali — octubre 2026](arriendo-apartamentos-el-jardin-cali-octubre-2026/) | 33 | COP 930.000 | [10.5281/zenodo.23575949](https://doi.org/10.5281/zenodo.23575949) |
 | [Precio de arriendo de apartamentos en El Peñon, Cali — octubre 2026](arriendo-apartamentos-el-penon-cali-octubre-2026/) | 33 | COP 3.200.000 | [10.5281/zenodo.23575974](https://doi.org/10.5281/zenodo.23575974) |
-| [Precio de venta de casas en Miraflores, Cali — octubre 2026](venta-casas-miraflores-cali-octubre-2026/) | 33 | COP 850.000.000 |  |
+| [Precio de venta de casas en Miraflores, Cali — octubre 2026](venta-casas-miraflores-cali-octubre-2026/) | 33 | COP 850.000.000 | [10.5281/zenodo.23576734](https://doi.org/10.5281/zenodo.23576734) |
 | [Precio de venta de apartamentos en Villas de Veracruz, Cali — octubre 2026](venta-apartamentos-villas-de-veracruz-cali-octubre-2026/) | 33 | COP 180.000.000 | [10.5281/zenodo.23576598](https://doi.org/10.5281/zenodo.23576598) |
-| [Precio de venta de casas en Aguacatal, Cali — octubre 2026](venta-casas-aguacatal-cali-octubre-2026/) | 32 | COP 1.700.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Arboleda, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-arboleda-cali-octubre-2026/) | 30 | COP 1.138.000.000 |  |
-| [Precio de venta de casas en Chipichape, Cali — octubre 2026](venta-casas-chipichape-cali-octubre-2026/) | 32 | COP 530.000.000 |  |
-| [Precio de venta de apartamentos de 2 habitaciones en Ciudad 2000, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-2000-cali-octubre-2026/) | 31 | COP 230.000.000 |  |
-| [Precio de arriendo de apartamentos de 2 habitaciones en Ciudad Meléndez, Cali — octubre 2026](arriendo-apartamentos-2-habitaciones-ciudad-melendez-cali-octubre-2026/) | 31 | COP 1.600.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en El Caney, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-caney-cali-octubre-2026/) | 87 | COP 330.000.000 |  |
-| [Precio de venta de apartamentos en Mayapan las Vegas, Cali — octubre 2026](venta-apartamentos-mayapan-las-vegas-cali-octubre-2026/) | 31 | COP 420.000.000 |  |
-| [Precio de venta de casas en Ciudad Capri, Cali — octubre 2026](venta-casas-ciudad-capri-cali-octubre-2026/) | 30 | COP 680.000.000 |  |
-| [Precio de venta de casas en El Castillo, Cali — octubre 2026](venta-casas-el-castillo-cali-octubre-2026/) | 30 | COP 612.600.000 |  |
-| [Precio de venta de apartamentos en El Lido, Cali — octubre 2026](venta-apartamentos-el-lido-cali-octubre-2026/) | 30 | COP 279.500.000 |  |
-| [Precio de venta de apartaestudios en El Refugio, Cali — octubre 2026](venta-apartaestudios-el-refugio-cali-octubre-2026/) | 30 | COP 300.000.000 |  |
-| [Precio de venta de casas en El Refugio, Cali — octubre 2026](venta-casas-el-refugio-cali-octubre-2026/) | 30 | COP 750.000.000 |  |
-| [Precio de venta de apartamentos en Metropolitano del Norte, Cali — octubre 2026](venta-apartamentos-metropolitano-del-norte-cali-octubre-2026/) | 30 | COP 190.000.000 |  |
-| [Precio de venta de apartamentos de 1 habitación en Urbanizacion la Flora, Cali — octubre 2026](venta-apartamentos-1-habitaciones-urbanizacion-la-flora-cali-octubre-2026/) | 30 | COP 257.500.000 |  |
-| [Precio de venta de casas en Urbanizacion San Joaquín, Cali — octubre 2026](venta-casas-urbanizacion-san-joaquin-cali-octubre-2026/) | 30 | COP 885.000.000 |  |
+| [Precio de venta de casas en Aguacatal, Cali — octubre 2026](venta-casas-aguacatal-cali-octubre-2026/) | 32 | COP 1.700.000.000 | [10.5281/zenodo.23577090](https://doi.org/10.5281/zenodo.23577090) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Arboleda, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-arboleda-cali-octubre-2026/) | 30 | COP 1.138.000.000 | [10.5281/zenodo.23577286](https://doi.org/10.5281/zenodo.23577286) |
+| [Precio de venta de casas en Chipichape, Cali — octubre 2026](venta-casas-chipichape-cali-octubre-2026/) | 32 | COP 530.000.000 | [10.5281/zenodo.23577054](https://doi.org/10.5281/zenodo.23577054) |
+| [Precio de venta de apartamentos de 2 habitaciones en Ciudad 2000, Cali — octubre 2026](venta-apartamentos-2-habitaciones-ciudad-2000-cali-octubre-2026/) | 31 | COP 230.000.000 | [10.5281/zenodo.23577593](https://doi.org/10.5281/zenodo.23577593) |
+| [Precio de arriendo de apartamentos de 2 habitaciones en Ciudad Meléndez, Cali — octubre 2026](arriendo-apartamentos-2-habitaciones-ciudad-melendez-cali-octubre-2026/) | 31 | COP 1.600.000 | [10.5281/zenodo.23577607](https://doi.org/10.5281/zenodo.23577607) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en El Caney, Cali — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-el-caney-cali-octubre-2026/) | 87 | COP 330.000.000 | [10.5281/zenodo.23577308](https://doi.org/10.5281/zenodo.23577308) |
+| [Precio de venta de apartamentos en Mayapan las Vegas, Cali — octubre 2026](venta-apartamentos-mayapan-las-vegas-cali-octubre-2026/) | 31 | COP 420.000.000 | [10.5281/zenodo.23577491](https://doi.org/10.5281/zenodo.23577491) |
+| [Precio de venta de casas en Ciudad Capri, Cali — octubre 2026](venta-casas-ciudad-capri-cali-octubre-2026/) | 30 | COP 680.000.000 | [10.5281/zenodo.23577691](https://doi.org/10.5281/zenodo.23577691) |
+| [Precio de venta de casas en El Castillo, Cali — octubre 2026](venta-casas-el-castillo-cali-octubre-2026/) | 30 | COP 612.600.000 | [10.5281/zenodo.23577774](https://doi.org/10.5281/zenodo.23577774) |
+| [Precio de venta de apartamentos en El Lido, Cali — octubre 2026](venta-apartamentos-el-lido-cali-octubre-2026/) | 30 | COP 279.500.000 | [10.5281/zenodo.23577113](https://doi.org/10.5281/zenodo.23577113) |
+| [Precio de venta de apartaestudios en El Refugio, Cali — octubre 2026](venta-apartaestudios-el-refugio-cali-octubre-2026/) | 30 | COP 300.000.000 | [10.5281/zenodo.23577710](https://doi.org/10.5281/zenodo.23577710) |
+| [Precio de venta de casas en El Refugio, Cali — octubre 2026](venta-casas-el-refugio-cali-octubre-2026/) | 30 | COP 750.000.000 | [10.5281/zenodo.23577732](https://doi.org/10.5281/zenodo.23577732) |
+| [Precio de venta de apartamentos en Metropolitano del Norte, Cali — octubre 2026](venta-apartamentos-metropolitano-del-norte-cali-octubre-2026/) | 30 | COP 190.000.000 | [10.5281/zenodo.23578018](https://doi.org/10.5281/zenodo.23578018) |
+| [Precio de venta de apartamentos de 1 habitación en Urbanizacion la Flora, Cali — octubre 2026](venta-apartamentos-1-habitaciones-urbanizacion-la-flora-cali-octubre-2026/) | 30 | COP 257.500.000 | [10.5281/zenodo.23577758](https://doi.org/10.5281/zenodo.23577758) |
+| [Precio de venta de casas en Urbanizacion San Joaquín, Cali — octubre 2026](venta-casas-urbanizacion-san-joaquin-cali-octubre-2026/) | 30 | COP 885.000.000 | [10.5281/zenodo.23577565](https://doi.org/10.5281/zenodo.23577565) |
 | [Precio de venta de casas en Ciudad 2000, Cali — octubre 2026](venta-casas-ciudad-2000-cali-octubre-2026/) | 78 | COP 600.000.000 |  |
 | [Precio de venta de casas en Ciudad Jardín, Cali — octubre 2026](venta-casas-ciudad-jardin-cali-octubre-2026/) | 454 | COP 1.750.000.000 |  |
-| [Precio de venta de casas en El Bosque, Cali — octubre 2026](venta-casas-el-bosque-cali-octubre-2026/) | 38 | COP 750.000.000 |  |
+| [Precio de venta de casas en El Bosque, Cali — octubre 2026](venta-casas-el-bosque-cali-octubre-2026/) | 38 | COP 750.000.000 | [10.5281/zenodo.23580588](https://doi.org/10.5281/zenodo.23580588) |
 | [Precio de venta de casas en El Lido, Cali — octubre 2026](venta-casas-el-lido-cali-octubre-2026/) | 37 | COP 900.000.000 |  |
 | [Precio de venta de casas en Nueva Tequendama, Cali — octubre 2026](venta-casas-nueva-tequendama-cali-octubre-2026/) | 36 | COP 700.000.000 |  |
 | [Precio de venta de casas en Pance, Cali — octubre 2026](venta-casas-pance-cali-octubre-2026/) | 944 | COP 2.250.000.000 |  |
