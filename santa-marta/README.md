@@ -84,5 +84,5 @@
 | [Precio de arriendo de apartamentos de 2 habitaciones en Bello Horizonte, Santa Marta — octubre 2026](arriendo-apartamentos-2-habitaciones-bello-horizonte-santa-marta-octubre-2026/) | 31 | COP 5.900.000 | [10.5281/zenodo.23577612](https://doi.org/10.5281/zenodo.23577612) |
 | [Precio de venta de apartamentos de 2 habitaciones en Don Jaca, Santa Marta — octubre 2026](venta-apartamentos-2-habitaciones-don-jaca-santa-marta-octubre-2026/) | 31 | COP 650.000.000 | [10.5281/zenodo.23577517](https://doi.org/10.5281/zenodo.23577517) |
 | [Precio de venta de casas en Centro, Santa Marta — octubre 2026](venta-casas-centro-santa-marta-octubre-2026/) | 73 | COP 1.000.000.000 | [10.5281/zenodo.23580731](https://doi.org/10.5281/zenodo.23580731) |
-| [Precio de venta de casas en Centro Historico, Santa Marta — octubre 2026](venta-casas-centro-historico-santa-marta-octubre-2026/) | 59 | COP 1.100.000.000 |  |
+| [Precio de venta de casas en Centro Historico, Santa Marta — octubre 2026](venta-casas-centro-historico-santa-marta-octubre-2026/) | 59 | COP 1.100.000.000 | [10.5281/zenodo.23581670](https://doi.org/10.5281/zenodo.23581670) |
 | [Precio de venta de casas en Jardín, Santa Marta — octubre 2026](venta-casas-jardin-santa-marta-octubre-2026/) | 45 | COP 650.000.000 | [10.5281/zenodo.23580752](https://doi.org/10.5281/zenodo.23580752) |

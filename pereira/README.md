@@ -135,13 +135,13 @@
 | [Precio de venta de apartamentos de 1 habitación en Los Alpes, Pereira — octubre 2026](venta-apartamentos-1-habitaciones-los-alpes-pereira-octubre-2026/) | 30 | COP 342.000.000 | [10.5281/zenodo.23578020](https://doi.org/10.5281/zenodo.23578020) |
 | [Precio de venta de apartamentos de 2 habitaciones en Maraya, Pereira — octubre 2026](venta-apartamentos-2-habitaciones-maraya-pereira-octubre-2026/) | 30 | COP 375.000.000 | [10.5281/zenodo.23578100](https://doi.org/10.5281/zenodo.23578100) |
 | [Precio de venta de apartamentos en Providencia, Pereira — octubre 2026](venta-apartamentos-providencia-pereira-octubre-2026/) | 30 | COP 312.500.000 | [10.5281/zenodo.23578052](https://doi.org/10.5281/zenodo.23578052) |
-| [Precio de arriendo de casas en Cerritos, Pereira — octubre 2026](arriendo-casas-cerritos-pereira-octubre-2026/) | 193 | COP 8.500.000 |  |
-| [Precio de arriendo de casas en Maraya, Pereira — octubre 2026](arriendo-casas-maraya-pereira-octubre-2026/) | 48 | COP 5.780.000 |  |
+| [Precio de arriendo de casas en Cerritos, Pereira — octubre 2026](arriendo-casas-cerritos-pereira-octubre-2026/) | 193 | COP 8.500.000 | [10.5281/zenodo.23581611](https://doi.org/10.5281/zenodo.23581611) |
+| [Precio de arriendo de casas en Maraya, Pereira — octubre 2026](arriendo-casas-maraya-pereira-octubre-2026/) | 48 | COP 5.780.000 | [10.5281/zenodo.23581628](https://doi.org/10.5281/zenodo.23581628) |
 | [Precio de venta de casas en Cerritos, Pereira — octubre 2026](venta-casas-cerritos-pereira-octubre-2026/) | 919 | COP 1.950.000.000 | [10.5281/zenodo.23580718](https://doi.org/10.5281/zenodo.23580718) |
-| [Precio de venta de casas en Cuba, Pereira — octubre 2026](venta-casas-cuba-pereira-octubre-2026/) | 53 | COP 360.000.000 |  |
-| [Precio de venta de casas en Galicia, Pereira — octubre 2026](venta-casas-galicia-pereira-octubre-2026/) | 175 | COP 480.000.000 |  |
-| [Precio de venta de casas en La Villa, Pereira — octubre 2026](venta-casas-la-villa-pereira-octubre-2026/) | 44 | COP 460.000.000 |  |
-| [Precio de venta de casas en Maraya, Pereira — octubre 2026](venta-casas-maraya-pereira-octubre-2026/) | 82 | COP 845.000.000 |  |
-| [Precio de venta de casas en Morelia, Pereira — octubre 2026](venta-casas-morelia-pereira-octubre-2026/) | 78 | COP 1.500.000.000 |  |
-| [Precio de venta de casas en Pueblito Cafetero, Pereira — octubre 2026](venta-casas-pueblito-cafetero-pereira-octubre-2026/) | 243 | COP 1.560.000.000 |  |
-| [Precio de venta de casas en Villa Verde, Pereira — octubre 2026](venta-casas-villa-verde-pereira-octubre-2026/) | 35 | COP 460.000.000 |  |
+| [Precio de venta de casas en Cuba, Pereira — octubre 2026](venta-casas-cuba-pereira-octubre-2026/) | 53 | COP 360.000.000 | [10.5281/zenodo.23581680](https://doi.org/10.5281/zenodo.23581680) |
+| [Precio de venta de casas en Galicia, Pereira — octubre 2026](venta-casas-galicia-pereira-octubre-2026/) | 175 | COP 480.000.000 | [10.5281/zenodo.23581695](https://doi.org/10.5281/zenodo.23581695) |
+| [Precio de venta de casas en La Villa, Pereira — octubre 2026](venta-casas-la-villa-pereira-octubre-2026/) | 44 | COP 460.000.000 | [10.5281/zenodo.23581869](https://doi.org/10.5281/zenodo.23581869) |
+| [Precio de venta de casas en Maraya, Pereira — octubre 2026](venta-casas-maraya-pereira-octubre-2026/) | 82 | COP 845.000.000 | [10.5281/zenodo.23581875](https://doi.org/10.5281/zenodo.23581875) |
+| [Precio de venta de casas en Morelia, Pereira — octubre 2026](venta-casas-morelia-pereira-octubre-2026/) | 78 | COP 1.500.000.000 | [10.5281/zenodo.23581582](https://doi.org/10.5281/zenodo.23581582) |
+| [Precio de venta de casas en Pueblito Cafetero, Pereira — octubre 2026](venta-casas-pueblito-cafetero-pereira-octubre-2026/) | 243 | COP 1.560.000.000 | [10.5281/zenodo.23581705](https://doi.org/10.5281/zenodo.23581705) |
+| [Precio de venta de casas en Villa Verde, Pereira — octubre 2026](venta-casas-villa-verde-pereira-octubre-2026/) | 35 | COP 460.000.000 | [10.5281/zenodo.23581599](https://doi.org/10.5281/zenodo.23581599) |

@@ -106,6 +106,6 @@
 | [Precio de venta de apartamentos de 2 habitaciones en Cerro de Oro, Manizales — octubre 2026](venta-apartamentos-2-habitaciones-cerro-de-oro-manizales-octubre-2026/) | 30 | COP 655.271.000 | [10.5281/zenodo.23578036](https://doi.org/10.5281/zenodo.23578036) |
 | [Precio de venta de apartamentos en Santa Helena, Manizales — octubre 2026](venta-apartamentos-santa-helena-manizales-octubre-2026/) | 30 | COP 280.000.000 | [10.5281/zenodo.23577638](https://doi.org/10.5281/zenodo.23577638) |
 | [Precio de venta de apartamentos en Villa Pilar, Manizales — octubre 2026](venta-apartamentos-villa-pilar-manizales-octubre-2026/) | 30 | COP 300.000.000 | [10.5281/zenodo.23577819](https://doi.org/10.5281/zenodo.23577819) |
-| [Precio de venta de casas en La Camelia, Manizales — octubre 2026](venta-casas-la-camelia-manizales-octubre-2026/) | 32 | COP 1.475.000.000 |  |
-| [Precio de venta de casas en La Sultana, Manizales — octubre 2026](venta-casas-la-sultana-manizales-octubre-2026/) | 48 | COP 485.000.000 |  |
-| [Precio de venta de casas en San Marcel, Manizales — octubre 2026](venta-casas-san-marcel-manizales-octubre-2026/) | 52 | COP 780.000.000 |  |
+| [Precio de venta de casas en La Camelia, Manizales — octubre 2026](venta-casas-la-camelia-manizales-octubre-2026/) | 32 | COP 1.475.000.000 | [10.5281/zenodo.23581616](https://doi.org/10.5281/zenodo.23581616) |
+| [Precio de venta de casas en La Sultana, Manizales — octubre 2026](venta-casas-la-sultana-manizales-octubre-2026/) | 48 | COP 485.000.000 | [10.5281/zenodo.23581629](https://doi.org/10.5281/zenodo.23581629) |
+| [Precio de venta de casas en San Marcel, Manizales — octubre 2026](venta-casas-san-marcel-manizales-octubre-2026/) | 52 | COP 780.000.000 | [10.5281/zenodo.23581637](https://doi.org/10.5281/zenodo.23581637) |

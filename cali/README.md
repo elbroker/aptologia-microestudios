@@ -229,16 +229,16 @@
 | [Precio de venta de apartamentos en Metropolitano del Norte, Cali — octubre 2026](venta-apartamentos-metropolitano-del-norte-cali-octubre-2026/) | 30 | COP 190.000.000 | [10.5281/zenodo.23578018](https://doi.org/10.5281/zenodo.23578018) |
 | [Precio de venta de apartamentos de 1 habitación en Urbanizacion la Flora, Cali — octubre 2026](venta-apartamentos-1-habitaciones-urbanizacion-la-flora-cali-octubre-2026/) | 30 | COP 257.500.000 | [10.5281/zenodo.23577758](https://doi.org/10.5281/zenodo.23577758) |
 | [Precio de venta de casas en Urbanizacion San Joaquín, Cali — octubre 2026](venta-casas-urbanizacion-san-joaquin-cali-octubre-2026/) | 30 | COP 885.000.000 | [10.5281/zenodo.23577565](https://doi.org/10.5281/zenodo.23577565) |
-| [Precio de venta de casas en Ciudad 2000, Cali — octubre 2026](venta-casas-ciudad-2000-cali-octubre-2026/) | 78 | COP 600.000.000 |  |
-| [Precio de venta de casas en Ciudad Jardín, Cali — octubre 2026](venta-casas-ciudad-jardin-cali-octubre-2026/) | 454 | COP 1.750.000.000 |  |
+| [Precio de venta de casas en Ciudad 2000, Cali — octubre 2026](venta-casas-ciudad-2000-cali-octubre-2026/) | 78 | COP 600.000.000 | [10.5281/zenodo.23581161](https://doi.org/10.5281/zenodo.23581161) |
+| [Precio de venta de casas en Ciudad Jardín, Cali — octubre 2026](venta-casas-ciudad-jardin-cali-octubre-2026/) | 454 | COP 1.750.000.000 | [10.5281/zenodo.23581634](https://doi.org/10.5281/zenodo.23581634) |
 | [Precio de venta de casas en El Bosque, Cali — octubre 2026](venta-casas-el-bosque-cali-octubre-2026/) | 38 | COP 750.000.000 | [10.5281/zenodo.23580588](https://doi.org/10.5281/zenodo.23580588) |
-| [Precio de venta de casas en El Lido, Cali — octubre 2026](venta-casas-el-lido-cali-octubre-2026/) | 37 | COP 900.000.000 |  |
-| [Precio de venta de casas en Nueva Tequendama, Cali — octubre 2026](venta-casas-nueva-tequendama-cali-octubre-2026/) | 36 | COP 700.000.000 |  |
-| [Precio de venta de casas en Pance, Cali — octubre 2026](venta-casas-pance-cali-octubre-2026/) | 944 | COP 2.250.000.000 |  |
-| [Precio de venta de casas en Pance Alto, Cali — octubre 2026](venta-casas-pance-alto-cali-octubre-2026/) | 49 | COP 1.900.000.000 |  |
-| [Precio de venta de casas en Prados del Norte, Cali — octubre 2026](venta-casas-prados-del-norte-cali-octubre-2026/) | 100 | COP 710.000.000 |  |
-| [Precio de venta de casas en San Fernando, Cali — octubre 2026](venta-casas-san-fernando-cali-octubre-2026/) | 33 | COP 850.000.000 |  |
-| [Precio de venta de casas en San Fernando Viejo, Cali — octubre 2026](venta-casas-san-fernando-viejo-cali-octubre-2026/) | 43 | COP 900.000.000 |  |
-| [Precio de venta de casas en San Vicente, Cali — octubre 2026](venta-casas-san-vicente-cali-octubre-2026/) | 76 | COP 880.000.000 |  |
-| [Precio de venta de casas en Tequendama, Cali — octubre 2026](venta-casas-tequendama-cali-octubre-2026/) | 75 | COP 1.100.000.000 |  |
-| [Precio de venta de casas en Vipasa, Cali — octubre 2026](venta-casas-vipasa-cali-octubre-2026/) | 61 | COP 653.000.000 |  |
+| [Precio de venta de casas en El Lido, Cali — octubre 2026](venta-casas-el-lido-cali-octubre-2026/) | 37 | COP 900.000.000 | [10.5281/zenodo.23581159](https://doi.org/10.5281/zenodo.23581159) |
+| [Precio de venta de casas en Nueva Tequendama, Cali — octubre 2026](venta-casas-nueva-tequendama-cali-octubre-2026/) | 36 | COP 700.000.000 | [10.5281/zenodo.23581237](https://doi.org/10.5281/zenodo.23581237) |
+| [Precio de venta de casas en Pance, Cali — octubre 2026](venta-casas-pance-cali-octubre-2026/) | 944 | COP 2.250.000.000 | [10.5281/zenodo.23581252](https://doi.org/10.5281/zenodo.23581252) |
+| [Precio de venta de casas en Pance Alto, Cali — octubre 2026](venta-casas-pance-alto-cali-octubre-2026/) | 49 | COP 1.900.000.000 | [10.5281/zenodo.23581269](https://doi.org/10.5281/zenodo.23581269) |
+| [Precio de venta de casas en Prados del Norte, Cali — octubre 2026](venta-casas-prados-del-norte-cali-octubre-2026/) | 100 | COP 710.000.000 | [10.5281/zenodo.23581284](https://doi.org/10.5281/zenodo.23581284) |
+| [Precio de venta de casas en San Fernando, Cali — octubre 2026](venta-casas-san-fernando-cali-octubre-2026/) | 33 | COP 850.000.000 | [10.5281/zenodo.23581657](https://doi.org/10.5281/zenodo.23581657) |
+| [Precio de venta de casas en San Fernando Viejo, Cali — octubre 2026](venta-casas-san-fernando-viejo-cali-octubre-2026/) | 43 | COP 900.000.000 | [10.5281/zenodo.23581239](https://doi.org/10.5281/zenodo.23581239) |
+| [Precio de venta de casas en San Vicente, Cali — octubre 2026](venta-casas-san-vicente-cali-octubre-2026/) | 76 | COP 880.000.000 | [10.5281/zenodo.23581303](https://doi.org/10.5281/zenodo.23581303) |
+| [Precio de venta de casas en Tequendama, Cali — octubre 2026](venta-casas-tequendama-cali-octubre-2026/) | 75 | COP 1.100.000.000 | [10.5281/zenodo.23581248](https://doi.org/10.5281/zenodo.23581248) |
+| [Precio de venta de casas en Vipasa, Cali — octubre 2026](venta-casas-vipasa-cali-octubre-2026/) | 61 | COP 653.000.000 | [10.5281/zenodo.23581271](https://doi.org/10.5281/zenodo.23581271) |

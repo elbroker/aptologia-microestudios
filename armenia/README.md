@@ -65,4 +65,4 @@
 | [Precio de venta de apartamentos en Avenida 19, Armenia — octubre 2026](venta-apartamentos-avenida-19-armenia-octubre-2026/) | 30 | COP 375.000.000 | [10.5281/zenodo.23577537](https://doi.org/10.5281/zenodo.23577537) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Los Profesionales, Armenia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-los-profesionales-armenia-octubre-2026/) | 30 | COP 457.500.000 | [10.5281/zenodo.23576863](https://doi.org/10.5281/zenodo.23576863) |
 | [Precio de venta de apartamentos de 3 o más habitaciones en Villa Liliana, Armenia — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-villa-liliana-armenia-octubre-2026/) | 30 | COP 185.000.000 | [10.5281/zenodo.23577637](https://doi.org/10.5281/zenodo.23577637) |
-| [Precio de venta de casas en El Caimo, Armenia — octubre 2026](venta-casas-el-caimo-armenia-octubre-2026/) | 115 | COP 1.400.000.000 |  |
+| [Precio de venta de casas en El Caimo, Armenia — octubre 2026](venta-casas-el-caimo-armenia-octubre-2026/) | 115 | COP 1.400.000.000 | [10.5281/zenodo.23581547](https://doi.org/10.5281/zenodo.23581547) |

@@ -17,4 +17,4 @@
 | Microestudio | n | Mediana | DOI |
 |---|---|---|---|
 | [Precio de venta de casas en Rozo, Palmira — octubre 2026](venta-casas-rozo-palmira-octubre-2026/) | 58 | COP 1.225.000.000 | [10.5281/zenodo.23565601](https://doi.org/10.5281/zenodo.23565601) |
-| [Precio de venta de casas en Las Mercedes, Palmira — octubre 2026](venta-casas-las-mercedes-palmira-octubre-2026/) | 31 | COP 800.000.000 |  |
+| [Precio de venta de casas en Las Mercedes, Palmira — octubre 2026](venta-casas-las-mercedes-palmira-octubre-2026/) | 31 | COP 800.000.000 | [10.5281/zenodo.23581663](https://doi.org/10.5281/zenodo.23581663) |

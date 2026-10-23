@@ -53,12 +53,12 @@
 | [Precio de venta de casas en Samaria, Chía — octubre 2026](venta-casas-samaria-chia-octubre-2026/) | 31 | COP 1.150.000.000 | [10.5281/zenodo.23577518](https://doi.org/10.5281/zenodo.23577518) |
 | [Precio de venta de apartamentos en Br Santa Rita, Chía — octubre 2026](venta-apartamentos-br-santa-rita-chia-octubre-2026/) | 30 | COP 325.000.000 | [10.5281/zenodo.23577798](https://doi.org/10.5281/zenodo.23577798) |
 | [Precio de arriendo de casas en Hacienda Fontanar, Chía — octubre 2026](arriendo-casas-hacienda-fontanar-chia-octubre-2026/) | 46 | COP 10.500.000 | [10.5281/zenodo.23580602](https://doi.org/10.5281/zenodo.23580602) |
-| [Precio de venta de casas en Bojacá, Chía — octubre 2026](venta-casas-bojaca-chia-octubre-2026/) | 114 | COP 960.000.000 |  |
+| [Precio de venta de casas en Bojacá, Chía — octubre 2026](venta-casas-bojaca-chia-octubre-2026/) | 114 | COP 960.000.000 | [10.5281/zenodo.23581342](https://doi.org/10.5281/zenodo.23581342) |
 | [Precio de venta de casas en Centro Historico, Chía — octubre 2026](venta-casas-centro-historico-chia-octubre-2026/) | 58 | COP 999.000.000 | [10.5281/zenodo.23580613](https://doi.org/10.5281/zenodo.23580613) |
-| [Precio de venta de casas en Guaymaral, Chía — octubre 2026](venta-casas-guaymaral-chia-octubre-2026/) | 99 | COP 2.500.000.000 |  |
-| [Precio de venta de casas en La Balsa, Chía — octubre 2026](venta-casas-la-balsa-chia-octubre-2026/) | 97 | COP 1.250.000.000 |  |
-| [Precio de venta de casas en La Estrella, Chía — octubre 2026](venta-casas-la-estrella-chia-octubre-2026/) | 82 | COP 885.000.000 |  |
-| [Precio de venta de casas en Laura Vicuña, Chía — octubre 2026](venta-casas-laura-vicuna-chia-octubre-2026/) | 62 | COP 840.000.000 |  |
-| [Precio de venta de casas en Santa Lucía, Chía — octubre 2026](venta-casas-santa-lucia-chia-octubre-2026/) | 42 | COP 750.000.000 |  |
-| [Precio de venta de casas en Vereda Bojacá, Chía — octubre 2026](venta-casas-vereda-bojaca-chia-octubre-2026/) | 55 | COP 1.150.000.000 |  |
+| [Precio de venta de casas en Guaymaral, Chía — octubre 2026](venta-casas-guaymaral-chia-octubre-2026/) | 99 | COP 2.500.000.000 | [10.5281/zenodo.23581364](https://doi.org/10.5281/zenodo.23581364) |
+| [Precio de venta de casas en La Balsa, Chía — octubre 2026](venta-casas-la-balsa-chia-octubre-2026/) | 97 | COP 1.250.000.000 | [10.5281/zenodo.23581286](https://doi.org/10.5281/zenodo.23581286) |
+| [Precio de venta de casas en La Estrella, Chía — octubre 2026](venta-casas-la-estrella-chia-octubre-2026/) | 82 | COP 885.000.000 | [10.5281/zenodo.23581305](https://doi.org/10.5281/zenodo.23581305) |
+| [Precio de venta de casas en Laura Vicuña, Chía — octubre 2026](venta-casas-laura-vicuna-chia-octubre-2026/) | 62 | COP 840.000.000 | [10.5281/zenodo.23581474](https://doi.org/10.5281/zenodo.23581474) |
+| [Precio de venta de casas en Santa Lucía, Chía — octubre 2026](venta-casas-santa-lucia-chia-octubre-2026/) | 42 | COP 750.000.000 | [10.5281/zenodo.23581318](https://doi.org/10.5281/zenodo.23581318) |
+| [Precio de venta de casas en Vereda Bojacá, Chía — octubre 2026](venta-casas-vereda-bojaca-chia-octubre-2026/) | 55 | COP 1.150.000.000 | [10.5281/zenodo.23581665](https://doi.org/10.5281/zenodo.23581665) |
 | [Precio de venta de casas en Vereda la Balsa, Chía — octubre 2026](venta-casas-vereda-la-balsa-chia-octubre-2026/) | 210 | COP 1.110.000.000 | [10.5281/zenodo.23580631](https://doi.org/10.5281/zenodo.23580631) |

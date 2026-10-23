@@ -45,12 +45,12 @@
 | [Precio de venta de casas en Vereda Canelón, Cajicá — octubre 2026](venta-casas-vereda-canelon-cajica-octubre-2026/) | 32 | COP 1.212.500.000 | [10.5281/zenodo.23576659](https://doi.org/10.5281/zenodo.23576659) |
 | [Precio de venta de apartamentos en Vda Canelon, Cajicá — octubre 2026](venta-apartamentos-vda-canelon-cajica-octubre-2026/) | 32 | COP 455.000.000 | [10.5281/zenodo.23576237](https://doi.org/10.5281/zenodo.23576237) |
 | [Precio de venta de casas en El Misterio, Cajicá — octubre 2026](venta-casas-el-misterio-cajica-octubre-2026/) | 30 | COP 1.140.000.000 | [10.5281/zenodo.23577756](https://doi.org/10.5281/zenodo.23577756) |
-| [Precio de arriendo de casas en Calahorra, Cajicá — octubre 2026](arriendo-casas-calahorra-cajica-octubre-2026/) | 41 | COP 7.500.000 |  |
-| [Precio de arriendo de casas en Canelón, Cajicá — octubre 2026](arriendo-casas-canelon-cajica-octubre-2026/) | 56 | COP 6.925.000 |  |
+| [Precio de arriendo de casas en Calahorra, Cajicá — octubre 2026](arriendo-casas-calahorra-cajica-octubre-2026/) | 41 | COP 7.500.000 | [10.5281/zenodo.23581135](https://doi.org/10.5281/zenodo.23581135) |
+| [Precio de arriendo de casas en Canelón, Cajicá — octubre 2026](arriendo-casas-canelon-cajica-octubre-2026/) | 56 | COP 6.925.000 | [10.5281/zenodo.23581601](https://doi.org/10.5281/zenodo.23581601) |
 | [Precio de arriendo de casas en Chuntame, Cajicá — octubre 2026](arriendo-casas-chuntame-cajica-octubre-2026/) | 68 | COP 6.500.000 | [10.5281/zenodo.23580518](https://doi.org/10.5281/zenodo.23580518) |
-| [Precio de venta de casas en Calahorra, Cajicá — octubre 2026](venta-casas-calahorra-cajica-octubre-2026/) | 154 | COP 1.470.000.000 |  |
+| [Precio de venta de casas en Calahorra, Cajicá — octubre 2026](venta-casas-calahorra-cajica-octubre-2026/) | 154 | COP 1.470.000.000 | [10.5281/zenodo.23581610](https://doi.org/10.5281/zenodo.23581610) |
 | [Precio de venta de casas en Canelón, Cajicá — octubre 2026](venta-casas-canelon-cajica-octubre-2026/) | 217 | COP 1.300.000.000 | [10.5281/zenodo.23580536](https://doi.org/10.5281/zenodo.23580536) |
 | [Precio de venta de casas en Chuntame, Cajicá — octubre 2026](venta-casas-chuntame-cajica-octubre-2026/) | 283 | COP 1.300.000.000 | [10.5281/zenodo.23580558](https://doi.org/10.5281/zenodo.23580558) |
 | [Precio de venta de casas en Río Grande, Cajicá — octubre 2026](venta-casas-rio-grande-cajica-octubre-2026/) | 41 | COP 1.180.000.000 | [10.5281/zenodo.23580577](https://doi.org/10.5281/zenodo.23580577) |
-| [Precio de venta de casas en Sausalito, Cajicá — octubre 2026](venta-casas-sausalito-cajica-octubre-2026/) | 33 | COP 2.200.000.000 |  |
-| [Precio de venta de casas en Vda Canelon, Cajicá — octubre 2026](venta-casas-vda-canelon-cajica-octubre-2026/) | 70 | COP 1.150.000.000 |  |
+| [Precio de venta de casas en Sausalito, Cajicá — octubre 2026](venta-casas-sausalito-cajica-octubre-2026/) | 33 | COP 2.200.000.000 | [10.5281/zenodo.23581148](https://doi.org/10.5281/zenodo.23581148) |
+| [Precio de venta de casas en Vda Canelon, Cajicá — octubre 2026](venta-casas-vda-canelon-cajica-octubre-2026/) | 70 | COP 1.150.000.000 | [10.5281/zenodo.23581630](https://doi.org/10.5281/zenodo.23581630) |

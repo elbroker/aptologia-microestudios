@@ -40,8 +40,8 @@
 | [Precio de arriendo de casas de 3 o más habitaciones en Santa Elena, El Retiro — octubre 2026](arriendo-casas-3-o-mas-habitaciones-santa-elena-el-retiro-octubre-2026/) | 43 | COP 8.000.000 | [10.5281/zenodo.23572194](https://doi.org/10.5281/zenodo.23572194) |
 | [Precio de venta de apartamentos de 2 habitaciones en El Carmen, El Retiro — octubre 2026](venta-apartamentos-2-habitaciones-el-carmen-el-retiro-octubre-2026/) | 34 | COP 689.500.000 | [10.5281/zenodo.23575796](https://doi.org/10.5281/zenodo.23575796) |
 | [Precio de venta de apartamentos de 2 habitaciones en Pantanillo, El Retiro — octubre 2026](venta-apartamentos-2-habitaciones-pantanillo-el-retiro-octubre-2026/) | 35 | COP 646.000.000 | [10.5281/zenodo.23575164](https://doi.org/10.5281/zenodo.23575164) |
-| [Precio de arriendo de casas en Don Diego, El Retiro — octubre 2026](arriendo-casas-don-diego-el-retiro-octubre-2026/) | 33 | COP 15.500.000 |  |
-| [Precio de arriendo de casas en Pantanillo, El Retiro — octubre 2026](arriendo-casas-pantanillo-el-retiro-octubre-2026/) | 87 | COP 14.000.000 |  |
-| [Precio de venta de casas en Don Diego, El Retiro — octubre 2026](venta-casas-don-diego-el-retiro-octubre-2026/) | 49 | COP 2.750.000.000 |  |
-| [Precio de venta de casas en El Carmen, El Retiro — octubre 2026](venta-casas-el-carmen-el-retiro-octubre-2026/) | 49 | COP 2.180.000.000 |  |
-| [Precio de venta de casas en Pantanillo, El Retiro — octubre 2026](venta-casas-pantanillo-el-retiro-octubre-2026/) | 258 | COP 2.800.000.000 |  |
+| [Precio de arriendo de casas en Don Diego, El Retiro — octubre 2026](arriendo-casas-don-diego-el-retiro-octubre-2026/) | 33 | COP 15.500.000 | [10.5281/zenodo.23581457](https://doi.org/10.5281/zenodo.23581457) |
+| [Precio de arriendo de casas en Pantanillo, El Retiro — octubre 2026](arriendo-casas-pantanillo-el-retiro-octubre-2026/) | 87 | COP 14.000.000 | [10.5281/zenodo.23581519](https://doi.org/10.5281/zenodo.23581519) |
+| [Precio de venta de casas en Don Diego, El Retiro — octubre 2026](venta-casas-don-diego-el-retiro-octubre-2026/) | 49 | COP 2.750.000.000 | [10.5281/zenodo.23581531](https://doi.org/10.5281/zenodo.23581531) |
+| [Precio de venta de casas en El Carmen, El Retiro — octubre 2026](venta-casas-el-carmen-el-retiro-octubre-2026/) | 49 | COP 2.180.000.000 | [10.5281/zenodo.23581689](https://doi.org/10.5281/zenodo.23581689) |
+| [Precio de venta de casas en Pantanillo, El Retiro — octubre 2026](venta-casas-pantanillo-el-retiro-octubre-2026/) | 258 | COP 2.800.000.000 | [10.5281/zenodo.23581470](https://doi.org/10.5281/zenodo.23581470) |

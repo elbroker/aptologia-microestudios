@@ -66,5 +66,5 @@
 | [Precio de venta de apartamentos en Granjas de Provenza, Bucaramanga — octubre 2026](venta-apartamentos-granjas-de-provenza-bucaramanga-octubre-2026/) | 30 | COP 335.000.000 | [10.5281/zenodo.23577094](https://doi.org/10.5281/zenodo.23577094) |
 | [Precio de arriendo de apartamentos en San Francisco, Bucaramanga — octubre 2026](arriendo-apartamentos-san-francisco-bucaramanga-octubre-2026/) | 30 | COP 1.550.000 | [10.5281/zenodo.23577658](https://doi.org/10.5281/zenodo.23577658) |
 | [Precio de venta de apartamentos de 2 habitaciones en Sotomayor, Bucaramanga — octubre 2026](venta-apartamentos-2-habitaciones-sotomayor-bucaramanga-octubre-2026/) | 30 | COP 505.000.000 | [10.5281/zenodo.23577675](https://doi.org/10.5281/zenodo.23577675) |
-| [Precio de venta de casas en Lagos del Cacique, Bucaramanga — octubre 2026](venta-casas-lagos-del-cacique-bucaramanga-octubre-2026/) | 176 | COP 1.500.000.000 |  |
-| [Precio de venta de casas en Provenza, Bucaramanga — octubre 2026](venta-casas-provenza-bucaramanga-octubre-2026/) | 69 | COP 680.000.000 |  |
+| [Precio de venta de casas en Lagos del Cacique, Bucaramanga — octubre 2026](venta-casas-lagos-del-cacique-bucaramanga-octubre-2026/) | 176 | COP 1.500.000.000 | [10.5281/zenodo.23581451](https://doi.org/10.5281/zenodo.23581451) |
+| [Precio de venta de casas en Provenza, Bucaramanga — octubre 2026](venta-casas-provenza-bucaramanga-octubre-2026/) | 69 | COP 680.000.000 | [10.5281/zenodo.23581146](https://doi.org/10.5281/zenodo.23581146) |

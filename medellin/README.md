@@ -525,15 +525,15 @@
 | [Precio de venta de apartamentos de 2 habitaciones en San Diego, Medellín — octubre 2026](venta-apartamentos-2-habitaciones-san-diego-medellin-octubre-2026/) | 30 | COP 400.000.000 | [10.5281/zenodo.23577905](https://doi.org/10.5281/zenodo.23577905) |
 | [Precio de arriendo de apartamentos en Transversal Inferior, Medellín — octubre 2026](arriendo-apartamentos-transversal-inferior-medellin-octubre-2026/) | 30 | COP 7.100.000 | [10.5281/zenodo.23577953](https://doi.org/10.5281/zenodo.23577953) |
 | [Precio de arriendo de casas en Florida Nueva, Medellín — octubre 2026](arriendo-casas-florida-nueva-medellin-octubre-2026/) | 35 | COP 5.000.000 | [10.5281/zenodo.23580700](https://doi.org/10.5281/zenodo.23580700) |
-| [Precio de arriendo de casas en Manila, Medellín — octubre 2026](arriendo-casas-manila-medellin-octubre-2026/) | 32 | COP 11.950.000 |  |
-| [Precio de venta de casas en Alto de las Palmas, Medellín — octubre 2026](venta-casas-alto-de-las-palmas-medellin-octubre-2026/) | 44 | COP 4.500.000.000 |  |
-| [Precio de venta de casas en Aranjuez, Medellín — octubre 2026](venta-casas-aranjuez-medellin-octubre-2026/) | 31 | COP 373.000.000 |  |
-| [Precio de venta de casas en Castilla, Medellín — octubre 2026](venta-casas-castilla-medellin-octubre-2026/) | 30 | COP 330.000.000 |  |
-| [Precio de venta de casas en Cola del Zorro, Medellín — octubre 2026](venta-casas-cola-del-zorro-medellin-octubre-2026/) | 34 | COP 2.150.000.000 |  |
-| [Precio de venta de casas en El Retiro, Medellín — octubre 2026](venta-casas-el-retiro-medellin-octubre-2026/) | 30 | COP 3.390.000.000 |  |
-| [Precio de venta de casas en La Mota, Medellín — octubre 2026](venta-casas-la-mota-medellin-octubre-2026/) | 80 | COP 850.000.000 |  |
-| [Precio de venta de casas en Prado, Medellín — octubre 2026](venta-casas-prado-medellin-octubre-2026/) | 100 | COP 850.000.000 |  |
-| [Precio de venta de casas en Prado Centro, Medellín — octubre 2026](venta-casas-prado-centro-medellin-octubre-2026/) | 48 | COP 750.000.000 |  |
-| [Precio de venta de casas en Santa Mónica, Medellín — octubre 2026](venta-casas-santa-monica-medellin-octubre-2026/) | 58 | COP 810.000.000 |  |
-| [Precio de venta de casas en Vía las Palmas, Medellín — octubre 2026](venta-casas-via-las-palmas-medellin-octubre-2026/) | 32 | COP 4.000.000.000 |  |
-| [Precio de venta de casas en Villa Hermosa, Medellín — octubre 2026](venta-casas-villa-hermosa-medellin-octubre-2026/) | 44 | COP 472.500.000 |  |
+| [Precio de arriendo de casas en Manila, Medellín — octubre 2026](arriendo-casas-manila-medellin-octubre-2026/) | 32 | COP 11.950.000 | [10.5281/zenodo.23581489](https://doi.org/10.5281/zenodo.23581489) |
+| [Precio de venta de casas en Alto de las Palmas, Medellín — octubre 2026](venta-casas-alto-de-las-palmas-medellin-octubre-2026/) | 44 | COP 4.500.000.000 | [10.5281/zenodo.23581560](https://doi.org/10.5281/zenodo.23581560) |
+| [Precio de venta de casas en Aranjuez, Medellín — octubre 2026](venta-casas-aranjuez-medellin-octubre-2026/) | 31 | COP 373.000.000 | [10.5281/zenodo.23581500](https://doi.org/10.5281/zenodo.23581500) |
+| [Precio de venta de casas en Castilla, Medellín — octubre 2026](venta-casas-castilla-medellin-octubre-2026/) | 30 | COP 330.000.000 | [10.5281/zenodo.23581578](https://doi.org/10.5281/zenodo.23581578) |
+| [Precio de venta de casas en Cola del Zorro, Medellín — octubre 2026](venta-casas-cola-del-zorro-medellin-octubre-2026/) | 34 | COP 2.150.000.000 | [10.5281/zenodo.23581515](https://doi.org/10.5281/zenodo.23581515) |
+| [Precio de venta de casas en El Retiro, Medellín — octubre 2026](venta-casas-el-retiro-medellin-octubre-2026/) | 30 | COP 3.390.000.000 | [10.5281/zenodo.23581651](https://doi.org/10.5281/zenodo.23581651) |
+| [Precio de venta de casas en La Mota, Medellín — octubre 2026](venta-casas-la-mota-medellin-octubre-2026/) | 80 | COP 850.000.000 | [10.5281/zenodo.23581801](https://doi.org/10.5281/zenodo.23581801) |
+| [Precio de venta de casas en Prado, Medellín — octubre 2026](venta-casas-prado-medellin-octubre-2026/) | 100 | COP 850.000.000 | [10.5281/zenodo.23581817](https://doi.org/10.5281/zenodo.23581817) |
+| [Precio de venta de casas en Prado Centro, Medellín — octubre 2026](venta-casas-prado-centro-medellin-octubre-2026/) | 48 | COP 750.000.000 | [10.5281/zenodo.23581532](https://doi.org/10.5281/zenodo.23581532) |
+| [Precio de venta de casas en Santa Mónica, Medellín — octubre 2026](venta-casas-santa-monica-medellin-octubre-2026/) | 58 | COP 810.000.000 | [10.5281/zenodo.23581842](https://doi.org/10.5281/zenodo.23581842) |
+| [Precio de venta de casas en Vía las Palmas, Medellín — octubre 2026](venta-casas-via-las-palmas-medellin-octubre-2026/) | 32 | COP 4.000.000.000 | [10.5281/zenodo.23581596](https://doi.org/10.5281/zenodo.23581596) |
+| [Precio de venta de casas en Villa Hermosa, Medellín — octubre 2026](venta-casas-villa-hermosa-medellin-octubre-2026/) | 44 | COP 472.500.000 | [10.5281/zenodo.23581551](https://doi.org/10.5281/zenodo.23581551) |

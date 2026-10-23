@@ -124,9 +124,9 @@
 | [Precio de venta de apartamentos en El Faro, Rionegro — octubre 2026](venta-apartamentos-el-faro-rionegro-octubre-2026/) | 30 | COP 550.000.000 | [10.5281/zenodo.23578041](https://doi.org/10.5281/zenodo.23578041) |
 | [Precio de venta de casas en Guayabito, Rionegro — octubre 2026](venta-casas-guayabito-rionegro-octubre-2026/) | 30 | COP 2.625.000.000 | [10.5281/zenodo.23578071](https://doi.org/10.5281/zenodo.23578071) |
 | [Precio de venta de apartamentos de 2 habitaciones en Llanogrande, Rionegro — octubre 2026](venta-apartamentos-2-habitaciones-llanogrande-rionegro-octubre-2026/) | 30 | COP 1.195.000.000 | [10.5281/zenodo.23578086](https://doi.org/10.5281/zenodo.23578086) |
-| [Precio de arriendo de casas en Gualanday, Rionegro — octubre 2026](arriendo-casas-gualanday-rionegro-octubre-2026/) | 53 | COP 6.800.000 |  |
-| [Precio de arriendo de casas en Llano Grande, Rionegro — octubre 2026](arriendo-casas-llano-grande-rionegro-octubre-2026/) | 296 | COP 15.000.000 |  |
-| [Precio de arriendo de casas en Llanogrande, Rionegro — octubre 2026](arriendo-casas-llanogrande-rionegro-octubre-2026/) | 150 | COP 14.500.000 |  |
-| [Precio de venta de casas en Gualanday, Rionegro — octubre 2026](venta-casas-gualanday-rionegro-octubre-2026/) | 104 | COP 1.280.000.000 |  |
-| [Precio de venta de casas en Llano Grande, Rionegro — octubre 2026](venta-casas-llano-grande-rionegro-octubre-2026/) | 499 | COP 3.500.000.000 |  |
-| [Precio de venta de casas en Llanogrande, Rionegro — octubre 2026](venta-casas-llanogrande-rionegro-octubre-2026/) | 238 | COP 3.595.000.000 |  |
+| [Precio de arriendo de casas en Gualanday, Rionegro — octubre 2026](arriendo-casas-gualanday-rionegro-octubre-2026/) | 53 | COP 6.800.000 | [10.5281/zenodo.23581639](https://doi.org/10.5281/zenodo.23581639) |
+| [Precio de arriendo de casas en Llano Grande, Rionegro — octubre 2026](arriendo-casas-llano-grande-rionegro-octubre-2026/) | 296 | COP 15.000.000 | [10.5281/zenodo.23581631](https://doi.org/10.5281/zenodo.23581631) |
+| [Precio de arriendo de casas en Llanogrande, Rionegro — octubre 2026](arriendo-casas-llanogrande-rionegro-octubre-2026/) | 150 | COP 14.500.000 | [10.5281/zenodo.23525355](https://doi.org/10.5281/zenodo.23525355) |
+| [Precio de venta de casas en Gualanday, Rionegro — octubre 2026](venta-casas-gualanday-rionegro-octubre-2026/) | 104 | COP 1.280.000.000 | [10.5281/zenodo.23581726](https://doi.org/10.5281/zenodo.23581726) |
+| [Precio de venta de casas en Llano Grande, Rionegro — octubre 2026](venta-casas-llano-grande-rionegro-octubre-2026/) | 499 | COP 3.500.000.000 | [10.5281/zenodo.23581914](https://doi.org/10.5281/zenodo.23581914) |
+| [Precio de venta de casas en Llanogrande, Rionegro — octubre 2026](venta-casas-llanogrande-rionegro-octubre-2026/) | 238 | COP 3.595.000.000 | [10.5281/zenodo.23581650](https://doi.org/10.5281/zenodo.23581650) |

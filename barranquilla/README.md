@@ -257,16 +257,16 @@
 | [Precio de arriendo de apartamentos de 2 habitaciones en Río Alto, Barranquilla — octubre 2026](arriendo-apartamentos-2-habitaciones-rio-alto-barranquilla-octubre-2026/) | 30 | COP 3.100.000 | [10.5281/zenodo.23577872](https://doi.org/10.5281/zenodo.23577872) |
 | [Precio de venta de casas en Villa Carolina, Barranquilla — octubre 2026](venta-casas-villa-carolina-barranquilla-octubre-2026/) | 30 | COP 540.000.000 | [10.5281/zenodo.23577893](https://doi.org/10.5281/zenodo.23577893) |
 | [Precio de arriendo de apartamentos de 2 habitaciones en Ciudad Mallorquín, Barranquilla — octubre 2026](arriendo-apartamentos-2-habitaciones-ciudad-mallorquin-barranquilla-octubre-2026/) | 112 | COP 1.700.000 | [10.5281/zenodo.23580481](https://doi.org/10.5281/zenodo.23580481) |
-| [Precio de arriendo de casas en El Prado, Barranquilla — octubre 2026](arriendo-casas-el-prado-barranquilla-octubre-2026/) | 104 | COP 11.500.000 |  |
-| [Precio de venta de casas en El Carmen, Barranquilla — octubre 2026](venta-casas-el-carmen-barranquilla-octubre-2026/) | 31 | COP 600.000.000 |  |
-| [Precio de venta de casas en El Porvenir, Barranquilla — octubre 2026](venta-casas-el-porvenir-barranquilla-octubre-2026/) | 80 | COP 1.200.000.000 |  |
-| [Precio de venta de casas de 3 o más habitaciones en El Prado, Barranquilla — octubre 2026](venta-casas-3-o-mas-habitaciones-el-prado-barranquilla-octubre-2026/) | 154 | COP 1.350.000.000 |  |
-| [Precio de venta de casas en El Recreo, Barranquilla — octubre 2026](venta-casas-el-recreo-barranquilla-octubre-2026/) | 86 | COP 692.500.000 |  |
+| [Precio de arriendo de casas en El Prado, Barranquilla — octubre 2026](arriendo-casas-el-prado-barranquilla-octubre-2026/) | 104 | COP 11.500.000 | [10.5281/zenodo.23581088](https://doi.org/10.5281/zenodo.23581088) |
+| [Precio de venta de casas en El Carmen, Barranquilla — octubre 2026](venta-casas-el-carmen-barranquilla-octubre-2026/) | 31 | COP 600.000.000 | [10.5281/zenodo.23581338](https://doi.org/10.5281/zenodo.23581338) |
+| [Precio de venta de casas en El Porvenir, Barranquilla — octubre 2026](venta-casas-el-porvenir-barranquilla-octubre-2026/) | 80 | COP 1.200.000.000 | [10.5281/zenodo.23581370](https://doi.org/10.5281/zenodo.23581370) |
+| [Precio de venta de casas de 3 o más habitaciones en El Prado, Barranquilla — octubre 2026](venta-casas-3-o-mas-habitaciones-el-prado-barranquilla-octubre-2026/) | 154 | COP 1.350.000.000 | [10.5281/zenodo.23581564](https://doi.org/10.5281/zenodo.23581564) |
+| [Precio de venta de casas en El Recreo, Barranquilla — octubre 2026](venta-casas-el-recreo-barranquilla-octubre-2026/) | 86 | COP 692.500.000 | [10.5281/zenodo.23581055](https://doi.org/10.5281/zenodo.23581055) |
 | [Precio de venta de casas en El Tabor, Barranquilla — octubre 2026](venta-casas-el-tabor-barranquilla-octubre-2026/) | 96 | COP 960.000.000 | [10.5281/zenodo.23580495](https://doi.org/10.5281/zenodo.23580495) |
-| [Precio de venta de casas en La Cumbre, Barranquilla — octubre 2026](venta-casas-la-cumbre-barranquilla-octubre-2026/) | 82 | COP 980.000.000 |  |
-| [Precio de venta de casas en La Victoria, Barranquilla — octubre 2026](venta-casas-la-victoria-barranquilla-octubre-2026/) | 31 | COP 440.000.000 |  |
-| [Precio de venta de apartamentos de 3 o más habitaciones en Miramar, Barranquilla — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-miramar-barranquilla-octubre-2026/) | 295 | COP 370.000.000 |  |
-| [Precio de venta de casas en Olaya, Barranquilla — octubre 2026](venta-casas-olaya-barranquilla-octubre-2026/) | 32 | COP 690.000.000 |  |
-| [Precio de venta de casas en San Isidro, Barranquilla — octubre 2026](venta-casas-san-isidro-barranquilla-octubre-2026/) | 33 | COP 370.000.000 |  |
-| [Precio de venta de casas en Santa Mónica, Barranquilla — octubre 2026](venta-casas-santa-monica-barranquilla-octubre-2026/) | 40 | COP 1.050.000.000 |  |
-| [Precio de venta de casas en Villa Campestre, Barranquilla — octubre 2026](venta-casas-villa-campestre-barranquilla-octubre-2026/) | 210 | COP 1.600.000.000 |  |
+| [Precio de venta de casas en La Cumbre, Barranquilla — octubre 2026](venta-casas-la-cumbre-barranquilla-octubre-2026/) | 82 | COP 980.000.000 | [10.5281/zenodo.23581070](https://doi.org/10.5281/zenodo.23581070) |
+| [Precio de venta de casas en La Victoria, Barranquilla — octubre 2026](venta-casas-la-victoria-barranquilla-octubre-2026/) | 31 | COP 440.000.000 | [10.5281/zenodo.23581116](https://doi.org/10.5281/zenodo.23581116) |
+| [Precio de venta de apartamentos de 3 o más habitaciones en Miramar, Barranquilla — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-miramar-barranquilla-octubre-2026/) | 295 | COP 370.000.000 | [10.5281/zenodo.23581084](https://doi.org/10.5281/zenodo.23581084) |
+| [Precio de venta de casas en Olaya, Barranquilla — octubre 2026](venta-casas-olaya-barranquilla-octubre-2026/) | 32 | COP 690.000.000 | [10.5281/zenodo.23581113](https://doi.org/10.5281/zenodo.23581113) |
+| [Precio de venta de casas en San Isidro, Barranquilla — octubre 2026](venta-casas-san-isidro-barranquilla-octubre-2026/) | 33 | COP 370.000.000 | [10.5281/zenodo.23581136](https://doi.org/10.5281/zenodo.23581136) |
+| [Precio de venta de casas en Santa Mónica, Barranquilla — octubre 2026](venta-casas-santa-monica-barranquilla-octubre-2026/) | 40 | COP 1.050.000.000 | [10.5281/zenodo.23581430](https://doi.org/10.5281/zenodo.23581430) |
+| [Precio de venta de casas en Villa Campestre, Barranquilla — octubre 2026](venta-casas-villa-campestre-barranquilla-octubre-2026/) | 210 | COP 1.600.000.000 | [10.5281/zenodo.23581579](https://doi.org/10.5281/zenodo.23581579) |

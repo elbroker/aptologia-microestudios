@@ -36,7 +36,7 @@
 | [Precio de venta de apartamentos en La Playa, Cúcuta — octubre 2026](venta-apartamentos-la-playa-cucuta-octubre-2026/) | 34 | COP 320.000.000 | [10.5281/zenodo.23576486](https://doi.org/10.5281/zenodo.23576486) |
 | [Precio de venta de apartamentos en Colsag, Cúcuta — octubre 2026](venta-apartamentos-colsag-cucuta-octubre-2026/) | 33 | COP 370.000.000 | [10.5281/zenodo.23575998](https://doi.org/10.5281/zenodo.23575998) |
 | [Precio de arriendo de apartamentos en La Riviera, Cúcuta — octubre 2026](arriendo-apartamentos-la-riviera-cucuta-octubre-2026/) | 33 | COP 2.200.000 | [10.5281/zenodo.23576009](https://doi.org/10.5281/zenodo.23576009) |
-| [Precio de venta de casas en Lleras Restrepo, Cúcuta — octubre 2026](venta-casas-lleras-restrepo-cucuta-octubre-2026/) | 33 | COP 600.000.000 |  |
-| [Precio de venta de casas en Niza, Cúcuta — octubre 2026](venta-casas-niza-cucuta-octubre-2026/) | 36 | COP 450.000.000 |  |
-| [Precio de venta de casas en Quinta Bosch, Cúcuta — octubre 2026](venta-casas-quinta-bosch-cucuta-octubre-2026/) | 31 | COP 670.000.000 |  |
-| [Precio de venta de casas en San Luis, Cúcuta — octubre 2026](venta-casas-san-luis-cucuta-octubre-2026/) | 37 | COP 450.000.000 |  |
+| [Precio de venta de casas en Lleras Restrepo, Cúcuta — octubre 2026](venta-casas-lleras-restrepo-cucuta-octubre-2026/) | 33 | COP 600.000.000 | [10.5281/zenodo.23581675](https://doi.org/10.5281/zenodo.23581675) |
+| [Precio de venta de casas en Niza, Cúcuta — octubre 2026](venta-casas-niza-cucuta-octubre-2026/) | 36 | COP 450.000.000 | [10.5281/zenodo.23581426](https://doi.org/10.5281/zenodo.23581426) |
+| [Precio de venta de casas en Quinta Bosch, Cúcuta — octubre 2026](venta-casas-quinta-bosch-cucuta-octubre-2026/) | 31 | COP 670.000.000 | [10.5281/zenodo.23581484](https://doi.org/10.5281/zenodo.23581484) |
+| [Precio de venta de casas en San Luis, Cúcuta — octubre 2026](venta-casas-san-luis-cucuta-octubre-2026/) | 37 | COP 450.000.000 | [10.5281/zenodo.23581497](https://doi.org/10.5281/zenodo.23581497) |

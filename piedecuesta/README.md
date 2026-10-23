@@ -20,4 +20,4 @@
 | [Precio de venta de apartamentos de 3 o más habitaciones en Barroblanco, Piedecuesta — octubre 2026](venta-apartamentos-3-o-mas-habitaciones-barroblanco-piedecuesta-octubre-2026/) | 41 | COP 180.000.000 | [10.5281/zenodo.23574099](https://doi.org/10.5281/zenodo.23574099) |
 | [Precio de venta de casas en Ruitoque, Piedecuesta — octubre 2026](venta-casas-ruitoque-piedecuesta-octubre-2026/) | 36 | COP 1.650.000.000 | [10.5281/zenodo.23575894](https://doi.org/10.5281/zenodo.23575894) |
 | [Precio de venta de casas en Mesa de los Santos, Piedecuesta — octubre 2026](venta-casas-mesa-de-los-santos-piedecuesta-octubre-2026/) | 32 | COP 885.000.000 | [10.5281/zenodo.23577268](https://doi.org/10.5281/zenodo.23577268) |
-| [Precio de venta de casas en Campo Verde, Piedecuesta — octubre 2026](venta-casas-campo-verde-piedecuesta-octubre-2026/) | 35 | COP 1.100.000.000 |  |
+| [Precio de venta de casas en Campo Verde, Piedecuesta — octubre 2026](venta-casas-campo-verde-piedecuesta-octubre-2026/) | 35 | COP 1.100.000.000 | [10.5281/zenodo.23581617](https://doi.org/10.5281/zenodo.23581617) |
